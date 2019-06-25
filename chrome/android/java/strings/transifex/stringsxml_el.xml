@@ -1,6 +1,6 @@
 <resources>
 
-    <string name="brave_settings_title">Ρυθμίσεις ασπίδων [προστασίας] ιστοτόπου Brave για</string>
+    <string name="brave_settings_title">Ρυθμίσεις ασπίδων [προστασίας] ιστοτόπου Dissenter για</string>
     <string name="brave_shields_down">Κάτω-</string>
     <string name="brave_shields_up">Πάνω</string>
     <string name="brave_shields_ads_trackers">Ta Πρόσθετα [ads] και oi Ιχνηλάτες [trackers] έχουν Μπλοκαριστεί</string>
@@ -9,7 +9,7 @@
     <string name="brave_shields_ads_tracking_switch">Μπλοκάρισμα Προσθέτων [ads] και Ιχνηλασιμότητα [tracking]</string>
     <string name="brave_shields_https_everywhere_switch">HTTPS Παντού</string>
     <string name="brave_shields_blocks_scripts_switch">Μπλοκάρισμα Σκριπτ [scripts]</string>
-    <string name="accessibility_toolbar_btn_brave_shields">Ενεργοποίηση/Απενεργοποίηση Ασπίδων [προστασίας] Brave</string>
+    <string name="accessibility_toolbar_btn_brave_shields">Ενεργοποίηση/Απενεργοποίηση Ασπίδων [προστασίας] Dissenter</string>
     <string name="brave_shields_block_3rd_party_cookies_switch">Αποκλεισμός στα cookies τρίτων</string>
 
     <string name="httpse_summary">Ανοίγει υποστηριζόμενες ιστοσελίδες που χρησιμοποιούν HTTPS αντί για HTTP όταν είναι δυνατόν</string>
@@ -30,7 +30,7 @@
 
     <string name="menu_exit">Εξοδος</string>
 
-    <string name="brave_sync">Συγχρονισμός Brave (έκδοση beta)</string>
+    <string name="brave_sync">Συγχρονισμός Dissenter (έκδοση beta)</string>
     <string name="sync_settings_add_device_name_title">Προσθήκη ονόματος συσκευής</string>
     <string name="sync_settings_add_device_name_label">Εισαγάγετε ένα προαιρετικό όνομα για αυτή τη συσκευή</string>
     <string name="sync_example_device_name">Συσκευή Android</string>
@@ -67,14 +67,14 @@ HTTPS</string>
     <string name="website_settings_category_play_video_in_background_enabled_summary">Ενεργοποιημένο</string>
     <string name="website_settings_category_play_video_in_background_disabled_summary">Απενεργοποιημένο</string>
     <string name="website_settings_category_play_video_in_background_enabled">Πειραματικό. Σας επιτρέπει να παίζετε ήχο από βίντεο στο παρασκήνιο όταν η καρτέλα δεν είναι ενεργή ή η οθόνη της συσκευής είναι κλειστή. Δοκιμάστε τη μετάβαση σε λειτουργία σταθερού υπολογιστή αν αυτό το χαρακτηριστικό δε λειτουργεί.</string>
-    <string name="settings_require_relaunch_notice">Οι αλλαγές σας θα εφαρμοστούν την επόμενη φορά που θα κάνετε επανεκκίνηση στο Brave</string>
+    <string name="settings_require_relaunch_notice">Οι αλλαγές σας θα εφαρμοστούν την επόμενη φορά που θα κάνετε επανεκκίνηση στο Dissenter</string>
     <string name="settings_require_relaunch_now">ΕΠΑΝΕΚΚΙΝΗΣΗ ΤΩΡΑ</string>
     <string name="settings_require_relaunch_later">ΑΡΓΟΤΕΡΑ</string>
 
-    <string name="play_yt_video_in_browser_title">Αναπαραγωγή βίντεο στο Brave</string>
+    <string name="play_yt_video_in_browser_title">Αναπαραγωγή βίντεο στο Dissenter</string>
     <string name="website_settings_category_play_yt_video_in_browser_enabled_summary">Ενεργοποιημένο</string>
     <string name="website_settings_category_play_yt_video_in_browser_disabled_summary">Απενεργοποιημένο</string>
-    <string name="website_settings_category_play_yt_video_in_browser_enabled">Αν ενεργοποιηθεί, τα βίντεο θα αναπαράγονται στο Brave, αντί για την αντίστοιχη εφαρμογή</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled">Αν ενεργοποιηθεί, τα βίντεο θα αναπαράγονται στο Dissenter, αντί για την αντίστοιχη εφαρμογή</string>
 
     <string name="close_tabs_on_exit_title">Κλείσιμο καρτελών κατά την έξοδο</string>
     <string name="close_tabs_on_exit_summary">Να μην διατηρούνται καρτέλες μεταξύ συνεδριών περιήγησης</string>
@@ -83,7 +83,7 @@ HTTPS</string>
     <string name="open_pages_in_custom_tabs_summary">Προσφερθείτε να ανοίγετε καρτέλες στις Προσαρμοσμένες Καρτέλες</string>
 
     <string name="ddg_offer_title">Ιδιωτική αναζήτηση με το DuckDuckGo;</string>
-    <string name="ddg_offer_text">Με την ιδιωτική αναζήτηση, το Brave θα χρησιμοποιήσει το DuckDuckGo για να απαντήσει στις αναζητήσεις σας όσο βρίσκεστε σ\' αυτήν την ιδιωτική καρτέλα. Το DuckDuckGo είναι μια μηχανή αναζήτησης που δεν παρακολουθεί το ιστορικό αναζήτησής σας, δίνοντάς σας τη δυνατότητα να κάνετε ιδιωτική αναζήτηση.</string>
+    <string name="ddg_offer_text">Με την ιδιωτική αναζήτηση, το Dissenter θα χρησιμοποιήσει το DuckDuckGo για να απαντήσει στις αναζητήσεις σας όσο βρίσκεστε σ\' αυτήν την ιδιωτική καρτέλα. Το DuckDuckGo είναι μια μηχανή αναζήτησης που δεν παρακολουθεί το ιστορικό αναζήτησής σας, δίνοντάς σας τη δυνατότητα να κάνετε ιδιωτική αναζήτηση.</string>
     <string name="ddg_offer_positive">Ναι</string>
     <string name="ddg_offer_negative">Όχι</string>
     <string name="ddg_offer_link">Μάθετε σχετικά με την ιδιωτική αναζήτηση με το DuckDuckGo</string>
@@ -95,25 +95,25 @@ HTTPS</string>
     <string name="brave_new_private_tab">Νέα ιδιωτική καρτέλα</string>
     <string name="brave_new_tab_private_header">Αυτή είναι μια Ιδιωτική Καρτέλα</string>
     <string name="brave_new_tab_private_message">Αν και οι ιστότοποι που επισκέπτεστε σε ιδιωτικές καρτέλες δεν αποθηκεύονται τοπικά, δεν σας κάνουν ανώνυμους ή αόρατους στον ISP σας, στον εργοδότη σας ή στους ιστότοπους που επισκέπτεστε.</string>
-    <string name="update_notification_title">Ενημέρωση Brave</string>
-    <string name="update_notification_text">Η νέα εφαρμογή περιήγησης Brave είναι 22% πιο γρήγορη</string>
+    <string name="update_notification_title">Ενημέρωση Dissenter</string>
+    <string name="update_notification_text">Η νέα εφαρμογή περιήγησης Dissenter είναι 22% πιο γρήγορη</string>
     <string name="prefs_sync">Συγχρονισμός (δοκιμαστική έκδοση)</string>
-    <string name="brave_sync_description_page_1_part_1">Ο συγχρονισμός Brave σας επιτρέπει να συγχρονίσετε τα δεδομένα σελιδοδεικτών ιδιωτικά μεταξύ των περιηγητών Brave σας στις διάφορες συσκευές σας.</string>
+    <string name="brave_sync_description_page_1_part_1">Ο συγχρονισμός Dissenter σας επιτρέπει να συγχρονίσετε τα δεδομένα σελιδοδεικτών ιδιωτικά μεταξύ των περιηγητών Dissenter σας στις διάφορες συσκευές σας.</string>
     <string name="brave_sync_description_page_1_part_2">Σαρώστε τον κωδικό από την αλυσίδα συγχρονισμού που δημιουργήσατε σε άλλη συσκευή. Ή ξεκινήστε μία νέα αλυσίδα συγχρονισμού.</string>
     <string name="brave_sync_scan_chain_code">Σάρωση ή εισαγωγή του κωδικού συγχρονισμού</string>
     <string name="brave_sync_start_new_chain">Έναρξη νέας αλυσίδας συγχρονισμού</string>
-    <string name="brave_sync_qrcode_message_v2">Χρησιμοποιώντας την υπάρχουσα συγχρονισμένη συσκευή, ανοίξτε τις Ρυθμίσεις Brave και κάντε περιήγηση στις Ρυθμίσεις > Συγχρονισμός. Επιλέξτε \"Προσθήκη συσκευής\" και σαρώστε τον κωδικό QR που εμφανίζεται στην οθόνη.</string>
-    <string name="brave_sync_codewords_message">Χρησιμοποιώντας την υπάρχουσα συγχρονισμένη συσκευή, ανοίξτε τις Ρυθμίσεις Brave και κάντε περιήγηση στις Ρυθμίσεις > Συγχρονισμός. Επιλέξτε \"Προσθήκη συσκευής\" και στη συνέχεια \"Εμφάνιση λέξεων κωδικού\".</string>
+    <string name="brave_sync_qrcode_message_v2">Χρησιμοποιώντας την υπάρχουσα συγχρονισμένη συσκευή, ανοίξτε τις Ρυθμίσεις Dissenter και κάντε περιήγηση στις Ρυθμίσεις > Συγχρονισμός. Επιλέξτε \"Προσθήκη συσκευής\" και σαρώστε τον κωδικό QR που εμφανίζεται στην οθόνη.</string>
+    <string name="brave_sync_codewords_message">Χρησιμοποιώντας την υπάρχουσα συγχρονισμένη συσκευή, ανοίξτε τις Ρυθμίσεις Dissenter και κάντε περιήγηση στις Ρυθμίσεις > Συγχρονισμός. Επιλέξτε \"Προσθήκη συσκευής\" και στη συνέχεια \"Εμφάνιση λέξεων κωδικού\".</string>
     <string name="brave_sync_btn_mobile">Προσθήκη κινητής συσκευής </string>
     <string name="brave_sync_btn_laptop">Προσθήκη υπολογιστή</string>
     <string name="brave_sync_scan_sync_code">Σαρώστε αυτόν τον κωδικό συγχρονισμού</string>
-    <string name="brave_sync_add_mobile_device_text_part_1">Χρησιμοποιώντας ένα δεύτερο τηλέφωνο ή tablet, περιηγηθείτε στις Ρυθμίσεις Brave > Συγχρονισμός > Σάρωση.</string>
+    <string name="brave_sync_add_mobile_device_text_part_1">Χρησιμοποιώντας ένα δεύτερο τηλέφωνο ή tablet, περιηγηθείτε στις Ρυθμίσεις Dissenter > Συγχρονισμός > Σάρωση.</string>
     <string name="brave_sync_add_mobile_device_text_part_2">Τραβήξτε φωτογραφία τον κωδικό QR (όπως αναφέρεται παραπάνω) με τη δεύτερη συσκευή σας ή εισαγάγετε τις λέξεις του κωδικού αν δεν είναι διαθέσιμη η φωτογραφική κάμερα.</string>
     <string name="brave_sync_btn_done">Τέλος</string>
     <string name="brave_sync_tabs_text">Καρτέλες</string>
     <string name="brave_sync_history_text">Ιστορικό</string>
     <string name="brave_sync_autofill_passwords_text">Αυτόματη συμπλήρωση/Κωδικοί πρόσβασης</string>
-    <string name="brave_sync_payment_settings_text">Ρυθμίσεις πληρωμών Brave</string>
+    <string name="brave_sync_payment_settings_text">Ρυθμίσεις πληρωμών Dissenter</string>
     <string name="brave_sync_settings_title">ΣΥΓΧΡΟΝΙΣΜΟΣ ΣΕ ΑΥΤΗ ΤΗ ΣΥΣΚΕΥΗ</string>
     <string name="brave_sync_settings_description">Η αλλαγή των ρυθμίσεων θα επηρεάσει μόνο τα δεδομένα που αυτή η συσκευή μοιράζεται με άλλες συσκευές.</string>
     <string name="brave_sync_devices_title">ΑΛΛΕΣ ΣΥΣΚΕΥΕΣ ΣΕ ΑΛΥΣΙΔΑ</string>
@@ -122,7 +122,7 @@ HTTPS</string>
     <string name="brave_sync_remove_device_text">Αφαιρέστε αυτή τη συσκευή</string>
     <string name="brave_sync_code_words_title">Ζεύξη</string>
     <string name="brave_sync_add_laptop_text_title">Εισαγάγετε τον κωδικό αλυσίδας συγχρονισμού</string>
-    <string name="brave_sync_add_laptop_text_part_1">Στον υπολογιστή σας, περιηγηθείτε στις Ρυθμίσεις Brave > Συγχρονισμός. Επιλέξτε \"Εισαγάγετε ΄έναν κωδικό αλυσίδας συγχρονισμού\".</string>
+    <string name="brave_sync_add_laptop_text_part_1">Στον υπολογιστή σας, περιηγηθείτε στις Ρυθμίσεις Dissenter > Συγχρονισμός. Επιλέξτε \"Εισαγάγετε ΄έναν κωδικό αλυσίδας συγχρονισμού\".</string>
     <string name="brave_sync_add_laptop_text_part_2">Εισαγάγετε τις λέξεις του παραπάνω κωδικού, μαζί με τα κενά.</string>
     <string name="brave_sync_delete_device">Είστε σίγουρος/η ότι θέλετε να διαγράψετε τη συσκευή \"<ph name=\"DEVICE_NAME\">%1$s</ph>\";</string>
     <string name="brave_sync_delete_sent">Το αίτημα διαγραφής έχει σταλεί. Η συσκευή θα αφαιρεθεί σύντομα.</string>
@@ -138,13 +138,13 @@ HTTPS</string>
     <string name="brave_sync_copied_text">Αντιγράφηκε στο Πρόχειρο</string>
     <string name="brave_sync_this_device_text">(αυτή η συσκευή)</string>
 
-    <string name="brave_already_set_as_default_browser">Το Brave έχει ήδη οριστεί ως το προεπιλεγμένο πρόγραμμα περιήγησής σας.</string>
+    <string name="brave_already_set_as_default_browser">Το Dissenter έχει ήδη οριστεί ως το προεπιλεγμένο πρόγραμμα περιήγησής σας.</string>
     <string name="brave_default_browser_go_to_settings">Έχετε ήδη ορίσει ένα προεπιλεγμένο πρόγραμμα περιήγησης.
 Μπορείτε να αλλάξετε το προεπιλεγμένο πρόγραμμα περιήγησης στις ρυθμίσεις της εφαρμογής.</string>
-    <string name="brave_default_browser_notification_body">Εξοικονομήστε μπαταρία και φορτώστε τις ιστοσελίδες γρηγορότερα. Ορίστε το Brave ως το προεπιλεγμένο σας πρόγραμμα περιήγησης. Στο μενού του Brave πατήστε το \"Ορισμός ως προεπιλεγμένο πρόγραμμα περιήγησης\"</string>
+    <string name="brave_default_browser_notification_body">Εξοικονομήστε μπαταρία και φορτώστε τις ιστοσελίδες γρηγορότερα. Ορίστε το Dissenter ως το προεπιλεγμένο σας πρόγραμμα περιήγησης. Στο μενού του Dissenter πατήστε το \"Ορισμός ως προεπιλεγμένο πρόγραμμα περιήγησης\"</string>
     <string name="brave_set_default_browser">Ορισμός ως προεπιλεγμένο πρόγραμμα περιήγησης</string>
-    <string name="brave_set_default_browser_dialog_text">Επιλέξτε το Brave στη λίστα και πατήστε \"Πάντα\"</string>
-    <string name="brave_default_browser_existing_notification_body">Κάνετε το Brave το προεπιλεγμένο πρόγραμμα περιήγησης 
+    <string name="brave_set_default_browser_dialog_text">Επιλέξτε το Dissenter στη λίστα και πατήστε \"Πάντα\"</string>
+    <string name="brave_default_browser_existing_notification_body">Κάνετε το Dissenter το προεπιλεγμένο πρόγραμμα περιήγησης 
 Εξοικονομήστε μπαταρία και φορτώστε ιστοσελίδες πιο γρήγορα</string>
 
     <string name="brave_ui_welcome_header_two">Ετοιμαστείτε να ζήσετε
@@ -169,7 +169,7 @@ HTTPS</string>
     <string name="brave_ui_send_tip">αποστολή του φιλοδωρήματός μου</string>
     <string name="brave_ui_do_monthly">καθορισμός μηναίου φιλοδωρήματος</string>
     <string name="brave_ui_not_enough_tokens">ανεπαρκείς μάρκες</string>
-    <string name="brave_ui_site_banner_notice_text">ΣΗΜΕΙΩΣΗ: Αυτός ο δημιουργός δεν έχει εγγραφεί ακόμη για λήψη συμβολών από χρήστες του Brave. Θα συνεχίσουμε να προσπαθούμε να του στείλουμε τις συμβολές μέχρι να επαληθεύσει τον λογαριασμό του ή έως ότου παρέλθουν 90 ημέρες.</string>
+    <string name="brave_ui_site_banner_notice_text">ΣΗΜΕΙΩΣΗ: Αυτός ο δημιουργός δεν έχει εγγραφεί ακόμη για λήψη συμβολών από χρήστες του Dissenter. Θα συνεχίσουμε να προσπαθούμε να του στείλουμε τις συμβολές μέχρι να επαληθεύσει τον λογαριασμό του ή έως ότου παρέλθουν 90 ημέρες.</string>
     <string name="brave_ui_please">σας παρακαλούμε</string>
     <string name="brave_ui_add_funds">προσθήκη κεφαλαίων</string>
     <string name="brave_ui_thank_you">Σας ευχαριστούμε!</string>
@@ -198,9 +198,9 @@ HTTPS</string>
     <string name="brave_ui_rewards_contribute_description">Έχετε συμβάλει <ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph> BAT.</string>
     <string name="brave_ui_one_time_donation">Εφάπαξ φιλοδωρήματα</string>
     <string name="brave_ui_recurring_donation">Μηνιαία φιλοδωρήματα</string>
-    <string name="brave_ui_verified_publisher">Επαληθευμένος εκδότης Brave</string>
+    <string name="brave_ui_verified_publisher">Επαληθευμένος εκδότης Dissenter</string>
     <string name="brave_ui_not_verified_publisher">Δεν έχει επαληθευτεί</string>
-    <string name="brave_ui_not_verified_publisher_description">Αυτός ο δημιουργός δεν έχει εγγραφεί ακόμη για λήψη συμβολών από χρήστες του Brave.
+    <string name="brave_ui_not_verified_publisher_description">Αυτός ο δημιουργός δεν έχει εγγραφεί ακόμη για λήψη συμβολών από χρήστες του Dissenter.
         Τα φιλοδωρήματα που του στέλνετε θα παραμείνουν στο πορτοφόλι σας μέχρι ο δημιουργός να επαληθεύσει τον λογαριασμό του.</string>
     <string name="brave_ui_on_youtube">στο YouTube</string>
     <string name="brave_ui_on_twitch">στο Twitch</string>
@@ -211,14 +211,14 @@ HTTPS</string>
     <string name="brave_ui_notification_desc_tip_error">Παρουσιάστηκε πρόβλημα κατά τη διεκπεραίωση του φιλοδωρήματος, προσπαθήστε πάλι.</string>
     <string name="brave_ui_notification_desc_contr_error">Παρουσιάστηκε πρόβλημα κατά τη διεκπεραίωση της συμβολής σας.</string>
     <string name="brave_rewards_local_uh_oh">Ωχ!</string>
-    <string name="brave_rewards_local_server_not_responding">Ο διακομιστής των Επιβραβεύσεων Brave δεν αποκρίνεται. Θα επιλύσουμε το πρόβλημα το συντομότερο δυνατό.</string>
+    <string name="brave_rewards_local_server_not_responding">Ο διακομιστής των Επιβραβεύσεων Dissenter δεν αποκρίνεται. Θα επιλύσουμε το πρόβλημα το συντομότερο δυνατό.</string>
     <string name="brave_ui_grants">Εκχωρήσεις</string>
     <string name="brave_ui_expires_on">λήγει στις <ph name=\"DATE\">%1$s<ex>14/4/2019</ex></ph></string>
     <string name="brave_ui_insufficient_funds_msg">Ανεπαρκή κεφάλαια</string>
-    <string name="brave_ui_insufficient_funds_desc">Το πορτοφόλι Επιβραβεύσεων Brave σας περιμένει κατάθεση.</string>
+    <string name="brave_ui_insufficient_funds_desc">Το πορτοφόλι Επιβραβεύσεων Dissenter σας περιμένει κατάθεση.</string>
     <string name="brave_ui_backup_wallet_msg">Δημιουργία αντιγράφου ασφαλείας πορτοφολιού</string>
-    <string name="brave_ui_backup_wallet_desc">Δημιουργήστε ένα αντίγραφο ασφαλείας του πορτοφολιού Brave σας.</string>
-    <string name="brave_ui_brave_rewards">Επιβραβεύσεις Brave</string>
+    <string name="brave_ui_backup_wallet_desc">Δημιουργήστε ένα αντίγραφο ασφαλείας του πορτοφολιού Dissenter σας.</string>
+    <string name="brave_ui_brave_rewards">Επιβραβεύσεις Dissenter</string>
     <string name="brave_ui_welcome_back_message">Καλώς ορίσατε και πάλι!</string>
     <string name="brave_ui_get_rewarded">Λάβετε επιβραβεύσεις για την περιήγηση.</string>
     <string name="brave_ui_brave_rewards_desc">Κερδίστε μέσω της προβολής διαφημίσεων
@@ -234,27 +234,27 @@ HTTPS</string>
     <string name="search_or_url">Αναζήτηση ή διεύθυνση URL</string>
     <string name="accessibility_toolbar_btn_bookmark">Δημιουργία σελιδοδείκτη</string>
     <string name="brave_ui_donate_monthly">Ενισχύστε αυτήν την ιστοσελίδα μηνιαία</string>
-    <string name="brave_rewards_intro_title">Το Brave Rewards είναι εδώ</string>
+    <string name="brave_rewards_intro_title">Το Dissenter Rewards είναι εδώ</string>
     <string name="brave_rewards_intro_text">Υποστηρίξτε τις ιστοσελίδες που αγαπάτε.</string>
     <string name="brave_rewards_dismiss">Απόρριψη</string>
     <string name="brave_rewards_get_started">Έναρξη</string>
 
-    <string name="brave_rewards_not_available">Λυπούμαστε, φαίνεται ότι το Brave Rewards δεν είναι διαθέσιμο για τη συσκευή σας</string>
+    <string name="brave_rewards_not_available">Λυπούμαστε, φαίνεται ότι το Dissenter Rewards δεν είναι διαθέσιμο για τη συσκευή σας</string>
 
     <string name="prefs_section_display">Παρουσίαση</string>
     <string name="prefs_appearance">Εμφάνιση</string>
-    <string name="hide_brave_rewards_icon_title">Απόκρυψη του Εικονιδίου Brave Rewards </string>
-    <string name="hide_brave_rewards_icon_description">Αποκρύπτει το Εικονίδιο Brave Rewards όταν το Brave Rewards δεν είναι ενεργοποιημένο</string>
+    <string name="hide_brave_rewards_icon_title">Απόκρυψη του Εικονιδίου Dissenter Rewards </string>
+    <string name="hide_brave_rewards_icon_description">Αποκρύπτει το Εικονίδιο Dissenter Rewards όταν το Dissenter Rewards δεν είναι ενεργοποιημένο</string>
 
     <string name="brave_ui_pre_grant_message">Ελάτε πάλι σύντομα για μια δωρεάν προσφορά token</string>
 
-    <string name="reset_brave_rewards_option">Επαναφορά Brave Rewards</string>
-    <string name="reset_brave_rewards_option_description">Αυτό θα διαγράψει το πορτοφόλι σας Brave και θα επαναφέρει όλα τα δεδομένα σας Brave Rewards</string>
+    <string name="reset_brave_rewards_option">Επαναφορά Dissenter Rewards</string>
+    <string name="reset_brave_rewards_option_description">Αυτό θα διαγράψει το πορτοφόλι σας Dissenter και θα επαναφέρει όλα τα δεδομένα σας Dissenter Rewards</string>
     <string name="reset_brave_rewards_error_title">Σφάλμα Επαναφοράς</string>
-    <string name="reset_brave_rewards_error_description">Παρουσιάστηκε σφάλμα κατά την επαναφορά του Brave Rewards. Παρακαλούμε ανοίξτε ξανά το Brave και δοκιμάστε πάλι  </string>
+    <string name="reset_brave_rewards_error_description">Παρουσιάστηκε σφάλμα κατά την επαναφορά του Dissenter Rewards. Παρακαλούμε ανοίξτε ξανά το Dissenter και δοκιμάστε πάλι  </string>
 
     <string name="brave_sync_add_laptop_text_part_2_new">Εισαγάγετε τις λέξεις του κώδικα αλυσίδας συγχρονισμού που εμφανίζονται παρακάτω. Χρησιμοποιείστε αυτόν τον κωδικό σαν κωδικό πρόσβασης. Αν πέσει στα χέρια κάποιου, θα μπορεί να διαβάσει και να τροποποιήσει τα συγχρονισμένα δεδομένα σας.</string>
 
-    <string name="brave_sync_official">Συγχρονισμός Brave</string>
+    <string name="brave_sync_official">Συγχρονισμός Dissenter</string>
     <string name="prefs_sync_official">Συγχρονισμός</string>
 </resources>

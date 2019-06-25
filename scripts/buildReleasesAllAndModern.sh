@@ -57,7 +57,7 @@ if [ $BUILD_TYPE = 'arm' ] || [ $BUILD_TYPE = 'all' ]
 			exit $rc
 		else
 			echo "build ARM release classic succeeded"
-			mv out/DefaultR/apks/Brave_aligned.apk out/DefaultR/apks/Bravearm.apk
+			mv out/DefaultR/apks/Dissenter_aligned.apk out/DefaultR/apks/Dissenterarm.apk
 		fi
 		echo "packing symbols for ARM release classic"
 		rm out/DefaultRArmClassic.tar.7z
@@ -73,7 +73,7 @@ if [ $BUILD_TYPE = 'arm' ] || [ $BUILD_TYPE = 'all' ]
 			exit $rc
 		else
 			echo "build ARM release modern succeeded"
-			mv out/DefaultR/apks/BraveModern_aligned.apk out/DefaultR/apks/BraveModernarm.apk
+			mv out/DefaultR/apks/DissenterModern_aligned.apk out/DefaultR/apks/DissenterModernarm.apk
 		fi
 		echo "packing symbols for ARM release modern"
 		rm out/DefaultRArmModern.tar.7z
@@ -109,7 +109,7 @@ if [ $BUILD_TYPE = 'x86' ] || [ $BUILD_TYPE = 'all' ]
 			exit $rc
 		else
 			echo "build X86 release classic succeeded"
-			mv out/Defaultx86/apks/Brave_aligned.apk out/Defaultx86/apks/Bravex86.apk
+			mv out/Defaultx86/apks/Dissenter_aligned.apk out/Defaultx86/apks/Dissenterx86.apk
 		fi
 		rm out/Defaultx86Classic.tar.7z
 		echo "packing symbols for X86 release classic"
@@ -126,7 +126,7 @@ if [ $BUILD_TYPE = 'x86' ] || [ $BUILD_TYPE = 'all' ]
 			exit $rc
 		else
 			echo "build X86 release modern succeeded"
-			mv out/Defaultx86/apks/BraveModern_aligned.apk out/Defaultx86/apks/BraveModernx86.apk
+			mv out/Defaultx86/apks/DissenterModern_aligned.apk out/Defaultx86/apks/DissenterModernx86.apk
 		fi
 		rm out/Defaultx86Modern.tar.7z
 		echo "packing symbols for X86 modern"

@@ -1,308 +1,308 @@
 <?xml version="1.0" ?>
 <!DOCTYPE translationbundle>
 <translationbundle lang="sk">
-<translation id="1001534784610492198">Archív inštalácie je poškodený alebo neplatný. Stiahnite prehliadač Brave znova.</translation>
-<translation id="5849446944780602366">Prispôsobte si Brave a ovládajte ho. K dispozícii je aktualizácia.</translation>
-<translation id="5935964611177478118">prihláste sa do prehliadača Brave</translation>
-<translation id="1051826050538111504">V počítači máte škodlivý softvér. Brave ho môže odstrániť, obnoviť nastavenia a deaktivovať rozšírenia, aby prehliadač znova normálne fungoval.</translation>
+<translation id="1001534784610492198">Archív inštalácie je poškodený alebo neplatný. Stiahnite prehliadač Dissenter znova.</translation>
+<translation id="5849446944780602366">Prispôsobte si Dissenter a ovládajte ho. K dispozícii je aktualizácia.</translation>
+<translation id="5935964611177478118">prihláste sa do prehliadača Dissenter</translation>
+<translation id="1051826050538111504">V počítači máte škodlivý softvér. Dissenter ho môže odstrániť, obnoviť nastavenia a deaktivovať rozšírenia, aby prehliadač znova normálne fungoval.</translation>
 <translation id="1065672644894730302">Vaše predvoľby sa nedajú načítať.
 
 Niektoré funkcie nemusia byť k dispozícii a zmeny vykonané v predvoľbách sa neuložia.</translation>
-<translation id="1088300314857992706">Účet <ph name="USER_EMAIL_ADDRESS" /> predtým používal Brave</translation>
+<translation id="1088300314857992706">Účet <ph name="USER_EMAIL_ADDRESS" /> predtým používal Dissenter</translation>
 <translation id="1104959162601287462">Informácie o systéme &amp;Chrome OS</translation>
-<translation id="4100716194836114130">Toto je váš prehliadač Brave</translation>
-<translation id="6389268239133412586">Brave sa nedá aktualizovať</translation>
-<translation id="9071554113102421877">&amp;Otvoriť v Brave</translation>
-<translation id="123620459398936149">Systému OS Brave sa nepodarilo synchronizovať vaše údaje. Aktualizujte prístupovú frázu synchronizácie.</translation>
-<translation id="127345590676626841">Brave sa aktualizuje automaticky, aby ste mali vždy k dispozícii najnovšiu verziu. Po dokončení sťahovania sa Brave reštartujte a začnete používať aktuálnu verziu.</translation>
-<translation id="1302523850133262269">Počkajte, kým Brave nainštaluje najnovšie aktualizácie systému.</translation>
+<translation id="4100716194836114130">Toto je váš prehliadač Dissenter</translation>
+<translation id="6389268239133412586">Dissenter sa nedá aktualizovať</translation>
+<translation id="9071554113102421877">&amp;Otvoriť v Dissenter</translation>
+<translation id="123620459398936149">Systému OS Dissenter sa nepodarilo synchronizovať vaše údaje. Aktualizujte prístupovú frázu synchronizácie.</translation>
+<translation id="127345590676626841">Dissenter sa aktualizuje automaticky, aby ste mali vždy k dispozícii najnovšiu verziu. Po dokončení sťahovania sa Dissenter reštartujte a začnete používať aktuálnu verziu.</translation>
+<translation id="1302523850133262269">Počkajte, kým Dissenter nainštaluje najnovšie aktualizácie systému.</translation>
 <translation id="1312676208694947750">{0,plural, =0{Je k dispozícii aktualizácia systému Chrome OS}=1{Je k dispozícii aktualizácia systému Chrome OS}few{Aktualizácia systému Chrome OS je k dispozícii už # dni}many{Aktualizácia systému Chrome OS je k dispozícii už # dňa}other{Aktualizácia systému Chrome OS je k dispozícii už # dní}}</translation>
-<translation id="137466361146087520">Brave beta verzie</translation>
-<translation id="1393853151966637042">Získajte pomoc pri používaní prehliadača Brave</translation>
-<translation id="1399397803214730675">Tento počítač už obsahuje novšiu verziu prehliadača Brave. Ak softvér nefunguje, odinštalujte prehliadač Brave a skúste to znova.</translation>
-<translation id="1434626383986940139">Aplikácie Brave Canary</translation>
-<translation id="5047208012586153436">Brave sa aktualizuje…</translation>
-<translation id="1469002951682717133">Spúšťač aplikácií Brave</translation>
-<translation id="1705567146636171298">Aktualizovať Brave</translation>
+<translation id="137466361146087520">Dissenter beta verzie</translation>
+<translation id="1393853151966637042">Získajte pomoc pri používaní prehliadača Dissenter</translation>
+<translation id="1399397803214730675">Tento počítač už obsahuje novšiu verziu prehliadača Dissenter. Ak softvér nefunguje, odinštalujte prehliadač Dissenter a skúste to znova.</translation>
+<translation id="1434626383986940139">Aplikácie Dissenter Canary</translation>
+<translation id="5047208012586153436">Dissenter sa aktualizuje…</translation>
+<translation id="1469002951682717133">Spúšťač aplikácií Dissenter</translation>
+<translation id="1705567146636171298">Aktualizovať Dissenter</translation>
 <translation id="1585657529869845941">Kliknite na možnosť <ph name="BEGIN_BOLD" />Napriek tomu prepnúť<ph name="END_BOLD" /> (ak sa zobrazí)</translation>
-<translation id="3205074487970075628">Brave používa vašu kameru.</translation>
-<translation id="4168372721886011198">Súbor <ph name="FILE_NAME" /> je nebezpečný, a preto ho Brave zablokoval.</translation>
-<translation id="2632141563911437138">Ak chcete Brave aktualizovať, nesmie byť spustený v tomto počítači. Ostatní používatelia prihlásení do tohto počítača môžu prísť o neuložené zmeny.</translation>
-<translation id="1619887657840448962">Z dôvodu zvýšenia bezpečnosti prehliadača Brave sme zakázali nasledujúce rozšírenie, ktoré nie je uvedené v službe <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> a mohlo byť pridané bez vášho vedomia.</translation>
-<translation id="1628000112320670027">Pomoc s Brave</translation>
+<translation id="3205074487970075628">Dissenter používa vašu kameru.</translation>
+<translation id="4168372721886011198">Súbor <ph name="FILE_NAME" /> je nebezpečný, a preto ho Dissenter zablokoval.</translation>
+<translation id="2632141563911437138">Ak chcete Dissenter aktualizovať, nesmie byť spustený v tomto počítači. Ostatní používatelia prihlásení do tohto počítača môžu prísť o neuložené zmeny.</translation>
+<translation id="1619887657840448962">Z dôvodu zvýšenia bezpečnosti prehliadača Dissenter sme zakázali nasledujúce rozšírenie, ktoré nie je uvedené v službe <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> a mohlo byť pridané bez vášho vedomia.</translation>
+<translation id="1628000112320670027">Pomoc s Dissenter</translation>
 <translation id="1662639173275167396">Chrome OS mohol vzniknúť vďaka ďalšiemu <ph name="BEGIN_LINK_CROS_OSS" />softvéru open source<ph name="END_LINK_CROS_OSS" />, ako je napríklad <ph name="BEGIN_LINK_LINUX_OSS" />Linux (beta)<ph name="END_LINK_LINUX_OSS" />.</translation>
-<translation id="1674870198290878346">Otvoriť odkaz v okne inko&amp;gnito Brave</translation>
-<translation id="2585240446624043880">Prehliadač Brave nemôže čítať ani zapisovať do adresára s údajmi: <ph name="USER_DATA_DIRECTORY" /></translation>
-<translation id="1698376642261615901">Brave je webový prehliadač, ktorý spúšťa webové stránky a aplikácie rýchlosťou blesku. Je rýchly, stabilný a jednoduchý. Má v sebe vstavanú ochranu pred škodlivým softvérom a neoprávneným získavaním údajov, vďaka ktorej je prehliadanie webu bezpečnejšie.</translation>
-<translation id="1718131156967340976">Vyberte <ph name="SMALL_PRODUCT_LOGO" /> <ph name="BEGIN_BOLD" />Brave<ph name="END_BOLD" /></translation>
-<translation id="6163134585289952357">Brave toto heslo uloží do vášho účtu Google. Nebudete si ho musieť pamätať.</translation>
-<translation id="174539241580958092">Prehliadaču Brave sa nepodarilo synchronizovať vaše údaje z dôvodu chyby prihlásenia.</translation>
-<translation id="939305735877869636">Brave</translation>
+<translation id="1674870198290878346">Otvoriť odkaz v okne inko&amp;gnito Dissenter</translation>
+<translation id="2585240446624043880">Prehliadač Dissenter nemôže čítať ani zapisovať do adresára s údajmi: <ph name="USER_DATA_DIRECTORY" /></translation>
+<translation id="1698376642261615901">Dissenter je webový prehliadač, ktorý spúšťa webové stránky a aplikácie rýchlosťou blesku. Je rýchly, stabilný a jednoduchý. Má v sebe vstavanú ochranu pred škodlivým softvérom a neoprávneným získavaním údajov, vďaka ktorej je prehliadanie webu bezpečnejšie.</translation>
+<translation id="1718131156967340976">Vyberte <ph name="SMALL_PRODUCT_LOGO" /> <ph name="BEGIN_BOLD" />Dissenter<ph name="END_BOLD" /></translation>
+<translation id="6163134585289952357">Dissenter toto heslo uloží do vášho účtu Google. Nebudete si ho musieť pamätať.</translation>
+<translation id="174539241580958092">Prehliadaču Dissenter sa nepodarilo synchronizovať vaše údaje z dôvodu chyby prihlásenia.</translation>
+<translation id="939305735877869636">Dissenter</translation>
 <translation id="1773601347087397504">Získajte pomoc pri používaní systému Chrome OS</translation>
-<translation id="1570795130102031380">Nainštalujte si Brave do telefónu. Pošleme vám správu SMS na telefón: <ph name="PHONE_NUMBER" /></translation>
-<translation id="1812689907177901597">Po vypnutí tejto možnosti sa budete môcť prihlásiť do webov Googlu (napríklad do Gmailu) bez prihlásenia do Brave</translation>
-<translation id="8858456697111532356"><ph name="FILE_NAME" /> je nebezpečný súbor, a preto ho Brave zablokoval. Bráni vás rozšírená ochrana.</translation>
-<translation id="1860536484129686729">Brave potrebuje povolenie pre tento web na prístup k fotoaparátu</translation>
-<translation id="3343095737966473035">Brave nie je váš predvolený prehliadač</translation>
-<translation id="1874309113135274312">Brave beta verzie (mDNS-In)</translation>
-<translation id="5173820533850252773">Prehliadač Brave je zastaraný</translation>
-<translation id="1915828456209461693">K dispozícii je aktualizácia pre Brave, ktorá bude uplatnená po najbližšom opätovnom spustení.</translation>
-<translation id="1919130412786645364">Povoliť prihlásenie do Brave</translation>
+<translation id="1570795130102031380">Nainštalujte si Dissenter do telefónu. Pošleme vám správu SMS na telefón: <ph name="PHONE_NUMBER" /></translation>
+<translation id="1812689907177901597">Po vypnutí tejto možnosti sa budete môcť prihlásiť do webov Googlu (napríklad do Gmailu) bez prihlásenia do Dissenter</translation>
+<translation id="8858456697111532356"><ph name="FILE_NAME" /> je nebezpečný súbor, a preto ho Dissenter zablokoval. Bráni vás rozšírená ochrana.</translation>
+<translation id="1860536484129686729">Dissenter potrebuje povolenie pre tento web na prístup k fotoaparátu</translation>
+<translation id="3343095737966473035">Dissenter nie je váš predvolený prehliadač</translation>
+<translation id="1874309113135274312">Dissenter beta verzie (mDNS-In)</translation>
+<translation id="5173820533850252773">Prehliadač Dissenter je zastaraný</translation>
+<translation id="1915828456209461693">K dispozícii je aktualizácia pre Dissenter, ktorá bude uplatnená po najbližšom opätovnom spustení.</translation>
+<translation id="1919130412786645364">Povoliť prihlásenie do Dissenter</translation>
 <translation id="2063848847527508675">Ak chcete uplatniť aktualizáciu, musíte reštartovať systém Chrome OS.</translation>
-<translation id="2094919256425865063">Chcete Brave napriek tomu ukončiť?</translation>
-<translation id="2120620239521071941">Táto akcia odstráni zo zariadenia niekoľko položiek (počet: <ph name="ITEMS_COUNT" />). Ak budete chcieť svoje údaje neskôr opäť načítať, prihláste sa do Brave ako používateľ <ph name="USER_EMAIL" />.</translation>
-<translation id="2123055963409958220">Nahlásiť <ph name="BEGIN_LINK" />aktuálne nastavenia<ph name="END_LINK" /> a pomôcť tak zlepšiť Brave</translation>
-<translation id="1609678321160597289">Nainštalujte si Brave do telefónu. Pošleme vám správu SMS na telefónne číslo na obnovenie účtu.</translation>
-<translation id="5874882355102994015">Ak vstavaný zobrazovač súborov PDF chýba, prehliadač Brave nemôže zobraziť ukážku pred tlačou.</translation>
-<translation id="7456658570432774853">Nahláste aktuálne nastavenia a pomôžte tak zlepšiť prehliadač Brave</translation>
-<translation id="225363235161345695">{0,plural, =1{Brave sa znova spustí o 1 hodinu}few{Brave sa znova spustí o # hodiny}many{Brave sa znova spustí o # hodiny}other{Brave sa znova spustí o # hodín}}</translation>
-<translation id="4934157190377700991">Ste prihlásený/-á do prehliadača Brave</translation>
-<translation id="350396164462274391">Chýbajú kľúče rozhrania Google API. Niektoré funkcie prehliadača Brave budú zakázané.</translation>
-<translation id="2290095356545025170">Naozaj chcete odinštalovať aplikáciu Brave?</translation>
-<translation id="2309047409763057870">Toto je sekundárna inštalácia prehliadača Brave – nemôže byť nastavený ako váš predvolený prehliadač.</translation>
-<translation id="2346876346033403680">Do prehliadača Brave sa už na tomto počítači niekto prihlásil pomocou účtu <ph name="ACCOUNT_EMAIL_LAST" />. Ak tento účet nepatrí vám, vytvorte nového používateľa prehliadača Brave, aby ste zachovali oddelenie informácií.
+<translation id="2094919256425865063">Chcete Dissenter napriek tomu ukončiť?</translation>
+<translation id="2120620239521071941">Táto akcia odstráni zo zariadenia niekoľko položiek (počet: <ph name="ITEMS_COUNT" />). Ak budete chcieť svoje údaje neskôr opäť načítať, prihláste sa do Dissenter ako používateľ <ph name="USER_EMAIL" />.</translation>
+<translation id="2123055963409958220">Nahlásiť <ph name="BEGIN_LINK" />aktuálne nastavenia<ph name="END_LINK" /> a pomôcť tak zlepšiť Dissenter</translation>
+<translation id="1609678321160597289">Nainštalujte si Dissenter do telefónu. Pošleme vám správu SMS na telefónne číslo na obnovenie účtu.</translation>
+<translation id="5874882355102994015">Ak vstavaný zobrazovač súborov PDF chýba, prehliadač Dissenter nemôže zobraziť ukážku pred tlačou.</translation>
+<translation id="7456658570432774853">Nahláste aktuálne nastavenia a pomôžte tak zlepšiť prehliadač Dissenter</translation>
+<translation id="225363235161345695">{0,plural, =1{Dissenter sa znova spustí o 1 hodinu}few{Dissenter sa znova spustí o # hodiny}many{Dissenter sa znova spustí o # hodiny}other{Dissenter sa znova spustí o # hodín}}</translation>
+<translation id="4934157190377700991">Ste prihlásený/-á do prehliadača Dissenter</translation>
+<translation id="350396164462274391">Chýbajú kľúče rozhrania Google API. Niektoré funkcie prehliadača Dissenter budú zakázané.</translation>
+<translation id="2290095356545025170">Naozaj chcete odinštalovať aplikáciu Dissenter?</translation>
+<translation id="2309047409763057870">Toto je sekundárna inštalácia prehliadača Dissenter – nemôže byť nastavený ako váš predvolený prehliadač.</translation>
+<translation id="2346876346033403680">Do prehliadača Dissenter sa už na tomto počítači niekto prihlásil pomocou účtu <ph name="ACCOUNT_EMAIL_LAST" />. Ak tento účet nepatrí vám, vytvorte nového používateľa prehliadača Dissenter, aby ste zachovali oddelenie informácií.
 
-Ak sa chcete aj napriek tomu prihlásiť, informácie prehliadača Brave, ako sú záložky, história a iné nastavenia, sa priradia k účtu <ph name="ACCOUNT_EMAIL_NEW" />.</translation>
-<translation id="2348335408836342058">Brave potrebuje povolenie pre tento web na prístup k fotoaparátu a mikrofónu</translation>
-<translation id="2429317896000329049">Prehliadaču Brave sa nepodarilo synchronizovať vaše údaje, pretože možnosť synchronizácie nie je pre vašu doménu k dispozícii.</translation>
-<translation id="2467438592969358367">Brave sa pokúša exportovať vaše heslá. Ak to chcete povoliť, zadajte heslo systému Windows.</translation>
+Ak sa chcete aj napriek tomu prihlásiť, informácie prehliadača Dissenter, ako sú záložky, história a iné nastavenia, sa priradia k účtu <ph name="ACCOUNT_EMAIL_NEW" />.</translation>
+<translation id="2348335408836342058">Dissenter potrebuje povolenie pre tento web na prístup k fotoaparátu a mikrofónu</translation>
+<translation id="2429317896000329049">Prehliadaču Dissenter sa nepodarilo synchronizovať vaše údaje, pretože možnosť synchronizácie nie je pre vašu doménu k dispozícii.</translation>
+<translation id="2467438592969358367">Dissenter sa pokúša exportovať vaše heslá. Ak to chcete povoliť, zadajte heslo systému Windows.</translation>
 <translation id="2485422356828889247">Odinštalovať</translation>
-<translation id="8943391224520748272">Tento súbor môže byť nebezpečný, a preto ho Brave zablokoval. Bráni vás rozšírená ochrana.</translation>
-<translation id="2534507159460261402">Google Pay (skopírované do Brave)</translation>
-<translation id="2535429035253759792">Správca vás žiada o reštartovanie Brave na použitie aktualizácie</translation>
-<translation id="2580411288591421699">Nie je možné nainštalovať rovnakú verziu prehliadača Brave, ako je aktuálne spustená verzia. Zavrite Brave a skúste znova.</translation>
-<translation id="2586406160782125153">Táto akcia odstráni zo zariadenia údaje prehliadania. Ak budete chcieť svoje údaje neskôr opäť načítať, prihláste sa do Brave ako používateľ <ph name="USER_EMAIL" />.</translation>
-<translation id="4847979153841887006">Logo Brave</translation>
+<translation id="8943391224520748272">Tento súbor môže byť nebezpečný, a preto ho Dissenter zablokoval. Bráni vás rozšírená ochrana.</translation>
+<translation id="2534507159460261402">Google Pay (skopírované do Dissenter)</translation>
+<translation id="2535429035253759792">Správca vás žiada o reštartovanie Dissenter na použitie aktualizácie</translation>
+<translation id="2580411288591421699">Nie je možné nainštalovať rovnakú verziu prehliadača Dissenter, ako je aktuálne spustená verzia. Zavrite Dissenter a skúste znova.</translation>
+<translation id="2586406160782125153">Táto akcia odstráni zo zariadenia údaje prehliadania. Ak budete chcieť svoje údaje neskôr opäť načítať, prihláste sa do Dissenter ako používateľ <ph name="USER_EMAIL" />.</translation>
+<translation id="4847979153841887006">Logo Dissenter</translation>
 <translation id="2644798301485385923">Systém Chrome OS</translation>
-<translation id="2652691236519827073">Otvoriť odkaz na novej &amp;karte Brave</translation>
-<translation id="7348158796480960456">Pomôcť zlepšiť prehliadač Brave odosielaním správ o zlyhaní a <ph name="UMA_LINK" /> spoločnosti Google</translation>
-<translation id="3813272600615358652">Toto rozšírenie zmenilo stránku, ktorá sa zobrazí pri spustení prehliadača Brave.</translation>
-<translation id="2765403129283291972">Brave potrebuje povolenie pre tento web na prístup k mikrofónu</translation>
+<translation id="2652691236519827073">Otvoriť odkaz na novej &amp;karte Dissenter</translation>
+<translation id="7348158796480960456">Pomôcť zlepšiť prehliadač Dissenter odosielaním správ o zlyhaní a <ph name="UMA_LINK" /> spoločnosti Google</translation>
+<translation id="3813272600615358652">Toto rozšírenie zmenilo stránku, ktorá sa zobrazí pri spustení prehliadača Dissenter.</translation>
+<translation id="2765403129283291972">Dissenter potrebuje povolenie pre tento web na prístup k mikrofónu</translation>
 <translation id="2770231113462710648">Zmeniť predvolený prehliadač na:</translation>
 <translation id="2799223571221894425">Znova spustiť</translation>
-<translation id="2847461019998147611">Zobrazovať Brave v tomto jazyku</translation>
-<translation id="2857540653560290388">Spúšťa sa Brave…</translation>
-<translation id="2871893339301912279">Ste prihlásený/-á do prehliadača Brave.</translation>
-<translation id="8541922081612557424">O prehliadači Brave</translation>
-<translation id="3037838751736561277">Brave je v režime na pozadí.</translation>
-<translation id="4806360651959814118">Ak odpojíte účet <ph name="USERNAME" />, vymaže sa história, záložky, nastavenia a všetky ďalšie údaje prehliadača Brave uložené na vašom zariadení. Údaje uložené v účte Google sa nevymažú a môžete ich spravovať v službe <ph name="GOOGLE_DASHBOARD_LINK" />Google Dashboard<ph name="END_GOOGLE_DASHBOARD_LINK" />.</translation>
-<translation id="6791166902140255175">Karta Brave</translation>
-<translation id="3080151273017101988">Po zatvorení prehliadača Brave nechať aplikácie na pozadí spustené</translation>
-<translation id="3089968997497233615">K dispozícii je nová, bezpečnejšia verzia prehliadača Brave.</translation>
-<translation id="300669147395456190">Aplikácie Brave</translation>
+<translation id="2847461019998147611">Zobrazovať Dissenter v tomto jazyku</translation>
+<translation id="2857540653560290388">Spúšťa sa Dissenter…</translation>
+<translation id="2871893339301912279">Ste prihlásený/-á do prehliadača Dissenter.</translation>
+<translation id="8541922081612557424">O prehliadači Dissenter</translation>
+<translation id="3037838751736561277">Dissenter je v režime na pozadí.</translation>
+<translation id="4806360651959814118">Ak odpojíte účet <ph name="USERNAME" />, vymaže sa história, záložky, nastavenia a všetky ďalšie údaje prehliadača Dissenter uložené na vašom zariadení. Údaje uložené v účte Google sa nevymažú a môžete ich spravovať v službe <ph name="GOOGLE_DASHBOARD_LINK" />Google Dashboard<ph name="END_GOOGLE_DASHBOARD_LINK" />.</translation>
+<translation id="6791166902140255175">Karta Dissenter</translation>
+<translation id="3080151273017101988">Po zatvorení prehliadača Dissenter nechať aplikácie na pozadí spustené</translation>
+<translation id="3089968997497233615">K dispozícii je nová, bezpečnejšia verzia prehliadača Dissenter.</translation>
+<translation id="300669147395456190">Aplikácie Dissenter</translation>
 <translation id="3251381707915721925">Ak chcete nastaviť, ktoré weby môže používateľ <ph name="NEW_PROFILE_NAME" /> zobraziť, môžete na adrese <ph name="BEGIN_LINK_1" /><ph name="DISPLAY_LINK" /><ph name="END_LINK_1" /> nakonfigurovať obmedzenia a nastavenia. Ak nezmeníte predvolené nastavenia, používateľ <ph name="NEW_PROFILE_NAME" /> bude môcť prehliadať všetky stránky na príslušnom webe.
 
-Ak chcete profilu <ph name="NEW_PROFILE_NAME" /> zabrániť pristupovať do vášho účtu, uzamknite svoj profil, keď Brave nepoužívate. Urobíte to tak, že kliknete na názov profilu v pravom hornom rohu tohto prehliadača a vyberiete možnosť Ukončiť a aktivovať detskú zámku.
+Ak chcete profilu <ph name="NEW_PROFILE_NAME" /> zabrániť pristupovať do vášho účtu, uzamknite svoj profil, keď Dissenter nepoužívate. Urobíte to tak, že kliknete na názov profilu v pravom hornom rohu tohto prehliadača a vyberiete možnosť Ukončiť a aktivovať detskú zámku.
 <ph name="BEGIN_LINK_2" />Ďalšie informácie<ph name="END_LINK_2" />
 
 Ďalšie pokyny si prečítajte v e-mailovej správe odoslanej na adresu <ph name="ACCOUNT_EMAIL" />.</translation>
-<translation id="82609232232243542">Prihlásenie do prehliadača Brave</translation>
-<translation id="3360895254066713204">Brave Helper</translation>
+<translation id="82609232232243542">Prihlásenie do prehliadača Dissenter</translation>
+<translation id="3360895254066713204">Dissenter Helper</translation>
 <translation id="3395323229510056640">Pomoc so systémom Chrome OS</translation>
-<translation id="3396977131400919238">V priebehu inštalácie sa vyskytla chyba operačného systému. Stiahnite prehliadač Brave znova.</translation>
-<translation id="3398288718845740432">Skryť v Ponuke Brave</translation>
-<translation id="8880183781256147665">Prebieha pridávanie do prehliadača Brave...</translation>
-<translation id="345171907106878721">Pridajte si účet do prehliadača Brave</translation>
+<translation id="3396977131400919238">V priebehu inštalácie sa vyskytla chyba operačného systému. Stiahnite prehliadač Dissenter znova.</translation>
+<translation id="3398288718845740432">Skryť v Ponuke Dissenter</translation>
+<translation id="8880183781256147665">Prebieha pridávanie do prehliadača Dissenter...</translation>
+<translation id="345171907106878721">Pridajte si účet do prehliadača Dissenter</translation>
 <translation id="3479552764303398839">Teraz nie</translation>
-<translation id="6205431412329939367"><ph name="FILE_NAME" /> môže byť nebezpečný súbor, a preto ho Brave zablokoval. Bráni vás rozšírená ochrana.</translation>
-<translation id="34857402635545079">Tiež vymazať údaje z Brave (<ph name="URL" />)</translation>
-<translation id="3503306920980160878">Brave potrebuje prístup k vašej polohe, aby ju mohol zdieľať s týmto webom</translation>
-<translation id="3576528680708590453">Správca systému nakonfiguroval Brave, aby web <ph name="TARGET_URL_HOSTNAME" /> otváral v alternatívnom prehliadači.</translation>
-<translation id="5477319665405831211">Synchronizujte a prispôsobte si Brave v rôznych zariadeniach</translation>
-<translation id="3622797965165704966">Teraz je používanie prehliadača Brave s účtom Google a na zdieľaných počítačoch oveľa ľahšie.</translation>
+<translation id="6205431412329939367"><ph name="FILE_NAME" /> môže byť nebezpečný súbor, a preto ho Dissenter zablokoval. Bráni vás rozšírená ochrana.</translation>
+<translation id="34857402635545079">Tiež vymazať údaje z Dissenter (<ph name="URL" />)</translation>
+<translation id="3503306920980160878">Dissenter potrebuje prístup k vašej polohe, aby ju mohol zdieľať s týmto webom</translation>
+<translation id="3576528680708590453">Správca systému nakonfiguroval Dissenter, aby web <ph name="TARGET_URL_HOSTNAME" /> otváral v alternatívnom prehliadači.</translation>
+<translation id="5477319665405831211">Synchronizujte a prispôsobte si Dissenter v rôznych zariadeniach</translation>
+<translation id="3622797965165704966">Teraz je používanie prehliadača Dissenter s účtom Google a na zdieľaných počítačoch oveľa ľahšie.</translation>
 <translation id="3637702109597584617"><ph name="TERMS_OF_SERVICE_LINK" />Zmluvné podmienky<ph name="END_TERMS_OF_SERVICE_LINK" /> Google Chrome OS</translation>
-<translation id="5805364706385912897">Táto stránka využíva príliš veľa pamäte, a preto ju Brave pozastavil.</translation>
-<translation id="3718181793972440140">Táto akcia odstráni zo zariadenia jednu položku. Ak budete chcieť svoje údaje neskôr opäť načítať, prihláste sa do Brave ako používateľ <ph name="USER_EMAIL" />.</translation>
-<translation id="2576129394594491151">Rozšírenie „<ph name="EXTENSION_NAME" />“ zmenilo stránku, ktorá sa zobrazí pri spustení prehliadača Brave.</translation>
-<translation id="3780814664026482060">Brave – <ph name="PAGE_TITLE" /></translation>
-<translation id="3784527566857328444">Odstrániť z prehliadača Brave...</translation>
-<translation id="386202838227397562">Zatvorte všetky okná prehliadača Brave a skúste to znova.</translation>
-<translation id="3873044882194371212">Otvoriť odkaz v okne inko&amp;gnito Brave</translation>
-<translation id="3889417619312448367">Odinštalovanie prehliadača Brave</translation>
+<translation id="5805364706385912897">Táto stránka využíva príliš veľa pamäte, a preto ju Dissenter pozastavil.</translation>
+<translation id="3718181793972440140">Táto akcia odstráni zo zariadenia jednu položku. Ak budete chcieť svoje údaje neskôr opäť načítať, prihláste sa do Dissenter ako používateľ <ph name="USER_EMAIL" />.</translation>
+<translation id="2576129394594491151">Rozšírenie „<ph name="EXTENSION_NAME" />“ zmenilo stránku, ktorá sa zobrazí pri spustení prehliadača Dissenter.</translation>
+<translation id="3780814664026482060">Dissenter – <ph name="PAGE_TITLE" /></translation>
+<translation id="3784527566857328444">Odstrániť z prehliadača Dissenter...</translation>
+<translation id="386202838227397562">Zatvorte všetky okná prehliadača Dissenter a skúste to znova.</translation>
+<translation id="3873044882194371212">Otvoriť odkaz v okne inko&amp;gnito Dissenter</translation>
+<translation id="3889417619312448367">Odinštalovanie prehliadača Dissenter</translation>
 <translation id="3898493977366060150">Prehliadanie webu pomocou inteligentných doplnkov Googlu</translation>
-<translation id="4028693306634653894">Prechádzajte do Brave rýchlejšie</translation>
+<translation id="4028693306634653894">Prechádzajte do Dissenter rýchlejšie</translation>
 <translation id="4050175100176540509">V najnovšej verzii sú k dispozícii dôležité vylepšenia zabezpečenia a nové funkcie.</translation>
-<translation id="8148611988012584308">Prispôsobiť a ovládať prehliadač Brave</translation>
-<translation id="4143243756087420366">Meno a obrázok profilu Brave</translation>
-<translation id="4147555960264124640">Prihlasujete sa pomocou spravovaného účtu a jeho správcovi dávate kontrolu nad vaším profilom prehliadača Brave. Vaše údaje prehliadača Brave, ako sú aplikácie, záložky, história, heslá a iné nastavenia, sa natrvalo priradia k účtu <ph name="USER_NAME" />. Tieto údaje budete môcť odstrániť len pomocou panela Dashboard v Účtoch Google, ale nebudete ich môcť priradiť k inému účtu. <ph name="LEARN_MORE" /></translation>
-<translation id="4149882025268051530">Inštalátor pri dekomprimovaní archívu zlyhal. Stiahnite prehliadač Brave znova.</translation>
-<translation id="7445061995866044926">Odhlásiť sa z Brave?</translation>
-<translation id="4251615635259297716">Chcete prepojiť údaje prehliadača Brave s týmto účtom?</translation>
-<translation id="8358191771897395012">získať Brave na zariadení iPhone</translation>
-<translation id="3360368475735266712">Po prihlásení budete môcť Brave synchronizovať a prispôsobiť v rôznych zariadeniach.</translation>
-<translation id="4328355335528187361">Brave verzie pre vývojárov (mDNS-In)</translation>
+<translation id="8148611988012584308">Prispôsobiť a ovládať prehliadač Dissenter</translation>
+<translation id="4143243756087420366">Meno a obrázok profilu Dissenter</translation>
+<translation id="4147555960264124640">Prihlasujete sa pomocou spravovaného účtu a jeho správcovi dávate kontrolu nad vaším profilom prehliadača Dissenter. Vaše údaje prehliadača Dissenter, ako sú aplikácie, záložky, história, heslá a iné nastavenia, sa natrvalo priradia k účtu <ph name="USER_NAME" />. Tieto údaje budete môcť odstrániť len pomocou panela Dashboard v Účtoch Google, ale nebudete ich môcť priradiť k inému účtu. <ph name="LEARN_MORE" /></translation>
+<translation id="4149882025268051530">Inštalátor pri dekomprimovaní archívu zlyhal. Stiahnite prehliadač Dissenter znova.</translation>
+<translation id="7445061995866044926">Odhlásiť sa z Dissenter?</translation>
+<translation id="4251615635259297716">Chcete prepojiť údaje prehliadača Dissenter s týmto účtom?</translation>
+<translation id="8358191771897395012">získať Dissenter na zariadení iPhone</translation>
+<translation id="3360368475735266712">Po prihlásení budete môcť Dissenter synchronizovať a prispôsobiť v rôznych zariadeniach.</translation>
+<translation id="4328355335528187361">Dissenter verzie pre vývojárov (mDNS-In)</translation>
 <translation id="4331809312908958774">Chrome OS</translation>
-<translation id="4343195214584226067">Rozšírenie <ph name="EXTENSION_NAME" /> bolo pridané do Brave</translation>
+<translation id="4343195214584226067">Rozšírenie <ph name="EXTENSION_NAME" /> bolo pridané do Dissenter</translation>
 <translation id="4407807842708586359">Google Chrome OS</translation>
-<translation id="4458462641685292929">V prehliadači Brave práve prebieha ďalšia operácia. Skúste to znova neskôr.</translation>
-<translation id="4480040274068703980">Systému OS Brave sa nepodarilo synchronizovať vaše údaje, pretože sa pri prihlasovaní vyskytla chyba.</translation>
-<translation id="4561051373932531560">Prehliadač Brave vám umožňuje vybrať telefónne číslo na webe a zavolať naň pomocou aplikácie Skype.</translation>
+<translation id="4458462641685292929">V prehliadači Dissenter práve prebieha ďalšia operácia. Skúste to znova neskôr.</translation>
+<translation id="4480040274068703980">Systému OS Dissenter sa nepodarilo synchronizovať vaše údaje, pretože sa pri prihlasovaní vyskytla chyba.</translation>
+<translation id="4561051373932531560">Prehliadač Dissenter vám umožňuje vybrať telefónne číslo na webe a zavolať naň pomocou aplikácie Skype.</translation>
 <translation id="4567424176335768812">Ste prihlásený/-á ako <ph name="USER_EMAIL_ADDRESS" />. Teraz môžete na všetkých zariadeniach, kde ste prihlásený/-á, pristupovať k svojim záložkám, histórii a ďalším nastaveniam.</translation>
-<translation id="4571503333518166079">Prejsť do nastavení upozornení Brave</translation>
-<translation id="459622048091363950">Keď Brave získa prístup, weby vás budú môcť žiadať o prístup.</translation>
-<translation id="7963515534397191222">Brave sa nepodarilo aktualizovať na najnovšiu verziu. K dispozícii tak nie sú niektoré nové funkcie a bezpečnostné opravy.</translation>
-<translation id="4631713731678262610">Skryť v Ponuke Brave</translation>
-<translation id="4633000520311261472">Z dôvodu vyššej bezpečnosti prehliadača Brave sme zakázali niektoré rozšírenia, ktoré nedodáva <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> a mohli byť pridané bez vášho vedomia.</translation>
-<translation id="4728575227883772061">Inštalácia zlyhala kvôli neurčenej chybe. Ak je prehliadač Brave momentálne spustený, zatvorte ho a skúste znova.</translation>
-<translation id="4750550185319565338">Ak chcete povoliť doplnok <ph name="PLUGIN_NAME" />, reštartujte Brave</translation>
-<translation id="4754614261631455953">Brave Canary (mDNS-In)</translation>
-<translation id="89367911614620585">Tento súbor môže byť nebezpečný, a preto ho Brave zablokoval.</translation>
-<translation id="2887570477425111999">Uložiť podrobnosti v prehliadači Brave</translation>
-<translation id="4891791193823137474">Povoliť prehliadaču Brave spustenie na pozadí</translation>
-<translation id="4895437082222824641">Otvoriť odkaz na novej &amp;karte Brave</translation>
-<translation id="8296145982386097283">Zdieľať počítač? Teraz si môžete prehliadač Brave nastaviť podľa vlastných predstáv.</translation>
+<translation id="4571503333518166079">Prejsť do nastavení upozornení Dissenter</translation>
+<translation id="459622048091363950">Keď Dissenter získa prístup, weby vás budú môcť žiadať o prístup.</translation>
+<translation id="7963515534397191222">Dissenter sa nepodarilo aktualizovať na najnovšiu verziu. K dispozícii tak nie sú niektoré nové funkcie a bezpečnostné opravy.</translation>
+<translation id="4631713731678262610">Skryť v Ponuke Dissenter</translation>
+<translation id="4633000520311261472">Z dôvodu vyššej bezpečnosti prehliadača Dissenter sme zakázali niektoré rozšírenia, ktoré nedodáva <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> a mohli byť pridané bez vášho vedomia.</translation>
+<translation id="4728575227883772061">Inštalácia zlyhala kvôli neurčenej chybe. Ak je prehliadač Dissenter momentálne spustený, zatvorte ho a skúste znova.</translation>
+<translation id="4750550185319565338">Ak chcete povoliť doplnok <ph name="PLUGIN_NAME" />, reštartujte Dissenter</translation>
+<translation id="4754614261631455953">Dissenter Canary (mDNS-In)</translation>
+<translation id="89367911614620585">Tento súbor môže byť nebezpečný, a preto ho Dissenter zablokoval.</translation>
+<translation id="2887570477425111999">Uložiť podrobnosti v prehliadači Dissenter</translation>
+<translation id="4891791193823137474">Povoliť prehliadaču Dissenter spustenie na pozadí</translation>
+<translation id="4895437082222824641">Otvoriť odkaz na novej &amp;karte Dissenter</translation>
+<translation id="8296145982386097283">Zdieľať počítač? Teraz si môžete prehliadač Dissenter nastaviť podľa vlastných predstáv.</translation>
 <translation id="4945319281866068441">{0,plural, =1{Chrome OS reštartujte do jedného dňa}few{Chrome OS reštartujte do # dní}many{Chrome OS reštartujte do # dňa}other{Chrome OS reštartujte do # dní}}</translation>
-<translation id="4953650215774548573">Nastaviť Brave ako predvolený prehliadač</translation>
-<translation id="6078442581074612226">V prehliadači Brave</translation>
-<translation id="4990567037958725628">Brave Canary</translation>
-<translation id="5028489144783860647">Prehliadaču Brave sa nepodarilo synchronizovať vaše údaje. Aktualizujte prístupovú frázu synchronizácie.</translation>
+<translation id="4953650215774548573">Nastaviť Dissenter ako predvolený prehliadač</translation>
+<translation id="6078442581074612226">V prehliadači Dissenter</translation>
+<translation id="4990567037958725628">Dissenter Canary</translation>
+<translation id="5028489144783860647">Prehliadaču Dissenter sa nepodarilo synchronizovať vaše údaje. Aktualizujte prístupovú frázu synchronizácie.</translation>
 <translation id="5062123544085870375">Reštartovanie Chrome OS</translation>
-<translation id="5090044601776247154">Od verzie 70 už nebudú v prehliadači Brave ďalej k dispozícii kontrolované profily používateľov.</translation>
-<translation id="2871190378186459992">Objavte skvelé aplikácie, hry, rozšírenia a motívy pre prehliadač Brave.</translation>
-<translation id="5170938038195470297">Váš profil sa nedá použiť, pretože pochádza z novšej verzie prehliadača Brave.
+<translation id="5090044601776247154">Od verzie 70 už nebudú v prehliadači Dissenter ďalej k dispozícii kontrolované profily používateľov.</translation>
+<translation id="2871190378186459992">Objavte skvelé aplikácie, hry, rozšírenia a motívy pre prehliadač Dissenter.</translation>
+<translation id="5170938038195470297">Váš profil sa nedá použiť, pretože pochádza z novšej verzie prehliadača Dissenter.
 
-Niektoré funkcie môžu byť nedostupné. Zadajte iný adresár profilu alebo použite novšiu verziu prehliadača Brave.</translation>
+Niektoré funkcie môžu byť nedostupné. Zadajte iný adresár profilu alebo použite novšiu verziu prehliadača Dissenter.</translation>
 <translation id="5193136243808726294">Google Chrome OS nedokáže túto stránku otvoriť.</translation>
-<translation id="5204098752394657250"><ph name="TERMS_OF_SERVICE_LINK" />Zmluvné podmienky<ph name="END_TERMS_OF_SERVICE_LINK" /> prehliadača Brave</translation>
-<translation id="5251420635869119124">Hostia môžu používať prehliadač Brave bez toho, aby po sebe zanechali akékoľvek informácie.</translation>
-<translation id="5436841087823876677">Upozornenie: Brave nemôže zabrániť rozšíreniam v zaznamenávaní vašej histórie prehliadania. Ak chcete dané rozšírenie v režime inkognito zakázať, zrušte výber tejto možnosti.</translation>
-<translation id="5386244825306882791">Tiež určuje, ktorá stránka sa zobrazí pri spustení prehliadača Brave alebo pri vyhľadávaní pomocou všeobecného poľa.</translation>
+<translation id="5204098752394657250"><ph name="TERMS_OF_SERVICE_LINK" />Zmluvné podmienky<ph name="END_TERMS_OF_SERVICE_LINK" /> prehliadača Dissenter</translation>
+<translation id="5251420635869119124">Hostia môžu používať prehliadač Dissenter bez toho, aby po sebe zanechali akékoľvek informácie.</translation>
+<translation id="5436841087823876677">Upozornenie: Dissenter nemôže zabrániť rozšíreniam v zaznamenávaní vašej histórie prehliadania. Ak chcete dané rozšírenie v režime inkognito zakázať, zrušte výber tejto možnosti.</translation>
+<translation id="5386244825306882791">Tiež určuje, ktorá stránka sa zobrazí pri spustení prehliadača Dissenter alebo pri vyhľadávaní pomocou všeobecného poľa.</translation>
 <translation id="3403365884036456766">Súbor predvolieb je poškodený alebo neplatný. 
 
-Prehliadač Brave nedokáže obnoviť vaše nastavenia.</translation>
-<translation id="5483595757826856374">{0,plural, =0{Brave sa teraz reštartuje}=1{Brave sa reštartuje o 1 sekundu}few{Brave sa reštartuje o # sekundy}many{Brave sa reštartuje o # sekundy}other{Brave sa reštartuje o # sekúnd}}</translation>
-<translation id="1801551749768408825">Brave je spustený v ďalších oknách. Ak ho chcete aktualizovať, zavrite ich.</translation>
-<translation id="556024056938947818">Prehliadač Brave sa snaží zobraziť heslá.</translation>
-<translation id="5566025111015594046">Brave (mDNS-In)</translation>
-<translation id="3561569806301739367">Súbor <ph name="FILE_NAME" /> môže byť nebezpečný, a preto ho Brave zablokoval.</translation>
-<translation id="6315734375101223238">Prispôsobte a ovládajte Brave. Vyžaduje sa vaša pozornosť. Podrobnosti získate kliknutím.</translation>
-<translation id="5690427481109656848">Brave Software Inc</translation>
-<translation id="2513524988380267210">{SECONDS,plural, =1{Brave sa reštartuje o 1 sekundu}few{Brave sa reštartuje o # sekundy}many{Brave sa reštartuje o # sekundy}other{Brave sa reštartuje o # sekúnd}}</translation>
+Prehliadač Dissenter nedokáže obnoviť vaše nastavenia.</translation>
+<translation id="5483595757826856374">{0,plural, =0{Dissenter sa teraz reštartuje}=1{Dissenter sa reštartuje o 1 sekundu}few{Dissenter sa reštartuje o # sekundy}many{Dissenter sa reštartuje o # sekundy}other{Dissenter sa reštartuje o # sekúnd}}</translation>
+<translation id="1801551749768408825">Dissenter je spustený v ďalších oknách. Ak ho chcete aktualizovať, zavrite ich.</translation>
+<translation id="556024056938947818">Prehliadač Dissenter sa snaží zobraziť heslá.</translation>
+<translation id="5566025111015594046">Dissenter (mDNS-In)</translation>
+<translation id="3561569806301739367">Súbor <ph name="FILE_NAME" /> môže byť nebezpečný, a preto ho Dissenter zablokoval.</translation>
+<translation id="6315734375101223238">Prispôsobte a ovládajte Dissenter. Vyžaduje sa vaša pozornosť. Podrobnosti získate kliknutím.</translation>
+<translation id="5690427481109656848">Gab AI Inc</translation>
+<translation id="2513524988380267210">{SECONDS,plural, =1{Dissenter sa reštartuje o 1 sekundu}few{Dissenter sa reštartuje o # sekundy}many{Dissenter sa reštartuje o # sekundy}other{Dissenter sa reštartuje o # sekúnd}}</translation>
 <translation id="573759479754913123">Informácie o systéme Chrome OS</translation>
-<translation id="6236814935154483927"><ph name="PAGE_TITLE" /> – Brave Canary</translation>
-<translation id="5804318322022881572">Brave sa nepodarilo spustiť. Skúste to znova.</translation>
+<translation id="6236814935154483927"><ph name="PAGE_TITLE" /> – Dissenter Canary</translation>
+<translation id="5804318322022881572">Dissenter sa nepodarilo spustiť. Skúste to znova.</translation>
 <translation id="5877064549588274448">Kanál sa zmenil. Ak chcete zmeny použiť, reštartujte zariadenie.</translation>
 <translation id="5895138241574237353">Reštartovať</translation>
 <translation id="5906655207909574370">Aktualizácia je takmer hotová! Dokončite ju reštartovaním zariadenia.</translation>
-<translation id="5940385492829620908">Tu nájdete svoj obsah na webe, záložky a ďalšie položky prehliadača Brave.</translation>
-<translation id="5019879183386042809">Nastaviť prehľadávač Brave ako predvolený</translation>
-<translation id="6014844626092547096">Prihlásili ste sa do prehliadača Brave. Synchronizácia je ale zakázaná administrátorom.</translation>
+<translation id="5940385492829620908">Tu nájdete svoj obsah na webe, záložky a ďalšie položky prehliadača Dissenter.</translation>
+<translation id="5019879183386042809">Nastaviť prehľadávač Dissenter ako predvolený</translation>
+<translation id="6014844626092547096">Prihlásili ste sa do prehliadača Dissenter. Synchronizácia je ale zakázaná administrátorom.</translation>
 <translation id="6040143037577758943">Zavrieť</translation>
-<translation id="6070348360322141662">V záujme vyššej miery zabezpečenia budú dáta v prehliadači Brave šifrované</translation>
-<translation id="6113794647360055231">Prehliadač Brave bol práve vylepšený</translation>
-<translation id="5381622442243174305"><ph name="PAGE_TITLE" /> - Brave</translation>
-<translation id="1403270718080126244"><ph name="PAGE_TITLE" /> – Brave Beta</translation>
+<translation id="6070348360322141662">V záujme vyššej miery zabezpečenia budú dáta v prehliadači Dissenter šifrované</translation>
+<translation id="6113794647360055231">Prehliadač Dissenter bol práve vylepšený</translation>
+<translation id="5381622442243174305"><ph name="PAGE_TITLE" /> - Dissenter</translation>
+<translation id="1403270718080126244"><ph name="PAGE_TITLE" /> – Dissenter Beta</translation>
 <translation id="61852838583753520">Aktualizácia systému &amp;Chrome OS</translation>
-<translation id="6235018212288296708">Pravidlo pre prichádzajúce prenosy pre prehliadač Brave, ktoré povoľuje prenos dát mDNS.</translation>
-<translation id="6291089322031436445">Aplikácie pre Brave vo verzii pre vývojárov</translation>
-<translation id="6291549208091401781">Brave už majú nainštalovaný všetci používatelia na vašom počítači.</translation>
-<translation id="6338556085225130112">Brave sa aktualizuje</translation>
+<translation id="6235018212288296708">Pravidlo pre prichádzajúce prenosy pre prehliadač Dissenter, ktoré povoľuje prenos dát mDNS.</translation>
+<translation id="6291089322031436445">Aplikácie pre Dissenter vo verzii pre vývojárov</translation>
+<translation id="6291549208091401781">Dissenter už majú nainštalovaný všetci používatelia na vašom počítači.</translation>
+<translation id="6338556085225130112">Dissenter sa aktualizuje</translation>
 <translation id="6368958679917195344">Chrome OS mohol vzniknúť vďaka ďalšiemu <ph name="BEGIN_LINK_CROS_OSS" />softvéru s otvoreným zdrojom<ph name="END_LINK_CROS_OSS" />.</translation>
-<translation id="6468844726266617801">{0,plural, =1{Brave znova spustite do jedného dňa}few{Brave znova spustite do # dní}many{Brave znova spustite do # dňa}other{Brave znova spustite do # dní}}</translation>
-<translation id="3943696263619956191"><ph name="PAGE_TITLE" /> – Brave Dev</translation>
-<translation id="6566149418543181476">Aktualizuje sa Brave (<ph name="PROGRESS_PERCENT" />)</translation>
-<translation id="2472951610753402739">Na synchronizáciu prehliadača Brave používate účet <ph name="PROFILE_EMAIL" />. Ak chcete upraviť predvoľby synchronizácie alebo používať prehliadač Brave bez účtu Google, prejdite na <ph name="SETTINGS_LINK" />.</translation>
-<translation id="663059986967017181">Skopírovaná do prehliadača Brave</translation>
-<translation id="6634887557811630702">Prehliadač Brave bol aktualizovaný.</translation>
+<translation id="6468844726266617801">{0,plural, =1{Dissenter znova spustite do jedného dňa}few{Dissenter znova spustite do # dní}many{Dissenter znova spustite do # dňa}other{Dissenter znova spustite do # dní}}</translation>
+<translation id="3943696263619956191"><ph name="PAGE_TITLE" /> – Dissenter Dev</translation>
+<translation id="6566149418543181476">Aktualizuje sa Dissenter (<ph name="PROGRESS_PERCENT" />)</translation>
+<translation id="2472951610753402739">Na synchronizáciu prehliadača Dissenter používate účet <ph name="PROFILE_EMAIL" />. Ak chcete upraviť predvoľby synchronizácie alebo používať prehliadač Dissenter bez účtu Google, prejdite na <ph name="SETTINGS_LINK" />.</translation>
+<translation id="663059986967017181">Skopírovaná do prehliadača Dissenter</translation>
+<translation id="6634887557811630702">Prehliadač Dissenter bol aktualizovaný.</translation>
 <translation id="6676384891291319759">Prístup do siete Internet</translation>
-<translation id="6679975945624592337">Povoliť prehliadaču Brave spustenie na pozadí</translation>
-<translation id="677276454032249905">Chcete Brave napriek tomu ukončiť?</translation>
-<translation id="683440813066116847">Pravidlo pre prichádzajúce prenosy pre prehliadač Brave verzie Canary, ktoré povoľuje prenos dát mDNS.</translation>
-<translation id="686561893457936865">Vezmite si Brave všade</translation>
-<translation id="6885412569789873916">Aplikácie pre Brave beta verzie</translation>
-<translation id="6943584222992551122">Dáta prehliadania tejto osoby sa odstránia z tohto zariadenia. Ak ich budete chcieť obnoviť, prihláste sa do Brave ako <ph name="USER_EMAIL" />.</translation>
-<translation id="6964107240822114422">{0,plural, =0{Je k dispozícii aktualizácia Brave}=1{Je k dispozícii aktualizácia Brave}few{Aktualizácia Brave je k dispozícii už # dni}many{Aktualizácia Brave je k dispozícii už # dňa}other{Aktualizácia Brave je k dispozícii už # dní}}</translation>
-<translation id="6967962315388095737">Pravidlo pre prichádzajúce prenosy pre prehliadač Brave beta verzie, ktoré povoľuje prenos dát mDNS.</translation>
+<translation id="6679975945624592337">Povoliť prehliadaču Dissenter spustenie na pozadí</translation>
+<translation id="677276454032249905">Chcete Dissenter napriek tomu ukončiť?</translation>
+<translation id="683440813066116847">Pravidlo pre prichádzajúce prenosy pre prehliadač Dissenter verzie Canary, ktoré povoľuje prenos dát mDNS.</translation>
+<translation id="686561893457936865">Vezmite si Dissenter všade</translation>
+<translation id="6885412569789873916">Aplikácie pre Dissenter beta verzie</translation>
+<translation id="6943584222992551122">Dáta prehliadania tejto osoby sa odstránia z tohto zariadenia. Ak ich budete chcieť obnoviť, prihláste sa do Dissenter ako <ph name="USER_EMAIL" />.</translation>
+<translation id="6964107240822114422">{0,plural, =0{Je k dispozícii aktualizácia Dissenter}=1{Je k dispozícii aktualizácia Dissenter}few{Aktualizácia Dissenter je k dispozícii už # dni}many{Aktualizácia Dissenter je k dispozícii už # dňa}other{Aktualizácia Dissenter je k dispozícii už # dní}}</translation>
+<translation id="6967962315388095737">Pravidlo pre prichádzajúce prenosy pre prehliadač Dissenter beta verzie, ktoré povoľuje prenos dát mDNS.</translation>
 <translation id="6970811910055250180">Prebieha aktualizácia zariadenia...</translation>
 <translation id="6982337800632491844">Stránky <ph name="DOMAIN" /> vyžadujú, aby ste si pred používaním tohto zariadenia prečítali nasledujúce Zmluvné podmienky a vyjadrili s nimi súhlas. Tieto zmluvné podmienky nerozširujú, neupravujú ani neobmedzujú Zmluvné podmienky systému Chrome OS.</translation>
-<translation id="6989339256997917931">Prehliadač Brave bol aktualizovaný, ale najmenej 30 dní ste ho nepoužili.</translation>
+<translation id="6989339256997917931">Prehliadač Dissenter bol aktualizovaný, ale najmenej 30 dní ste ho nepoužili.</translation>
 <translation id="7023651421574588884">Správca požaduje, aby ste reštartovali Chrome OS na použitie aktualizácie</translation>
-<translation id="8919461291440820124">Brave používa váš mikrofón.</translation>
-<translation id="5516268345616100622">Správca úloh – Brave</translation>
-<translation id="474353600079041991">Automatickým nahlasovaním podrobností o možných bezpečnostných problémoch môžete prispieť k zvýšeniu zabezpečenia prehliadača Brave a k zjednodušeniu jeho používania.</translation>
-<translation id="7242029209006116544">Prihlasujete sa pomocou spravovaného účtu a jeho správcovi dávate kontrolu nad vaším profilom prehliadača Brave. Vaše údaje prehliadača Brave, ako sú aplikácie, záložky, história, heslá a iné nastavenia, sa natrvalo priradia k účtu <ph name="USER_NAME" />. Tieto údaje budete môcť odstrániť len pomocou panela Dashboard v Účtoch Google, ale nebudete ich môcť priradiť k inému účtu. Ak chcete, aby boli existujúce údaje prehliadača Brave oddelené, môžete vytvoriť nový profil. <ph name="LEARN_MORE" /></translation>
-<translation id="7295052994004373688">V tomto jazyku sa zobrazuje používateľské rozhranie prehliadača Brave.</translation>
+<translation id="8919461291440820124">Dissenter používa váš mikrofón.</translation>
+<translation id="5516268345616100622">Správca úloh – Dissenter</translation>
+<translation id="474353600079041991">Automatickým nahlasovaním podrobností o možných bezpečnostných problémoch môžete prispieť k zvýšeniu zabezpečenia prehliadača Dissenter a k zjednodušeniu jeho používania.</translation>
+<translation id="7242029209006116544">Prihlasujete sa pomocou spravovaného účtu a jeho správcovi dávate kontrolu nad vaším profilom prehliadača Dissenter. Vaše údaje prehliadača Dissenter, ako sú aplikácie, záložky, história, heslá a iné nastavenia, sa natrvalo priradia k účtu <ph name="USER_NAME" />. Tieto údaje budete môcť odstrániť len pomocou panela Dashboard v Účtoch Google, ale nebudete ich môcť priradiť k inému účtu. Ak chcete, aby boli existujúce údaje prehliadača Dissenter oddelené, môžete vytvoriť nový profil. <ph name="LEARN_MORE" /></translation>
+<translation id="7295052994004373688">V tomto jazyku sa zobrazuje používateľské rozhranie prehliadača Dissenter.</translation>
 <translation id="7296210096911315575">Dôležité informácie o používaní a zabezpečení</translation>
-<translation id="7308322188646931570">Brave potrebuje na sťahovanie súborov prístup k úložisku</translation>
+<translation id="7308322188646931570">Dissenter potrebuje na sťahovanie súborov prístup k úložisku</translation>
 <translation id="7339898014177206373">Nové okno</translation>
-<translation id="7398801000654795464">Do prehliadača Brave ste boli prihlásený/-á ako <ph name="USER_EMAIL_ADDRESS" />. Ak sa chcete prihlásiť znova, použite rovnaký účet.</translation>
-<translation id="7408085963519505752">Zmluvné podmienky systému OS Brave</translation>
-<translation id="7419046106786626209">Systému OS Brave sa nepodarilo synchronizovať vaše údaje, pretože možnosť synchronizácie nie je pre vašu doménu k dispozícii.</translation>
-<translation id="7459554271817304652">Ak chcete uložiť svoje prispôsobené funkcie prehliadača na webe a pristupovať k nim z prehliadača Brave v ktoromkoľvek počítači, nastavte synchronizáciu.</translation>
-<translation id="7473136999113284234">Brave sa aktualizuje automaticky, aby ste mali vždy k dispozícii najnovšiu verziu.</translation>
-<translation id="7486227612705979895">Brave bude mať prístup na váš Disk, aby mohol v paneli s adresou zobrazovať návrhy</translation>
-<translation id="2938460345748897177">Tento súbor je nebezpečný, a preto ho Brave zablokoval. Bráni vás rozšírená ochrana.</translation>
-<translation id="8887390605192156061">Zavrite všetky okná Brave.</translation>
-<translation id="7535429826459677826">Brave verzie pre vývojárov</translation>
+<translation id="7398801000654795464">Do prehliadača Dissenter ste boli prihlásený/-á ako <ph name="USER_EMAIL_ADDRESS" />. Ak sa chcete prihlásiť znova, použite rovnaký účet.</translation>
+<translation id="7408085963519505752">Zmluvné podmienky systému OS Dissenter</translation>
+<translation id="7419046106786626209">Systému OS Dissenter sa nepodarilo synchronizovať vaše údaje, pretože možnosť synchronizácie nie je pre vašu doménu k dispozícii.</translation>
+<translation id="7459554271817304652">Ak chcete uložiť svoje prispôsobené funkcie prehliadača na webe a pristupovať k nim z prehliadača Dissenter v ktoromkoľvek počítači, nastavte synchronizáciu.</translation>
+<translation id="7473136999113284234">Dissenter sa aktualizuje automaticky, aby ste mali vždy k dispozícii najnovšiu verziu.</translation>
+<translation id="7486227612705979895">Dissenter bude mať prístup na váš Disk, aby mohol v paneli s adresou zobrazovať návrhy</translation>
+<translation id="2938460345748897177">Tento súbor je nebezpečný, a preto ho Dissenter zablokoval. Bráni vás rozšírená ochrana.</translation>
+<translation id="8887390605192156061">Zavrite všetky okná Dissenter.</translation>
+<translation id="7535429826459677826">Dissenter verzie pre vývojárov</translation>
 <translation id="7552219221109926349">Zobraziť Chrome OS v tomto jazyku</translation>
-<translation id="7561940363513215021">{0,plural, =1{Brave sa reštartuje o 1 minútu}few{Brave sa reštartuje o # minúty}many{Brave sa reštartuje o # minúty}other{Brave sa reštartuje o # minút}}</translation>
-<translation id="7589360514048265910">Tento počítač už nebude dostávať aktualizácie prehliadača Brave, pretože systém Mac OS X 10.9 už nie je podporovaný.</translation>
-<translation id="7592736734348559088">Prehliadaču Brave sa nepodarilo synchronizovať vaše údaje, pretože vaše prihlasovacie údaje účtu sú zastarané.</translation>
-<translation id="7207456302801184289">Víta vás prehliadač Brave</translation>
-<translation id="7636297873481318396">Tento súbor je nebezpečný, a preto ho Brave zablokoval. Bráni vás rozšírená ochrana.</translation>
-<translation id="7641148173327520642">Správca systému nakonfiguroval Brave, aby <ph name="TARGET_URL_HOSTNAME" /> otváral v prehliadači <ph name="ALTERNATIVE_BROWSER_NAME" />.</translation>
-<translation id="7651907282515937834">Logo Brave Enterprise</translation>
+<translation id="7561940363513215021">{0,plural, =1{Dissenter sa reštartuje o 1 minútu}few{Dissenter sa reštartuje o # minúty}many{Dissenter sa reštartuje o # minúty}other{Dissenter sa reštartuje o # minút}}</translation>
+<translation id="7589360514048265910">Tento počítač už nebude dostávať aktualizácie prehliadača Dissenter, pretože systém Mac OS X 10.9 už nie je podporovaný.</translation>
+<translation id="7592736734348559088">Prehliadaču Dissenter sa nepodarilo synchronizovať vaše údaje, pretože vaše prihlasovacie údaje účtu sú zastarané.</translation>
+<translation id="7207456302801184289">Víta vás prehliadač Dissenter</translation>
+<translation id="7636297873481318396">Tento súbor je nebezpečný, a preto ho Dissenter zablokoval. Bráni vás rozšírená ochrana.</translation>
+<translation id="7641148173327520642">Správca systému nakonfiguroval Dissenter, aby <ph name="TARGET_URL_HOSTNAME" /> otváral v prehliadači <ph name="ALTERNATIVE_BROWSER_NAME" />.</translation>
+<translation id="7651907282515937834">Logo Dissenter Enterprise</translation>
 <translation id="7747138024166251722">Inštalátor nemohol vytvoriť dočasný priečinok. Skontrolujte úroveň zaplnenia disku a povolenie na inštaláciu softvéru.</translation>
-<translation id="7761834446675418963">Ak chcete otvoriť prehliadač Brave a začať prehliadať, kliknite na svoje meno.</translation>
-<translation id="7777080907402804672">Ak obrázok nemá užitočný popis, Brave sa vám ho pokúsi poskytnúť. Obrázky sa odosielajú Googlu, aby bolo možné vytvoriť popisy. Môžete to kedykoľvek vypnúť v nastaveniach.</translation>
-<translation id="7781002470561365167">K dispozícii je nová verzia prehliadača Brave.</translation>
-<translation id="7787950393032327779">Zdá sa, že profil používa ďalší proces prehliadača Brave (<ph name="PROCESS_ID" />) na inom počítači (<ph name="HOST_NAME" />). Prehliadač Brave daný profil uzamkol, aby sa nepoškodil. Ak s istotou viete, že tento profil nepoužívajú žiadne iné procesy, môžete ho odomknúť a prehliadač Brave znova spustiť.</translation>
-<translation id="777113543093865885">Odstrániť z prehliadača Brave...</translation>
-<translation id="7825851276765848807">Inštalácia zlyhala kvôli neznámej chybe. Skúste aplikáciu Brave stiahnuť znova.</translation>
-<translation id="7855730255114109580">Brave je aktuálny.</translation>
-<translation id="7888186132678118370">Pripnutie Brave na paneli úloh</translation>
-<translation id="7890208801193284374">Ak počítač zdieľate s rodinou a priateľmi, môžu v prehliadači Brave prehliadať oddelene a tiež si ho nastaviť podľa vlastných požiadaviek.</translation>
-<translation id="7896673875602241923">Do Brave sa už na tomto počítači niekto prihlásil pomocou účtu <ph name="ACCOUNT_EMAIL_LAST" />. Ak chcete ponechať svoje informácie oddelené, vytvorte v Brave nového používateľa.</translation>
-<translation id="7908168227788431038">Aktualizácia je takmer hotová! Dokončíte ju novým spustením Brave.</translation>
-<translation id="7962410387636238736">Tento počítač už nebude dostávať aktualizácie prehliadača Brave, pretože systémy Windows XP a Windows Vista už nie sú podporované</translation>
-<translation id="8005540215158006229">Prehliadač Brave je takmer pripravený.</translation>
-<translation id="5875673934455379806">Preinštalovať prehliadač Brave</translation>
-<translation id="8013993649590906847">Ak obrázok nemá užitočný popis, Brave sa vám ho pokúsi poskytnúť. Obrázky sa odosielajú Googlu, aby bolo možné vytvoriť popisy.</translation>
+<translation id="7761834446675418963">Ak chcete otvoriť prehliadač Dissenter a začať prehliadať, kliknite na svoje meno.</translation>
+<translation id="7777080907402804672">Ak obrázok nemá užitočný popis, Dissenter sa vám ho pokúsi poskytnúť. Obrázky sa odosielajú Googlu, aby bolo možné vytvoriť popisy. Môžete to kedykoľvek vypnúť v nastaveniach.</translation>
+<translation id="7781002470561365167">K dispozícii je nová verzia prehliadača Dissenter.</translation>
+<translation id="7787950393032327779">Zdá sa, že profil používa ďalší proces prehliadača Dissenter (<ph name="PROCESS_ID" />) na inom počítači (<ph name="HOST_NAME" />). Prehliadač Dissenter daný profil uzamkol, aby sa nepoškodil. Ak s istotou viete, že tento profil nepoužívajú žiadne iné procesy, môžete ho odomknúť a prehliadač Dissenter znova spustiť.</translation>
+<translation id="777113543093865885">Odstrániť z prehliadača Dissenter...</translation>
+<translation id="7825851276765848807">Inštalácia zlyhala kvôli neznámej chybe. Skúste aplikáciu Dissenter stiahnuť znova.</translation>
+<translation id="7855730255114109580">Dissenter je aktuálny.</translation>
+<translation id="7888186132678118370">Pripnutie Dissenter na paneli úloh</translation>
+<translation id="7890208801193284374">Ak počítač zdieľate s rodinou a priateľmi, môžu v prehliadači Dissenter prehliadať oddelene a tiež si ho nastaviť podľa vlastných požiadaviek.</translation>
+<translation id="7896673875602241923">Do Dissenter sa už na tomto počítači niekto prihlásil pomocou účtu <ph name="ACCOUNT_EMAIL_LAST" />. Ak chcete ponechať svoje informácie oddelené, vytvorte v Dissenter nového používateľa.</translation>
+<translation id="7908168227788431038">Aktualizácia je takmer hotová! Dokončíte ju novým spustením Dissenter.</translation>
+<translation id="7962410387636238736">Tento počítač už nebude dostávať aktualizácie prehliadača Dissenter, pretože systémy Windows XP a Windows Vista už nie sú podporované</translation>
+<translation id="8005540215158006229">Prehliadač Dissenter je takmer pripravený.</translation>
+<translation id="5875673934455379806">Preinštalovať prehliadač Dissenter</translation>
+<translation id="8013993649590906847">Ak obrázok nemá užitočný popis, Dissenter sa vám ho pokúsi poskytnúť. Obrázky sa odosielajú Googlu, aby bolo možné vytvoriť popisy.</translation>
 <translation id="8030318113982266900">Prebieha aktualizácia vášho zariadenia na kanál <ph name="CHANNEL_NAME" />...</translation>
-<translation id="1672124279374861424">Po odstránení účtu z prehliadača Brave možno budete musieť znova načítať otvorené karty, aby sa zmena uplatnila.</translation>
+<translation id="1672124279374861424">Po odstránení účtu z prehliadača Dissenter možno budete musieť znova načítať otvorené karty, aby sa zmena uplatnila.</translation>
 <translation id="8077352834923175128">Správca vás žiada o reštartovanie systému Chrome OS na použitie aktualizácie</translation>
-<translation id="8129812357326543296">Informácie o prehliadači &amp;Brave</translation>
-<translation id="8899693649891674038">Nainštalujte si Brave do telefónu. Pošleme vám doň správu SMS.</translation>
-<translation id="8183957050892517584">Brave vaše osobné údaje bezpečne uloží, aby ste ich už nemuseli znova zadávať.</translation>
+<translation id="8129812357326543296">Informácie o prehliadači &amp;Dissenter</translation>
+<translation id="8899693649891674038">Nainštalujte si Dissenter do telefónu. Pošleme vám doň správu SMS.</translation>
+<translation id="8183957050892517584">Dissenter vaše osobné údaje bezpečne uloží, aby ste ich už nemuseli znova zadávať.</translation>
 <translation id="8226081633851087288">{0,plural, =0{Chrome OS sa teraz reštartuje}=1{Chrome OS sa reštartuje o sekundu}few{Chrome OS sa reštartuje o # sekundy}many{Chrome OS sa reštartuje o # sekundy}other{Chrome OS sa reštartuje o # sekúnd}}</translation>
-<translation id="5138664332909611586">Táto stránka využíva príliš veľa pamäte, a preto Brave odstránil niektorý obsah.</translation>
-<translation id="3293668930608086049">Brave používa vašu kameru a mikrofón.</translation>
-<translation id="8286862437124483331">Prehliadač Brave sa pokúša zobraziť heslá. Ak to chcete povoliť, zadajte svoje heslo systému Windows.</translation>
-<translation id="8290100596633877290">Brave zlyhal. Chcete ho spustiť znova?</translation>
-<translation id="9067428552314418522">Tento súbor je nebezpečný, a preto ho Brave zablokoval.</translation>
-<translation id="8370517070665726704">Copyright <ph name="YEAR" /> Brave Software Inc. Všetky práva vyhradené.</translation>
-<translation id="8380166467911888159">Brave odošle text zadaný v textových poliach Googlu s cieľom opraviť pravopisné chyby</translation>
-<translation id="840084489713044809">Brave sa pokúša exportovať vaše heslá.</translation>
-<translation id="763369711159699222">Pomôžte nám Brave zlepšiť</translation>
-<translation id="5509303873219371662">Mali by ste reštartovať prehliadač Brave</translation>
+<translation id="5138664332909611586">Táto stránka využíva príliš veľa pamäte, a preto Dissenter odstránil niektorý obsah.</translation>
+<translation id="3293668930608086049">Dissenter používa vašu kameru a mikrofón.</translation>
+<translation id="8286862437124483331">Prehliadač Dissenter sa pokúša zobraziť heslá. Ak to chcete povoliť, zadajte svoje heslo systému Windows.</translation>
+<translation id="8290100596633877290">Dissenter zlyhal. Chcete ho spustiť znova?</translation>
+<translation id="9067428552314418522">Tento súbor je nebezpečný, a preto ho Dissenter zablokoval.</translation>
+<translation id="8370517070665726704">Copyright <ph name="YEAR" /> Gab AI Inc. Všetky práva vyhradené.</translation>
+<translation id="8380166467911888159">Dissenter odošle text zadaný v textových poliach Googlu s cieľom opraviť pravopisné chyby</translation>
+<translation id="840084489713044809">Dissenter sa pokúša exportovať vaše heslá.</translation>
+<translation id="763369711159699222">Pomôžte nám Dissenter zlepšiť</translation>
+<translation id="5509303873219371662">Mali by ste reštartovať prehliadač Dissenter</translation>
 <translation id="8455999171311319804">Voliteľné: Pomáhať s vylepšením systému Chrome OS automatickým odosielaním diagnostík a údajov o využívaní Googlu.</translation>
-<translation id="2965084188004448871">Nainštalujte si Brave do telefónu. Pošleme vám správu SMS na telefónne číslo na obnovenie účtu: <ph name="PHONE_NUMBER" /></translation>
-<translation id="8668413672647811944">Práve bola použitá mimoriadna bezpečnostná aktualizácia pre prehliadač Brave. Po reštartovaní obnovíme vaše karty.</translation>
-<translation id="8521348052903287641">Pravidlo pre prichádzajúce prenosy pre prehliadač Brave verzie pre vývojárov, ktoré povoľuje prenos dát mDNS.</translation>
-<translation id="8547799825197623713">Spúšťač aplikácií Brave Canary</translation>
-<translation id="8556340503434111824">K dispozícii je nová verzia prehliadača Brave, ktorá je rýchlejšia ako kedykoľvek predtým.</translation>
-<translation id="8568392309447938879">Aplikácie môžete používať až po prihlásení do prehliadača Brave. Prehliadaču Brave tým umožníte synchronizovať vaše aplikácie, záložky, históriu, heslá a ďalšie nastavenia na všetkých zariadeniach.</translation>
-<translation id="8606668294522778825">Brave vám môže uľahčiť prehliadanie pomocou webových služieb. Vybrané webové služby môžete podľa potreby vypnúť. <ph name="BEGIN_LINK" />Ďalšie informácie<ph name="END_LINK" /></translation>
-<translation id="8614913330719544658">Brave nereaguje. Chcete ho spustiť znova?</translation>
+<translation id="2965084188004448871">Nainštalujte si Dissenter do telefónu. Pošleme vám správu SMS na telefónne číslo na obnovenie účtu: <ph name="PHONE_NUMBER" /></translation>
+<translation id="8668413672647811944">Práve bola použitá mimoriadna bezpečnostná aktualizácia pre prehliadač Dissenter. Po reštartovaní obnovíme vaše karty.</translation>
+<translation id="8521348052903287641">Pravidlo pre prichádzajúce prenosy pre prehliadač Dissenter verzie pre vývojárov, ktoré povoľuje prenos dát mDNS.</translation>
+<translation id="8547799825197623713">Spúšťač aplikácií Dissenter Canary</translation>
+<translation id="8556340503434111824">K dispozícii je nová verzia prehliadača Dissenter, ktorá je rýchlejšia ako kedykoľvek predtým.</translation>
+<translation id="8568392309447938879">Aplikácie môžete používať až po prihlásení do prehliadača Dissenter. Prehliadaču Dissenter tým umožníte synchronizovať vaše aplikácie, záložky, históriu, heslá a ďalšie nastavenia na všetkých zariadeniach.</translation>
+<translation id="8606668294522778825">Dissenter vám môže uľahčiť prehliadanie pomocou webových služieb. Vybrané webové služby môžete podľa potreby vypnúť. <ph name="BEGIN_LINK" />Ďalšie informácie<ph name="END_LINK" /></translation>
+<translation id="8614913330719544658">Dissenter nereaguje. Chcete ho spustiť znova?</translation>
 <translation id="8667808506758191620">Vaše zariadenie <ph name="DEVICE_TYPE" /> je aktuálne.</translation>
-<translation id="8669527147644353129">Brave Helper</translation>
-<translation id="8679801911857917785">Tiež určuje, ktorá stránka sa zobrazí pri spustení prehliadača Brave.</translation>
-<translation id="870251953148363156">Aktualizácia prehliadača &amp;Brave</translation>
+<translation id="8669527147644353129">Dissenter Helper</translation>
+<translation id="8679801911857917785">Tiež určuje, ktorá stránka sa zobrazí pri spustení prehliadača Dissenter.</translation>
+<translation id="870251953148363156">Aktualizácia prehliadača &amp;Dissenter</translation>
 <translation id="8704255848199359374">Využíva rovnaký nástroj na kontrolu pravopisu, aký sa používa vo Vyhľadávaní Google. Text, ktorý napíšete v prehliadači, sa odosiela Googlu. Toto správanie môžete zmeniť v nastaveniach.</translation>
-<translation id="873133009373065397">Brave nedokáže určiť alebo nastaviť predvolený prehliadač</translation>
-<translation id="8736674169840206667">Správca požaduje, aby ste reštartovali Brave na použitie aktualizácie</translation>
+<translation id="873133009373065397">Dissenter nedokáže určiť alebo nastaviť predvolený prehliadač</translation>
+<translation id="8736674169840206667">Správca požaduje, aby ste reštartovali Dissenter na použitie aktualizácie</translation>
 <translation id="8788264404293392165">V tomto jazyku sa zobrazuje používateľské rozhranie systému Google OS</translation>
 <translation id="8791470158600044404">{0,plural, =1{Chrome OS sa reštartuje o 1 minútu}few{Chrome OS sa reštartuje o # minúty}many{Chrome OS sa reštartuje o # minúty}other{Chrome OS sa reštartuje o # minút}}</translation>
-<translation id="8823341990149967727">Prehliadač Brave je zastaraný</translation>
-<translation id="884296878221830158">Tiež určuje, ktorá stránka sa zobrazí pri spustení prehliadača Brave alebo po kliknutí na tlačidlo Domovská stránka.</translation>
+<translation id="8823341990149967727">Prehliadač Dissenter je zastaraný</translation>
+<translation id="884296878221830158">Tiež určuje, ktorá stránka sa zobrazí pri spustení prehliadača Dissenter alebo po kliknutí na tlačidlo Domovská stránka.</translation>
 <translation id="8862326446509486874">Nemáte potrebné práva na inštaláciu na úrovni systému. Skúste inštalátor spustiť znova ako správca.</translation>
-<translation id="8914504000324227558">Znova spustiť prehliadač Brave</translation>
-<translation id="9026991721384951619">Systému OS Brave sa nepodarilo synchronizovať vaše údaje, pretože vaše prihlasovacie údaje účtu sú zastarané.</translation>
-<translation id="9067395829937117663">Brave vyžaduje Windows 7 alebo vyšší.</translation>
+<translation id="8914504000324227558">Znova spustiť prehliadač Dissenter</translation>
+<translation id="9026991721384951619">Systému OS Dissenter sa nepodarilo synchronizovať vaše údaje, pretože vaše prihlasovacie údaje účtu sú zastarané.</translation>
+<translation id="9067395829937117663">Dissenter vyžaduje Windows 7 alebo vyšší.</translation>
 <translation id="909149346112452267">{0,plural, =1{Chrome OS sa reštartuje o 1 hodinu}few{Chrome OS sa reštartuje o # hodiny}many{Chrome OS sa reštartuje o # hodiny}other{Chrome OS sa reštartuje o # hodín}}</translation>
 <translation id="911206726377975832">Chcete tiež odstrániť svoje údaje prehliadania?</translation>
-<translation id="9138603949443464873">Ak chcete zmeny použiť, spustite Brave znova</translation>
-<translation id="919706545465235479">Ak chcete spustiť synchronizáciu, aktualizujte Brave</translation>
-<translation id="924447568950697217">Nastavenie Brave ako predvoleného prehliadača</translation>
-<translation id="989369509083708165">Brave je vaším predvoleným prehliadačom</translation>
+<translation id="9138603949443464873">Ak chcete zmeny použiť, spustite Dissenter znova</translation>
+<translation id="919706545465235479">Ak chcete spustiť synchronizáciu, aktualizujte Dissenter</translation>
+<translation id="924447568950697217">Nastavenie Dissenter ako predvoleného prehliadača</translation>
+<translation id="989369509083708165">Dissenter je vaším predvoleným prehliadačom</translation>
 </translationbundle>

@@ -1,6 +1,6 @@
 <resources>
 
-    <string name="brave_settings_title">Brave sitesi koruma ayarları:</string>
+    <string name="brave_settings_title">Dissenter sitesi koruma ayarları:</string>
     <string name="brave_shields_down">Aşağı</string>
     <string name="brave_shields_up">Yukarı</string>
     <string name="brave_shields_ads_trackers">Reklam ve Takipçiler Engellendi</string>
@@ -9,7 +9,7 @@
     <string name="brave_shields_ads_tracking_switch">Reklam ve Takipçileri Engelle</string>
     <string name="brave_shields_https_everywhere_switch">HTTPS Her yerde</string>
     <string name="brave_shields_blocks_scripts_switch">Betikleri Engelle</string>
-    <string name="accessibility_toolbar_btn_brave_shields">Brave Korumalarını Aç/Kapat</string>
+    <string name="accessibility_toolbar_btn_brave_shields">Dissenter Korumalarını Aç/Kapat</string>
     <string name="brave_shields_block_3rd_party_cookies_switch">Üçüncü kişi çerezlerini engelleyin</string>
 
     <string name="httpse_summary">Desteklenen siteleri mümkün olduğunda HTTP yerine HTTPS kullanarak açar</string>
@@ -30,7 +30,7 @@
 
     <string name="menu_exit">Çıkış</string>
 
-    <string name="brave_sync">Brave Senkronizasyonu (beta)</string>
+    <string name="brave_sync">Dissenter Senkronizasyonu (beta)</string>
     <string name="sync_settings_add_device_name_title">Cihaz adı ekle</string>
     <string name="sync_settings_add_device_name_label">Bu cihaz için isteğe bağlı bir ad girin</string>
     <string name="sync_example_device_name">Android cihazı</string>
@@ -67,14 +67,14 @@ Kaydedildi</string>
     <string name="website_settings_category_play_video_in_background_enabled_summary">Etkin</string>
     <string name="website_settings_category_play_video_in_background_disabled_summary">Kapalı</string>
     <string name="website_settings_category_play_video_in_background_enabled">Deneme niteliğinde. Sekme etkin olmadığında veya cihaz ekranı kapalıyken arka plandaki videnun oynatma sesini etkinleştirir. Bu özellik çalışmıyorsa masaüstü moduna geçmeyi deneyin.</string>
-    <string name="settings_require_relaunch_notice">Değişiklikleriniz Brave\'i bir sonraki yeniden başlattığınızda geçerli olacak</string>
+    <string name="settings_require_relaunch_notice">Değişiklikleriniz Dissenter\'i bir sonraki yeniden başlattığınızda geçerli olacak</string>
     <string name="settings_require_relaunch_now">ŞİMDİ YENİDEN BAŞLAT</string>
     <string name="settings_require_relaunch_later">SONRA</string>
 
-    <string name="play_yt_video_in_browser_title">Brave\'de video oynatma</string>
+    <string name="play_yt_video_in_browser_title">Dissenter\'de video oynatma</string>
     <string name="website_settings_category_play_yt_video_in_browser_enabled_summary">Etkin</string>
     <string name="website_settings_category_play_yt_video_in_browser_disabled_summary">Devre Dışı</string>
-    <string name="website_settings_category_play_yt_video_in_browser_enabled">Etkinleştirilmesi halinde videolar ilişkili uygulama yerine Brave\'de oynatılacaktır</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled">Etkinleştirilmesi halinde videolar ilişkili uygulama yerine Dissenter\'de oynatılacaktır</string>
 
     <string name="close_tabs_on_exit_title">Çıkışta sekmeleri kapatın</string>
     <string name="close_tabs_on_exit_summary">Tarama oturumları arasında sekmeleri sürdürmeyin</string>
@@ -83,7 +83,7 @@ Kaydedildi</string>
     <string name="open_pages_in_custom_tabs_summary">Sekmeleri Özel Sekmelerde açma teklifi</string>
 
     <string name="ddg_offer_title">DuckDuckGo ile gizli arama yapılsın mı?</string>
-    <string name="ddg_offer_text">Gizli arama özelliği kullanıldığında Brave, bu gizli sekmede yaptığınız aramaları yanıtlamak için DuckDuckGo\'yu kullanır. DuckDuckGo, arama geçmişinizi takip etmeyen ve gizli şekilde arama yapmanızı sağlayan bir arama motorudur.</string>
+    <string name="ddg_offer_text">Gizli arama özelliği kullanıldığında Dissenter, bu gizli sekmede yaptığınız aramaları yanıtlamak için DuckDuckGo\'yu kullanır. DuckDuckGo, arama geçmişinizi takip etmeyen ve gizli şekilde arama yapmanızı sağlayan bir arama motorudur.</string>
     <string name="ddg_offer_positive">Evet</string>
     <string name="ddg_offer_negative">Hayır</string>
     <string name="ddg_offer_link">DuckDuckGo ile gizli arama yapma hakkında bilgi edinin</string>
@@ -95,25 +95,25 @@ Kaydedildi</string>
     <string name="brave_new_private_tab">Yeni gizli sekme</string>
     <string name="brave_new_tab_private_header">Bu bir Gizli Sekme</string>
     <string name="brave_new_tab_private_message">Gizli sekmelerde ziyaret ettiğiniz siteler yerel olarak kaydedilmese de anonim olarak kalmazsınız ve bu siteler internet servis sağlayıcınız, işvereniniz veya ziyaret ettiğiniz siteler tarafından görülebilir.</string>
-    <string name="update_notification_title">Brave güncellemesi</string>
-    <string name="update_notification_text">Yeni Brave tarayıcı %22 daha hızlı</string>
+    <string name="update_notification_title">Dissenter güncellemesi</string>
+    <string name="update_notification_text">Yeni Dissenter tarayıcı %22 daha hızlı</string>
     <string name="prefs_sync">Senkronizasyon (beta)</string>
-    <string name="brave_sync_description_page_1_part_1">Brave Sync, çeşitli cihazlarınızdaki Brave Tarayıcılarınız arasında yer işareti verilerini gizli bir şekilde senkronize etmenize imkan verir.</string>
+    <string name="brave_sync_description_page_1_part_1">Dissenter Sync, çeşitli cihazlarınızdaki Dissenter Tarayıcılarınız arasında yer işareti verilerini gizli bir şekilde senkronize etmenize imkan verir.</string>
     <string name="brave_sync_description_page_1_part_2">Başka bir cihazda oluşturduğunuz senkronizasyon zincirinizden kodu taramanız veya yeni bir senkronizasyon zinciri başlatmanız yeterlidir.</string>
     <string name="brave_sync_scan_chain_code">Senkronizasyon kodu tara veya gir</string>
     <string name="brave_sync_start_new_chain">Yeni bir senkronizasyon zinciri başlat</string>
-    <string name="brave_sync_qrcode_message_v2">Senkronize edilmiş mevcut cihazı kullanarak Brave Ayarları\'nı açın ve Ayarlar > Senkronizasyon öğesine gidin. \"Cihaz Ekle\" öğesini seçin ve ekranda görüntülenen QR Kodunu tarayın.</string>
-    <string name="brave_sync_codewords_message">Senkronize edilmiş mevcut cihazı kullanarak Brave Ayarları\'nı açın ve Ayarlar > Senkronizasyon öğesine gidin. \"Cihaz Ekle\" öğesini ve ardından \"Bunun yerine kod kelimelerini görüntüle\" öğesini seçin.</string>
+    <string name="brave_sync_qrcode_message_v2">Senkronize edilmiş mevcut cihazı kullanarak Dissenter Ayarları\'nı açın ve Ayarlar > Senkronizasyon öğesine gidin. \"Cihaz Ekle\" öğesini seçin ve ekranda görüntülenen QR Kodunu tarayın.</string>
+    <string name="brave_sync_codewords_message">Senkronize edilmiş mevcut cihazı kullanarak Dissenter Ayarları\'nı açın ve Ayarlar > Senkronizasyon öğesine gidin. \"Cihaz Ekle\" öğesini ve ardından \"Bunun yerine kod kelimelerini görüntüle\" öğesini seçin.</string>
     <string name="brave_sync_btn_mobile">Mobil Cihaz Ekle</string>
     <string name="brave_sync_btn_laptop">Bilgisayar Ekle</string>
     <string name="brave_sync_scan_sync_code">Bu senkronizasyon kodunu tarayın</string>
-    <string name="brave_sync_add_mobile_device_text_part_1">İkinci bir telefon veya tablet kullanarak Brave Ayarları > Senkronizasyon > Tara öğesine gidin.</string>
+    <string name="brave_sync_add_mobile_device_text_part_1">İkinci bir telefon veya tablet kullanarak Dissenter Ayarları > Senkronizasyon > Tara öğesine gidin.</string>
     <string name="brave_sync_add_mobile_device_text_part_2">İkinci cihazınızla (yukarıdaki) QR kodunu çekin veya kamera mevcut değilse kod kelimelerini girin.</string>
     <string name="brave_sync_btn_done">Bitti</string>
     <string name="brave_sync_tabs_text">Sekmeler</string>
     <string name="brave_sync_history_text">Geçmiş</string>
     <string name="brave_sync_autofill_passwords_text">Otomatik Doldurma/Parolalar</string>
-    <string name="brave_sync_payment_settings_text">Brave Ödeme Ayarları</string>
+    <string name="brave_sync_payment_settings_text">Dissenter Ödeme Ayarları</string>
     <string name="brave_sync_settings_title">BU CİHAZDA SENKRONİZASYON</string>
     <string name="brave_sync_settings_description">Ayarların değiştirilmesi yalnızca bu cihazın diğerleriyle paylaştığı verileri etkileyecektir.</string>
     <string name="brave_sync_devices_title">ZİNCİRDEKİ DİĞER CİHAZLAR</string>
@@ -122,7 +122,7 @@ Kaydedildi</string>
     <string name="brave_sync_remove_device_text">Bu cihazı kaldır</string>
     <string name="brave_sync_code_words_title">Eşleştir</string>
     <string name="brave_sync_add_laptop_text_title">Senkronizasyon zinciri kodunu gir</string>
-    <string name="brave_sync_add_laptop_text_part_1">Bilgisayarınızda Brave Ayarları > Senkronizasyon öğesine gidin. \"Senkronizasyon Zinciri Kodu Gir\" öğesini seçin.</string>
+    <string name="brave_sync_add_laptop_text_part_1">Bilgisayarınızda Dissenter Ayarları > Senkronizasyon öğesine gidin. \"Senkronizasyon Zinciri Kodu Gir\" öğesini seçin.</string>
     <string name="brave_sync_add_laptop_text_part_2">Yukarıdaki kod kelimelerini boşluklar dahil girin.</string>
     <string name="brave_sync_delete_device">\"<ph name=\"DEVICE_NAME\">%1$s</ph>\" cihazını silmek istediğinizden emin misiniz?</string>
     <string name="brave_sync_delete_sent">Silme talebi gönderildi. Cihaz kısa süre içinde kaldırılacak.</string>
@@ -138,14 +138,14 @@ Kaydedildi</string>
     <string name="brave_sync_copied_text">Panoya Kopyalandı</string>
     <string name="brave_sync_this_device_text">(bu cihaz)</string>
 
-    <string name="brave_already_set_as_default_browser">Brave zaten varsayılan
+    <string name="brave_already_set_as_default_browser">Dissenter zaten varsayılan
 tarayıcınız olarak ayarlı.</string>
     <string name="brave_default_browser_go_to_settings">Zaten varsayılan bir tarayıcı ayarladınız.
 Varsayılan tarayıcıyı uygulama ayarlarınızdan değiştirebilirsiniz.</string>
-    <string name="brave_default_browser_notification_body">Pili koruyun ve web sayfalarını daha hızlı yükleyin. Varsayılan Tarayıcınızı Brave yapın. Brave menüsünden \"Varsayılan tarayıcı olarak ayarla\"ya dokunun.</string>
+    <string name="brave_default_browser_notification_body">Pili koruyun ve web sayfalarını daha hızlı yükleyin. Varsayılan Tarayıcınızı Dissenter yapın. Dissenter menüsünden \"Varsayılan tarayıcı olarak ayarla\"ya dokunun.</string>
     <string name="brave_set_default_browser">Varsayılan tarayıcı olarak ayarla</string>
-    <string name="brave_set_default_browser_dialog_text">Listeden Brave\'i seçip \"Her Zaman\" a dokunun</string>
-    <string name="brave_default_browser_existing_notification_body">Brave\'i varsayılan web tarayıcınız yapın
+    <string name="brave_set_default_browser_dialog_text">Listeden Dissenter\'i seçip \"Her Zaman\" a dokunun</string>
+    <string name="brave_default_browser_existing_notification_body">Dissenter\'i varsayılan web tarayıcınız yapın
 Pilden tasarruf edin ve web sayfalarını daha hızlı yükleyin</string>
 
     <string name="brave_ui_welcome_header_two">İnternetin geleceğini
@@ -170,7 +170,7 @@ izleme karşılığında kupon kazanabilirsiniz.</string>
     <string name="brave_ui_send_tip">bahşişimi gönder</string>
     <string name="brave_ui_do_monthly">aylık bahşiş ayarla</string>
     <string name="brave_ui_not_enough_tokens">yeterli kupon yok</string>
-    <string name="brave_ui_site_banner_notice_text">NOT: Bu oluşturucu henüz Brave kullanıcılarından katkı almak için kaydolmamış. Onlar onaylayana veya 90 gün geçene kadar katkı yapmaya çalışacağız.</string>
+    <string name="brave_ui_site_banner_notice_text">NOT: Bu oluşturucu henüz Dissenter kullanıcılarından katkı almak için kaydolmamış. Onlar onaylayana veya 90 gün geçene kadar katkı yapmaya çalışacağız.</string>
     <string name="brave_ui_please">lütfen</string>
     <string name="brave_ui_add_funds">para ekleyin</string>
     <string name="brave_ui_thank_you">Teşekkür ederiz!</string>
@@ -199,9 +199,9 @@ yok...</string>
     <string name="brave_ui_rewards_contribute_description"><ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph> BAT katkıda bulundunuz.</string>
     <string name="brave_ui_one_time_donation">Tek Seferlik Bahşişler</string>
     <string name="brave_ui_recurring_donation">Aylık Bahşişler</string>
-    <string name="brave_ui_verified_publisher">Brave Onaylı Yayıncı</string>
+    <string name="brave_ui_verified_publisher">Dissenter Onaylı Yayıncı</string>
     <string name="brave_ui_not_verified_publisher">Henüz onaylanmamış</string>
-    <string name="brave_ui_not_verified_publisher_description">Bu oluşturucu henüz Brave kullanıcılarından katkı almak için kaydolmamış.
+    <string name="brave_ui_not_verified_publisher_description">Bu oluşturucu henüz Dissenter kullanıcılarından katkı almak için kaydolmamış.
         Gönderdiğiniz tüm bahşişler onlar onaylayana kadar cüzdanınızda kalacaktır.</string>
     <string name="brave_ui_on_youtube">YouTube\'da</string>
     <string name="brave_ui_on_twitch">Twitch\'te</string>
@@ -214,14 +214,14 @@ ayırdınız. Tarayıcınız onlar onaylayana veya
     <string name="brave_ui_notification_desc_tip_error">Bahşişiniz işleme alınırken bir sorun oluştu, lütfen tekrar deneyin.</string>
     <string name="brave_ui_notification_desc_contr_error">Katkınız işleme alınırken bir sorun oluştu.</string>
     <string name="brave_rewards_local_uh_oh">Tüh!</string>
-    <string name="brave_rewards_local_server_not_responding">Brave Ödülleri sunucusu yanıt vermiyor. Bunu en kısa zamanda düzelteceğiz.</string>
+    <string name="brave_rewards_local_server_not_responding">Dissenter Ödülleri sunucusu yanıt vermiyor. Bunu en kısa zamanda düzelteceğiz.</string>
     <string name="brave_ui_grants">Verilenler</string>
     <string name="brave_ui_expires_on"><ph name=\"DATE\">%1$s<ex>14/4/2019</ex></ph> tarihinde süresi doluyor</string>
     <string name="brave_ui_insufficient_funds_msg">Yetersiz Tutar</string>
-    <string name="brave_ui_insufficient_funds_desc">Brave Ödülleri hesabınız para yatırılmasını bekliyor.</string>
+    <string name="brave_ui_insufficient_funds_desc">Dissenter Ödülleri hesabınız para yatırılmasını bekliyor.</string>
     <string name="brave_ui_backup_wallet_msg">Cüzdanı Yedekle</string>
-    <string name="brave_ui_backup_wallet_desc">Lütfen Brave cüzdanınızı yedekleyin.</string>
-    <string name="brave_ui_brave_rewards">Brave Ödülleri</string>
+    <string name="brave_ui_backup_wallet_desc">Lütfen Dissenter cüzdanınızı yedekleyin.</string>
+    <string name="brave_ui_brave_rewards">Dissenter Ödülleri</string>
     <string name="brave_ui_welcome_back_message">Tekrar hoş geldiniz!</string>
     <string name="brave_ui_get_rewarded">İnternette gezinmek için ödül alın.</string>
     <string name="brave_ui_brave_rewards_desc">Gizliliğe saygılı reklamlar izleyerek
@@ -237,27 +237,27 @@ para kazanın ve sevdiğiniz içerik
     <string name="search_or_url">Arama veya URL</string>
     <string name="accessibility_toolbar_btn_bookmark">Bir yer imi oluşturun</string>
     <string name="brave_ui_donate_monthly">Bu siteye aylık olarak bahşiş verin</string>
-    <string name="brave_rewards_intro_title">Brave Ödülleri burada</string>
+    <string name="brave_rewards_intro_title">Dissenter Ödülleri burada</string>
     <string name="brave_rewards_intro_text">Sevdiğiniz siteleri destekleyin.</string>
     <string name="brave_rewards_dismiss">Kapat</string>
     <string name="brave_rewards_get_started">Başlayın</string>
 
-    <string name="brave_rewards_not_available">Üzgünüz, görünüşe bakılırsa Brave Ödülleri cihazınızda kullanılamıyor</string>
+    <string name="brave_rewards_not_available">Üzgünüz, görünüşe bakılırsa Dissenter Ödülleri cihazınızda kullanılamıyor</string>
 
     <string name="prefs_section_display">Göster</string>
     <string name="prefs_appearance">Görünüm</string>
-    <string name="hide_brave_rewards_icon_title">Brave Ödülleri Simgesini Gizle</string>
-    <string name="hide_brave_rewards_icon_description">Brave Ödülleri etkin olmadığında Brave Ödülleri simgesini gizler</string>
+    <string name="hide_brave_rewards_icon_title">Dissenter Ödülleri Simgesini Gizle</string>
+    <string name="hide_brave_rewards_icon_description">Dissenter Ödülleri etkin olmadığında Dissenter Ödülleri simgesini gizler</string>
 
     <string name="brave_ui_pre_grant_message">Ücretsiz bir belirteç hediyesi için yakında tekrar kontrol edin</string>
 
-    <string name="reset_brave_rewards_option">Brave Ödüllerini Sıfırla</string>
-    <string name="reset_brave_rewards_option_description">Bu, Brave cüzdanınızı siler ve tüm Brave Ödülleri verilerinizi sıfırlar</string>
+    <string name="reset_brave_rewards_option">Dissenter Ödüllerini Sıfırla</string>
+    <string name="reset_brave_rewards_option_description">Bu, Dissenter cüzdanınızı siler ve tüm Dissenter Ödülleri verilerinizi sıfırlar</string>
     <string name="reset_brave_rewards_error_title">Sıfırlama Hatası</string>
-    <string name="reset_brave_rewards_error_description">Brave Ödülleri sıfırlanırken bir hata oluştu. Lütfen Brave\'i yeniden başlatın ve tekrar deneyin</string>
+    <string name="reset_brave_rewards_error_description">Dissenter Ödülleri sıfırlanırken bir hata oluştu. Lütfen Dissenter\'i yeniden başlatın ve tekrar deneyin</string>
 
     <string name="brave_sync_add_laptop_text_part_2_new">Aşağıda gösterilen eşitleme zinciri kodu sözcüklerini girin. Bu koda bir şifre gibi davranın. Birisi kodu ele geçirirse, eşitlenmiş verilerinizi okuyup değiştirebilir.</string>
 
-    <string name="brave_sync_official">Brave Eşitlemesi</string>
+    <string name="brave_sync_official">Dissenter Eşitlemesi</string>
     <string name="prefs_sync_official">Eşitle</string>
 </resources>

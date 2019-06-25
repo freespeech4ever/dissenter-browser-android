@@ -1,310 +1,310 @@
 <?xml version="1.0" ?>
 <!DOCTYPE translationbundle>
 <translationbundle lang="sr">
-<translation id="1001534784610492198">Архива програма за инсталацију је оштећена или неважећа. Преузмите Brave поново.</translation>
-<translation id="5849446944780602366">Прилагодите и контролишите Brave. Доступно је ажурирање.</translation>
-<translation id="5935964611177478118">пријавите се у Brave</translation>
-<translation id="1051826050538111504">На рачунару постоји штетан софтвер. Brave може да га уклони, врати подешавања и онемогући додатке да би прегледач могао поново да ради уобичајено.</translation>
+<translation id="1001534784610492198">Архива програма за инсталацију је оштећена или неважећа. Преузмите Dissenter поново.</translation>
+<translation id="5849446944780602366">Прилагодите и контролишите Dissenter. Доступно је ажурирање.</translation>
+<translation id="5935964611177478118">пријавите се у Dissenter</translation>
+<translation id="1051826050538111504">На рачунару постоји штетан софтвер. Dissenter може да га уклони, врати подешавања и онемогући додатке да би прегледач могао поново да ради уобичајено.</translation>
 <translation id="1065672644894730302">Подешавања не могу да се прочитају.
 
 Неке функције су можда недоступне и промене подешавања неће бити сачуване.</translation>
-<translation id="1088300314857992706">Корисник <ph name="USER_EMAIL_ADDRESS" /> је претходно користио Brave</translation>
-<translation id="1104959162601287462">О &amp;Brave ОС-у</translation>
-<translation id="4100716194836114130">Ово је ваш Brave</translation>
-<translation id="6389268239133412586">Не можете да ажурирате Brave</translation>
-<translation id="9071554113102421877">&amp;Отвори у Brave-у</translation>
-<translation id="123620459398936149">Brave ОС не може да синхронизује податке. Ажурирајте приступну фразу за Синхронизацију.</translation>
-<translation id="127345590676626841">Brave се аутоматски ажурира, па увек имате најновију верзију. Када ово преузимање буде довршено, Brave ће се поново покренути и бићете спремни.</translation>
-<translation id="1302523850133262269">Сачекајте да Brave инсталира најновија ажурирања система.</translation>
-<translation id="1312676208694947750">{0,plural, =0{Ажурирање за Brave ОС је доступно}=1{Ажурирање за Brave ОС је доступно}one{Ажурирање за Brave ОС је доступно већ # дан}few{Ажурирање за Brave ОС је доступно већ # дана}other{Ажурирање за Brave ОС је доступно већ # дана}}</translation>
-<translation id="137466361146087520">Brave бета</translation>
-<translation id="1393853151966637042">Пронађи помоћ за коришћење Brave-а</translation>
-<translation id="1399397803214730675">Овај рачунар већ има новију верзију Brave прегледача. Ако софтвер не функционише, деинсталирајте Brave и покушајте поново.</translation>
-<translation id="1434626383986940139">Brave Canary апликације</translation>
-<translation id="5047208012586153436">Ажурирање Brave-а...</translation>
-<translation id="1469002951682717133">Покретач Brave апликација</translation>
-<translation id="1705567146636171298">Ажурирај Brave</translation>
+<translation id="1088300314857992706">Корисник <ph name="USER_EMAIL_ADDRESS" /> је претходно користио Dissenter</translation>
+<translation id="1104959162601287462">О &amp;Dissenter ОС-у</translation>
+<translation id="4100716194836114130">Ово је ваш Dissenter</translation>
+<translation id="6389268239133412586">Не можете да ажурирате Dissenter</translation>
+<translation id="9071554113102421877">&amp;Отвори у Dissenter-у</translation>
+<translation id="123620459398936149">Dissenter ОС не може да синхронизује податке. Ажурирајте приступну фразу за Синхронизацију.</translation>
+<translation id="127345590676626841">Dissenter се аутоматски ажурира, па увек имате најновију верзију. Када ово преузимање буде довршено, Dissenter ће се поново покренути и бићете спремни.</translation>
+<translation id="1302523850133262269">Сачекајте да Dissenter инсталира најновија ажурирања система.</translation>
+<translation id="1312676208694947750">{0,plural, =0{Ажурирање за Dissenter ОС је доступно}=1{Ажурирање за Dissenter ОС је доступно}one{Ажурирање за Dissenter ОС је доступно већ # дан}few{Ажурирање за Dissenter ОС је доступно већ # дана}other{Ажурирање за Dissenter ОС је доступно већ # дана}}</translation>
+<translation id="137466361146087520">Dissenter бета</translation>
+<translation id="1393853151966637042">Пронађи помоћ за коришћење Dissenter-а</translation>
+<translation id="1399397803214730675">Овај рачунар већ има новију верзију Dissenter прегледача. Ако софтвер не функционише, деинсталирајте Dissenter и покушајте поново.</translation>
+<translation id="1434626383986940139">Dissenter Canary апликације</translation>
+<translation id="5047208012586153436">Ажурирање Dissenter-а...</translation>
+<translation id="1469002951682717133">Покретач Dissenter апликација</translation>
+<translation id="1705567146636171298">Ажурирај Dissenter</translation>
 <translation id="1585657529869845941">Кликните на дугме <ph name="BEGIN_BOLD" />Ипак промени<ph name="END_BOLD" /> ако се појави</translation>
-<translation id="3205074487970075628">Brave користи камеру.</translation>
-<translation id="4168372721886011198">Датотека <ph name="FILE_NAME" /> је опасна, па ју је Brave блокирао.</translation>
-<translation id="2632141563911437138">Brave треба да престане са радом на овом рачунару да бисте га ажурирали. Због тога ће други корисници пријављени на овом рачунару можда изгубити несачуване промене.</translation>
-<translation id="1619887657840448962">Да бисмо учинили Brave безбеднијим, онемогућили смо следећи додатак који <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> не наводи и који је можда додат без вашег знања.</translation>
-<translation id="1628000112320670027">Пронађите помоћ за Brave</translation>
-<translation id="1662639173275167396">Brave ОС је омогућен захваљујући додатном <ph name="BEGIN_LINK_CROS_OSS" />софтверу са отвореним кодом<ph name="END_LINK_CROS_OSS" />, као што је <ph name="BEGIN_LINK_LINUX_OSS" />Linux (бета)<ph name="END_LINK_LINUX_OSS" />.</translation>
-<translation id="1674870198290878346">Отвори линк у Brave прозору без архи&amp;вирања</translation>
-<translation id="2585240446624043880">Brave не може да чита податке из свог директоријума са подацима нити да их у њих уписује:
+<translation id="3205074487970075628">Dissenter користи камеру.</translation>
+<translation id="4168372721886011198">Датотека <ph name="FILE_NAME" /> је опасна, па ју је Dissenter блокирао.</translation>
+<translation id="2632141563911437138">Dissenter треба да престане са радом на овом рачунару да бисте га ажурирали. Због тога ће други корисници пријављени на овом рачунару можда изгубити несачуване промене.</translation>
+<translation id="1619887657840448962">Да бисмо учинили Dissenter безбеднијим, онемогућили смо следећи додатак који <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> не наводи и који је можда додат без вашег знања.</translation>
+<translation id="1628000112320670027">Пронађите помоћ за Dissenter</translation>
+<translation id="1662639173275167396">Dissenter ОС је омогућен захваљујући додатном <ph name="BEGIN_LINK_CROS_OSS" />софтверу са отвореним кодом<ph name="END_LINK_CROS_OSS" />, као што је <ph name="BEGIN_LINK_LINUX_OSS" />Linux (бета)<ph name="END_LINK_LINUX_OSS" />.</translation>
+<translation id="1674870198290878346">Отвори линк у Dissenter прозору без архи&amp;вирања</translation>
+<translation id="2585240446624043880">Dissenter не може да чита податке из свог директоријума са подацима нити да их у њих уписује:
 
 <ph name="USER_DATA_DIRECTORY" /></translation>
-<translation id="1698376642261615901">Brave је веб прегледач који веб-странице и апликације покреће брзином светлости. Он је брз, стабилан и лак за коришћење. Још безбедније прегледајте Веб уз помоћ заштите од малвера и „пецања“ која је уграђена у Brave.</translation>
-<translation id="1718131156967340976">Изаберите <ph name="SMALL_PRODUCT_LOGO" /> <ph name="BEGIN_BOLD" />Brave<ph name="END_BOLD" /></translation>
-<translation id="6163134585289952357">Brave ће сачувати ову лозинку на Google налогу. Нећете морати да је памтите.</translation>
-<translation id="174539241580958092">Brave не може да синхронизује податке због грешке при пријављивању.</translation>
-<translation id="939305735877869636">Brave</translation>
-<translation id="1773601347087397504">Пронађи помоћ за коришћење Brave ОС-а</translation>
-<translation id="1570795130102031380">Инсталирајте Brave на телефону. Послаћемо вам SMS на телефон: <ph name="PHONE_NUMBER" /></translation>
-<translation id="1812689907177901597">Када то укључите, можете да се пријављујете на Google сајтове, као што је Gmail, али се не пријављујете у Brave</translation>
-<translation id="8858456697111532356">Датотека <ph name="FILE_NAME" /> је опасна, па ју је Brave блокирао. Штити вас напредна заштита.</translation>
-<translation id="1860536484129686729">Brave тражи дозволу да приступи камери за овај сајт</translation>
-<translation id="3343095737966473035">Brave није подразумевани прегледач</translation>
-<translation id="1874309113135274312">Brave бета (mDNS-In)</translation>
-<translation id="5173820533850252773">Brave је застарео</translation>
-<translation id="1915828456209461693">Ново ажурирање за Brave је доступно и примениће се чим га поново покренете.</translation>
-<translation id="1919130412786645364">Дозволи пријављивање у Brave</translation>
+<translation id="1698376642261615901">Dissenter је веб прегледач који веб-странице и апликације покреће брзином светлости. Он је брз, стабилан и лак за коришћење. Још безбедније прегледајте Веб уз помоћ заштите од малвера и „пецања“ која је уграђена у Dissenter.</translation>
+<translation id="1718131156967340976">Изаберите <ph name="SMALL_PRODUCT_LOGO" /> <ph name="BEGIN_BOLD" />Dissenter<ph name="END_BOLD" /></translation>
+<translation id="6163134585289952357">Dissenter ће сачувати ову лозинку на Google налогу. Нећете морати да је памтите.</translation>
+<translation id="174539241580958092">Dissenter не може да синхронизује податке због грешке при пријављивању.</translation>
+<translation id="939305735877869636">Dissenter</translation>
+<translation id="1773601347087397504">Пронађи помоћ за коришћење Dissenter ОС-а</translation>
+<translation id="1570795130102031380">Инсталирајте Dissenter на телефону. Послаћемо вам SMS на телефон: <ph name="PHONE_NUMBER" /></translation>
+<translation id="1812689907177901597">Када то укључите, можете да се пријављујете на Google сајтове, као што је Gmail, али се не пријављујете у Dissenter</translation>
+<translation id="8858456697111532356">Датотека <ph name="FILE_NAME" /> је опасна, па ју је Dissenter блокирао. Штити вас напредна заштита.</translation>
+<translation id="1860536484129686729">Dissenter тражи дозволу да приступи камери за овај сајт</translation>
+<translation id="3343095737966473035">Dissenter није подразумевани прегледач</translation>
+<translation id="1874309113135274312">Dissenter бета (mDNS-In)</translation>
+<translation id="5173820533850252773">Dissenter је застарео</translation>
+<translation id="1915828456209461693">Ново ажурирање за Dissenter је доступно и примениће се чим га поново покренете.</translation>
+<translation id="1919130412786645364">Дозволи пријављивање у Dissenter</translation>
 <translation id="2063848847527508675">Треба да рестартујете Chrome OS да бисте применили ажурирање.</translation>
-<translation id="2094919256425865063">Желите ли ипак да затворите Brave?</translation>
-<translation id="2120620239521071941">Овим ћете избрисати <ph name="ITEMS_COUNT" /> ставке(и) са овог уређаја. Да бисте касније вратили податке, пријавите се у Brave као <ph name="USER_EMAIL" />.</translation>
-<translation id="2123055963409958220">Помозите да побољшамо Brave тако што ћете послати извештај о <ph name="BEGIN_LINK" />актуелним подешавањима<ph name="END_LINK" /></translation>
-<translation id="1609678321160597289">Инсталирајте Brave на телефону. Послаћемо вам SMS на број телефона за враћање приступа налогу.</translation>
-<translation id="5874882355102994015">Brave не може да покаже приказ пре штампања када недостаје уграђени PDF приказивач.</translation>
-<translation id="7456658570432774853">Помозите да побољшамо Brave тако што ћете послати извештај о актуелним подешавањима</translation>
-<translation id="225363235161345695">{0,plural, =1{Поново ћемо покренути Brave за један сат}one{Поново ћемо покренути Brave за # сат}few{Поново ћемо покренути Brave за # сата}other{Поново ћемо покренути Brave за # сати}}</translation>
-<translation id="4934157190377700991">Сада сте пријављени у Brave</translation>
-<translation id="350396164462274391">Недостају шифре за Google API. Неке функције Brave-а ће бити онемогућене.</translation>
-<translation id="2290095356545025170">Да ли стварно желите да деинсталирате Brave?</translation>
-<translation id="2309047409763057870">Ово је секундарна инсталација Brave-а па не можете да га подесите као подразумевани прегледач.</translation>
-<translation id="2346876346033403680">Неко се претходно пријавио у Brave на овом рачунару као <ph name="ACCOUNT_EMAIL_LAST" />. Ако то није ваш налог, направите новог Brave корисника да би информације биле раздвојене.
+<translation id="2094919256425865063">Желите ли ипак да затворите Dissenter?</translation>
+<translation id="2120620239521071941">Овим ћете избрисати <ph name="ITEMS_COUNT" /> ставке(и) са овог уређаја. Да бисте касније вратили податке, пријавите се у Dissenter као <ph name="USER_EMAIL" />.</translation>
+<translation id="2123055963409958220">Помозите да побољшамо Dissenter тако што ћете послати извештај о <ph name="BEGIN_LINK" />актуелним подешавањима<ph name="END_LINK" /></translation>
+<translation id="1609678321160597289">Инсталирајте Dissenter на телефону. Послаћемо вам SMS на број телефона за враћање приступа налогу.</translation>
+<translation id="5874882355102994015">Dissenter не може да покаже приказ пре штампања када недостаје уграђени PDF приказивач.</translation>
+<translation id="7456658570432774853">Помозите да побољшамо Dissenter тако што ћете послати извештај о актуелним подешавањима</translation>
+<translation id="225363235161345695">{0,plural, =1{Поново ћемо покренути Dissenter за један сат}one{Поново ћемо покренути Dissenter за # сат}few{Поново ћемо покренути Dissenter за # сата}other{Поново ћемо покренути Dissenter за # сати}}</translation>
+<translation id="4934157190377700991">Сада сте пријављени у Dissenter</translation>
+<translation id="350396164462274391">Недостају шифре за Google API. Неке функције Dissenter-а ће бити онемогућене.</translation>
+<translation id="2290095356545025170">Да ли стварно желите да деинсталирате Dissenter?</translation>
+<translation id="2309047409763057870">Ово је секундарна инсталација Dissenter-а па не можете да га подесите као подразумевани прегледач.</translation>
+<translation id="2346876346033403680">Неко се претходно пријавио у Dissenter на овом рачунару као <ph name="ACCOUNT_EMAIL_LAST" />. Ако то није ваш налог, направите новог Dissenter корисника да би информације биле раздвојене.
 
-Ако се ипак пријавите, Brave информације као што су обележивачи, историја и друга подешавања ће бити обједињене на <ph name="ACCOUNT_EMAIL_NEW" />.</translation>
-<translation id="2348335408836342058">Brave тражи дозволу да приступи камери и микрофону за овај сајт</translation>
-<translation id="2429317896000329049">Brave не може да синхронизује податке јер Синхронизација није доступна за домен.</translation>
-<translation id="2467438592969358367">Brave жели да извезе лозинке. Унесите лозинку за Windows да бисте то омогућили.</translation>
+Ако се ипак пријавите, Dissenter информације као што су обележивачи, историја и друга подешавања ће бити обједињене на <ph name="ACCOUNT_EMAIL_NEW" />.</translation>
+<translation id="2348335408836342058">Dissenter тражи дозволу да приступи камери и микрофону за овај сајт</translation>
+<translation id="2429317896000329049">Dissenter не може да синхронизује податке јер Синхронизација није доступна за домен.</translation>
+<translation id="2467438592969358367">Dissenter жели да извезе лозинке. Унесите лозинку за Windows да бисте то омогућили.</translation>
 <translation id="2485422356828889247">Деинсталирај</translation>
-<translation id="8943391224520748272">Ова датотека може да буде опасна, па ју је Brave блокирао. Штити вас напредна заштита.</translation>
-<translation id="2534507159460261402">Google Pay (копирано у Brave)</translation>
-<translation id="2535429035253759792">Администратор тражи да поново покренете Brave да бисте применили ово ажурирање</translation>
-<translation id="2580411288591421699">Није могуће инсталирати верзију Brave прегледача која је иста као тренутно покренута верзија. Затворите Brave и покушајте поново.</translation>
-<translation id="2586406160782125153">Овим ћете избрисати податке прегледања са уређаја. Да бисте касније вратили податке, пријавите се у Brave као <ph name="USER_EMAIL" />.</translation>
-<translation id="4847979153841887006">Brave логотип</translation>
-<translation id="2644798301485385923">Систем Brave ОС</translation>
-<translation id="2652691236519827073">Отвори линк у новој Brave &amp;картици</translation>
-<translation id="7348158796480960456">Помозите нам да побољшамо Brave тако што ћете Google-у слати извештаје о отказивању и <ph name="UMA_LINK" /></translation>
-<translation id="3813272600615358652">Овај додатак је променио страницу која се приказује када покренете Brave.</translation>
-<translation id="2765403129283291972">Brave тражи дозволу да приступи микрофону за овај сајт</translation>
+<translation id="8943391224520748272">Ова датотека може да буде опасна, па ју је Dissenter блокирао. Штити вас напредна заштита.</translation>
+<translation id="2534507159460261402">Google Pay (копирано у Dissenter)</translation>
+<translation id="2535429035253759792">Администратор тражи да поново покренете Dissenter да бисте применили ово ажурирање</translation>
+<translation id="2580411288591421699">Није могуће инсталирати верзију Dissenter прегледача која је иста као тренутно покренута верзија. Затворите Dissenter и покушајте поново.</translation>
+<translation id="2586406160782125153">Овим ћете избрисати податке прегледања са уређаја. Да бисте касније вратили податке, пријавите се у Dissenter као <ph name="USER_EMAIL" />.</translation>
+<translation id="4847979153841887006">Dissenter логотип</translation>
+<translation id="2644798301485385923">Систем Dissenter ОС</translation>
+<translation id="2652691236519827073">Отвори линк у новој Dissenter &amp;картици</translation>
+<translation id="7348158796480960456">Помозите нам да побољшамо Dissenter тако што ћете Google-у слати извештаје о отказивању и <ph name="UMA_LINK" /></translation>
+<translation id="3813272600615358652">Овај додатак је променио страницу која се приказује када покренете Dissenter.</translation>
+<translation id="2765403129283291972">Dissenter тражи дозволу да приступи микрофону за овај сајт</translation>
 <translation id="2770231113462710648">Промени подразумевани прегледач у:</translation>
 <translation id="2799223571221894425">Поново покрени</translation>
-<translation id="2847461019998147611">Приказуј Brave на овом језику</translation>
-<translation id="2857540653560290388">Покреће се Brave...</translation>
-<translation id="2871893339301912279">Пријављени сте у Brave!</translation>
-<translation id="8541922081612557424">О Brave прегледачу</translation>
-<translation id="3037838751736561277">Brave је у позадинском режиму.</translation>
-<translation id="4806360651959814118">Ако прекинете везу са <ph name="USERNAME" />, обрисаћете историју, обележиваче, подешавања и друге Brave податке ускладиштене на овом уређају. Подаци сачувани на Google налогу неће бити обрисани и можете њима да управљате на <ph name="GOOGLE_DASHBOARD_LINK" />Google контролној табли<ph name="END_GOOGLE_DASHBOARD_LINK" />.</translation>
-<translation id="6791166902140255175">Картица Brave</translation>
-<translation id="3080151273017101988">Настави са покретањем апликација у позадини када се Brave затвори</translation>
-<translation id="3089968997497233615">Доступна је нова, безбеднија верзија Brave прегледача.</translation>
-<translation id="300669147395456190">Brave апликације</translation>
+<translation id="2847461019998147611">Приказуј Dissenter на овом језику</translation>
+<translation id="2857540653560290388">Покреће се Dissenter...</translation>
+<translation id="2871893339301912279">Пријављени сте у Dissenter!</translation>
+<translation id="8541922081612557424">О Dissenter прегледачу</translation>
+<translation id="3037838751736561277">Dissenter је у позадинском режиму.</translation>
+<translation id="4806360651959814118">Ако прекинете везу са <ph name="USERNAME" />, обрисаћете историју, обележиваче, подешавања и друге Dissenter податке ускладиштене на овом уређају. Подаци сачувани на Google налогу неће бити обрисани и можете њима да управљате на <ph name="GOOGLE_DASHBOARD_LINK" />Google контролној табли<ph name="END_GOOGLE_DASHBOARD_LINK" />.</translation>
+<translation id="6791166902140255175">Картица Dissenter</translation>
+<translation id="3080151273017101988">Настави са покретањем апликација у позадини када се Dissenter затвори</translation>
+<translation id="3089968997497233615">Доступна је нова, безбеднија верзија Dissenter прегледача.</translation>
+<translation id="300669147395456190">Dissenter апликације</translation>
 <translation id="3251381707915721925">Да бисте подесили које веб-сајтове <ph name="NEW_PROFILE_NAME" /> може да прегледа, можете да конфигуришете ограничења и подешавања ако посетите <ph name="BEGIN_LINK_1" /><ph name="DISPLAY_LINK" /><ph name="END_LINK_1" />. Ако не промените подразумевана подешавања, <ph name="NEW_PROFILE_NAME" /> може да прегледа све сајтове на вебу.
 
-Да бисте спречили да <ph name="NEW_PROFILE_NAME" /> приступа вашем налогу, обавезно закључајте профил када не користите Brave. Да бисте то урадили, кликните на име профила у горњем десном углу прегледача и изаберите „Изађи и закључај за децу“.
+Да бисте спречили да <ph name="NEW_PROFILE_NAME" /> приступа вашем налогу, обавезно закључајте профил када не користите Dissenter. Да бисте то урадили, кликните на име профила у горњем десном углу прегледача и изаберите „Изађи и закључај за децу“.
 <ph name="BEGIN_LINK_2" />Сазнајте више<ph name="END_LINK_2" />
 
 Потражите даља упутства у имејлу на <ph name="ACCOUNT_EMAIL" />.</translation>
-<translation id="82609232232243542">Пријављивање у Brave</translation>
-<translation id="3360895254066713204">Brave помоћник</translation>
+<translation id="82609232232243542">Пријављивање у Dissenter</translation>
+<translation id="3360895254066713204">Dissenter помоћник</translation>
 <translation id="3395323229510056640">Пронађите помоћ за Chrome OS</translation>
-<translation id="3396977131400919238">Током инсталације је дошло до грешке у оперативном систему. Преузмите Brave поново.</translation>
-<translation id="3398288718845740432">Сакриј у Brave менију</translation>
-<translation id="8880183781256147665">Додавање у Brave...</translation>
-<translation id="345171907106878721">Додајте себе у Brave</translation>
+<translation id="3396977131400919238">Током инсталације је дошло до грешке у оперативном систему. Преузмите Dissenter поново.</translation>
+<translation id="3398288718845740432">Сакриј у Dissenter менију</translation>
+<translation id="8880183781256147665">Додавање у Dissenter...</translation>
+<translation id="345171907106878721">Додајте себе у Dissenter</translation>
 <translation id="3479552764303398839">Не сада</translation>
-<translation id="6205431412329939367">Датотека <ph name="FILE_NAME" /> је можда опасна, па ју је Brave блокирао. Штити вас напредна заштита.</translation>
-<translation id="34857402635545079">Обриши податке и из Brave-а (<ph name="URL" />)</translation>
-<translation id="3503306920980160878">Brave тражи приступ вашој локацији да бисте је делили са овим сајтом</translation>
-<translation id="3576528680708590453">Администратор система је конфигурисао Brave да отвара алтернативни прегледач за приступ URL-у <ph name="TARGET_URL_HOSTNAME" />.</translation>
-<translation id="5477319665405831211">Синхронизујте и персонализујте Brave на свим уређајима</translation>
-<translation id="3622797965165704966">Сада можете лакше да користите Brave са Google налогом и на дељеним рачунарима.</translation>
+<translation id="6205431412329939367">Датотека <ph name="FILE_NAME" /> је можда опасна, па ју је Dissenter блокирао. Штити вас напредна заштита.</translation>
+<translation id="34857402635545079">Обриши податке и из Dissenter-а (<ph name="URL" />)</translation>
+<translation id="3503306920980160878">Dissenter тражи приступ вашој локацији да бисте је делили са овим сајтом</translation>
+<translation id="3576528680708590453">Администратор система је конфигурисао Dissenter да отвара алтернативни прегледач за приступ URL-у <ph name="TARGET_URL_HOSTNAME" />.</translation>
+<translation id="5477319665405831211">Синхронизујте и персонализујте Dissenter на свим уређајима</translation>
+<translation id="3622797965165704966">Сада можете лакше да користите Dissenter са Google налогом и на дељеним рачунарима.</translation>
 <translation id="3637702109597584617">Google Chrome OS <ph name="TERMS_OF_SERVICE_LINK" />Услови коришћења<ph name="END_TERMS_OF_SERVICE_LINK" /></translation>
-<translation id="5805364706385912897">Ова страница користи превише меморије, па ју је Brave паузирао.</translation>
-<translation id="3718181793972440140">Овим ћете избрисати 1 ставку са овог уређаја. Да бисте касније вратили податке, пријавите се у Brave као <ph name="USER_EMAIL" />.</translation>
-<translation id="2576129394594491151">Додатак „<ph name="EXTENSION_NAME" />“ је променио страницу која се приказује када покренете Brave.</translation>
-<translation id="3780814664026482060">Brave – <ph name="PAGE_TITLE" /></translation>
-<translation id="3784527566857328444">Уклони из Brave-а...</translation>
-<translation id="386202838227397562">Затворите све прозоре Brave прегледача и покушајте поново.</translation>
-<translation id="3873044882194371212">Отвори линк у Brave прозору без архи&amp;вирања</translation>
-<translation id="3889417619312448367">Деинсталирај Brave</translation>
+<translation id="5805364706385912897">Ова страница користи превише меморије, па ју је Dissenter паузирао.</translation>
+<translation id="3718181793972440140">Овим ћете избрисати 1 ставку са овог уређаја. Да бисте касније вратили податке, пријавите се у Dissenter као <ph name="USER_EMAIL" />.</translation>
+<translation id="2576129394594491151">Додатак „<ph name="EXTENSION_NAME" />“ је променио страницу која се приказује када покренете Dissenter.</translation>
+<translation id="3780814664026482060">Dissenter – <ph name="PAGE_TITLE" /></translation>
+<translation id="3784527566857328444">Уклони из Dissenter-а...</translation>
+<translation id="386202838227397562">Затворите све прозоре Dissenter прегледача и покушајте поново.</translation>
+<translation id="3873044882194371212">Отвори линк у Dissenter прозору без архи&amp;вирања</translation>
+<translation id="3889417619312448367">Деинсталирај Dissenter</translation>
 <translation id="3898493977366060150">Веб-прегледање помоћу паметних Google функција</translation>
-<translation id="4028693306634653894">Брже приступајте Brave-у</translation>
+<translation id="4028693306634653894">Брже приступајте Dissenter-у</translation>
 <translation id="4050175100176540509">Важна безбедносна побољшања и нове функције су доступни у најновијој верзији.</translation>
-<translation id="8148611988012584308">Прилагодите и контролишите Brave</translation>
-<translation id="4143243756087420366">Назив и слика Brave профила</translation>
-<translation id="4147555960264124640">Пријављујете се помоћу налога којим се управља и дајете његовом администратору контролу над Brave профилом. Brave подаци, као што су апликације, обележивачи, историја, лозинке и друга подешавања, биће трајно повезани са налогом <ph name="USER_NAME" />. Моћи ћете да избришете те податке преко Контролне табле Google налога, али нећете моћи да их повежете са неким другим налогом. <ph name="LEARN_MORE" /></translation>
-<translation id="4149882025268051530">Програм за инсталацију није успео да декомпримује архиву. Преузмите Brave поново.</translation>
-<translation id="7445061995866044926">Желите ли да се одјавите из Brave-а?</translation>
-<translation id="4251615635259297716">Желите ли да повежете Brave податке са овим налогом?</translation>
-<translation id="8358191771897395012">преузмите Brave на iPhone</translation>
-<translation id="3360368475735266712">Пријавите се да бисте синхронизовали и персонализовали Brave на свим уређајима</translation>
-<translation id="4328355335528187361">Програмерска верзија Brave-а (mDNS-In)</translation>
-<translation id="4331809312908958774">Brave ОС</translation>
-<translation id="4343195214584226067">Додатак <ph name="EXTENSION_NAME" /> је додат у Brave</translation>
+<translation id="8148611988012584308">Прилагодите и контролишите Dissenter</translation>
+<translation id="4143243756087420366">Назив и слика Dissenter профила</translation>
+<translation id="4147555960264124640">Пријављујете се помоћу налога којим се управља и дајете његовом администратору контролу над Dissenter профилом. Dissenter подаци, као што су апликације, обележивачи, историја, лозинке и друга подешавања, биће трајно повезани са налогом <ph name="USER_NAME" />. Моћи ћете да избришете те податке преко Контролне табле Google налога, али нећете моћи да их повежете са неким другим налогом. <ph name="LEARN_MORE" /></translation>
+<translation id="4149882025268051530">Програм за инсталацију није успео да декомпримује архиву. Преузмите Dissenter поново.</translation>
+<translation id="7445061995866044926">Желите ли да се одјавите из Dissenter-а?</translation>
+<translation id="4251615635259297716">Желите ли да повежете Dissenter податке са овим налогом?</translation>
+<translation id="8358191771897395012">преузмите Dissenter на iPhone</translation>
+<translation id="3360368475735266712">Пријавите се да бисте синхронизовали и персонализовали Dissenter на свим уређајима</translation>
+<translation id="4328355335528187361">Програмерска верзија Dissenter-а (mDNS-In)</translation>
+<translation id="4331809312908958774">Dissenter ОС</translation>
+<translation id="4343195214584226067">Додатак <ph name="EXTENSION_NAME" /> је додат у Dissenter</translation>
 <translation id="4407807842708586359">Google Chrome OS</translation>
-<translation id="4458462641685292929">Друга радња у Brave-у је у току. Пробајте поново касније.</translation>
-<translation id="4480040274068703980">Brave ОС не може да синхронизује податке због грешке при пријављивању.</translation>
-<translation id="4561051373932531560">Brave вам омогућава да кликнете на број телефона на вебу и да га позовете помоћу Skype-а!</translation>
+<translation id="4458462641685292929">Друга радња у Dissenter-у је у току. Пробајте поново касније.</translation>
+<translation id="4480040274068703980">Dissenter ОС не може да синхронизује податке због грешке при пријављивању.</translation>
+<translation id="4561051373932531560">Dissenter вам омогућава да кликнете на број телефона на вебу и да га позовете помоћу Skype-а!</translation>
 <translation id="4567424176335768812">Пријављени сте као <ph name="USER_EMAIL_ADDRESS" />. Сада можете да приступате обележивачима, историји и другим подешавањима на свим уређајима на којима сте пријављени.</translation>
-<translation id="4571503333518166079">Иди на подешавања обавештења за Brave</translation>
-<translation id="459622048091363950">Када Brave добије приступ, веб-сајтови ће моћи да затраже приступ.</translation>
-<translation id="7963515534397191222">Brave није успео да се ажурира на најновију верзију, па пропуштате нове функције и безбедносне исправке.</translation>
-<translation id="4631713731678262610">Сакриј у Brave менију</translation>
-<translation id="4633000520311261472">Да бисмо учинили Brave безбеднијим, онемогућили смо неке додатке које не наводи <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> и који су можда додати без вашег знања.</translation>
-<translation id="4728575227883772061">Инсталација није успела због неодређене грешке. Ако је Brave тренутно отворен, затворите га и покушајте поново.</translation>
-<translation id="4750550185319565338">Поново покрените Brave да бисте омогућили <ph name="PLUGIN_NAME" /></translation>
-<translation id="4754614261631455953">Brave Canary (mDNS-In)</translation>
-<translation id="89367911614620585">Ова датотека може да буде опасна, па ју је Brave блокирао.</translation>
-<translation id="2887570477425111999">Сачувај детаље у Brave-у</translation>
-<translation id="4891791193823137474">Нека Brave ради у позадини</translation>
-<translation id="4895437082222824641">Отвори линк у новој Brave &amp;картици</translation>
-<translation id="8296145982386097283">Делите рачунар? Сада можете да подесите Brave баш онако како вама одговара.</translation>
-<translation id="4945319281866068441">{0,plural, =1{Рестартујте Brave ОС за један дан}one{Рестартујте Brave ОС за # дан}few{Рестартујте Brave ОС за # дана}other{Рестартујте Brave ОС за # дана}}</translation>
-<translation id="4953650215774548573">Подеси Brave као подразумевани прегледач</translation>
-<translation id="6078442581074612226">У Brave-у</translation>
-<translation id="4990567037958725628">Brave Canary</translation>
-<translation id="5028489144783860647">Brave не може да синхронизује податке. Ажурирајте приступну фразу за Синхронизацију.</translation>
-<translation id="5062123544085870375">Рестартујте Brave ОС</translation>
-<translation id="5090044601776247154">Профили корисника под надзором неће више бити доступни почев од Brave верзије 70.</translation>
-<translation id="2871190378186459992">Откријте одличне апликације, игре, додатке и теме за Brave.</translation>
-<translation id="5170938038195470297">Профил не може да се користи јер је из новије верзије Brave-а.
+<translation id="4571503333518166079">Иди на подешавања обавештења за Dissenter</translation>
+<translation id="459622048091363950">Када Dissenter добије приступ, веб-сајтови ће моћи да затраже приступ.</translation>
+<translation id="7963515534397191222">Dissenter није успео да се ажурира на најновију верзију, па пропуштате нове функције и безбедносне исправке.</translation>
+<translation id="4631713731678262610">Сакриј у Dissenter менију</translation>
+<translation id="4633000520311261472">Да бисмо учинили Dissenter безбеднијим, онемогућили смо неке додатке које не наводи <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> и који су можда додати без вашег знања.</translation>
+<translation id="4728575227883772061">Инсталација није успела због неодређене грешке. Ако је Dissenter тренутно отворен, затворите га и покушајте поново.</translation>
+<translation id="4750550185319565338">Поново покрените Dissenter да бисте омогућили <ph name="PLUGIN_NAME" /></translation>
+<translation id="4754614261631455953">Dissenter Canary (mDNS-In)</translation>
+<translation id="89367911614620585">Ова датотека може да буде опасна, па ју је Dissenter блокирао.</translation>
+<translation id="2887570477425111999">Сачувај детаље у Dissenter-у</translation>
+<translation id="4891791193823137474">Нека Dissenter ради у позадини</translation>
+<translation id="4895437082222824641">Отвори линк у новој Dissenter &amp;картици</translation>
+<translation id="8296145982386097283">Делите рачунар? Сада можете да подесите Dissenter баш онако како вама одговара.</translation>
+<translation id="4945319281866068441">{0,plural, =1{Рестартујте Dissenter ОС за један дан}one{Рестартујте Dissenter ОС за # дан}few{Рестартујте Dissenter ОС за # дана}other{Рестартујте Dissenter ОС за # дана}}</translation>
+<translation id="4953650215774548573">Подеси Dissenter као подразумевани прегледач</translation>
+<translation id="6078442581074612226">У Dissenter-у</translation>
+<translation id="4990567037958725628">Dissenter Canary</translation>
+<translation id="5028489144783860647">Dissenter не може да синхронизује податке. Ажурирајте приступну фразу за Синхронизацију.</translation>
+<translation id="5062123544085870375">Рестартујте Dissenter ОС</translation>
+<translation id="5090044601776247154">Профили корисника под надзором неће више бити доступни почев од Dissenter верзије 70.</translation>
+<translation id="2871190378186459992">Откријте одличне апликације, игре, додатке и теме за Dissenter.</translation>
+<translation id="5170938038195470297">Профил не може да се користи јер је из новије верзије Dissenter-а.
 
-Неке функције су можда недоступне. Наведите други директоријум профила или користите новију верзију Brave-а.</translation>
-<translation id="5193136243808726294">Brave ОС не може да отвори ову страницу.</translation>
-<translation id="5204098752394657250">Brave <ph name="TERMS_OF_SERVICE_LINK" />услови коришћења услуге<ph name="END_TERMS_OF_SERVICE_LINK" /></translation>
-<translation id="5251420635869119124">Гости могу да користе Brave а да не остављају никакве трагове.</translation>
-<translation id="5436841087823876677">Упозорење: Brave не може да спречи додатке да снимају вашу историју прегледања. Да бисте онемогућили овај додатак у режиму без архивирања, опозовите избор ове опције.</translation>
-<translation id="5386244825306882791">Контролише и страницу која се приказује када покренете Brave или претражујете из омнибокса.</translation>
+Неке функције су можда недоступне. Наведите други директоријум профила или користите новију верзију Dissenter-а.</translation>
+<translation id="5193136243808726294">Dissenter ОС не може да отвори ову страницу.</translation>
+<translation id="5204098752394657250">Dissenter <ph name="TERMS_OF_SERVICE_LINK" />услови коришћења услуге<ph name="END_TERMS_OF_SERVICE_LINK" /></translation>
+<translation id="5251420635869119124">Гости могу да користе Dissenter а да не остављају никакве трагове.</translation>
+<translation id="5436841087823876677">Упозорење: Dissenter не може да спречи додатке да снимају вашу историју прегледања. Да бисте онемогућили овај додатак у режиму без архивирања, опозовите избор ове опције.</translation>
+<translation id="5386244825306882791">Контролише и страницу која се приказује када покренете Dissenter или претражујете из омнибокса.</translation>
 <translation id="3403365884036456766">Датотека подешавања је оштећена или неважећа.
 
-Brave не може да врати подешавања.</translation>
-<translation id="5483595757826856374">{0,plural, =0{Поново ћемо покренути Brave}=1{Поново ћемо покренути Brave за 1 секунду}one{Поново ћемо покренути Brave за # секунду}few{Поново ћемо покренути Brave за # секунде}other{Поново ћемо покренути Brave за # секунди}}</translation>
-<translation id="1801551749768408825">Друге копије Brave-а су активне. Затворите их да бисте га ажурирали.</translation>
-<translation id="556024056938947818">Brave покушава да прикаже лозинке.</translation>
-<translation id="5566025111015594046">Brave (mDNS-In)</translation>
-<translation id="3561569806301739367">Датотека <ph name="FILE_NAME" /> је можда опасна, па ју је Brave блокирао.</translation>
-<translation id="6315734375101223238">Прилагодите и контролишите Brave. Треба да обратите пажњу на нешто – кликните за више детаља.</translation>
-<translation id="5690427481109656848">Brave Software Inc</translation>
-<translation id="2513524988380267210">{SECONDS,plural, =1{Brave ће се рестартовати за 1 секунду}one{Brave ће се рестартовати за # секунду}few{Brave ће се рестартовати за # секунде}other{Brave ће се рестартовати за # секунди}}</translation>
-<translation id="573759479754913123">О Brave ОС-у</translation>
-<translation id="6236814935154483927"><ph name="PAGE_TITLE" /> – Brave Canary</translation>
-<translation id="5804318322022881572">Није могуће покренути Brave. Покушајте поново.</translation>
+Dissenter не може да врати подешавања.</translation>
+<translation id="5483595757826856374">{0,plural, =0{Поново ћемо покренути Dissenter}=1{Поново ћемо покренути Dissenter за 1 секунду}one{Поново ћемо покренути Dissenter за # секунду}few{Поново ћемо покренути Dissenter за # секунде}other{Поново ћемо покренути Dissenter за # секунди}}</translation>
+<translation id="1801551749768408825">Друге копије Dissenter-а су активне. Затворите их да бисте га ажурирали.</translation>
+<translation id="556024056938947818">Dissenter покушава да прикаже лозинке.</translation>
+<translation id="5566025111015594046">Dissenter (mDNS-In)</translation>
+<translation id="3561569806301739367">Датотека <ph name="FILE_NAME" /> је можда опасна, па ју је Dissenter блокирао.</translation>
+<translation id="6315734375101223238">Прилагодите и контролишите Dissenter. Треба да обратите пажњу на нешто – кликните за више детаља.</translation>
+<translation id="5690427481109656848">Gab AI Inc</translation>
+<translation id="2513524988380267210">{SECONDS,plural, =1{Dissenter ће се рестартовати за 1 секунду}one{Dissenter ће се рестартовати за # секунду}few{Dissenter ће се рестартовати за # секунде}other{Dissenter ће се рестартовати за # секунди}}</translation>
+<translation id="573759479754913123">О Dissenter ОС-у</translation>
+<translation id="6236814935154483927"><ph name="PAGE_TITLE" /> – Dissenter Canary</translation>
+<translation id="5804318322022881572">Није могуће покренути Dissenter. Покушајте поново.</translation>
 <translation id="5877064549588274448">Канал је промењен. Покрените поново уређај да бисте применили промене.</translation>
 <translation id="5895138241574237353">Покрени поново</translation>
 <translation id="5906655207909574370">Ажурирање је скоро готово! Поново покрените уређај да бисте довршили ажурирање.</translation>
-<translation id="5940385492829620908">Веб, обележивачи и други Brave садржај се овде уживо приказују.</translation>
-<translation id="5019879183386042809">Подесите Brave као подразумевани прегледач</translation>
-<translation id="6014844626092547096">Сада сте пријављени у Brave! Администратор је онемогућио синхронизацију.</translation>
+<translation id="5940385492829620908">Веб, обележивачи и други Dissenter садржај се овде уживо приказују.</translation>
+<translation id="5019879183386042809">Подесите Dissenter као подразумевани прегледач</translation>
+<translation id="6014844626092547096">Сада сте пријављени у Dissenter! Администратор је онемогућио синхронизацију.</translation>
 <translation id="6040143037577758943">Затвори</translation>
-<translation id="6070348360322141662">Brave ће шифровати податке ради додатне сигурности</translation>
-<translation id="6113794647360055231">Управо смо побољшали Brave</translation>
-<translation id="5381622442243174305"><ph name="PAGE_TITLE" /> – Brave</translation>
-<translation id="1403270718080126244"><ph name="PAGE_TITLE" /> – Brave бета</translation>
-<translation id="61852838583753520">Ажурирај &amp;Brave ОС</translation>
-<translation id="6235018212288296708">Правило за долазни саобраћај за Brave да бисте омогућили mDNS саобраћај.</translation>
-<translation id="6291089322031436445">Brave апликације за програмерски канал</translation>
-<translation id="6291549208091401781">Brave је већ инсталиран за све кориснике на рачунару.</translation>
-<translation id="6338556085225130112">Ажурирање Brave-а</translation>
-<translation id="6368958679917195344">Brave OС je могућ захваљујући додатном <ph name="BEGIN_LINK_CROS_OSS" />софтвер отвореног кода<ph name="END_LINK_CROS_OSS" />.</translation>
-<translation id="6468844726266617801">{0,plural, =1{Поново покрените Brave за један дан}one{Поново покрените Brave за # дан}few{Поново покрените Brave за # дана}other{Поново покрените Brave за # дана}}</translation>
-<translation id="3943696263619956191"><ph name="PAGE_TITLE" /> – Програмерска верзија Brave-а</translation>
-<translation id="6566149418543181476">Ажурирање Brave-а (<ph name="PROGRESS_PERCENT" />)</translation>
-<translation id="2472951610753402739">Користите <ph name="PROFILE_EMAIL" /> за синхронизацију Brave садржаја. Да бисте ажурирали подешавање синхронизације или користили Brave без Google налога, посетите <ph name="SETTINGS_LINK" />.</translation>
-<translation id="663059986967017181">Копирана у Brave</translation>
-<translation id="6634887557811630702">Brave је ажуриран.</translation>
+<translation id="6070348360322141662">Dissenter ће шифровати податке ради додатне сигурности</translation>
+<translation id="6113794647360055231">Управо смо побољшали Dissenter</translation>
+<translation id="5381622442243174305"><ph name="PAGE_TITLE" /> – Dissenter</translation>
+<translation id="1403270718080126244"><ph name="PAGE_TITLE" /> – Dissenter бета</translation>
+<translation id="61852838583753520">Ажурирај &amp;Dissenter ОС</translation>
+<translation id="6235018212288296708">Правило за долазни саобраћај за Dissenter да бисте омогућили mDNS саобраћај.</translation>
+<translation id="6291089322031436445">Dissenter апликације за програмерски канал</translation>
+<translation id="6291549208091401781">Dissenter је већ инсталиран за све кориснике на рачунару.</translation>
+<translation id="6338556085225130112">Ажурирање Dissenter-а</translation>
+<translation id="6368958679917195344">Dissenter OС je могућ захваљујући додатном <ph name="BEGIN_LINK_CROS_OSS" />софтвер отвореног кода<ph name="END_LINK_CROS_OSS" />.</translation>
+<translation id="6468844726266617801">{0,plural, =1{Поново покрените Dissenter за један дан}one{Поново покрените Dissenter за # дан}few{Поново покрените Dissenter за # дана}other{Поново покрените Dissenter за # дана}}</translation>
+<translation id="3943696263619956191"><ph name="PAGE_TITLE" /> – Програмерска верзија Dissenter-а</translation>
+<translation id="6566149418543181476">Ажурирање Dissenter-а (<ph name="PROGRESS_PERCENT" />)</translation>
+<translation id="2472951610753402739">Користите <ph name="PROFILE_EMAIL" /> за синхронизацију Dissenter садржаја. Да бисте ажурирали подешавање синхронизације или користили Dissenter без Google налога, посетите <ph name="SETTINGS_LINK" />.</translation>
+<translation id="663059986967017181">Копирана у Dissenter</translation>
+<translation id="6634887557811630702">Dissenter је ажуриран.</translation>
 <translation id="6676384891291319759">Приступите Интернету</translation>
-<translation id="6679975945624592337">Нека Brave ради у позадини</translation>
-<translation id="677276454032249905">Желите ли ипак да затворите Brave?</translation>
-<translation id="683440813066116847">Правило за долазни саобраћај за Brave Canary да бисте омогућили mDNS саобраћај.</translation>
-<translation id="686561893457936865">Нека Brave буде увек са вама</translation>
-<translation id="6885412569789873916">Brave апликације за бета канал</translation>
-<translation id="6943584222992551122">Подаци прегледања ове особе ће бити избрисани са овог уређаја. Да бисте вратили податке, пријавите се у Brave као <ph name="USER_EMAIL" />.</translation>
-<translation id="6964107240822114422">{0,plural, =0{Ажурирање за Brave је доступно}=1{Ажурирање за Brave је доступно}one{Ажурирање за Brave је доступно већ # дан}few{Ажурирање за Brave је доступно већ # дана}other{Ажурирање за Brave је доступно већ # дана}}</translation>
-<translation id="6967962315388095737">Правило за долазни саобраћај за Brave бета да бисте омогућили mDNS саобраћај.</translation>
+<translation id="6679975945624592337">Нека Dissenter ради у позадини</translation>
+<translation id="677276454032249905">Желите ли ипак да затворите Dissenter?</translation>
+<translation id="683440813066116847">Правило за долазни саобраћај за Dissenter Canary да бисте омогућили mDNS саобраћај.</translation>
+<translation id="686561893457936865">Нека Dissenter буде увек са вама</translation>
+<translation id="6885412569789873916">Dissenter апликације за бета канал</translation>
+<translation id="6943584222992551122">Подаци прегледања ове особе ће бити избрисани са овог уређаја. Да бисте вратили податке, пријавите се у Dissenter као <ph name="USER_EMAIL" />.</translation>
+<translation id="6964107240822114422">{0,plural, =0{Ажурирање за Dissenter је доступно}=1{Ажурирање за Dissenter је доступно}one{Ажурирање за Dissenter је доступно већ # дан}few{Ажурирање за Dissenter је доступно већ # дана}other{Ажурирање за Dissenter је доступно већ # дана}}</translation>
+<translation id="6967962315388095737">Правило за долазни саобраћај за Dissenter бета да бисте омогућили mDNS саобраћај.</translation>
 <translation id="6970811910055250180">Ажурирање уређаја...</translation>
-<translation id="6982337800632491844"><ph name="DOMAIN" /> захтева да прочитате и прихватите следеће Услове коришћења услуге пре него што почнете да користите овај уређај. Ови услови не представљају проширење, измену или ограничење Услова за Brave ОС.</translation>
-<translation id="6989339256997917931">Brave је ажуриран, али га нисте користили најмање 30 дана.</translation>
-<translation id="7023651421574588884">Администратор захтева да рестартујете Brave ОС да бисте применили ажурирање</translation>
-<translation id="8919461291440820124">Brave користи микрофон.</translation>
-<translation id="5516268345616100622">Менаџер задатака – Brave</translation>
-<translation id="474353600079041991">Можете да помогнете да Brave буде безбеднији и једноставнији за коришћење ако аутоматски пријављујете Google-у детаље могућих безбедносних инцидената.</translation>
-<translation id="7242029209006116544">Пријављујете се помоћу налога којим се управља и дајете његовом администратору контролу над Brave профилом. Brave подаци, као што су апликације, обележивачи, историја, лозинке и друга подешавања, биће трајно повезани са налогом <ph name="USER_NAME" />. Моћи ћете да избришете те податке преко Контролне табле Google налога, али нећете моћи да их повежете са неким другим налогом. Можете опционално да направите нови профил да би постојећи Brave подаци остали одвојени. <ph name="LEARN_MORE" /></translation>
-<translation id="7295052994004373688">Овај језик се користи за приказивање корисничког интерфејса Brave-а</translation>
+<translation id="6982337800632491844"><ph name="DOMAIN" /> захтева да прочитате и прихватите следеће Услове коришћења услуге пре него што почнете да користите овај уређај. Ови услови не представљају проширење, измену или ограничење Услова за Dissenter ОС.</translation>
+<translation id="6989339256997917931">Dissenter је ажуриран, али га нисте користили најмање 30 дана.</translation>
+<translation id="7023651421574588884">Администратор захтева да рестартујете Dissenter ОС да бисте применили ажурирање</translation>
+<translation id="8919461291440820124">Dissenter користи микрофон.</translation>
+<translation id="5516268345616100622">Менаџер задатака – Dissenter</translation>
+<translation id="474353600079041991">Можете да помогнете да Dissenter буде безбеднији и једноставнији за коришћење ако аутоматски пријављујете Google-у детаље могућих безбедносних инцидената.</translation>
+<translation id="7242029209006116544">Пријављујете се помоћу налога којим се управља и дајете његовом администратору контролу над Dissenter профилом. Dissenter подаци, као што су апликације, обележивачи, историја, лозинке и друга подешавања, биће трајно повезани са налогом <ph name="USER_NAME" />. Моћи ћете да избришете те податке преко Контролне табле Google налога, али нећете моћи да их повежете са неким другим налогом. Можете опционално да направите нови профил да би постојећи Dissenter подаци остали одвојени. <ph name="LEARN_MORE" /></translation>
+<translation id="7295052994004373688">Овај језик се користи за приказивање корисничког интерфејса Dissenter-а</translation>
 <translation id="7296210096911315575">Важне информације о употреби и безбедности</translation>
-<translation id="7308322188646931570">Brave тражи приступ меморијском простору да би преузимао датотеке</translation>
+<translation id="7308322188646931570">Dissenter тражи приступ меморијском простору да би преузимао датотеке</translation>
 <translation id="7339898014177206373">Нови прозор</translation>
-<translation id="7398801000654795464">Били сте пријављени у Brave као <ph name="USER_EMAIL_ADDRESS" />. Користите исти налог да бисте се поново пријавили.</translation>
-<translation id="7408085963519505752">Brave ОС услови</translation>
-<translation id="7419046106786626209">Brave ОС не може да синхронизује податке јер Синхронизација није доступна за домен.</translation>
-<translation id="7459554271817304652">Подесите Синхронизацију како бисте сачували персонализоване функције прегледача на Веб и приступали им из Brave-а на било ком рачунару.</translation>
-<translation id="7473136999113284234">Brave се аутоматски ажурира, па увек имате најновију верзију.</translation>
-<translation id="7486227612705979895">Brave ће приступати Диску да би приказивао предлоге на траци за адресу</translation>
-<translation id="2938460345748897177">Ова датотека је опасна, па ју је Brave блокирао. Штити вас напредна заштита.</translation>
-<translation id="8887390605192156061">Затворите све копије Brave-а.</translation>
-<translation id="7535429826459677826">Програмерска верзија Brave-а</translation>
-<translation id="7552219221109926349">Приказуј Brave ОС на овом језику</translation>
-<translation id="7561940363513215021">{0,plural, =1{Поново ћемо покренути Brave за 1 минут}one{Поново ћемо покренути Brave за # минут}few{Поново ћемо покренути Brave за # минута}other{Поново ћемо покренути Brave за # минута}}</translation>
-<translation id="7589360514048265910">Овај рачунар више неће добијати ажурирања за Brave зато што Mac OS X 10.9 више није подржан.</translation>
-<translation id="7592736734348559088">Brave не може да синхронизује податке зато што су подаци за пријављивање на налог застарели.</translation>
-<translation id="7207456302801184289">Добро дошли у Brave</translation>
-<translation id="7636297873481318396">Ова датотека је опасна, па ју је Brave блокирао. Штити вас напредна заштита.</translation>
-<translation id="7641148173327520642">Администратор система је конфигурисао Brave да отвара прегледач <ph name="ALTERNATIVE_BROWSER_NAME" /> да би приступао <ph name="TARGET_URL_HOSTNAME" />.</translation>
-<translation id="7651907282515937834">Brave Enterprise логотип</translation>
+<translation id="7398801000654795464">Били сте пријављени у Dissenter као <ph name="USER_EMAIL_ADDRESS" />. Користите исти налог да бисте се поново пријавили.</translation>
+<translation id="7408085963519505752">Dissenter ОС услови</translation>
+<translation id="7419046106786626209">Dissenter ОС не може да синхронизује податке јер Синхронизација није доступна за домен.</translation>
+<translation id="7459554271817304652">Подесите Синхронизацију како бисте сачували персонализоване функције прегледача на Веб и приступали им из Dissenter-а на било ком рачунару.</translation>
+<translation id="7473136999113284234">Dissenter се аутоматски ажурира, па увек имате најновију верзију.</translation>
+<translation id="7486227612705979895">Dissenter ће приступати Диску да би приказивао предлоге на траци за адресу</translation>
+<translation id="2938460345748897177">Ова датотека је опасна, па ју је Dissenter блокирао. Штити вас напредна заштита.</translation>
+<translation id="8887390605192156061">Затворите све копије Dissenter-а.</translation>
+<translation id="7535429826459677826">Програмерска верзија Dissenter-а</translation>
+<translation id="7552219221109926349">Приказуј Dissenter ОС на овом језику</translation>
+<translation id="7561940363513215021">{0,plural, =1{Поново ћемо покренути Dissenter за 1 минут}one{Поново ћемо покренути Dissenter за # минут}few{Поново ћемо покренути Dissenter за # минута}other{Поново ћемо покренути Dissenter за # минута}}</translation>
+<translation id="7589360514048265910">Овај рачунар више неће добијати ажурирања за Dissenter зато што Mac OS X 10.9 више није подржан.</translation>
+<translation id="7592736734348559088">Dissenter не може да синхронизује податке зато што су подаци за пријављивање на налог застарели.</translation>
+<translation id="7207456302801184289">Добро дошли у Dissenter</translation>
+<translation id="7636297873481318396">Ова датотека је опасна, па ју је Dissenter блокирао. Штити вас напредна заштита.</translation>
+<translation id="7641148173327520642">Администратор система је конфигурисао Dissenter да отвара прегледач <ph name="ALTERNATIVE_BROWSER_NAME" /> да би приступао <ph name="TARGET_URL_HOSTNAME" />.</translation>
+<translation id="7651907282515937834">Dissenter Enterprise логотип</translation>
 <translation id="7747138024166251722">Програм за инсталацију није могао да направи привремени директоријум. Проверите да ли имате слободног простора на диску, као и дозволу да инсталирате софтвер.</translation>
-<translation id="7761834446675418963">Кликните на име да бисте отворили Brave и почните да прегледате.</translation>
-<translation id="7777080907402804672">Ако слика нема користан опис, Brave ће пробати да вам га пружи. Слике се шаљу Google-у ради прављења описа. То можете да искључите у подешавањима у сваком тренутку.</translation>
-<translation id="7781002470561365167">Доступна је нова верзија Brave прегледача.</translation>
-<translation id="7787950393032327779">Изгледа да се профил користи у неком другом Brave процесу (<ph name="PROCESS_ID" />) на неком другом рачунару (<ph name="HOST_NAME" />). Brave је закључао профил да не би био оштећен. Ако сте сигурни да ниједан други процес не користи овај профил, можете да откључате профил и поново покренете Brave.</translation>
-<translation id="777113543093865885">Уклони из Brave-а...</translation>
-<translation id="7825851276765848807">Инсталација није успела услед неутврђене грешке. Преузмите Brave поново.</translation>
-<translation id="7855730255114109580">Brave је актуелан</translation>
-<translation id="7888186132678118370">Закачите Brave на траку задатака</translation>
-<translation id="7890208801193284374">Ако делите рачунар, пријатељи и породица могу засебно да прегледају и да подесе Brave баш онако како желе.</translation>
-<translation id="7896673875602241923">Неко се претходно пријавио на Brave на овом рачунару као <ph name="ACCOUNT_EMAIL_LAST" />. Направите новог корисника Brave-а да би информације биле раздвојене.</translation>
-<translation id="7908168227788431038">Ажурирање је скоро готово! Поново покрените Brave да бисте довршили ажурирање.</translation>
-<translation id="7962410387636238736">Овај рачунар више неће добијати ажурирања за Brave јер Windows XP и Windows Vista више нису подржани</translation>
-<translation id="8005540215158006229">Brave је скоро спреман.</translation>
-<translation id="5875673934455379806">Поново инсталирај Brave</translation>
-<translation id="8013993649590906847">Ако слика нема користан опис, Brave ће пробати да вам га пружи. Слике се шаљу Google-у ради прављења описа.</translation>
+<translation id="7761834446675418963">Кликните на име да бисте отворили Dissenter и почните да прегледате.</translation>
+<translation id="7777080907402804672">Ако слика нема користан опис, Dissenter ће пробати да вам га пружи. Слике се шаљу Google-у ради прављења описа. То можете да искључите у подешавањима у сваком тренутку.</translation>
+<translation id="7781002470561365167">Доступна је нова верзија Dissenter прегледача.</translation>
+<translation id="7787950393032327779">Изгледа да се профил користи у неком другом Dissenter процесу (<ph name="PROCESS_ID" />) на неком другом рачунару (<ph name="HOST_NAME" />). Dissenter је закључао профил да не би био оштећен. Ако сте сигурни да ниједан други процес не користи овај профил, можете да откључате профил и поново покренете Dissenter.</translation>
+<translation id="777113543093865885">Уклони из Dissenter-а...</translation>
+<translation id="7825851276765848807">Инсталација није успела услед неутврђене грешке. Преузмите Dissenter поново.</translation>
+<translation id="7855730255114109580">Dissenter је актуелан</translation>
+<translation id="7888186132678118370">Закачите Dissenter на траку задатака</translation>
+<translation id="7890208801193284374">Ако делите рачунар, пријатељи и породица могу засебно да прегледају и да подесе Dissenter баш онако како желе.</translation>
+<translation id="7896673875602241923">Неко се претходно пријавио на Dissenter на овом рачунару као <ph name="ACCOUNT_EMAIL_LAST" />. Направите новог корисника Dissenter-а да би информације биле раздвојене.</translation>
+<translation id="7908168227788431038">Ажурирање је скоро готово! Поново покрените Dissenter да бисте довршили ажурирање.</translation>
+<translation id="7962410387636238736">Овај рачунар више неће добијати ажурирања за Dissenter јер Windows XP и Windows Vista више нису подржани</translation>
+<translation id="8005540215158006229">Dissenter је скоро спреман.</translation>
+<translation id="5875673934455379806">Поново инсталирај Dissenter</translation>
+<translation id="8013993649590906847">Ако слика нема користан опис, Dissenter ће пробати да вам га пружи. Слике се шаљу Google-у ради прављења описа.</translation>
 <translation id="8030318113982266900">Ажурирање уређаја на канал <ph name="CHANNEL_NAME" />...</translation>
-<translation id="1672124279374861424">Када уклоните налог из Brave-а, можда ћете морати поново да учитате отворене картице да би то ступило на снагу.</translation>
-<translation id="8077352834923175128">Администратор тражи да рестартујете Brave ОС да бисте применили ово ажурирање</translation>
-<translation id="8129812357326543296">О &amp;Brave-у</translation>
-<translation id="8899693649891674038">Инсталирајте Brave на телефону. Послаћемо вам SMS на телефон.</translation>
-<translation id="8183957050892517584">Brave ће безбедно складиштити личне податке да не бисте морали поново да их уносите.</translation>
-<translation id="8226081633851087288">{0,plural, =0{Brave ОС ће се рестартовати}=1{Brave ОС ће се рестартовати за 1 секунду}one{Brave ОС ће се рестартовати за # секунду}few{Brave ОС ће се рестартовати за # секунде}other{Brave ОС ће се рестартовати за # секунди}}</translation>
-<translation id="5138664332909611586">Ова страница користи превише меморије, па је Brave уклонио одређени садржај.</translation>
-<translation id="3293668930608086049">Brave користи камеру и микрофон.</translation>
-<translation id="8286862437124483331">Brave покушава да прикаже лозинке. Унесите лозинку за Windows да бисте то омогућили.</translation>
-<translation id="8290100596633877290">Опа! Brave је отказао. Желите ли да га одмах поново покренете?</translation>
-<translation id="9067428552314418522">Ова датотека је опасна, па ју је Brave блокирао.</translation>
-<translation id="8370517070665726704">Ауторска права <ph name="YEAR" />. Brave Software Inc. Сва права задржана.</translation>
-<translation id="8380166467911888159">Да би исправио правописне грешке, Brave шаље Google-овим серверима текст који уносите у поља за текст.</translation>
-<translation id="840084489713044809">Brave жели да извезе лозинке.</translation>
-<translation id="763369711159699222">Помозите нам да побољшамо Brave</translation>
-<translation id="5509303873219371662">Рестартујте Brave</translation>
-<translation id="8455999171311319804">Опционално: Помозите нам да побољшамо Brave ОС тако што ћете аутоматски слати Google-у дијагностику и податке о коришћењу.</translation>
-<translation id="2965084188004448871">Инсталирајте Brave на телефону. Послаћемо вам SMS на број телефона за враћање приступа налогу: <ph name="PHONE_NUMBER" /></translation>
-<translation id="8668413672647811944">Посебно безбедносно ажурирање за Brave је управо примењено. Рестартујте га и вратићемо вам картице.</translation>
-<translation id="8521348052903287641">Правило за долазни саобраћај за програмерску верзију Brave-а да бисте омогућили mDNS саобраћај.</translation>
-<translation id="8547799825197623713">Покретач Brave апликација Canary</translation>
-<translation id="8556340503434111824">Доступна је нова верзија Brave прегледача, бржа него икад пре.</translation>
-<translation id="8568392309447938879">Треба да будете пријављени у Brave да бисте користили апликације. То омогућава Brave-у да синхронизује апликације, обележиваче, историју, лозинке и друга подешавања на више уређаја.</translation>
-<translation id="8606668294522778825">Brave може да користи веб-услуге да би побољшао доживљај прегледања. Можете опционално да онемогућите те услуге. <ph name="BEGIN_LINK" />Сазнајте више<ph name="END_LINK" /></translation>
-<translation id="8614913330719544658">Brave не реагује. Желите ли да га одмах поново покренете?</translation>
+<translation id="1672124279374861424">Када уклоните налог из Dissenter-а, можда ћете морати поново да учитате отворене картице да би то ступило на снагу.</translation>
+<translation id="8077352834923175128">Администратор тражи да рестартујете Dissenter ОС да бисте применили ово ажурирање</translation>
+<translation id="8129812357326543296">О &amp;Dissenter-у</translation>
+<translation id="8899693649891674038">Инсталирајте Dissenter на телефону. Послаћемо вам SMS на телефон.</translation>
+<translation id="8183957050892517584">Dissenter ће безбедно складиштити личне податке да не бисте морали поново да их уносите.</translation>
+<translation id="8226081633851087288">{0,plural, =0{Dissenter ОС ће се рестартовати}=1{Dissenter ОС ће се рестартовати за 1 секунду}one{Dissenter ОС ће се рестартовати за # секунду}few{Dissenter ОС ће се рестартовати за # секунде}other{Dissenter ОС ће се рестартовати за # секунди}}</translation>
+<translation id="5138664332909611586">Ова страница користи превише меморије, па је Dissenter уклонио одређени садржај.</translation>
+<translation id="3293668930608086049">Dissenter користи камеру и микрофон.</translation>
+<translation id="8286862437124483331">Dissenter покушава да прикаже лозинке. Унесите лозинку за Windows да бисте то омогућили.</translation>
+<translation id="8290100596633877290">Опа! Dissenter је отказао. Желите ли да га одмах поново покренете?</translation>
+<translation id="9067428552314418522">Ова датотека је опасна, па ју је Dissenter блокирао.</translation>
+<translation id="8370517070665726704">Ауторска права <ph name="YEAR" />. Gab AI Inc. Сва права задржана.</translation>
+<translation id="8380166467911888159">Да би исправио правописне грешке, Dissenter шаље Google-овим серверима текст који уносите у поља за текст.</translation>
+<translation id="840084489713044809">Dissenter жели да извезе лозинке.</translation>
+<translation id="763369711159699222">Помозите нам да побољшамо Dissenter</translation>
+<translation id="5509303873219371662">Рестартујте Dissenter</translation>
+<translation id="8455999171311319804">Опционално: Помозите нам да побољшамо Dissenter ОС тако што ћете аутоматски слати Google-у дијагностику и податке о коришћењу.</translation>
+<translation id="2965084188004448871">Инсталирајте Dissenter на телефону. Послаћемо вам SMS на број телефона за враћање приступа налогу: <ph name="PHONE_NUMBER" /></translation>
+<translation id="8668413672647811944">Посебно безбедносно ажурирање за Dissenter је управо примењено. Рестартујте га и вратићемо вам картице.</translation>
+<translation id="8521348052903287641">Правило за долазни саобраћај за програмерску верзију Dissenter-а да бисте омогућили mDNS саобраћај.</translation>
+<translation id="8547799825197623713">Покретач Dissenter апликација Canary</translation>
+<translation id="8556340503434111824">Доступна је нова верзија Dissenter прегледача, бржа него икад пре.</translation>
+<translation id="8568392309447938879">Треба да будете пријављени у Dissenter да бисте користили апликације. То омогућава Dissenter-у да синхронизује апликације, обележиваче, историју, лозинке и друга подешавања на више уређаја.</translation>
+<translation id="8606668294522778825">Dissenter може да користи веб-услуге да би побољшао доживљај прегледања. Можете опционално да онемогућите те услуге. <ph name="BEGIN_LINK" />Сазнајте више<ph name="END_LINK" /></translation>
+<translation id="8614913330719544658">Dissenter не реагује. Желите ли да га одмах поново покренете?</translation>
 <translation id="8667808506758191620"><ph name="DEVICE_TYPE" /> је ажуриран.</translation>
-<translation id="8669527147644353129">Brave помоћник</translation>
-<translation id="8679801911857917785">Контролише и страницу која се приказује када покренете Brave.</translation>
-<translation id="870251953148363156">Ажурирај &amp;Brave</translation>
+<translation id="8669527147644353129">Dissenter помоћник</translation>
+<translation id="8679801911857917785">Контролише и страницу која се приказује када покренете Dissenter.</translation>
+<translation id="870251953148363156">Ажурирај &amp;Dissenter</translation>
 <translation id="8704255848199359374">Користи исту проверу правописа као Google претрага. Текст који унесете у прегледач се шаље Google-у. То увек можете да промените у подешавањима.</translation>
-<translation id="873133009373065397">Brave не може да одреди ни да подеси подразумевани прегледач</translation>
-<translation id="8736674169840206667">Администратор захтева да поново покренете Brave да бисте применили ажурирање</translation>
-<translation id="8788264404293392165">Овај језик се користи за приказивање корисничког интерфејса Brave ОС-а</translation>
-<translation id="8791470158600044404">{0,plural, =1{Brave ОС ће се рестартовати за 1 минут}one{Brave ОС ће се рестартовати за # минут}few{Brave ОС ће се рестартовати за # минута}other{Brave ОС ће се рестартовати за # минута}}</translation>
-<translation id="8823341990149967727">Brave је застарео</translation>
-<translation id="884296878221830158">Контролише и страницу која се приказује када покренете Brave или кликнете на дугме Почетна.</translation>
+<translation id="873133009373065397">Dissenter не може да одреди ни да подеси подразумевани прегледач</translation>
+<translation id="8736674169840206667">Администратор захтева да поново покренете Dissenter да бисте применили ажурирање</translation>
+<translation id="8788264404293392165">Овај језик се користи за приказивање корисничког интерфејса Dissenter ОС-а</translation>
+<translation id="8791470158600044404">{0,plural, =1{Dissenter ОС ће се рестартовати за 1 минут}one{Dissenter ОС ће се рестартовати за # минут}few{Dissenter ОС ће се рестартовати за # минута}other{Dissenter ОС ће се рестартовати за # минута}}</translation>
+<translation id="8823341990149967727">Dissenter је застарео</translation>
+<translation id="884296878221830158">Контролише и страницу која се приказује када покренете Dissenter или кликнете на дугме Почетна.</translation>
 <translation id="8862326446509486874">Немате одговарајућа права за инсталацију на нивоу система. Пробајте поново да покренете програм за инсталацију, овога пута као администратор.</translation>
-<translation id="8914504000324227558">Поново покрени Brave</translation>
-<translation id="9026991721384951619">Brave ОС не може да синхронизује податке зато што су подаци за пријављивање на налог застарели.</translation>
-<translation id="9067395829937117663">За Brave је потребан Windows 7 или новија верзија.</translation>
-<translation id="909149346112452267">{0,plural, =1{Brave ОС ће се рестартовати за један сат}one{Brave ОС ће се рестартовати за # сат}few{Brave ОС ће се рестартовати за # сата}other{Brave ОС ће се рестартовати за # сати}}</translation>
+<translation id="8914504000324227558">Поново покрени Dissenter</translation>
+<translation id="9026991721384951619">Dissenter ОС не може да синхронизује податке зато што су подаци за пријављивање на налог застарели.</translation>
+<translation id="9067395829937117663">За Dissenter је потребан Windows 7 или новија верзија.</translation>
+<translation id="909149346112452267">{0,plural, =1{Dissenter ОС ће се рестартовати за један сат}one{Dissenter ОС ће се рестартовати за # сат}few{Dissenter ОС ће се рестартовати за # сата}other{Dissenter ОС ће се рестартовати за # сати}}</translation>
 <translation id="911206726377975832">Желите ли да избришете и податке прегледања?</translation>
-<translation id="9138603949443464873">Да бисте применили промене, поново покрените Brave</translation>
-<translation id="919706545465235479">Ажурирајте Brave да бисте започели синхронизацију</translation>
-<translation id="924447568950697217">Поставите Brave за подразумевани прегледач</translation>
-<translation id="989369509083708165">Brave је подразумевани прегледач</translation>
+<translation id="9138603949443464873">Да бисте применили промене, поново покрените Dissenter</translation>
+<translation id="919706545465235479">Ажурирајте Dissenter да бисте започели синхронизацију</translation>
+<translation id="924447568950697217">Поставите Dissenter за подразумевани прегледач</translation>
+<translation id="989369509083708165">Dissenter је подразумевани прегледач</translation>
 </translationbundle>

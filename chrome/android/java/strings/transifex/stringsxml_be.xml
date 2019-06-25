@@ -1,6 +1,6 @@
 <resources>
 
-    <string name="brave_settings_title">Налады шчытоў Brave для</string>
+    <string name="brave_settings_title">Налады шчытоў Dissenter для</string>
     <string name="brave_shields_down">Выкл</string>
     <string name="brave_shields_up">Укл</string>
     <string name="brave_shields_ads_trackers">Аб\'яў ці трэкераў заблакавана</string>
@@ -9,7 +9,7 @@
     <string name="brave_shields_ads_tracking_switch">Блакаваць аб\'явы і трэкінг</string>
     <string name="brave_shields_https_everywhere_switch">HTTPS Everywhere</string>
     <string name="brave_shields_blocks_scripts_switch">Блакаваць скрыпты</string>
-    <string name="accessibility_toolbar_btn_brave_shields">Укл/Выкл шчыты Brave</string>
+    <string name="accessibility_toolbar_btn_brave_shields">Укл/Выкл шчыты Dissenter</string>
     <string name="brave_shields_block_3rd_party_cookies_switch">Блакаваць cookie 3іх бакоў</string>
 
     <string name="httpse_summary">Адкрывае сайты выкарыстоўваючы HTTPS замест HTTP, калі гэта магчыма</string>
@@ -65,14 +65,14 @@
     <string name="website_settings_category_play_video_in_background_enabled_summary">Дазволена</string>
     <string name="website_settings_category_play_video_in_background_disabled_summary">Забаронена</string>
     <string name="website_settings_category_play_video_in_background_enabled">Эксперыментальна. Уключае прайграванне гуку з відэа ў фонавым рэжыме, калі ўкладка не актыўная ці экран прылады выключаны. Паспрабуйце перамкнуцца ў рэжым працоўнага стала, калі гэта функцыя не працуе</string>
-    <string name="settings_require_relaunch_notice">Вашы змены набудуць моц пры наступным запуску Brave</string>
+    <string name="settings_require_relaunch_notice">Вашы змены набудуць моц пры наступным запуску Dissenter</string>
     <string name="settings_require_relaunch_now">ПЕРАЗАПУСЦІЦЬ ЗАРАЗ</string>
     <string name="settings_require_relaunch_later">ПАЗНЕЙ</string>
 
-    <string name="play_yt_video_in_browser_title">Прайграванне відэа ў Brave</string>
+    <string name="play_yt_video_in_browser_title">Прайграванне відэа ў Dissenter</string>
     <string name="website_settings_category_play_yt_video_in_browser_enabled_summary">Уключана</string>
     <string name="website_settings_category_play_yt_video_in_browser_disabled_summary">Адключана</string>
-    <string name="website_settings_category_play_yt_video_in_browser_enabled">Калі ўключана, відэа будзе прайгравацца ў Brave замест адпаведнай праграмы</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled">Калі ўключана, відэа будзе прайгравацца ў Dissenter замест адпаведнай праграмы</string>
 
     <string name="close_tabs_on_exit_title">Закрываць укладкі пры выхадзе</string>
     <string name="close_tabs_on_exit_summary">Не захоўваць укладкі паміж сесіямі</string>
@@ -81,7 +81,7 @@
     <string name="open_pages_in_custom_tabs_summary">Прапанаваць адкрыць укладкі ў карыстальніцкіх укладках</string>
 
     <string name="ddg_offer_title">Прыватны пошук з дапамогай DuckDuckGo?</string>
-    <string name="ddg_offer_text">Пры прыватным пошуку, Brave будзе выкарыстоўваць DuckDuckGo для адказу на вашы пошукавыя запыты, калі вы знаходзіцеся на гэтай прыватнай укладцы. DuckDuckGo — гэта пошукавая сістэма, якая не адсочвае гісторыю пошуку, дазваляючы вам выконваць пошук прыватна.</string>
+    <string name="ddg_offer_text">Пры прыватным пошуку, Dissenter будзе выкарыстоўваць DuckDuckGo для адказу на вашы пошукавыя запыты, калі вы знаходзіцеся на гэтай прыватнай укладцы. DuckDuckGo — гэта пошукавая сістэма, якая не адсочвае гісторыю пошуку, дазваляючы вам выконваць пошук прыватна.</string>
     <string name="ddg_offer_positive">Так</string>
     <string name="ddg_offer_negative">Не</string>
     <string name="ddg_offer_link">Даведайцеся пра прыватны пошук з дапамогай DuckDuckGo</string>
@@ -94,7 +94,7 @@
     <string name="brave_new_tab_private_header">Гэта прыватная ўкладка</string>
     <string name="brave_new_tab_private_message">Нават калі сайты, якія вы наведваеце ў прыватных укладках, не захоўваюцца лакальна, яны не робяць вас ананімным ці нябачным для вашага інтэрнэт-правайдара, вашага працадаўцы ці для сайтаў, якія вы наведваеце.</string>
 
-    <string name="update_notification_title">Абнаўленне Brave</string>
-    <string name="update_notification_text">Новы Brave браўзар на 22% хутчэй</string>
+    <string name="update_notification_title">Абнаўленне Dissenter</string>
+    <string name="update_notification_text">Новы Dissenter браўзар на 22% хутчэй</string>
 
     </resources>

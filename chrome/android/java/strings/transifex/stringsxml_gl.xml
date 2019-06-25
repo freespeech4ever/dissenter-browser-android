@@ -1,6 +1,6 @@
 <resources>
 
-    <string name="brave_settings_title">Axustes dos escudos web do Brave para</string>
+    <string name="brave_settings_title">Axustes dos escudos web do Dissenter para</string>
     <string name="brave_shields_down">Abaixo</string>
     <string name="brave_shields_up">Arriba</string>
     <string name="brave_shields_ads_trackers">Anuncios e rastrexadores bloqueados</string>
@@ -8,7 +8,7 @@
     <string name="brave_shields_scripts_blocked">Scripts bloqueados</string>
     <string name="brave_shields_ads_tracking_switch">Bloquear anuncios e rastrexadores</string>
     <string name="brave_shields_blocks_scripts_switch">Bloquear scripts</string>
-    <string name="accessibility_toolbar_btn_brave_shields">Activar/desactivar escudos do Brave</string>
+    <string name="accessibility_toolbar_btn_brave_shields">Activar/desactivar escudos do Dissenter</string>
     <string name="brave_shields_block_3rd_party_cookies_switch">Bloquear cookies de terceiros</string>
 
     <string name="httpse_summary">Sempre que sexa posíbel, abrir os sitios compatíbeis empregando HTTPS no canto do HTTP</string>
@@ -29,7 +29,7 @@
 
     <string name="menu_exit">Saír</string>
 
-    <string name="brave_sync">Sincronización do Brave (beta)</string>
+    <string name="brave_sync">Sincronización do Dissenter (beta)</string>
     <string name="sync_settings_add_device_name_title">Engadir nome do dispositivo</string>
     <string name="sync_settings_add_device_name_label">Insire un nome opcional para este dispositivo</string>
     <string name="sync_example_device_name">Dispositivo Android</string>
@@ -64,14 +64,14 @@ Gardado</string>
     <string name="website_settings_category_play_video_in_background_enabled_summary">Activado</string>
     <string name="website_settings_category_play_video_in_background_disabled_summary">Desactivado</string>
     <string name="website_settings_category_play_video_in_background_enabled">Experimental. Activa a reprodución de son do vídeo en segundo plano cando a lapela non está activa ou a pantalla do dispositivo está apagado. Proba a mudar ó modo de escritorio se esta funcionalidade non funciona.</string>
-    <string name="settings_require_relaunch_notice">As mudanzas terán efecto a seguinte vez que abras o Brave.</string>
+    <string name="settings_require_relaunch_notice">As mudanzas terán efecto a seguinte vez que abras o Dissenter.</string>
     <string name="settings_require_relaunch_now">Voltar abrir agora</string>
     <string name="settings_require_relaunch_later">DESPOIS</string>
 
-    <string name="play_yt_video_in_browser_title">Reprodución de vídeo no Brave</string>
+    <string name="play_yt_video_in_browser_title">Reprodución de vídeo no Dissenter</string>
     <string name="website_settings_category_play_yt_video_in_browser_enabled_summary">Activado</string>
     <string name="website_settings_category_play_yt_video_in_browser_disabled_summary">Desactivado</string>
-    <string name="website_settings_category_play_yt_video_in_browser_enabled">Se está activado, os vídeos reproduciranse no Brave no canto da aplicación correspondente</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled">Se está activado, os vídeos reproduciranse no Dissenter no canto da aplicación correspondente</string>
 
     <string name="close_tabs_on_exit_title">Pechar lapelas ó saír</string>
     <string name="close_tabs_on_exit_summary">Non manter as lapelas entre sesións de navigación</string>
@@ -80,7 +80,7 @@ Gardado</string>
     <string name="open_pages_in_custom_tabs_summary">Ofrecer para abrir lapelas en \"Lapelas Personalizadas\"</string>
 
     <string name="ddg_offer_title">Desexas facer unha proxura privada co DuckDuckGo?</string>
-    <string name="ddg_offer_text">Ca procura privada, o Brave empregará o DuckDuckGo para respostar ás túas procuras mentras estea nesta lapela privada. O DuckDuckGo é un motor de procura que non grava o teu historial de procuras, posibilitando que podas navigar de xeito privado.</string>
+    <string name="ddg_offer_text">Ca procura privada, o Dissenter empregará o DuckDuckGo para respostar ás túas procuras mentras estea nesta lapela privada. O DuckDuckGo é un motor de procura que non grava o teu historial de procuras, posibilitando que podas navigar de xeito privado.</string>
     <string name="ddg_offer_positive">Si</string>
     <string name="ddg_offer_negative">Non</string>
     <string name="ddg_offer_link">Saber máis acerca da procura privada co DuckDuckGo</string>
@@ -92,7 +92,7 @@ Gardado</string>
     <string name="brave_new_private_tab">Nova lapela privada</string>
     <string name="brave_new_tab_private_header">Isto é unha \"Lapela Privada\"</string>
     <string name="brave_new_tab_private_message">Aínda que os sitios que visites dende lapelas privadas non se garden de xeito local, non serán anónimos ou invisíbeis para os teus ISP, o teu empregador ou para as páxinas que estés a ollar.</string>
-    <string name="update_notification_title">Actualización do navigador do Brave</string>
-    <string name="update_notification_text">O navigador novo do Brave é un 22% máis rápido</string>
+    <string name="update_notification_title">Actualización do navigador do Dissenter</string>
+    <string name="update_notification_text">O navigador novo do Dissenter é un 22% máis rápido</string>
     <string name="prefs_sync">Sincronización (beta)</string>
     </resources>

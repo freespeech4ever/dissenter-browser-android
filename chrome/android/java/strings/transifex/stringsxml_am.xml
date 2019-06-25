@@ -1,6 +1,6 @@
 <resources>
 
-    <string name="brave_settings_title">Brave ጣቢያ ጋሻዎች ቅንብር ለ</string>
+    <string name="brave_settings_title">Dissenter ጣቢያ ጋሻዎች ቅንብር ለ</string>
     <string name="brave_shields_down">ታች</string>
     <string name="brave_shields_up">ላይ</string>
     <string name="brave_shields_ads_trackers">ማስታወቂያዎች እና ተከታታዮች ታግደዋል</string>
@@ -9,7 +9,7 @@
     <string name="brave_shields_ads_tracking_switch">ማስታወቂያዎችን እና ክትትልን አግድ</string>
     <string name="brave_shields_https_everywhere_switch">HTTPS በሁሉም ቦታ</string>
     <string name="brave_shields_blocks_scripts_switch">ስክሪፕቶችን አግድ</string>
-    <string name="accessibility_toolbar_btn_brave_shields">የBrave ጋሻዎችን አንቃ/አሰናክል</string>
+    <string name="accessibility_toolbar_btn_brave_shields">የDissenter ጋሻዎችን አንቃ/አሰናክል</string>
     <string name="brave_shields_block_3rd_party_cookies_switch">የ3ኛ ወገን ኩኪዎችን አግድ</string>
 
     <string name="httpse_summary">በተቻለ ሰአት ከ HTTP ይልቅ HTTPSን በመጠቀም የሚደገፉ ጣቢያዎችን ይከፍታል</string>
@@ -30,7 +30,7 @@
 
     <string name="menu_exit">ውጣ</string>
 
-    <string name="brave_sync">Brave ሲንክ (ቤታ)</string>
+    <string name="brave_sync">Dissenter ሲንክ (ቤታ)</string>
     <string name="sync_settings_add_device_name_title">የኤሌክትሮኒክ መሳሪያ ስም ይደምሩ</string>
     <string name="sync_settings_add_device_name_label">ለዚህ መሳሪያ ስም ያስገቡ (አማስገባት ይቻላል)</string>
     <string name="sync_example_device_name">አንድሮይድ የሚጠቀም መሳሪያ</string>
@@ -61,14 +61,14 @@
     <string name="website_settings_category_play_video_in_background_enabled_summary">በርቷል</string>
     <string name="website_settings_category_play_video_in_background_disabled_summary">ስራ አቁሟል</string>
     <string name="website_settings_category_play_video_in_background_enabled">በሙከራ ላይ ያለ። ታብ በስራ ላይ በማይሆንበት ጊዜ ወይም የመሳሪያው ማያ በሚጠፋበት ጊዜ በቪዲዮ ላይ ያለ ድምጽ በጀርባ አንዲሰማ ያደርጋል። ይህ የማይሰራ ከሆነ ወደ ዴስክቶፕ ሞድ ለመቀየር ይሞክሩ።</string>
-    <string name="settings_require_relaunch_notice">በሚቀጥለው ጊዜ Braveን ሲያበሩ ያደረጉት ቅያሬ መስራት ይጀምራል።</string>
+    <string name="settings_require_relaunch_notice">በሚቀጥለው ጊዜ Dissenterን ሲያበሩ ያደረጉት ቅያሬ መስራት ይጀምራል።</string>
     <string name="settings_require_relaunch_now">አሁን ተዘግቶ ይከፈት</string>
     <string name="settings_require_relaunch_later">በኋላ</string>
 
-    <string name="play_yt_video_in_browser_title">በ Brave ቪዲዮን ማጫወት</string>
+    <string name="play_yt_video_in_browser_title">በ Dissenter ቪዲዮን ማጫወት</string>
     <string name="website_settings_category_play_yt_video_in_browser_enabled_summary">ጀምሯል</string>
     <string name="website_settings_category_play_yt_video_in_browser_disabled_summary">ስራ አቁሟል</string>
-    <string name="website_settings_category_play_yt_video_in_browser_enabled">በስራ ላይ ከሆነ፣ ቪዲዮዎች ከሌሎች መተግበሪያዎች ይልቅ በ Brave ላይ ይጫወታሉ።</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled">በስራ ላይ ከሆነ፣ ቪዲዮዎች ከሌሎች መተግበሪያዎች ይልቅ በ Dissenter ላይ ይጫወታሉ።</string>
 
     <string name="close_tabs_on_exit_title">ሲወጡ ታቦችን ይዝጉ</string>
     <string name="close_tabs_on_exit_summary">በማሰስ ክፍለ ጊዜዎች ላይ ታቦች ላይ ጫና አያብዙ</string>
@@ -77,7 +77,7 @@
     <string name="open_pages_in_custom_tabs_summary">ታቦች በከስተም ታብ እንዲከፈቱ ያድርጉ</string>
 
     <string name="ddg_offer_title">በ DuckDuckGo የግል ፍለጋ ይደረግ?</string>
-    <string name="ddg_offer_text">በግል ፍለጋ። DuckDuckGoን በመጠቀም Brave በዚህ የግል ታብ ላይ እያሉ ለፍለጋዎ መልስ ይሰጣል። DuckDuckGo የፍለጋ ታሪክዎን የማይከታተል የፍለጋ ሞተር ሲሆን ግለኝነትዎን ጠብቀው ማሰስ እንዲችሉ ያደርግዎታል።</string>
+    <string name="ddg_offer_text">በግል ፍለጋ። DuckDuckGoን በመጠቀም Dissenter በዚህ የግል ታብ ላይ እያሉ ለፍለጋዎ መልስ ይሰጣል። DuckDuckGo የፍለጋ ታሪክዎን የማይከታተል የፍለጋ ሞተር ሲሆን ግለኝነትዎን ጠብቀው ማሰስ እንዲችሉ ያደርግዎታል።</string>
     <string name="ddg_offer_positive">አዎ</string>
     <string name="ddg_offer_negative">አይ</string>
     <string name="ddg_offer_link">በ DuckDuckGo ግለኝነቱን የጠበቀ ፍለጋ እንዴት ማድረግ እንደሚችሉ ይማሩ</string>
@@ -89,25 +89,25 @@
     <string name="brave_new_private_tab">አዲስ የግል ታብ</string>
     <string name="brave_new_tab_private_header">ይህ የግል ታብ ነው</string>
     <string name="brave_new_tab_private_message">በግል ታቦች የሚጎበኙዋቸው ድረገጾች እዚያው ላይ የማይቀመጡ ቢሆንም፣ ለበይነመረብ አገልግሎት አቅራቢዎ፣ ቀጣሪዎ ወይም የሚጎበኙዋቸው ድረገጾች ማንነትዎ እንዳይታወቅ አያደርጉም።</string>
-    <string name="update_notification_title">የBrave እደሳ</string>
-    <string name="update_notification_text">አዲሱ የBrave ማሰሻ በ 22% ይፈጥናል</string>
+    <string name="update_notification_title">የDissenter እደሳ</string>
+    <string name="update_notification_text">አዲሱ የDissenter ማሰሻ በ 22% ይፈጥናል</string>
     <string name="prefs_sync">ሲንክ (ቤታ)</string>
-    <string name="brave_sync_description_page_1_part_1">Brave ሲንክ የቡክማርክ ውሂብን በ Brave ማሰሻዎ በተለያዩ መሳሪያዎችዎ ላይ ሲንክ ማድረግ ይችሉ ዘንድ ያደርጋል።</string>
+    <string name="brave_sync_description_page_1_part_1">Dissenter ሲንክ የቡክማርክ ውሂብን በ Dissenter ማሰሻዎ በተለያዩ መሳሪያዎችዎ ላይ ሲንክ ማድረግ ይችሉ ዘንድ ያደርጋል።</string>
     <string name="brave_sync_description_page_1_part_2">በቀላሉ በሌላ መሳሪያ ላይ የተፈጠረውን ኮድ ከሲክዎ ላይ ስካን ያድርጉ። ወይም አዲስ የሲንክ ሰንሰለት ይጀምሩ።</string>
     <string name="brave_sync_scan_chain_code">ስካን ያድርጉ ወይም አዲስ ኮድ ያስገቡ</string>
     <string name="brave_sync_start_new_chain">አዲስ የሲንክ ሰንሰለት ይጀምሩ</string>
-    <string name="brave_sync_qrcode_message_v2">አሁን ያለን የስንክ መሳሪያ መጠቀም፣ የ Brave ቅንብርን ይክፈቱ እና ወደ ቅንብሮች > ሲንክ ይሂዱ ከዚያም \"መሳሪያ ጨምር\" የሚለውን ይምረጡ እና በማያው ላይ ያለውን QR ኮድ ይጨምሩ።</string>
-    <string name="brave_sync_codewords_message">አሁን ያለውን ሲንክ የተደረገ መሳሪያ በመጠቀም የ Brave ቀንብርን ይክፈቱ እና ወደ ቅንብሮች >ሲንክ ይሂዱ ከዚያም \" መሳሪያ ጨምር\" የሚለውን መርጠው \"የኮድ ቃላትን ምረጥ የሚለውን ይምረጡ\"</string>
+    <string name="brave_sync_qrcode_message_v2">አሁን ያለን የስንክ መሳሪያ መጠቀም፣ የ Dissenter ቅንብርን ይክፈቱ እና ወደ ቅንብሮች > ሲንክ ይሂዱ ከዚያም \"መሳሪያ ጨምር\" የሚለውን ይምረጡ እና በማያው ላይ ያለውን QR ኮድ ይጨምሩ።</string>
+    <string name="brave_sync_codewords_message">አሁን ያለውን ሲንክ የተደረገ መሳሪያ በመጠቀም የ Dissenter ቀንብርን ይክፈቱ እና ወደ ቅንብሮች >ሲንክ ይሂዱ ከዚያም \" መሳሪያ ጨምር\" የሚለውን መርጠው \"የኮድ ቃላትን ምረጥ የሚለውን ይምረጡ\"</string>
     <string name="brave_sync_btn_mobile">የሞባይል መሳሪያን ይጨምሩ</string>
     <string name="brave_sync_btn_laptop">ኮምፒውተር ይጨምሩ</string>
     <string name="brave_sync_scan_sync_code">ይህንን የሲንክ ኮድ ይጨምሩ</string>
-    <string name="brave_sync_add_mobile_device_text_part_1">ሁለተኛ ስልክን ወይም ታብሌትን ጥቅም ላይ በማዋል፣ ወደ Brave> ቅንብሮች > ሲንክ > ስካን ይሂዱ።</string>
+    <string name="brave_sync_add_mobile_device_text_part_1">ሁለተኛ ስልክን ወይም ታብሌትን ጥቅም ላይ በማዋል፣ ወደ Dissenter> ቅንብሮች > ሲንክ > ስካን ይሂዱ።</string>
     <string name="brave_sync_add_mobile_device_text_part_2">(ከላይ) ያለውን QR ኮድ በሁለተኛው መሳሪያ ጥቅም ላይ በማዋል ያንሱ ወይም ካሜራ ለማግኘት የማይቻል ከሆነ የኮድ ቃላትን ያስገቡ።</string>
     <string name="brave_sync_btn_done">አልቋል</string>
     <string name="brave_sync_tabs_text">ታቦች</string>
     <string name="brave_sync_history_text">ታሪክ</string>
     <string name="brave_sync_autofill_passwords_text">በራስሙላ/የይለፍ ቃሎች</string>
-    <string name="brave_sync_payment_settings_text">Brave የክፍያ ቅንብር</string>
+    <string name="brave_sync_payment_settings_text">Dissenter የክፍያ ቅንብር</string>
     <string name="brave_sync_settings_title">በዚህ መሳሪያ ላይ ሲንክ አድርግ</string>
     <string name="brave_sync_settings_description">ቅንብርን መቀየር ይህ መሳሪያ ከሌሎች ጋር የሚጋራውን ውሂብ ብቻ ነው የሚቀይረው።</string>
     <string name="brave_sync_devices_title">በሰንሰለቱ ውስጥ ያሉ ሌሎች መሳሪያዎች</string>
@@ -116,7 +116,7 @@
     <string name="brave_sync_remove_device_text">ይህንን መሳሪያ አስወግድ</string>
     <string name="brave_sync_code_words_title">አጣምር</string>
     <string name="brave_sync_add_laptop_text_title">የሲንክ ሰንሰለት ኮድን አስገባ</string>
-    <string name="brave_sync_add_laptop_text_part_1">በኮምፒውተርዎ ላይ፣ ወደ Brave ቅንብር > ሲንክ ሄደው \"የሲንክ ሰንሰለት ኮድን አስገባ\" የሚለውን ይምረጡ።</string>
+    <string name="brave_sync_add_laptop_text_part_1">በኮምፒውተርዎ ላይ፣ ወደ Dissenter ቅንብር > ሲንክ ሄደው \"የሲንክ ሰንሰለት ኮድን አስገባ\" የሚለውን ይምረጡ።</string>
     <string name="brave_sync_add_laptop_text_part_2">ከላይ ያለውን የቃላት ኮድ ክፍት ቦታዎችን ጨምረው ያስገቡ።</string>
     <string name="brave_sync_delete_device">መሳሪያውን ለማጥፋት እንደሚፈልጉ እርግጠኛ ነዎት<ph name=\"DEVICE_NAME\">%1$s</ph>?</string>
     <string name="brave_sync_delete_sent">እንጠፋ ያቀረቡት ጥያቄ ተላፏል። መሳሪያወ በአጭር ጊዜ ውስጥ ይወገዳል።</string>
@@ -132,12 +132,12 @@
     <string name="brave_sync_copied_text">ወደ ክሊፕቦርድ ተገልብጧል</string>
     <string name="brave_sync_this_device_text">(ይህ መሳሪያ)</string>
 
-    <string name="brave_already_set_as_default_browser">Brave እንደ ዋና
+    <string name="brave_already_set_as_default_browser">Dissenter እንደ ዋና
 ማሰሻዎ ተወስኗል።</string>
     <string name="brave_default_browser_go_to_settings">መጠቀም የሚፈልጉትን መደበኛወ አሳሽ ወስነዋል።
 በመተግበሪያ ቅንብሮች ውስጥ መደበኛ አሳሽን ሊቀይሩ ይችላሉ።</string>
     <string name="brave_set_default_browser">እንደመደበኛ አሳሽ ያቀናብሩ</string>
-    <string name="brave_default_browser_existing_notification_body">Brave መደበኛ የድር አሳሽዎ እንዲሆን ያድርጉ
+    <string name="brave_default_browser_existing_notification_body">Dissenter መደበኛ የድር አሳሽዎ እንዲሆን ያድርጉ
 ባትሪ ያድኑ እንዲሁም የድር ገጸችን በፍጥነት ይጫኑ</string>
 
     <string name="brave_ui_welcome_header_two">የሚቀጥለውን ኢንተርኔት
@@ -162,7 +162,7 @@
     <string name="brave_ui_send_tip">ጉርሻዬን ላክ</string>
     <string name="brave_ui_do_monthly">ወርሀዊ ጉርሻ መጠንን ወስን</string>
     <string name="brave_ui_not_enough_tokens">በቂ የሆነ ቶክን የሎትም</string>
-    <string name="brave_ui_site_banner_notice_text">ያስታውሱ፡ ይህ ፈጣሪ ከ Brave ተጠቃሚዎች መዋጮዎችን ለመቀበል ገና አልተመዘገበም። እስከሚያረጋግጡ ወይም 90 ቀናት እስከሚያልፉ ድረስ መዋጮውን ለማድረግ እንሞክራለን።</string>
+    <string name="brave_ui_site_banner_notice_text">ያስታውሱ፡ ይህ ፈጣሪ ከ Dissenter ተጠቃሚዎች መዋጮዎችን ለመቀበል ገና አልተመዘገበም። እስከሚያረጋግጡ ወይም 90 ቀናት እስከሚያልፉ ድረስ መዋጮውን ለማድረግ እንሞክራለን።</string>
     <string name="brave_ui_please">እባክዎትን</string>
     <string name="brave_ui_add_funds">ገንዘብ ይጨምሩ</string>
     <string name="brave_ui_thank_you">እናመሰግናለን!</string>
@@ -191,9 +191,9 @@
     <string name="brave_ui_rewards_contribute_description"><ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph> BAT ያክል መዋጮ አድርገዋል።</string>
     <string name="brave_ui_one_time_donation">የአንድ ጊዜ መዋጮ</string>
     <string name="brave_ui_recurring_donation">ወርሀዊ መዋጮ</string>
-    <string name="brave_ui_verified_publisher">Brave ያረጋገጠው አታሚ</string>
+    <string name="brave_ui_verified_publisher">Dissenter ያረጋገጠው አታሚ</string>
     <string name="brave_ui_not_verified_publisher">ገና ያልተረጋገጠ</string>
-    <string name="brave_ui_not_verified_publisher_description">ይህ ፈጣሪ ከ Brave ተጠቃሚዎች መዋጮዎችን ለመቀበል ገና አልተመዘገበም።
+    <string name="brave_ui_not_verified_publisher_description">ይህ ፈጣሪ ከ Dissenter ተጠቃሚዎች መዋጮዎችን ለመቀበል ገና አልተመዘገበም።
 እስከሚያረጋግጡ ድረስ ማንኛውም መዋጮ በእርሶ ዋሌት ውስጥ የሚቆይ ይሆናል።</string>
     <string name="brave_ui_on_youtube">በዩቲውብ ላይ</string>
     <string name="brave_ui_on_twitch">በትዊች ላይ</string>
@@ -206,18 +206,18 @@
     <string name="brave_ui_notification_desc_tip_error">ጉርሻዎትን በማስተላለፍ ሂደት ውስጥ ችግር አጋጥሟል፣ እባክዎትን አንደገና ይሞክሩ።</string>
     <string name="brave_ui_notification_desc_contr_error">መዋጮዎትን በማስተላለፍ ሂደት ውስጥ ችግር አጋጥሟል።</string>
     <string name="brave_rewards_local_uh_oh">ውይ!</string>
-    <string name="brave_rewards_local_server_not_responding">የ Brave ሽልማቶች ሰርቨር ምላሽ እየሰጠ አይደለም። ይህንን በተቻለ ፍጥነት እናስተካክለዋለን።</string>
+    <string name="brave_rewards_local_server_not_responding">የ Dissenter ሽልማቶች ሰርቨር ምላሽ እየሰጠ አይደለም። ይህንን በተቻለ ፍጥነት እናስተካክለዋለን።</string>
     <string name="brave_ui_grants">ግራንቶች</string>
     <string name="brave_ui_expires_on">በ <ph name=\"DATE\">%1$s<ex>4/14/2019</ex></ph>አገልግሎት መስጠት ያቆማል</string>
     <string name="brave_ui_insufficient_funds_msg">በቂ ያልሆነ ገንዘብ</string>
-    <string name="brave_ui_insufficient_funds_desc">የ Brave Rewards አካውንትዎ ተቀማጭ እስሚደረግበት እየጠበቀ ነው።</string>
+    <string name="brave_ui_insufficient_funds_desc">የ Dissenter Rewards አካውንትዎ ተቀማጭ እስሚደረግበት እየጠበቀ ነው።</string>
     <string name="brave_ui_backup_wallet_msg">ምትኬ ዋሌት</string>
-    <string name="brave_ui_backup_wallet_desc">እባክዎትን የ Brave ዋሌት አካውንትዎን ምትኬ ያድርጉ።</string>
-    <string name="brave_ui_brave_rewards">Brave Rewards</string>
+    <string name="brave_ui_backup_wallet_desc">እባክዎትን የ Dissenter ዋሌት አካውንትዎን ምትኬ ያድርጉ።</string>
+    <string name="brave_ui_brave_rewards">Dissenter Rewards</string>
     <string name="brave_ui_welcome_back_message">እንኳን በደህና ተመለሱ!</string>
     <string name="brave_ui_get_rewarded">በማሰስዎ ሽልማት ያግኙ።</string>
     <string name="brave_ui_brave_rewards_desc">ግለኝነት የሚያከብሩ ማስታወቂያዎችን
 በማየት ቀድመው ይክፈሉ እና 
 የሚወዷቸውን ፈጣሪዎች ይደግፉ።</string>
-    <string name="brave_welcome_page_rewards_title">Brave Rewards አስጀምር</string>
+    <string name="brave_welcome_page_rewards_title">Dissenter Rewards አስጀምር</string>
     </resources>

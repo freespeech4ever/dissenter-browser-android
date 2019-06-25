@@ -1,6 +1,6 @@
 <resources>
 
-    <string name="brave_settings_title">Brave -sivustosuoja-asetukset kohteelle</string>
+    <string name="brave_settings_title">Dissenter -sivustosuoja-asetukset kohteelle</string>
     <string name="brave_shields_down">Alas</string>
     <string name="brave_shields_up">Ylös</string>
     <string name="brave_shields_ads_trackers">Mainokset ja Seuraimet Estetty</string>
@@ -9,7 +9,7 @@
     <string name="brave_shields_ads_tracking_switch">Estä Mainokset ja Seuranta</string>
     <string name="brave_shields_https_everywhere_switch">HTTPS Kaikkialla</string>
     <string name="brave_shields_blocks_scripts_switch">Estä Komentosarjat</string>
-    <string name="accessibility_toolbar_btn_brave_shields">Ota käyttöön/Poista käytöstä Brave -suojat</string>
+    <string name="accessibility_toolbar_btn_brave_shields">Ota käyttöön/Poista käytöstä Dissenter -suojat</string>
     <string name="brave_shields_block_3rd_party_cookies_switch">Estä kolmannen osapuolen evästeet</string>
 
     <string name="httpse_summary">Avaa tuetut sivustot käyttämällä HTTPS:ää HTTP:n sijasta, kun mahdollista</string>
@@ -66,14 +66,14 @@ Tallennettu</string>
     <string name="website_settings_category_play_video_in_background_enabled_summary">Käytössä</string>
     <string name="website_settings_category_play_video_in_background_disabled_summary">Pois käytöstä</string>
     <string name="website_settings_category_play_video_in_background_enabled">Kokeiluversio. Mahdollistaa äänentoiston taustalla olevasta videosta kun välilehti ei ole auki tai laitteen näyttö ei ole päällä. Kokeile työpöytätilaan siirtymistä, jos tämä ominaisuus ei toimi.</string>
-    <string name="settings_require_relaunch_notice">Tekemäsi muutokset astuvat voimaan käynnistäessäsi Braven seuraavan kerran</string>
+    <string name="settings_require_relaunch_notice">Tekemäsi muutokset astuvat voimaan käynnistäessäsi Dissentern seuraavan kerran</string>
     <string name="settings_require_relaunch_now">KÄYNNISTÄ UUDELLEEN NYT</string>
     <string name="settings_require_relaunch_later">MYÖHEMMIN</string>
 
-    <string name="play_yt_video_in_browser_title">Toista videot Brave-sovelluksessa</string>
+    <string name="play_yt_video_in_browser_title">Toista videot Dissenter-sovelluksessa</string>
     <string name="website_settings_category_play_yt_video_in_browser_enabled_summary">Käytössä</string>
     <string name="website_settings_category_play_yt_video_in_browser_disabled_summary">Pois käytöstä</string>
-    <string name="website_settings_category_play_yt_video_in_browser_enabled">Jos asetus on käytössä, videot toistetaan Brave-sovelluksessa niille määritellyn oletussovelluksen sijaan</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled">Jos asetus on käytössä, videot toistetaan Dissenter-sovelluksessa niille määritellyn oletussovelluksen sijaan</string>
 
     <string name="close_tabs_on_exit_title">Sulje välilehdet lopetettaessa</string>
     <string name="close_tabs_on_exit_summary">Älä muista välilehtiä selausistuntojen välillä</string>
@@ -82,7 +82,7 @@ Tallennettu</string>
     <string name="open_pages_in_custom_tabs_summary">Tarjoudu avaamaan välilehtiä Mukautetuissa Väilehdissä</string>
 
     <string name="ddg_offer_title">Tehdäänkö yksityinen haku DuckDuckGolla?</string>
-    <string name="ddg_offer_text">Yksityishaussa Brave käyttää DuckDuckGota vastaamaan hakuihisi, kun olet tällä yksityisellä välilehdellä. DuckDuckGo on hakukone, joka ei seuraa hakuhistoriaasi, joten voit tehdä hakuja yksityisesti.</string>
+    <string name="ddg_offer_text">Yksityishaussa Dissenter käyttää DuckDuckGota vastaamaan hakuihisi, kun olet tällä yksityisellä välilehdellä. DuckDuckGo on hakukone, joka ei seuraa hakuhistoriaasi, joten voit tehdä hakuja yksityisesti.</string>
     <string name="ddg_offer_positive">Kyllä</string>
     <string name="ddg_offer_negative">Ei</string>
     <string name="ddg_offer_link">Lue lisää DuckDuckGon yksityisestä hausta</string>
@@ -94,25 +94,25 @@ Tallennettu</string>
     <string name="brave_new_private_tab">Uusi yksityinen välilehti</string>
     <string name="brave_new_tab_private_header">Tämä on yksityinen välilehti</string>
     <string name="brave_new_tab_private_message">Vaikka sivustoja, joilla vierailemiseen käytät yksityisiä välilehtiä, ei tallennetakaan paikallisesti, et kuitenkaan ole anonyymi tai näkymätön Internet-palveluntarjoajallesi, työnantajallesi tai vierailemillesi sivustoille.</string>
-    <string name="update_notification_title">Brave-selaimen päivitys</string>
-    <string name="update_notification_text">Uusi Brave-selain on 22 % nopeampi</string>
+    <string name="update_notification_title">Dissenter-selaimen päivitys</string>
+    <string name="update_notification_text">Uusi Dissenter-selain on 22 % nopeampi</string>
     <string name="prefs_sync">Synkronoi (beta)</string>
-    <string name="brave_sync_description_page_1_part_1">Brave Syncin avulla voit synkronoida kirjanmerkkitietoja yksityisesti Brave-selaintesi välillä eri laitteissasi.</string>
+    <string name="brave_sync_description_page_1_part_1">Dissenter Syncin avulla voit synkronoida kirjanmerkkitietoja yksityisesti Dissenter-selaintesi välillä eri laitteissasi.</string>
     <string name="brave_sync_description_page_1_part_2">Yksinkertaisesti skannaa koodi synkronointiketjusta, jonka loit toisessa laitteessa. Tai aloita uusi synkronointiketju.</string>
     <string name="brave_sync_scan_chain_code">Skannaa tai anna synkronointikoodi</string>
     <string name="brave_sync_start_new_chain">Aloita uusi synkronointikoodi</string>
-    <string name="brave_sync_qrcode_message_v2">Kun käytät olemassa olevaa synkronoitua laitetta, avaa Braven asetukset ja siirry Asetukset > Synkronoi -kohtaan. Valitse \"Lisää laite\" ja skannaa näytöllä näkyvä QR-koodi. </string>
-    <string name="brave_sync_codewords_message">Kun käytät olemassa olevaa synkronoitua laitetta, avaa Braven asetukset ja siirry Asetukset > Synkronoi -kohtaan. Valitse \"Lisää laite\" ja sen jälkeen \"Näytä sen sijaan koodisanat\".</string>
+    <string name="brave_sync_qrcode_message_v2">Kun käytät olemassa olevaa synkronoitua laitetta, avaa Dissentern asetukset ja siirry Asetukset > Synkronoi -kohtaan. Valitse \"Lisää laite\" ja skannaa näytöllä näkyvä QR-koodi. </string>
+    <string name="brave_sync_codewords_message">Kun käytät olemassa olevaa synkronoitua laitetta, avaa Dissentern asetukset ja siirry Asetukset > Synkronoi -kohtaan. Valitse \"Lisää laite\" ja sen jälkeen \"Näytä sen sijaan koodisanat\".</string>
     <string name="brave_sync_btn_mobile">Lisää mobiililaite</string>
     <string name="brave_sync_btn_laptop">Lisää tietokone</string>
     <string name="brave_sync_scan_sync_code">Skannaa tämä synkronointikoodi</string>
-    <string name="brave_sync_add_mobile_device_text_part_1">Käyttämällä toista puhelinta tai tablettia, siirry kohtaan Braven asetukset > Synkronoi > Skannaa.</string>
+    <string name="brave_sync_add_mobile_device_text_part_1">Käyttämällä toista puhelinta tai tablettia, siirry kohtaan Dissentern asetukset > Synkronoi > Skannaa.</string>
     <string name="brave_sync_add_mobile_device_text_part_2">Sieppaa QR-koodi (yllä) toisella laitteellasi tai anna koodisanat, jos kameraa ei ole saatavilla.</string>
     <string name="brave_sync_btn_done">Valmis</string>
     <string name="brave_sync_tabs_text">Välilehdet</string>
     <string name="brave_sync_history_text">Historia</string>
     <string name="brave_sync_autofill_passwords_text">Automaattinen täyttö/Salasanat</string>
-    <string name="brave_sync_payment_settings_text">Braven maksuasetukset</string>
+    <string name="brave_sync_payment_settings_text">Dissentern maksuasetukset</string>
     <string name="brave_sync_settings_title">SYNKRONOI TÄSSÄ LAITTEESSA</string>
     <string name="brave_sync_settings_description">Asetuksien muuttaminen vaikuttaa vain tietoihin, joita tämä laite jakaa muiden kanssa.</string>
     <string name="brave_sync_devices_title">MUUT LAITTEET KETJUSSA</string>
@@ -121,7 +121,7 @@ Tallennettu</string>
     <string name="brave_sync_remove_device_text">Poista tämä laite</string>
     <string name="brave_sync_code_words_title">Muodosta laitepari</string>
     <string name="brave_sync_add_laptop_text_title">Anna synkronointiketjun koodi</string>
-    <string name="brave_sync_add_laptop_text_part_1">Siirry tietokoneellasi kohtaan Braven asetukset > Synkronoi. Valitse \"Anna synkronointiketjun koodi\".</string>
+    <string name="brave_sync_add_laptop_text_part_1">Siirry tietokoneellasi kohtaan Dissentern asetukset > Synkronoi. Valitse \"Anna synkronointiketjun koodi\".</string>
     <string name="brave_sync_add_laptop_text_part_2">Anna yllä olevat koodisanat, mukaan lukien välilyönnit.</string>
     <string name="brave_sync_delete_device">Haluatko varmasti poistaa laitteen \'<ph name=\"DEVICE_NAME\">%1$s</ph>\'?</string>
     <string name="brave_sync_delete_sent">Poistopyyntö on lähetetty. Laite poistetaan kohta.</string>
@@ -137,14 +137,14 @@ Tallennettu</string>
     <string name="brave_sync_copied_text">Kopioitu leikepöydälle</string>
     <string name="brave_sync_this_device_text">(tämä laite)</string>
 
-    <string name="brave_already_set_as_default_browser">Brave on jo asetettu
+    <string name="brave_already_set_as_default_browser">Dissenter on jo asetettu
 oletusselaimeksesi.</string>
     <string name="brave_default_browser_go_to_settings">Olet jo asettanut oletusselaimen.
 Voit vaihtaa oletusselainta sovelluksen asetuksissa.</string>
-    <string name="brave_default_browser_notification_body">Säästä akkua ja lataa verkkosivut nopeammin. Tee Bravesta oletusselaimesi. Napauta Brave-valikosta kohtaa \"Aseta oletusselaimeksi\"</string>
+    <string name="brave_default_browser_notification_body">Säästä akkua ja lataa verkkosivut nopeammin. Tee Dissentersta oletusselaimesi. Napauta Dissenter-valikosta kohtaa \"Aseta oletusselaimeksi\"</string>
     <string name="brave_set_default_browser">Aseta oletusselaimeksi</string>
-    <string name="brave_set_default_browser_dialog_text">Valitse Brave listasta ja napauta kohdasta \"Aina\"</string>
-    <string name="brave_default_browser_existing_notification_body">Aseta Brave oletusverkkoselaimeksesi
+    <string name="brave_set_default_browser_dialog_text">Valitse Dissenter listasta ja napauta kohdasta \"Aina\"</string>
+    <string name="brave_default_browser_existing_notification_body">Aseta Dissenter oletusverkkoselaimeksesi
 Säästä akkua ja lataa verkkosivut nopeammin</string>
 
     <string name="brave_ui_welcome_header_two">Valmistaudu kokemaan
@@ -169,7 +169,7 @@ yksityisyyttä kunnioittavia mainoksia.</string>
     <string name="brave_ui_send_tip">lähetä tippini</string>
     <string name="brave_ui_do_monthly">aseta kuukausittainen tippi</string>
     <string name="brave_ui_not_enough_tokens">poletit eivät riitä</string>
-    <string name="brave_ui_site_banner_notice_text">HUOMIO: Tämä luoja ei ole kirjautunut vielä vastaanottamaan avustuksia Brave-käyttäjiltä. Yritämme avustaa, kunnes hän vahvistaa itsensä tai 90 päivän aikaraja umpeutuu.</string>
+    <string name="brave_ui_site_banner_notice_text">HUOMIO: Tämä luoja ei ole kirjautunut vielä vastaanottamaan avustuksia Dissenter-käyttäjiltä. Yritämme avustaa, kunnes hän vahvistaa itsensä tai 90 päivän aikaraja umpeutuu.</string>
     <string name="brave_ui_please">kiitos</string>
     <string name="brave_ui_add_funds">lisää varoja</string>
     <string name="brave_ui_thank_you">Kiitos!</string>
@@ -198,9 +198,9 @@ kuussa...</string>
     <string name="brave_ui_rewards_contribute_description">Avustit <ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph> BAT:illa.</string>
     <string name="brave_ui_one_time_donation">Kertaluontoiset tipit</string>
     <string name="brave_ui_recurring_donation">Kuukausittaiset tipit</string>
-    <string name="brave_ui_verified_publisher">Vahvistettu Brave-julkaisija</string>
+    <string name="brave_ui_verified_publisher">Vahvistettu Dissenter-julkaisija</string>
     <string name="brave_ui_not_verified_publisher">Vielä vahvistamaton</string>
-    <string name="brave_ui_not_verified_publisher_description">Tämä luoja ei ole kirjautunut vielä vastaanottamaan avustuksia Brave-käyttäjiltä.
+    <string name="brave_ui_not_verified_publisher_description">Tämä luoja ei ole kirjautunut vielä vastaanottamaan avustuksia Dissenter-käyttäjiltä.
 Kaikki lähettämäsi tipit pysyvät lompakossasi, kunnes hän vahvistaa itsensä.</string>
     <string name="brave_ui_on_youtube">YouTubessa</string>
     <string name="brave_ui_on_twitch">Twitchissä</string>
@@ -213,14 +213,14 @@ itsensä tai 90 päivän aikaraja umpeutuu.</string>
     <string name="brave_ui_notification_desc_tip_error">Tippisi käsittelyssä ilmeni ongelma, yritä uudestaan.</string>
     <string name="brave_ui_notification_desc_contr_error">Avustuksesi käsittelyssä ilmeni ongelma.</string>
     <string name="brave_rewards_local_uh_oh">Ohoh!</string>
-    <string name="brave_rewards_local_server_not_responding">Brave Rewards -palvelin ei vastaa. Korjaamme tämän mahdollisimman pian.</string>
+    <string name="brave_rewards_local_server_not_responding">Dissenter Rewards -palvelin ei vastaa. Korjaamme tämän mahdollisimman pian.</string>
     <string name="brave_ui_grants">Lahjoitukset</string>
     <string name="brave_ui_expires_on">erääntyy <ph name=\"DATE\">%1$s<ex>14.4.2019</ex></ph></string>
     <string name="brave_ui_insufficient_funds_msg">Varat eivät riitä</string>
-    <string name="brave_ui_insufficient_funds_desc">Brave Rewards -tilisi odottaa talletusta.</string>
+    <string name="brave_ui_insufficient_funds_desc">Dissenter Rewards -tilisi odottaa talletusta.</string>
     <string name="brave_ui_backup_wallet_msg">Varmuuskopioi lompakko</string>
-    <string name="brave_ui_backup_wallet_desc">Varmuuskopioi Brave-lompakkosi.</string>
-    <string name="brave_ui_brave_rewards">Brave Rewards</string>
+    <string name="brave_ui_backup_wallet_desc">Varmuuskopioi Dissenter-lompakkosi.</string>
+    <string name="brave_ui_brave_rewards">Dissenter Rewards</string>
     <string name="brave_ui_welcome_back_message">Tervetuloa takaisin!</string>
     <string name="brave_ui_get_rewarded">Saa palkkioita selaamalla.</string>
     <string name="brave_ui_brave_rewards_desc">Ansaitse katsomalla yksityisyyyttä
@@ -236,27 +236,27 @@ rakastamillesi sisällöntuottajille.</string>
     <string name="search_or_url">Haku tai URL</string>
     <string name="accessibility_toolbar_btn_bookmark">Luo kirjanmerkki</string>
     <string name="brave_ui_donate_monthly">Lahjoita tälle sivustolle rahaa kuukausittain</string>
-    <string name="brave_rewards_intro_title">Brave Rewards on täällä</string>
+    <string name="brave_rewards_intro_title">Dissenter Rewards on täällä</string>
     <string name="brave_rewards_intro_text">Tue sivustoja, joita rakastat.</string>
     <string name="brave_rewards_dismiss">Hylkää</string>
     <string name="brave_rewards_get_started">Aloita</string>
 
-    <string name="brave_rewards_not_available">Valitettavasti Brave Rewardsit eivät nähtävästi ole käytettävissä laitteellasi</string>
+    <string name="brave_rewards_not_available">Valitettavasti Dissenter Rewardsit eivät nähtävästi ole käytettävissä laitteellasi</string>
 
     <string name="prefs_section_display">Näytä</string>
     <string name="prefs_appearance">Ulkoasu</string>
-    <string name="hide_brave_rewards_icon_title">Piilota Brave Rewards -kuvake</string>
-    <string name="hide_brave_rewards_icon_description">Piilottaa Brave Rewards -kuvakkeen, kun Brave Rewards ei ole käytössä</string>
+    <string name="hide_brave_rewards_icon_title">Piilota Dissenter Rewards -kuvake</string>
+    <string name="hide_brave_rewards_icon_description">Piilottaa Dissenter Rewards -kuvakkeen, kun Dissenter Rewards ei ole käytössä</string>
 
     <string name="brave_ui_pre_grant_message">Tule pian takaisin saadaksesi ilmaisia rahakkeita</string>
 
-    <string name="reset_brave_rewards_option">Nollaa Brave Rewards</string>
-    <string name="reset_brave_rewards_option_description">Tämä toiminto poistaa Brave-lompakkosi ja nollaa kaikki Brave Rewards -tietosi</string>
+    <string name="reset_brave_rewards_option">Nollaa Dissenter Rewards</string>
+    <string name="reset_brave_rewards_option_description">Tämä toiminto poistaa Dissenter-lompakkosi ja nollaa kaikki Dissenter Rewards -tietosi</string>
     <string name="reset_brave_rewards_error_title">Virhe nollattaessa</string>
-    <string name="reset_brave_rewards_error_description">Brave Rewards -järjestelmää nollattaessa ilmeni virhe. Käynnistä Brave uudelleen ja yritä uudestaan</string>
+    <string name="reset_brave_rewards_error_description">Dissenter Rewards -järjestelmää nollattaessa ilmeni virhe. Käynnistä Dissenter uudelleen ja yritä uudestaan</string>
 
     <string name="brave_sync_add_laptop_text_part_2_new">Syötä alla olevat synkronointiketjun koodisanat. Käsittele tätä koodia salasanan tavoin. Koodin haltuunsa saaneen on mahdollista lukea ja muokata synkronoituja tietojasi.</string>
 
-    <string name="brave_sync_official">Brave-synkronointi</string>
+    <string name="brave_sync_official">Dissenter-synkronointi</string>
     <string name="prefs_sync_official">Synkronoi</string>
 </resources>

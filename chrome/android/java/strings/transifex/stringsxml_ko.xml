@@ -1,6 +1,6 @@
 <resources>
 
-    <string name="brave_settings_title">다음 사이트에 대한 Brave shield 설정</string>
+    <string name="brave_settings_title">다음 사이트에 대한 Dissenter shield 설정</string>
     <string name="brave_shields_down">내리기</string>
     <string name="brave_shields_up">올리기</string>
     <string name="brave_shields_ads_trackers">차단된 광고 및 개인정보 추적</string>
@@ -9,7 +9,7 @@
     <string name="brave_shields_ads_tracking_switch">광고 및 개인정보 추적 차단</string>
     <string name="brave_shields_https_everywhere_switch">HTTPS 우선 사용</string>
     <string name="brave_shields_blocks_scripts_switch">스크립트 차단</string>
-    <string name="accessibility_toolbar_btn_brave_shields">Brave Shields 사용 / 사용않함</string>
+    <string name="accessibility_toolbar_btn_brave_shields">Dissenter Shields 사용 / 사용않함</string>
     <string name="brave_shields_block_3rd_party_cookies_switch">제삼자 쿠키 차단</string>
 
     <string name="httpse_summary">가능 시 HTTP 대신 HTTPS를 사용하는 지원되는 사이트 열기</string>
@@ -66,14 +66,14 @@
     <string name="website_settings_category_play_video_in_background_enabled_summary">활성화됨</string>
     <string name="website_settings_category_play_video_in_background_disabled_summary">비활성화됨</string>
     <string name="website_settings_category_play_video_in_background_enabled">실험적. 탭이 활성화 상태가 아니거나 장치의 화면이 꺼져 있을 때 배경에서 영상의 소리를 재생하도록 합니다. 이 기능이 작동하지 않으면 데스크톱 모드로 전환해보시기 바랍니다.</string>
-    <string name="settings_require_relaunch_notice">Brave를 다시 시작한 후 변경 사항이 적용됩니다</string>
+    <string name="settings_require_relaunch_notice">Dissenter를 다시 시작한 후 변경 사항이 적용됩니다</string>
     <string name="settings_require_relaunch_now">지금 다시 시작</string>
     <string name="settings_require_relaunch_later">나중에</string>
 
-    <string name="play_yt_video_in_browser_title">Brave에서 비디오 재생</string>
+    <string name="play_yt_video_in_browser_title">Dissenter에서 비디오 재생</string>
     <string name="website_settings_category_play_yt_video_in_browser_enabled_summary">활성화됨</string>
     <string name="website_settings_category_play_yt_video_in_browser_disabled_summary">비활성화됨</string>
-    <string name="website_settings_category_play_yt_video_in_browser_enabled">활성화된 경우, 연관 앱 대신에 Brave에서 비디오가 재생됩니다</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled">활성화된 경우, 연관 앱 대신에 Dissenter에서 비디오가 재생됩니다</string>
 
     <string name="close_tabs_on_exit_title">나갈 때 탭을 닫아주세요</string>
     <string name="close_tabs_on_exit_summary">검색 세션 사이에 탭을 열어두지 마십시오</string>
@@ -82,7 +82,7 @@
     <string name="open_pages_in_custom_tabs_summary">커스텀 탭에서 탭을 여는 방법 제안 </string>
 
     <string name="ddg_offer_title">덕덕고(DuckDuckGo)로 비밀 검색을 할까요?</string>
-    <string name="ddg_offer_text">비밀 검색을 사용하시면, 브레이브(Brave)가 이 비밀 탭에 계신 동안 귀하의 검색들에 답변하기 위하여 덕덕고(DuckDuckGo)를 사용하게 됩니다. 덕덕고(DuckDuckGo)는 귀하께서 비밀로 검색하실 수 있도록 귀하의 검색 기록을 추적하지 않는 검색 엔진입니다.</string>
+    <string name="ddg_offer_text">비밀 검색을 사용하시면, 브레이브(Dissenter)가 이 비밀 탭에 계신 동안 귀하의 검색들에 답변하기 위하여 덕덕고(DuckDuckGo)를 사용하게 됩니다. 덕덕고(DuckDuckGo)는 귀하께서 비밀로 검색하실 수 있도록 귀하의 검색 기록을 추적하지 않는 검색 엔진입니다.</string>
     <string name="ddg_offer_positive">예</string>
     <string name="ddg_offer_negative">아니오</string>
     <string name="ddg_offer_link">덕덕고(DuckDuckGo)와 함께 비밀 검색에 대해 배워보세요</string>
@@ -94,25 +94,25 @@
     <string name="brave_new_private_tab">새 비밀 탭</string>
     <string name="brave_new_tab_private_header">이것은 비밀 탭입니다</string>
     <string name="brave_new_tab_private_message">귀하께서 비밀 탭들로 방문한 사이트들이 위치상으로 저장되지는 않지만, 귀하를 익명으로 만들거나 귀하의 ISP, 귀하의 고용주 혹은 귀하께서 방문하고 계신 사이트들에 보이지 않도록 만들지 않습니다.</string>
-    <string name="update_notification_title">Brave 업데이트</string>
-    <string name="update_notification_text">새로운 Brave 브라우저는 22% 더 빠릅니다</string>
+    <string name="update_notification_title">Dissenter 업데이트</string>
+    <string name="update_notification_text">새로운 Dissenter 브라우저는 22% 더 빠릅니다</string>
     <string name="prefs_sync">싱크(베타)</string>
-    <string name="brave_sync_description_page_1_part_1">Brave 싱크를 사용하면 여러 장치에서 Brave 브라우저 간에 있는 책갈피 데이터를 비공개로 싱크할 수 있습니다.</string>
+    <string name="brave_sync_description_page_1_part_1">Dissenter 싱크를 사용하면 여러 장치에서 Dissenter 브라우저 간에 있는 책갈피 데이터를 비공개로 싱크할 수 있습니다.</string>
     <string name="brave_sync_description_page_1_part_2">다른 장치에서 만든 싱크 체인의 코드를 스캔하면 됩니다. 또는 싱크 체인을 새로 시작해도 됩니다.</string>
     <string name="brave_sync_scan_chain_code">싱크 코드 스캔 또는 입력</string>
     <string name="brave_sync_start_new_chain">새 싱크 체인 시작</string>
-    <string name="brave_sync_qrcode_message_v2">기존 싱크 장치를 사용하여 Brave 설정을 열고 설정 > 싱크로 이동합니다. \'장치 추가\'를 선택한 후 화면에 표시되는 QR 코드를 스캔하세요.</string>
-    <string name="brave_sync_codewords_message">기존 싱크 장치를 사용하여 Brave 설정을 열고 설정 > 싱크로 이동합니다. \'장치 추가\',  \'대신 코드 단어 표시\'를 차례로 선택합니다.</string>
+    <string name="brave_sync_qrcode_message_v2">기존 싱크 장치를 사용하여 Dissenter 설정을 열고 설정 > 싱크로 이동합니다. \'장치 추가\'를 선택한 후 화면에 표시되는 QR 코드를 스캔하세요.</string>
+    <string name="brave_sync_codewords_message">기존 싱크 장치를 사용하여 Dissenter 설정을 열고 설정 > 싱크로 이동합니다. \'장치 추가\',  \'대신 코드 단어 표시\'를 차례로 선택합니다.</string>
     <string name="brave_sync_btn_mobile">모바일 장치 추가</string>
     <string name="brave_sync_btn_laptop">컴퓨터 추가</string>
     <string name="brave_sync_scan_sync_code">이 싱크 코드 스캔</string>
-    <string name="brave_sync_add_mobile_device_text_part_1">두 번째 전화기 또는 태블릿을 사용하여 Brave 설정 > 싱크 > 스캔으로 이동합니다.</string>
+    <string name="brave_sync_add_mobile_device_text_part_1">두 번째 전화기 또는 태블릿을 사용하여 Dissenter 설정 > 싱크 > 스캔으로 이동합니다.</string>
     <string name="brave_sync_add_mobile_device_text_part_2">두 번째 기기에서 QR 코드(위)를 캡처합니다. 카메라를 사용할 수 없는 경우에는 코드 단어를 입력하세요.</string>
     <string name="brave_sync_btn_done">완료</string>
     <string name="brave_sync_tabs_text">탭</string>
     <string name="brave_sync_history_text">내역</string>
     <string name="brave_sync_autofill_passwords_text">자동 채우기/암호</string>
-    <string name="brave_sync_payment_settings_text">Brave 결제 설정</string>
+    <string name="brave_sync_payment_settings_text">Dissenter 결제 설정</string>
     <string name="brave_sync_settings_title">이 장치에서 싱크</string>
     <string name="brave_sync_settings_description">설정을 변경하면 이 장치에서 다른 사람들과 공유하는 데이터에만 영향을 미칩니다.</string>
     <string name="brave_sync_devices_title">체인의 다른 장치</string>
@@ -121,7 +121,7 @@
     <string name="brave_sync_remove_device_text">이 장치 삭제</string>
     <string name="brave_sync_code_words_title">페어링</string>
     <string name="brave_sync_add_laptop_text_title">싱크 체인 코드 입력</string>
-    <string name="brave_sync_add_laptop_text_part_1">컴퓨터에서 Brave 설정 > 싱크로 이동합니다. \'싱크 체인 코드 입력\'을 선택합니다.</string>
+    <string name="brave_sync_add_laptop_text_part_1">컴퓨터에서 Dissenter 설정 > 싱크로 이동합니다. \'싱크 체인 코드 입력\'을 선택합니다.</string>
     <string name="brave_sync_add_laptop_text_part_2">위 코드 단어(공백 포함)를 입력하세요.</string>
     <string name="brave_sync_delete_device">\'<ph name=\"DEVICE_NAME\">%1$s</ph>\' 기기를 삭제하시겠습니까?</string>
     <string name="brave_sync_delete_sent">삭제 요청이 전송되었습니다. 장치가 곧 삭제됩니다.</string>
@@ -137,14 +137,14 @@
     <string name="brave_sync_copied_text">클립보드에 복사됨</string>
     <string name="brave_sync_this_device_text">(이 장치)</string>
 
-    <string name="brave_already_set_as_default_browser">Brave가 이미 귀하의
+    <string name="brave_already_set_as_default_browser">Dissenter가 이미 귀하의
 기본 브라우저로 설정되었습니다.</string>
     <string name="brave_default_browser_go_to_settings">이미 기본 브라우저를 설정하셨습니다.
 앱 설정에서 기본 브라우저를 변경하실 수 있습니다.</string>
-    <string name="brave_default_browser_notification_body">배터리를 절약하고 웹 페이지를 더 신속히 로드하세요. Brave를 기본 브라우저로 설정하세요. Brave 메뉴에서 \"기본 브라우저로 설정\"을 탭하세요. </string>
+    <string name="brave_default_browser_notification_body">배터리를 절약하고 웹 페이지를 더 신속히 로드하세요. Dissenter를 기본 브라우저로 설정하세요. Dissenter 메뉴에서 \"기본 브라우저로 설정\"을 탭하세요. </string>
     <string name="brave_set_default_browser">기본 브라우저로 설정</string>
-    <string name="brave_set_default_browser_dialog_text">목록에서 Brave를 선택하고 \"항상\" 탭하기 </string>
-    <string name="brave_default_browser_existing_notification_body">Brave를 귀하의 기본 웹 브라우저로 설정하세요
+    <string name="brave_set_default_browser_dialog_text">목록에서 Dissenter를 선택하고 \"항상\" 탭하기 </string>
+    <string name="brave_default_browser_existing_notification_body">Dissenter를 귀하의 기본 웹 브라우저로 설정하세요
 배터리를 절약하고 웹 페이지를 더욱 빠르게 로드하세요</string>
 
     <string name="brave_ui_welcome_header_two">인터넷의 그 너머를
@@ -169,7 +169,7 @@
     <string name="brave_ui_send_tip">내 팁 전송</string>
     <string name="brave_ui_do_monthly">월별 팁으로 설정</string>
     <string name="brave_ui_not_enough_tokens">토큰이 충분하지 않음</string>
-    <string name="brave_ui_site_banner_notice_text">알림: 이 작성자는 아직 Brave 사용자로부터 기여를 받도록 등록된 상태가 아닙니다. 해당 사용자가 인증하거나 90일이 지나갈 때까지 계속 기여를 시도합니다.</string>
+    <string name="brave_ui_site_banner_notice_text">알림: 이 작성자는 아직 Dissenter 사용자로부터 기여를 받도록 등록된 상태가 아닙니다. 해당 사용자가 인증하거나 90일이 지나갈 때까지 계속 기여를 시도합니다.</string>
     <string name="brave_ui_please">부탁합니다.</string>
     <string name="brave_ui_add_funds">자금 추가</string>
     <string name="brave_ui_thank_you">감사합니다!</string>
@@ -198,9 +198,9 @@
     <string name="brave_ui_rewards_contribute_description"><ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph> BAT를 기여했습니다.</string>
     <string name="brave_ui_one_time_donation">1회성 팁</string>
     <string name="brave_ui_recurring_donation">월별 팁</string>
-    <string name="brave_ui_verified_publisher">Brave 인증 게시자</string>
+    <string name="brave_ui_verified_publisher">Dissenter 인증 게시자</string>
     <string name="brave_ui_not_verified_publisher">아직 인증되지 않음</string>
-    <string name="brave_ui_not_verified_publisher_description">이 작성자는 아직 Brave 사용자로부터 기여를 받도록 등록된 상태가 아닙니다.
+    <string name="brave_ui_not_verified_publisher_description">이 작성자는 아직 Dissenter 사용자로부터 기여를 받도록 등록된 상태가 아닙니다.
         전송하신 모든 팁은 당사자가 인증할 때까지 지갑에 남아있게 됩니다.</string>
     <string name="brave_ui_on_youtube">YouTube에서</string>
     <string name="brave_ui_on_twitch">Twitch에서</string>
@@ -213,14 +213,14 @@
     <string name="brave_ui_notification_desc_tip_error">팁을 처리하는 도중 문제가 발생했습니다. 다시 시도해주세요.</string>
     <string name="brave_ui_notification_desc_contr_error">귀하의 기여를 처리하는 도중 문제가 발생했습니다.</string>
     <string name="brave_rewards_local_uh_oh">이런!</string>
-    <string name="brave_rewards_local_server_not_responding">Brave Rewards 서버가 응답하지 않습니다. 가능한 빨리 수정하겠습니다.</string>
+    <string name="brave_rewards_local_server_not_responding">Dissenter Rewards 서버가 응답하지 않습니다. 가능한 빨리 수정하겠습니다.</string>
     <string name="brave_ui_grants">승인</string>
     <string name="brave_ui_expires_on"><ph name=\"DATE\">%1$s<ex>4/14/2019</ex></ph>에 만료</string>
     <string name="brave_ui_insufficient_funds_msg">자금 부족</string>
-    <string name="brave_ui_insufficient_funds_desc">귀하의 Brave Rewards 계정이 예금을 기다리고 있습니다.</string>
+    <string name="brave_ui_insufficient_funds_desc">귀하의 Dissenter Rewards 계정이 예금을 기다리고 있습니다.</string>
     <string name="brave_ui_backup_wallet_msg">지갑 백업</string>
-    <string name="brave_ui_backup_wallet_desc">Brave 지갑을 백업하십시오.</string>
-    <string name="brave_ui_brave_rewards">Brave Rewards</string>
+    <string name="brave_ui_backup_wallet_desc">Dissenter 지갑을 백업하십시오.</string>
+    <string name="brave_ui_brave_rewards">Dissenter Rewards</string>
     <string name="brave_ui_welcome_back_message">돌아오신 것을 환영합니다!</string>
     <string name="brave_ui_get_rewarded">웹을 탐색하며 보상을 받으세요.</string>
     <string name="brave_ui_brave_rewards_desc">개인 설정에 따른 광고를 보며
@@ -236,27 +236,27 @@
     <string name="search_or_url">검색 혹은 URL</string>
     <string name="accessibility_toolbar_btn_bookmark">북마크 작성하기</string>
     <string name="brave_ui_donate_monthly">이 사이트에 매월 팁 주기</string>
-    <string name="brave_rewards_intro_title">Brave 리워드는 여기 있습니다</string>
+    <string name="brave_rewards_intro_title">Dissenter 리워드는 여기 있습니다</string>
     <string name="brave_rewards_intro_text">좋아하는 사이트를 지원해 주세요.</string>
     <string name="brave_rewards_dismiss">무시하기</string>
     <string name="brave_rewards_get_started">시작하기</string>
 
-    <string name="brave_rewards_not_available">죄송하지만 Brave Rewards를 이 장치에서 사용할 수 없는 것으로 보입니다</string>
+    <string name="brave_rewards_not_available">죄송하지만 Dissenter Rewards를 이 장치에서 사용할 수 없는 것으로 보입니다</string>
 
     <string name="prefs_section_display">표시하기</string>
     <string name="prefs_appearance">외형</string>
-    <string name="hide_brave_rewards_icon_title">Brave 리워드 아이콘 숨기기</string>
-    <string name="hide_brave_rewards_icon_description">Brave 리워드 비활성화 시에 Brave 리워드 아이콘 숨기기</string>
+    <string name="hide_brave_rewards_icon_title">Dissenter 리워드 아이콘 숨기기</string>
+    <string name="hide_brave_rewards_icon_description">Dissenter 리워드 비활성화 시에 Dissenter 리워드 아이콘 숨기기</string>
 
     <string name="brave_ui_pre_grant_message">무료 토큰 할당이 있는지 곧 다시 확인하세요</string>
 
-    <string name="reset_brave_rewards_option">Brave 리워드 재설정</string>
-    <string name="reset_brave_rewards_option_description">이것으로 귀하의 Brave 월렛이 삭제되고 모든 Brave 리워드 데이터가 초기화됩니다</string>
+    <string name="reset_brave_rewards_option">Dissenter 리워드 재설정</string>
+    <string name="reset_brave_rewards_option_description">이것으로 귀하의 Dissenter 월렛이 삭제되고 모든 Dissenter 리워드 데이터가 초기화됩니다</string>
     <string name="reset_brave_rewards_error_title">오류 초기화</string>
-    <string name="reset_brave_rewards_error_description">Brave 리워드 재설정 중에 오류가 발생했습니다. Brave를 재시작하고 다시 시도해 주세요.</string>
+    <string name="reset_brave_rewards_error_description">Dissenter 리워드 재설정 중에 오류가 발생했습니다. Dissenter를 재시작하고 다시 시도해 주세요.</string>
 
     <string name="brave_sync_add_laptop_text_part_2_new">동기화 체인 코드 단어를 아래에 입력해주세요. 이 코드를 비밀번호처럼 취급해 주세요. 다른 사람이 이 코드를 알게 되면 귀하의 동기화된 데이터를 읽고 변경할 수 있습니다.</string>
 
-    <string name="brave_sync_official">Brave 동기화</string>
+    <string name="brave_sync_official">Dissenter 동기화</string>
     <string name="prefs_sync_official">동기화</string>
 </resources>

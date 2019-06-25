@@ -1,307 +1,307 @@
 <?xml version="1.0" ?>
 <!DOCTYPE translationbundle>
 <translationbundle lang="mr">
-<translation id="1001534784610492198">इन्स्टॉलर संग्रहण भ्रष्ट किंवा चुकीचा आहे. कृपया Brave पुन्हा डाउनलोड करा.</translation>
-<translation id="5849446944780602366">Brave कस्टमाइझ करा आणि नियंत्रित करा. अपडेट उपलब्ध आहे.</translation>
-<translation id="5935964611177478118">Brave मध्ये साइन इन करा</translation>
-<translation id="1051826050538111504">तुमच्या काँप्युटरवर हानिकारक सॉफ्टवेअर आहे. Brave ते काढून टाकून तुमचा ब्राउझर पुन्हा नीट चालावा यासाठी तुमच्या सेटिंग्ज रिस्टोअर आणि एक्स्टेंशन बंद करू शकते.</translation>
+<translation id="1001534784610492198">इन्स्टॉलर संग्रहण भ्रष्ट किंवा चुकीचा आहे. कृपया Dissenter पुन्हा डाउनलोड करा.</translation>
+<translation id="5849446944780602366">Dissenter कस्टमाइझ करा आणि नियंत्रित करा. अपडेट उपलब्ध आहे.</translation>
+<translation id="5935964611177478118">Dissenter मध्ये साइन इन करा</translation>
+<translation id="1051826050538111504">तुमच्या काँप्युटरवर हानिकारक सॉफ्टवेअर आहे. Dissenter ते काढून टाकून तुमचा ब्राउझर पुन्हा नीट चालावा यासाठी तुमच्या सेटिंग्ज रिस्टोअर आणि एक्स्टेंशन बंद करू शकते.</translation>
 <translation id="1065672644894730302">तुमची प्राधान्ये वाचता आली नाहीत.
 काही वैशिष्‍ट्ये अनुपलब्ध असू शकतात आणि प्राधान्यांमधील बदल सेव्ह केले जाणार नाहीत.</translation>
-<translation id="1088300314857992706"><ph name="USER_EMAIL_ADDRESS" /> पूर्वी Brave वापरत होते</translation>
+<translation id="1088300314857992706"><ph name="USER_EMAIL_ADDRESS" /> पूर्वी Dissenter वापरत होते</translation>
 <translation id="1104959162601287462">&amp;Chrome OS विषयी</translation>
-<translation id="4100716194836114130">हा तुमचा Brave आहे</translation>
-<translation id="6389268239133412586">Brave अपडेट करू शकत नाही</translation>
-<translation id="9071554113102421877">Brave मध्‍ये &amp;उघडा</translation>
+<translation id="4100716194836114130">हा तुमचा Dissenter आहे</translation>
+<translation id="6389268239133412586">Dissenter अपडेट करू शकत नाही</translation>
+<translation id="9071554113102421877">Dissenter मध्‍ये &amp;उघडा</translation>
 <translation id="123620459398936149">Chrome OS तुमचा डेटा सिंक करू शकले नाही. कृपया तुमचा सिंक सांकेतिक पासफ्रेज अपडेट करा.</translation>
-<translation id="127345590676626841">Brave आपोआप अपडेट होते जेणेकरून तुमच्याकडे नेहमी सर्वात नवीन आवृत्ती असते. जेव्हा हे डाउनलोड पूर्ण होते, तेव्हा Brave रीस्टार्ट होईल आणि तुम्ही तुमच्या मार्गावर असाल.</translation>
-<translation id="1302523850133262269">कृपया Brave नवीनतम सिस्टम अपडेट इंस्टॉल करताना प्रतीक्षा करा.</translation>
-<translation id="1312676208694947750">{0,plural, =0{Chrome OS अपडेट उपलब्ध आहे}=1{Chrome OS अपडेट उपलब्ध आहे}other{Brave अपडेट # दिवसांसाठी उपलब्ध आहे}}</translation>
-<translation id="137466361146087520">Brave बीटा</translation>
-<translation id="1393853151966637042">Brave वापरून मदत मिळवा</translation>
-<translation id="1399397803214730675">या कॉंप्युटरत आधीपासून Brave ची अगदी अलिकडील आवृत्ती आहे. सॉफ्टवेअर काम करत नसल्यास, कृपया Brave अनइंस्टॉल करा आणि पुन्हा प्रयत्न करा.</translation>
-<translation id="1434626383986940139">Brave Canary Apps</translation>
-<translation id="5047208012586153436">Brave अपडेट करीत आहे...</translation>
-<translation id="1469002951682717133">Brave App लाँचर</translation>
-<translation id="1705567146636171298">Brave अपडेट करा</translation>
+<translation id="127345590676626841">Dissenter आपोआप अपडेट होते जेणेकरून तुमच्याकडे नेहमी सर्वात नवीन आवृत्ती असते. जेव्हा हे डाउनलोड पूर्ण होते, तेव्हा Dissenter रीस्टार्ट होईल आणि तुम्ही तुमच्या मार्गावर असाल.</translation>
+<translation id="1302523850133262269">कृपया Dissenter नवीनतम सिस्टम अपडेट इंस्टॉल करताना प्रतीक्षा करा.</translation>
+<translation id="1312676208694947750">{0,plural, =0{Chrome OS अपडेट उपलब्ध आहे}=1{Chrome OS अपडेट उपलब्ध आहे}other{Dissenter अपडेट # दिवसांसाठी उपलब्ध आहे}}</translation>
+<translation id="137466361146087520">Dissenter बीटा</translation>
+<translation id="1393853151966637042">Dissenter वापरून मदत मिळवा</translation>
+<translation id="1399397803214730675">या कॉंप्युटरत आधीपासून Dissenter ची अगदी अलिकडील आवृत्ती आहे. सॉफ्टवेअर काम करत नसल्यास, कृपया Dissenter अनइंस्टॉल करा आणि पुन्हा प्रयत्न करा.</translation>
+<translation id="1434626383986940139">Dissenter Canary Apps</translation>
+<translation id="5047208012586153436">Dissenter अपडेट करीत आहे...</translation>
+<translation id="1469002951682717133">Dissenter App लाँचर</translation>
+<translation id="1705567146636171298">Dissenter अपडेट करा</translation>
 <translation id="1585657529869845941">ते दिसल्यास <ph name="BEGIN_BOLD" />कसेही स्विच करा<ph name="END_BOLD" /> वर क्लिक करा</translation>
-<translation id="3205074487970075628">Brave तुमचा कॅमेरा वापरत आहे.</translation>
+<translation id="3205074487970075628">Dissenter तुमचा कॅमेरा वापरत आहे.</translation>
 <translation id="4168372721886011198"><ph name="FILE_NAME" /> धोकादायक आहे, त्यामुळे Chrom ने ते अवरोधित केले आहे.</translation>
-<translation id="2632141563911437138">अपडेट करण्यासाठी, या कॉंप्युटरवर Brave बंद करणे आवश्यक आहे. यामुळे या कॉंप्युटरवर लॉग इन केलेल्या इतर वापरकर्त्यांनी सेव्ह न केलेले बदल गमावू शकतात.</translation>
-<translation id="1619887657840448962">Brave अधिक सुरक्षित करण्यासाठी, आम्ही <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> मध्ये सूचीबद्ध नसलेला आणि तुमच्या माहितीशिवाय कदाचित जोडले गेलेले खालील एक्स्टेंशन बंद केले आहे.</translation>
-<translation id="1628000112320670027">Brave सह मदत मिळवा</translation>
+<translation id="2632141563911437138">अपडेट करण्यासाठी, या कॉंप्युटरवर Dissenter बंद करणे आवश्यक आहे. यामुळे या कॉंप्युटरवर लॉग इन केलेल्या इतर वापरकर्त्यांनी सेव्ह न केलेले बदल गमावू शकतात.</translation>
+<translation id="1619887657840448962">Dissenter अधिक सुरक्षित करण्यासाठी, आम्ही <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> मध्ये सूचीबद्ध नसलेला आणि तुमच्या माहितीशिवाय कदाचित जोडले गेलेले खालील एक्स्टेंशन बंद केले आहे.</translation>
+<translation id="1628000112320670027">Dissenter सह मदत मिळवा</translation>
 <translation id="1662639173275167396"><ph name="BEGIN_LINK_LINUX_OSS" />Linux (बीटा)<ph name="END_LINK_LINUX_OSS" /> सारखेच, अतिरिक्त <ph name="BEGIN_LINK_CROS_OSS" />मुक्त स्रोत सॉफ्टवेअर<ph name="END_LINK_CROS_OSS" /> मुळे Chrome OS शक्य झाले आहे.</translation>
-<translation id="1674870198290878346">लिंक Brave गुप्त विंडोमध्ये उघडा</translation>
-<translation id="2585240446624043880">Brave त्याची डेटा डिरेक्टरी वाचू किंवा लिहू शकत नाही:
+<translation id="1674870198290878346">लिंक Dissenter गुप्त विंडोमध्ये उघडा</translation>
+<translation id="2585240446624043880">Dissenter त्याची डेटा डिरेक्टरी वाचू किंवा लिहू शकत नाही:
 
 <ph name="USER_DATA_DIRECTORY" /></translation>
-<translation id="1698376642261615901">Brave एक वेब ब्राउझर आहे जे वेब पेज आणि अॅप्स विजेच्या गतीने चालविते. ते जलद, स्थिर आणि वापरण्यास सोपे आहे. Brave मध्ये तयार केलेल्या मालवेअर आणि फिशिंग संरक्षणासह वेब अधिक सुरक्षितपणे ब्राउझ करा.</translation>
-<translation id="1718131156967340976"><ph name="SMALL_PRODUCT_LOGO" /> <ph name="BEGIN_BOLD" />Brave<ph name="END_BOLD" /> निवडा</translation>
-<translation id="6163134585289952357">Brave हा पासवर्ड तुमच्या Google खात्यामध्ये सेव्ह करेल. तुम्हाला लक्षात ठेवावा लागणार नाही.</translation>
-<translation id="174539241580958092">साइन इन करण्यात एरर आल्यामुळे Brave तुमचा डेटा सिंक करू शकले नाही.</translation>
-<translation id="939305735877869636">Brave</translation>
+<translation id="1698376642261615901">Dissenter एक वेब ब्राउझर आहे जे वेब पेज आणि अॅप्स विजेच्या गतीने चालविते. ते जलद, स्थिर आणि वापरण्यास सोपे आहे. Dissenter मध्ये तयार केलेल्या मालवेअर आणि फिशिंग संरक्षणासह वेब अधिक सुरक्षितपणे ब्राउझ करा.</translation>
+<translation id="1718131156967340976"><ph name="SMALL_PRODUCT_LOGO" /> <ph name="BEGIN_BOLD" />Dissenter<ph name="END_BOLD" /> निवडा</translation>
+<translation id="6163134585289952357">Dissenter हा पासवर्ड तुमच्या Google खात्यामध्ये सेव्ह करेल. तुम्हाला लक्षात ठेवावा लागणार नाही.</translation>
+<translation id="174539241580958092">साइन इन करण्यात एरर आल्यामुळे Dissenter तुमचा डेटा सिंक करू शकले नाही.</translation>
+<translation id="939305735877869636">Dissenter</translation>
 <translation id="1773601347087397504">Chrome OS वापरून मदत मिळवा </translation>
-<translation id="1570795130102031380">Brave तुमच्या फोनवर इंस्टॉल करा. आम्ही तुमच्या या फोनवर एक SMS पाठवू: <ph name="PHONE_NUMBER" /></translation>
-<translation id="1812689907177901597">हे बंद करून, तुम्ही Brave वर साइन इन न करता Gmail सारख्या Google सायटींवर साइन इन करू शकता</translation>
-<translation id="8858456697111532356"><ph name="FILE_NAME" /> धोकादायक आहे, त्यामुळे Brave ने ती ब्लॉक केली आहे. तुम्ही प्रगत संरक्षणाद्वारे संरक्षित आहात.</translation>
-<translation id="1860536484129686729">या साइटसाठी Brave ला तुमचा कॅमेरा अॅक्सेस करण्याची परवानगी हवी आहे</translation>
-<translation id="3343095737966473035">Brave तुमचा डीफॉल्ट ब्राउझर नाही</translation>
-<translation id="1874309113135274312">Brave बीटा (mDNS-In)</translation>
-<translation id="5173820533850252773">Brave कालबाह्य आहे</translation>
-<translation id="1915828456209461693">Brave साठी नवीन अपडेट उपलब्ध आहे आणि तुम्ही रीलाँच करताच ते लागू केले जाईल.</translation>
-<translation id="1919130412786645364">Brave मध्ये साइन इन करण्यासाठी अनुमती द्या</translation>
+<translation id="1570795130102031380">Dissenter तुमच्या फोनवर इंस्टॉल करा. आम्ही तुमच्या या फोनवर एक SMS पाठवू: <ph name="PHONE_NUMBER" /></translation>
+<translation id="1812689907177901597">हे बंद करून, तुम्ही Dissenter वर साइन इन न करता Gmail सारख्या Google सायटींवर साइन इन करू शकता</translation>
+<translation id="8858456697111532356"><ph name="FILE_NAME" /> धोकादायक आहे, त्यामुळे Dissenter ने ती ब्लॉक केली आहे. तुम्ही प्रगत संरक्षणाद्वारे संरक्षित आहात.</translation>
+<translation id="1860536484129686729">या साइटसाठी Dissenter ला तुमचा कॅमेरा अॅक्सेस करण्याची परवानगी हवी आहे</translation>
+<translation id="3343095737966473035">Dissenter तुमचा डीफॉल्ट ब्राउझर नाही</translation>
+<translation id="1874309113135274312">Dissenter बीटा (mDNS-In)</translation>
+<translation id="5173820533850252773">Dissenter कालबाह्य आहे</translation>
+<translation id="1915828456209461693">Dissenter साठी नवीन अपडेट उपलब्ध आहे आणि तुम्ही रीलाँच करताच ते लागू केले जाईल.</translation>
+<translation id="1919130412786645364">Dissenter मध्ये साइन इन करण्यासाठी अनुमती द्या</translation>
 <translation id="2063848847527508675">अपडेट लागू करण्यासाठी Chrome OS रीस्टार्ट करणे आवश्यक आहे.</translation>
-<translation id="2094919256425865063">तरीही Brave बंद करायचे?</translation>
-<translation id="2120620239521071941">हे या डिव्‍हाइस मधून <ph name="ITEMS_COUNT" /> आयटम हटवेल. नंतर तुमचा डेटा पुनर्प्राप्त करण्‍यासाठी Brave मध्ये <ph name="USER_EMAIL" /> म्हणून साइन इन करा.</translation>
-<translation id="2123055963409958220"><ph name="BEGIN_LINK" />वर्तमान सेटिंग्ज<ph name="END_LINK" /> चा अहवाल देऊन Brave ला आणखी चांगले बनविण्यात मदत करा</translation>
-<translation id="1609678321160597289">Brave तुमच्या फोनवर इंस्टॉल करा. आम्ही तुमच्या खाते रिकव्हरी फोन नंबरवर एक SMS पाठवू.</translation>
-<translation id="5874882355102994015">बिल्ट-इन PDF व्ह्यूअर गहाळ असताना Brave प्रिंट पूर्वावलोकन दर्शवू शकत नाही.</translation>
-<translation id="7456658570432774853">वर्तमान सेटिंग्जचा अहवाल देऊन Brave उत्कृष्ट बनविण्यास मदत करा</translation>
-<translation id="225363235161345695">{0,plural, =1{Brave एका तासामध्ये पुन्हा लाँच होईल}other{Brave # तासांमध्ये पुन्हा लाँच होईल}}</translation>
-<translation id="4934157190377700991">तुम्ही आता Brave वर साइन इन केले आहे</translation>
-<translation id="350396164462274391">Google API की गहाळ आहेत. Brave ची काही कार्यक्षमता अक्षम केली जाईल.</translation>
-<translation id="2290095356545025170">तुमची खात्री आहे की तुम्ही Brave अनइंस्टॉल करू इच्छिता?</translation>
-<translation id="2309047409763057870">ही Brave ची दुय्यम स्थापना असून त्यास तुमचा डीफॉल्ट ब्राउझर बनवू शकत नाही.</translation>
-<translation id="2346876346033403680">कोणीतरी यापूर्वी या कॉंप्युटरवरील Braveमध्ये <ph name="ACCOUNT_EMAIL_LAST" /> या रुपात साइन इन केले होते. ते तुमचे खाते नसल्यास, तुमची माहिती स्वतंत्र ठेवण्यासाठी एक नवीन Brave वापरकर्ता तयार करा.
+<translation id="2094919256425865063">तरीही Dissenter बंद करायचे?</translation>
+<translation id="2120620239521071941">हे या डिव्‍हाइस मधून <ph name="ITEMS_COUNT" /> आयटम हटवेल. नंतर तुमचा डेटा पुनर्प्राप्त करण्‍यासाठी Dissenter मध्ये <ph name="USER_EMAIL" /> म्हणून साइन इन करा.</translation>
+<translation id="2123055963409958220"><ph name="BEGIN_LINK" />वर्तमान सेटिंग्ज<ph name="END_LINK" /> चा अहवाल देऊन Dissenter ला आणखी चांगले बनविण्यात मदत करा</translation>
+<translation id="1609678321160597289">Dissenter तुमच्या फोनवर इंस्टॉल करा. आम्ही तुमच्या खाते रिकव्हरी फोन नंबरवर एक SMS पाठवू.</translation>
+<translation id="5874882355102994015">बिल्ट-इन PDF व्ह्यूअर गहाळ असताना Dissenter प्रिंट पूर्वावलोकन दर्शवू शकत नाही.</translation>
+<translation id="7456658570432774853">वर्तमान सेटिंग्जचा अहवाल देऊन Dissenter उत्कृष्ट बनविण्यास मदत करा</translation>
+<translation id="225363235161345695">{0,plural, =1{Dissenter एका तासामध्ये पुन्हा लाँच होईल}other{Dissenter # तासांमध्ये पुन्हा लाँच होईल}}</translation>
+<translation id="4934157190377700991">तुम्ही आता Dissenter वर साइन इन केले आहे</translation>
+<translation id="350396164462274391">Google API की गहाळ आहेत. Dissenter ची काही कार्यक्षमता अक्षम केली जाईल.</translation>
+<translation id="2290095356545025170">तुमची खात्री आहे की तुम्ही Dissenter अनइंस्टॉल करू इच्छिता?</translation>
+<translation id="2309047409763057870">ही Dissenter ची दुय्यम स्थापना असून त्यास तुमचा डीफॉल्ट ब्राउझर बनवू शकत नाही.</translation>
+<translation id="2346876346033403680">कोणीतरी यापूर्वी या कॉंप्युटरवरील Dissenterमध्ये <ph name="ACCOUNT_EMAIL_LAST" /> या रुपात साइन इन केले होते. ते तुमचे खाते नसल्यास, तुमची माहिती स्वतंत्र ठेवण्यासाठी एक नवीन Dissenter वापरकर्ता तयार करा.
 
-तरीही साइन इन करण्यामुळे <ph name="ACCOUNT_EMAIL_NEW" />मध्ये बुकमार्क, इतिहास यासारखी Brave माहिती आणि अन्य सेटिंग्ज मर्ज होतील.</translation>
-<translation id="2348335408836342058">या साइटसाठी Brave ला तुमचा कॅमेरा आणि मायक्रोफोन अॅक्सेस करण्याची परवानगी हवी आहे</translation>
-<translation id="2429317896000329049">आपल्या डोमेनसाठी संकालन उपलब्ध नसल्यामुळे Brave तुमचा डेटा संकालित करू शकले नाही.</translation>
-<translation id="2467438592969358367">Brave ला तुमचे पासवर्ड निर्यात करायचे आहेत. हे करू देण्यासाठी तुमचा Windows पासवर्ड टाइप करा.</translation>
+तरीही साइन इन करण्यामुळे <ph name="ACCOUNT_EMAIL_NEW" />मध्ये बुकमार्क, इतिहास यासारखी Dissenter माहिती आणि अन्य सेटिंग्ज मर्ज होतील.</translation>
+<translation id="2348335408836342058">या साइटसाठी Dissenter ला तुमचा कॅमेरा आणि मायक्रोफोन अॅक्सेस करण्याची परवानगी हवी आहे</translation>
+<translation id="2429317896000329049">आपल्या डोमेनसाठी संकालन उपलब्ध नसल्यामुळे Dissenter तुमचा डेटा संकालित करू शकले नाही.</translation>
+<translation id="2467438592969358367">Dissenter ला तुमचे पासवर्ड निर्यात करायचे आहेत. हे करू देण्यासाठी तुमचा Windows पासवर्ड टाइप करा.</translation>
 <translation id="2485422356828889247">अनइंस्टॉल करा</translation>
-<translation id="8943391224520748272">ही फाईल कदाचित धोकादायक असू शकते, त्यामुळे Brave ने ती ब्लॉक केली आहे. तुम्ही प्रगत संरक्षणाद्वारे संरक्षित आहात.</translation>
-<translation id="2534507159460261402">Google Pay (Brave वर कॉपी केले)</translation>
-<translation id="2535429035253759792">हे अपडेट लागू करण्यासाठी तुमच्या अॅडमिनिस्ट्रेटरने तुम्हाला Brave पुन्हा लाँच करण्यास सांगितले आहे</translation>
-<translation id="2580411288591421699">सध्या चालत असलेली Brave ची समान आवृत्ती इंस्टॉल करू शकत नाही. कृपया Brave बंद करा आणि पुन्हा प्रयत्न करा.</translation>
-<translation id="2586406160782125153">हे या डिव्‍हाइस मधून तुमचा ब्राउझिंग डेटा हटवेल. नंतर तुमचा डेटा पुनर्प्राप्त करण्‍यासाठी, Brave मध्ये <ph name="USER_EMAIL" /> म्हणून साइन इन करा.</translation>
-<translation id="4847979153841887006">Brave लोगो</translation>
+<translation id="8943391224520748272">ही फाईल कदाचित धोकादायक असू शकते, त्यामुळे Dissenter ने ती ब्लॉक केली आहे. तुम्ही प्रगत संरक्षणाद्वारे संरक्षित आहात.</translation>
+<translation id="2534507159460261402">Google Pay (Dissenter वर कॉपी केले)</translation>
+<translation id="2535429035253759792">हे अपडेट लागू करण्यासाठी तुमच्या अॅडमिनिस्ट्रेटरने तुम्हाला Dissenter पुन्हा लाँच करण्यास सांगितले आहे</translation>
+<translation id="2580411288591421699">सध्या चालत असलेली Dissenter ची समान आवृत्ती इंस्टॉल करू शकत नाही. कृपया Dissenter बंद करा आणि पुन्हा प्रयत्न करा.</translation>
+<translation id="2586406160782125153">हे या डिव्‍हाइस मधून तुमचा ब्राउझिंग डेटा हटवेल. नंतर तुमचा डेटा पुनर्प्राप्त करण्‍यासाठी, Dissenter मध्ये <ph name="USER_EMAIL" /> म्हणून साइन इन करा.</translation>
+<translation id="4847979153841887006">Dissenter लोगो</translation>
 <translation id="2644798301485385923">Chrome OS सिस्टम</translation>
-<translation id="2652691236519827073">लिंक नवीन Brave &amp;टॅबमध्ये उघडा</translation>
-<translation id="7348158796480960456">Google कडे क्रॅश अहवाल आणि <ph name="UMA_LINK" /> पाठवून Brave ला अधिक चांगले बनवण्यात मदत करा</translation>
-<translation id="3813272600615358652">तुम्ही Brave सुरू करता तेव्हा कोणते पेज दर्शविले जाते हे या एक्स्टेंशनने बदलले आहे.</translation>
-<translation id="2765403129283291972">या साइटसाठी Brave ला तुमचा मायक्रोफोन अॅक्सेस करण्याची परवानगी हवी आहे</translation>
+<translation id="2652691236519827073">लिंक नवीन Dissenter &amp;टॅबमध्ये उघडा</translation>
+<translation id="7348158796480960456">Google कडे क्रॅश अहवाल आणि <ph name="UMA_LINK" /> पाठवून Dissenter ला अधिक चांगले बनवण्यात मदत करा</translation>
+<translation id="3813272600615358652">तुम्ही Dissenter सुरू करता तेव्हा कोणते पेज दर्शविले जाते हे या एक्स्टेंशनने बदलले आहे.</translation>
+<translation id="2765403129283291972">या साइटसाठी Dissenter ला तुमचा मायक्रोफोन अॅक्सेस करण्याची परवानगी हवी आहे</translation>
 <translation id="2770231113462710648">डीफॉल्ट ब्राउझर यावर बदला:</translation>
 <translation id="2799223571221894425">पुन्हा लाँच करा</translation>
-<translation id="2847461019998147611">Brave या भाषेत डिस्प्ले करा</translation>
-<translation id="2857540653560290388">Brave लाँच करत आहे...</translation>
-<translation id="2871893339301912279">तुम्ही Brave मध्‍ये साइन इन केले आहे!</translation>
-<translation id="8541922081612557424">Brave बद्दल</translation>
-<translation id="3037838751736561277">Brave पार्श्वभूमी मोड मध्ये आहे.</translation>
-<translation id="4806360651959814118"><ph name="USERNAME" /> डिस्कनेक्ट केल्याने या डिव्हाइसवरील तुमचा इतिहास, बुकमार्क, सेटिंग्ज आणि अन्य Brave डेटा साफ होईल. आपल्या Google खात्यात संचयित केलेला डेटा साफ केला जाणार नाही आणि तो <ph name="GOOGLE_DASHBOARD_LINK" />Google डॅशबोर्ड<ph name="END_GOOGLE_DASHBOARD_LINK" /> वर व्यवस्थापित केला जाऊ शकतो.</translation>
-<translation id="6791166902140255175">Brave टॅब</translation>
-<translation id="3080151273017101988">जेव्हा Brave बंद असेल तेव्हा पार्श्वभूमीत ॲप्लिकेशन चालणे सुरू ठेवा</translation>
-<translation id="3089968997497233615">Brave ची नवीन, सुरक्षित आवृत्ती उपलब्ध आहे.</translation>
-<translation id="300669147395456190">Brave Apps</translation>
+<translation id="2847461019998147611">Dissenter या भाषेत डिस्प्ले करा</translation>
+<translation id="2857540653560290388">Dissenter लाँच करत आहे...</translation>
+<translation id="2871893339301912279">तुम्ही Dissenter मध्‍ये साइन इन केले आहे!</translation>
+<translation id="8541922081612557424">Dissenter बद्दल</translation>
+<translation id="3037838751736561277">Dissenter पार्श्वभूमी मोड मध्ये आहे.</translation>
+<translation id="4806360651959814118"><ph name="USERNAME" /> डिस्कनेक्ट केल्याने या डिव्हाइसवरील तुमचा इतिहास, बुकमार्क, सेटिंग्ज आणि अन्य Dissenter डेटा साफ होईल. आपल्या Google खात्यात संचयित केलेला डेटा साफ केला जाणार नाही आणि तो <ph name="GOOGLE_DASHBOARD_LINK" />Google डॅशबोर्ड<ph name="END_GOOGLE_DASHBOARD_LINK" /> वर व्यवस्थापित केला जाऊ शकतो.</translation>
+<translation id="6791166902140255175">Dissenter टॅब</translation>
+<translation id="3080151273017101988">जेव्हा Dissenter बंद असेल तेव्हा पार्श्वभूमीत ॲप्लिकेशन चालणे सुरू ठेवा</translation>
+<translation id="3089968997497233615">Dissenter ची नवीन, सुरक्षित आवृत्ती उपलब्ध आहे.</translation>
+<translation id="300669147395456190">Dissenter Apps</translation>
 <translation id="3251381707915721925"><ph name="NEW_PROFILE_NAME" /> कोणत्या वेबसाइट पाहू शकतो ते सेट करण्‍यासाठी, <ph name="BEGIN_LINK_1" /><ph name="DISPLAY_LINK" /><ph name="END_LINK_1" /> वर भेट देऊन तुम्ही प्रतिबंध आणि सेटिंग्ज कॉन्फिगर करू शकता. तुम्ही डीफॉल्ट सेटिंग्ज बदलत नसल्यास, <ph name="NEW_PROFILE_NAME" /> वेबवरील प्रत्येक गोष्ट पाहू शकतो.
 
-<ph name="NEW_PROFILE_NAME" /> ला आपल्या खात्यात प्रवेश करण्‍यापासून प्रतिबंधित करण्यासाठी, तुम्ही Brave वापरत नसता तेव्हा तुम्ही तुमचे प्रोफाइल लॉक करता याची खात्री करा. हे करण्‍यासाठी, ब्राउझरच्या वरील उजव्या कोपर्‍यातील तुमचे प्रोफाइल नाव क्लिक करा आणि "बाहेर पडा आणि मुलांचा लॉक" निवडा. <ph name="BEGIN_LINK_2" />अधिक जाणून घ्या<ph name="END_LINK_2" />
+<ph name="NEW_PROFILE_NAME" /> ला आपल्या खात्यात प्रवेश करण्‍यापासून प्रतिबंधित करण्यासाठी, तुम्ही Dissenter वापरत नसता तेव्हा तुम्ही तुमचे प्रोफाइल लॉक करता याची खात्री करा. हे करण्‍यासाठी, ब्राउझरच्या वरील उजव्या कोपर्‍यातील तुमचे प्रोफाइल नाव क्लिक करा आणि "बाहेर पडा आणि मुलांचा लॉक" निवडा. <ph name="BEGIN_LINK_2" />अधिक जाणून घ्या<ph name="END_LINK_2" />
 
 कृपया पुढील सूचनांसाठी तुमचे ईमेल <ph name="ACCOUNT_EMAIL" /> वर तपासा.</translation>
-<translation id="82609232232243542">Brave वर साइन इन करा</translation>
-<translation id="3360895254066713204">Brave मदतनीस</translation>
+<translation id="82609232232243542">Dissenter वर साइन इन करा</translation>
+<translation id="3360895254066713204">Dissenter मदतनीस</translation>
 <translation id="3395323229510056640">Chrome OS सह मदत मिळवा</translation>
-<translation id="3396977131400919238">स्थापनेदरम्यान एक ऑपरेटिंग सिस्टम‍ एरर आली. कृपया Brave पुन्हा डाउनलोड करा.</translation>
-<translation id="3398288718845740432">Brave मेनूमध्‍ये लपवा</translation>
-<translation id="8880183781256147665">Brave मध्‍ये जोडत आहे...</translation>
-<translation id="345171907106878721">Brave वर आपल्या स्वतःस जोडा</translation>
+<translation id="3396977131400919238">स्थापनेदरम्यान एक ऑपरेटिंग सिस्टम‍ एरर आली. कृपया Dissenter पुन्हा डाउनलोड करा.</translation>
+<translation id="3398288718845740432">Dissenter मेनूमध्‍ये लपवा</translation>
+<translation id="8880183781256147665">Dissenter मध्‍ये जोडत आहे...</translation>
+<translation id="345171907106878721">Dissenter वर आपल्या स्वतःस जोडा</translation>
 <translation id="3479552764303398839">सध्या नाही</translation>
-<translation id="6205431412329939367"><ph name="FILE_NAME" /> धोकादायक असू शकते, त्यामुळे Brave ने ती ब्लॉक केली आहे. तुम्ही प्रगत संरक्षणाद्वारे संरक्षित आहात.</translation>
-<translation id="34857402635545079">Brave (<ph name="URL" />) वरील डेटा देखील साफ करा</translation>
-<translation id="3503306920980160878">तुमचे स्थान या साइटसोबत शेअर करण्यासाठी Brave ला तुमच्या स्थानाचा अ‍ॅक्सेस हवा आहे</translation>
-<translation id="3576528680708590453">तुमच्या सिस्टम अ‍ॅडमिनिस्ट्रेटरने <ph name="TARGET_URL_HOSTNAME" /> ॲक्‍सेस करण्याकरिता पर्यायी ब्राउझर उघडण्यासाठी Brave कॉन्फिगर केले आहे.</translation>
-<translation id="5477319665405831211">तुमच्या डिव्हाइसवर Brave सिंक आणि पर्सनलाइझ करा</translation>
-<translation id="3622797965165704966">आता आपल्या Google खात्यावर आणि शेअर केलेल्या संगणकांवर Brave वापरणे अधिक सुलभ आहे.</translation>
+<translation id="6205431412329939367"><ph name="FILE_NAME" /> धोकादायक असू शकते, त्यामुळे Dissenter ने ती ब्लॉक केली आहे. तुम्ही प्रगत संरक्षणाद्वारे संरक्षित आहात.</translation>
+<translation id="34857402635545079">Dissenter (<ph name="URL" />) वरील डेटा देखील साफ करा</translation>
+<translation id="3503306920980160878">तुमचे स्थान या साइटसोबत शेअर करण्यासाठी Dissenter ला तुमच्या स्थानाचा अ‍ॅक्सेस हवा आहे</translation>
+<translation id="3576528680708590453">तुमच्या सिस्टम अ‍ॅडमिनिस्ट्रेटरने <ph name="TARGET_URL_HOSTNAME" /> ॲक्‍सेस करण्याकरिता पर्यायी ब्राउझर उघडण्यासाठी Dissenter कॉन्फिगर केले आहे.</translation>
+<translation id="5477319665405831211">तुमच्या डिव्हाइसवर Dissenter सिंक आणि पर्सनलाइझ करा</translation>
+<translation id="3622797965165704966">आता आपल्या Google खात्यावर आणि शेअर केलेल्या संगणकांवर Dissenter वापरणे अधिक सुलभ आहे.</translation>
 <translation id="3637702109597584617">Google Chrome OS <ph name="TERMS_OF_SERVICE_LINK" />सेवा अटी<ph name="END_TERMS_OF_SERVICE_LINK" /></translation>
-<translation id="5805364706385912897">हे पेज खूपच जास्त मेमरी वापरत असल्यामुळे Brave ने ते थांबवून ठेवलेले आहे.</translation>
-<translation id="3718181793972440140">हे या डिव्‍हाइस मधून 1 आयटम हटवेल. नंतर तुमचा डेटा पुनर्प्राप्त करण्‍यासाठी, Brave मध्ये <ph name="USER_EMAIL" /> म्हणून साइन इन करा.</translation>
-<translation id="2576129394594491151">तुम्ही Brave सुरू करता तेव्हा कोणते पृष्ठ दर्शविले जाते हे "<ph name="EXTENSION_NAME" />" विस्ताराने बदलले आहे.</translation>
-<translation id="3780814664026482060">Brave - <ph name="PAGE_TITLE" /></translation>
-<translation id="3784527566857328444">Brave मधून काढून टाका...</translation>
-<translation id="386202838227397562">कृपया सर्व Brave विंडो बंद करा आणि पुन्हा प्रयत्न करा.</translation>
-<translation id="3873044882194371212">लिंक Brave गुप्त विंडोमध्ये उघडा</translation>
-<translation id="3889417619312448367">Brave अनइंस्टॉल करा</translation>
+<translation id="5805364706385912897">हे पेज खूपच जास्त मेमरी वापरत असल्यामुळे Dissenter ने ते थांबवून ठेवलेले आहे.</translation>
+<translation id="3718181793972440140">हे या डिव्‍हाइस मधून 1 आयटम हटवेल. नंतर तुमचा डेटा पुनर्प्राप्त करण्‍यासाठी, Dissenter मध्ये <ph name="USER_EMAIL" /> म्हणून साइन इन करा.</translation>
+<translation id="2576129394594491151">तुम्ही Dissenter सुरू करता तेव्हा कोणते पृष्ठ दर्शविले जाते हे "<ph name="EXTENSION_NAME" />" विस्ताराने बदलले आहे.</translation>
+<translation id="3780814664026482060">Dissenter - <ph name="PAGE_TITLE" /></translation>
+<translation id="3784527566857328444">Dissenter मधून काढून टाका...</translation>
+<translation id="386202838227397562">कृपया सर्व Dissenter विंडो बंद करा आणि पुन्हा प्रयत्न करा.</translation>
+<translation id="3873044882194371212">लिंक Dissenter गुप्त विंडोमध्ये उघडा</translation>
+<translation id="3889417619312448367">Dissenter अनइंस्टॉल करा</translation>
 <translation id="3898493977366060150">Google smarts सह वेब ब्राउझिंग</translation>
-<translation id="4028693306634653894">Brave वर अधिक जलद या</translation>
+<translation id="4028693306634653894">Dissenter वर अधिक जलद या</translation>
 <translation id="4050175100176540509">नवीनतम आवृत्तीमध्‍ये महत्त्वाच्या सुरक्षितता सुधारणा आणि नवीन वैशिष्ट्ये उपलब्‍ध आहेत.</translation>
-<translation id="8148611988012584308">Brave कस्टमाइझ करा आणि नियंत्रित करा</translation>
-<translation id="4143243756087420366">Brave नाव आणि फोटो</translation>
-<translation id="4147555960264124640">तुम्ही एका व्यवस्थापित खात्यासह साइन इन करत आहात आणि तुमच्या Brave प्रोफाइलवर त्याच्या अॅडमिनिस्ट्रेटरला नियंत्रण देत आहात. तुमचा Brave डेटा, जसे की तुमचे अॅप्स, बुकमार्क, इतिहास, पासवर्ड आणि अन्य सेटिंग्ज <ph name="USER_NAME" /> वर कायमच्या बद्ध होतील. तुम्ही Google खाती डॅशबोर्ड द्वारे हा डेटा हटवण्यात सक्षम व्हाल, परंतु तुम्ही दुसर्‍या खात्यासह हा डेटा संबद्ध करण्यात सक्षम असणार नाही. <ph name="LEARN_MORE" /></translation>
-<translation id="4149882025268051530">संग्रहण संक्षिप्त करण्यास इन्स्टॉलर अयशस्वी. कृपया Brave पुन्हा डाउनलोड करा.</translation>
-<translation id="7445061995866044926">Brave मधून साइन आउट करायचे?</translation>
-<translation id="4251615635259297716">या खात्यावर तुमच्या Brave डेटा लिंक करायचा?</translation>
-<translation id="8358191771897395012">Brave तुमच्या iPhone वर मिळवा</translation>
-<translation id="3360368475735266712">तुमच्या डिव्हाइसवर Brave सिंक आणि पर्सनलाइझ करण्यासाठी साइन इन करा</translation>
-<translation id="4328355335528187361">Brave विकासक (mDNS-In)</translation>
+<translation id="8148611988012584308">Dissenter कस्टमाइझ करा आणि नियंत्रित करा</translation>
+<translation id="4143243756087420366">Dissenter नाव आणि फोटो</translation>
+<translation id="4147555960264124640">तुम्ही एका व्यवस्थापित खात्यासह साइन इन करत आहात आणि तुमच्या Dissenter प्रोफाइलवर त्याच्या अॅडमिनिस्ट्रेटरला नियंत्रण देत आहात. तुमचा Dissenter डेटा, जसे की तुमचे अॅप्स, बुकमार्क, इतिहास, पासवर्ड आणि अन्य सेटिंग्ज <ph name="USER_NAME" /> वर कायमच्या बद्ध होतील. तुम्ही Google खाती डॅशबोर्ड द्वारे हा डेटा हटवण्यात सक्षम व्हाल, परंतु तुम्ही दुसर्‍या खात्यासह हा डेटा संबद्ध करण्यात सक्षम असणार नाही. <ph name="LEARN_MORE" /></translation>
+<translation id="4149882025268051530">संग्रहण संक्षिप्त करण्यास इन्स्टॉलर अयशस्वी. कृपया Dissenter पुन्हा डाउनलोड करा.</translation>
+<translation id="7445061995866044926">Dissenter मधून साइन आउट करायचे?</translation>
+<translation id="4251615635259297716">या खात्यावर तुमच्या Dissenter डेटा लिंक करायचा?</translation>
+<translation id="8358191771897395012">Dissenter तुमच्या iPhone वर मिळवा</translation>
+<translation id="3360368475735266712">तुमच्या डिव्हाइसवर Dissenter सिंक आणि पर्सनलाइझ करण्यासाठी साइन इन करा</translation>
+<translation id="4328355335528187361">Dissenter विकासक (mDNS-In)</translation>
 <translation id="4331809312908958774">Chrome OS</translation>
-<translation id="4343195214584226067"><ph name="EXTENSION_NAME" /> हे Brave मध्‍ये जोडले गेले आहे</translation>
+<translation id="4343195214584226067"><ph name="EXTENSION_NAME" /> हे Dissenter मध्‍ये जोडले गेले आहे</translation>
 <translation id="4407807842708586359">Google Chrome OS</translation>
-<translation id="4458462641685292929">Brave वर दुसरे ऑपरेशन प्रगतीपथावर आहे. कृपया नंतर पुन्हा प्रयत्न करा.</translation>
+<translation id="4458462641685292929">Dissenter वर दुसरे ऑपरेशन प्रगतीपथावर आहे. कृपया नंतर पुन्हा प्रयत्न करा.</translation>
 <translation id="4480040274068703980">साइन इन करण्यात एररमुळे Chrome OS तुमचा डेटा सिंक करू शकले नाही.</translation>
-<translation id="4561051373932531560">Brave तुम्हाला वेबवरील फोन नंबर क्लिक करू देते आणि त्या नंबरवर Skype द्वारा कॉल करू देते!</translation>
+<translation id="4561051373932531560">Dissenter तुम्हाला वेबवरील फोन नंबर क्लिक करू देते आणि त्या नंबरवर Skype द्वारा कॉल करू देते!</translation>
 <translation id="4567424176335768812">तुम्ही <ph name="USER_EMAIL_ADDRESS" /> म्हणून साइन इन केले आहे. आता तुम्ही तुमच्या सर्व साइन इन केलेल्या डिव्हाइसवरील तुमच्या बुकमार्क, इतिहास आणि अन्य सेटिंग्ज अॅक्सेस करू शकता.</translation>
-<translation id="4571503333518166079">Brave सूचना सेटिंग्जवर जा</translation>
-<translation id="459622048091363950">एकदा का Brave ला ॲक्सेस मिळाला की, वेबसाइट तुम्हाला ॲक्सेससाठी विचारतील.</translation>
-<translation id="7963515534397191222">Brave नवीनतम आवृत्तीवर अपडेट होऊ शकले नाही, त्यामुळे तुम्ही नवीन वैशिष्ट्ये आणि सुरक्षितता निराकरणे गमावत आहात.</translation>
-<translation id="4631713731678262610">Brave मेनूमध्‍ये लपवा</translation>
-<translation id="4633000520311261472">Brave ला अधिक सुरक्षित करण्यासाठी, आम्ही <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> मध्ये सूचीबद्ध नसलेले काही विस्तार अक्षम केले आणि ते कदाचित आपल्या माहिती शिवाय जोडले गेले असावेत.</translation>
-<translation id="4728575227883772061">नमूद न केलेल्या एररमुळे स्थापना अयशस्वी. जर Brave सध्या चालू असेल तर, कृपया त्यास बंद करा आणि पुन्हा प्रयत्न करा.</translation>
-<translation id="4750550185319565338"><ph name="PLUGIN_NAME" /> सुरू करण्‍यासाठी Brave रीस्टार्ट करा</translation>
-<translation id="4754614261631455953">Brave कॅनरी (mDNS-मध्ये)</translation>
-<translation id="89367911614620585">ही फाईल कदाचित धोकादायक असू शकते, त्यामुळे Brave ने ती अवरोधित केली आहे.</translation>
-<translation id="2887570477425111999">Brave मध्ये तपशील सेव्ह करा</translation>
-<translation id="4891791193823137474">बॅकग्राउंडमध्ये Brave चालू द्या</translation>
-<translation id="4895437082222824641">लिंक नवीन Brave &amp;टॅबमध्ये उघडा</translation>
-<translation id="8296145982386097283">एक कॉंप्युटर शेअर करायचा? तुम्हाला आवडते त्या प्रकारे तुम्ही आता Brave सेट करू शकता.</translation>
+<translation id="4571503333518166079">Dissenter सूचना सेटिंग्जवर जा</translation>
+<translation id="459622048091363950">एकदा का Dissenter ला ॲक्सेस मिळाला की, वेबसाइट तुम्हाला ॲक्सेससाठी विचारतील.</translation>
+<translation id="7963515534397191222">Dissenter नवीनतम आवृत्तीवर अपडेट होऊ शकले नाही, त्यामुळे तुम्ही नवीन वैशिष्ट्ये आणि सुरक्षितता निराकरणे गमावत आहात.</translation>
+<translation id="4631713731678262610">Dissenter मेनूमध्‍ये लपवा</translation>
+<translation id="4633000520311261472">Dissenter ला अधिक सुरक्षित करण्यासाठी, आम्ही <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> मध्ये सूचीबद्ध नसलेले काही विस्तार अक्षम केले आणि ते कदाचित आपल्या माहिती शिवाय जोडले गेले असावेत.</translation>
+<translation id="4728575227883772061">नमूद न केलेल्या एररमुळे स्थापना अयशस्वी. जर Dissenter सध्या चालू असेल तर, कृपया त्यास बंद करा आणि पुन्हा प्रयत्न करा.</translation>
+<translation id="4750550185319565338"><ph name="PLUGIN_NAME" /> सुरू करण्‍यासाठी Dissenter रीस्टार्ट करा</translation>
+<translation id="4754614261631455953">Dissenter कॅनरी (mDNS-मध्ये)</translation>
+<translation id="89367911614620585">ही फाईल कदाचित धोकादायक असू शकते, त्यामुळे Dissenter ने ती अवरोधित केली आहे.</translation>
+<translation id="2887570477425111999">Dissenter मध्ये तपशील सेव्ह करा</translation>
+<translation id="4891791193823137474">बॅकग्राउंडमध्ये Dissenter चालू द्या</translation>
+<translation id="4895437082222824641">लिंक नवीन Dissenter &amp;टॅबमध्ये उघडा</translation>
+<translation id="8296145982386097283">एक कॉंप्युटर शेअर करायचा? तुम्हाला आवडते त्या प्रकारे तुम्ही आता Dissenter सेट करू शकता.</translation>
 <translation id="4945319281866068441">{0,plural, =1{Chrome OS एका दिवसात रीस्टार्ट करा}other{Chrome OS # दिवसांमध्ये रीस्टार्ट करा}}</translation>
-<translation id="4953650215774548573">तुमचा डीफॉल्ट ब्राउझर म्हणून Brave सेट करा</translation>
-<translation id="6078442581074612226">Brave मध्ये</translation>
-<translation id="4990567037958725628">Brave कॅनरी</translation>
-<translation id="5028489144783860647">Brave तुमचा डेटा सिंक करू शकले नाही. कृपया तुमची सिंक पासफ्रेज अपडेट करा.</translation>
+<translation id="4953650215774548573">तुमचा डीफॉल्ट ब्राउझर म्हणून Dissenter सेट करा</translation>
+<translation id="6078442581074612226">Dissenter मध्ये</translation>
+<translation id="4990567037958725628">Dissenter कॅनरी</translation>
+<translation id="5028489144783860647">Dissenter तुमचा डेटा सिंक करू शकले नाही. कृपया तुमची सिंक पासफ्रेज अपडेट करा.</translation>
 <translation id="5062123544085870375">Chrome OS रीस्टार्ट करा</translation>
-<translation id="5090044601776247154">Brave 70 सह सुरू झालेले व्यवस्थापित वापरकर्ता प्रोफाइल यापुढे उपलब्ध होणार नाहीत.</translation>
-<translation id="2871190378186459992">Brave साठी उत्कृष्ट ॲप, खेळ, विस्तार आणि थीम शोधा.</translation>
-<translation id="5170938038195470297">तुमचे प्रोफाइल वापरले जाणे शक्य नाही कारण ते Brave च्या नवीनतम आवृत्तीमधील आहे.
-काही वैशिष्‍ट्ये अनुपलब्ध असू शकतात. कृपया एक भिन्न प्रोफाइल डिरेक्टरी नमूद करा किंवा Brave ची नवीनतम आवृत्ती वापरा.</translation>
+<translation id="5090044601776247154">Dissenter 70 सह सुरू झालेले व्यवस्थापित वापरकर्ता प्रोफाइल यापुढे उपलब्ध होणार नाहीत.</translation>
+<translation id="2871190378186459992">Dissenter साठी उत्कृष्ट ॲप, खेळ, विस्तार आणि थीम शोधा.</translation>
+<translation id="5170938038195470297">तुमचे प्रोफाइल वापरले जाणे शक्य नाही कारण ते Dissenter च्या नवीनतम आवृत्तीमधील आहे.
+काही वैशिष्‍ट्ये अनुपलब्ध असू शकतात. कृपया एक भिन्न प्रोफाइल डिरेक्टरी नमूद करा किंवा Dissenter ची नवीनतम आवृत्ती वापरा.</translation>
 <translation id="5193136243808726294">Google Chrome OS हे पृष्ठ उघडू शकत नाही.</translation>
-<translation id="5204098752394657250">Brave <ph name="TERMS_OF_SERVICE_LINK" />सेवा अटी<ph name="END_TERMS_OF_SERVICE_LINK" /></translation>
-<translation id="5251420635869119124">अतिथी कोणतीही गोष्ट मागे न सोडता Brave वापरू शकतात.</translation>
-<translation id="5436841087823876677">चेतावणी: Brave हे एक्स्टेंशनला तुमचा ब्राउझिंग इतिहास रेकॉर्ड करून ठेवण्यापासून रोखू शकत नाही. हे एक्स्टेंशन बंद करण्यासाठी गुप्त मोडमधील या पर्यायाची निवड रद्द करा.</translation>
-<translation id="5386244825306882791">तुम्ही Brave सुरू करता किंवा ओम्निबॉक्समधून शोध घेता तेव्हा कोणते पृष्ठ दर्शविले जाते हे देखील हे नियंत्रित करते.</translation>
+<translation id="5204098752394657250">Dissenter <ph name="TERMS_OF_SERVICE_LINK" />सेवा अटी<ph name="END_TERMS_OF_SERVICE_LINK" /></translation>
+<translation id="5251420635869119124">अतिथी कोणतीही गोष्ट मागे न सोडता Dissenter वापरू शकतात.</translation>
+<translation id="5436841087823876677">चेतावणी: Dissenter हे एक्स्टेंशनला तुमचा ब्राउझिंग इतिहास रेकॉर्ड करून ठेवण्यापासून रोखू शकत नाही. हे एक्स्टेंशन बंद करण्यासाठी गुप्त मोडमधील या पर्यायाची निवड रद्द करा.</translation>
+<translation id="5386244825306882791">तुम्ही Dissenter सुरू करता किंवा ओम्निबॉक्समधून शोध घेता तेव्हा कोणते पृष्ठ दर्शविले जाते हे देखील हे नियंत्रित करते.</translation>
 <translation id="3403365884036456766">तुमची प्राधान्ये फाइल दूषित किंवा चुकीचे आहेत.
 
-Brave तुमची सेटिंग्ज पुन्हा मिळवू शकत नाही.</translation>
-<translation id="5483595757826856374">{0,plural, =0{Brave आता पुन्हा लाँँच होईल}=1{Brave एका सेकंदानंतर पुन्हा लाँँच होईल}other{Brave # सेकंदांनंतर पुन्हा लाँँच होईल}}</translation>
-<translation id="1801551749768408825">Brave च्या इतर प्रती रन होत आहेत. अपडेट करण्यासाठी, त्या बंद करा.</translation>
-<translation id="556024056938947818">Brave पासवर्ड दर्शवण्याचा प्रयत्न करत आहे.</translation>
-<translation id="5566025111015594046">Brave (mDNS-मध्ये)</translation>
+Dissenter तुमची सेटिंग्ज पुन्हा मिळवू शकत नाही.</translation>
+<translation id="5483595757826856374">{0,plural, =0{Dissenter आता पुन्हा लाँँच होईल}=1{Dissenter एका सेकंदानंतर पुन्हा लाँँच होईल}other{Dissenter # सेकंदांनंतर पुन्हा लाँँच होईल}}</translation>
+<translation id="1801551749768408825">Dissenter च्या इतर प्रती रन होत आहेत. अपडेट करण्यासाठी, त्या बंद करा.</translation>
+<translation id="556024056938947818">Dissenter पासवर्ड दर्शवण्याचा प्रयत्न करत आहे.</translation>
+<translation id="5566025111015594046">Dissenter (mDNS-मध्ये)</translation>
 <translation id="3561569806301739367"><ph name="FILE_NAME" /> धोकादायक असू शकते, त्यामुळे Chrom ने ते अवरोधित केले आहे.</translation>
-<translation id="6315734375101223238">Brave कस्टमाइझ करा आणि नियंत्रित करा. एका गोष्टीवर तुम्ही लक्ष द्यायला हवे - तपशिलांसाठी क्लिक करा.</translation>
-<translation id="5690427481109656848">Brave Software Inc</translation>
-<translation id="2513524988380267210">{SECONDS,plural, =1{Brave १ सेकंदात रीस्टार्ट होईल}other{Brave # सेकंदांत रीस्टार्ट होईल}}</translation>
+<translation id="6315734375101223238">Dissenter कस्टमाइझ करा आणि नियंत्रित करा. एका गोष्टीवर तुम्ही लक्ष द्यायला हवे - तपशिलांसाठी क्लिक करा.</translation>
+<translation id="5690427481109656848">Gab AI Inc</translation>
+<translation id="2513524988380267210">{SECONDS,plural, =1{Dissenter १ सेकंदात रीस्टार्ट होईल}other{Dissenter # सेकंदांत रीस्टार्ट होईल}}</translation>
 <translation id="573759479754913123">Chrome OS बद्दल</translation>
-<translation id="6236814935154483927"><ph name="PAGE_TITLE" /> - Brave कॅनरी</translation>
-<translation id="5804318322022881572">Brave लाँच करता आले नाही. पुन्हा प्रयत्न करा.</translation>
+<translation id="6236814935154483927"><ph name="PAGE_TITLE" /> - Dissenter कॅनरी</translation>
+<translation id="5804318322022881572">Dissenter लाँच करता आले नाही. पुन्हा प्रयत्न करा.</translation>
 <translation id="5877064549588274448">चॅनेल बदलले. बदल लागू करण्यासाठी तुमचे डिव्हाइस रीस्टार्ट करा.</translation>
 <translation id="5895138241574237353">रीस्टार्ट करा</translation>
 <translation id="5906655207909574370">अद्ययावत करणे जवळजवळ पूर्ण झाले! अपडेट करणे समाप्त करण्यासाठी तुमचे डिव्हाइस रीस्टार्ट करा.</translation>
-<translation id="5940385492829620908">तुमचे वेब, बुकमार्क आणि अन्य Brave सामग्री येथे थेट आहे.</translation>
-<translation id="5019879183386042809">Braveला डीफॉल्ट ब्राउझर बनवा</translation>
-<translation id="6014844626092547096">तुम्ही आता Brave वर साइन इन आहात! तुमच्या अॅडमिनिस्ट्रेटरद्वारे सिंक अक्षम केले गेले आहे.</translation>
+<translation id="5940385492829620908">तुमचे वेब, बुकमार्क आणि अन्य Dissenter सामग्री येथे थेट आहे.</translation>
+<translation id="5019879183386042809">Dissenterला डीफॉल्ट ब्राउझर बनवा</translation>
+<translation id="6014844626092547096">तुम्ही आता Dissenter वर साइन इन आहात! तुमच्या अॅडमिनिस्ट्रेटरद्वारे सिंक अक्षम केले गेले आहे.</translation>
 <translation id="6040143037577758943">बंद करा</translation>
-<translation id="6070348360322141662">अतिरिक्त सुरक्षिततेसाठी, Brave तुमचा डेटा एंक्रिप्ट करेल</translation>
-<translation id="6113794647360055231">Brave आता उत्कृष्ट झाले आहे</translation>
-<translation id="5381622442243174305"><ph name="PAGE_TITLE" /> – Brave</translation>
-<translation id="1403270718080126244"><ph name="PAGE_TITLE" /> - Brave बीटा</translation>
+<translation id="6070348360322141662">अतिरिक्त सुरक्षिततेसाठी, Dissenter तुमचा डेटा एंक्रिप्ट करेल</translation>
+<translation id="6113794647360055231">Dissenter आता उत्कृष्ट झाले आहे</translation>
+<translation id="5381622442243174305"><ph name="PAGE_TITLE" /> – Dissenter</translation>
+<translation id="1403270718080126244"><ph name="PAGE_TITLE" /> - Dissenter बीटा</translation>
 <translation id="61852838583753520">&amp;Chrome OS अपडेट करा</translation>
-<translation id="6235018212288296708">mDNS रहदारीस अनुमती देण्यासाठी Brave साठी अंतर्गामी नियम.</translation>
-<translation id="6291089322031436445">Brave विकासक ॲप</translation>
-<translation id="6291549208091401781">तुमच्या कॉंप्युटरवरील सर्व वापरकर्त्यांसाठी Brave आधीच इंस्टॉल केला आहे.</translation>
-<translation id="6338556085225130112">Brave अपडेट होत आहे</translation>
+<translation id="6235018212288296708">mDNS रहदारीस अनुमती देण्यासाठी Dissenter साठी अंतर्गामी नियम.</translation>
+<translation id="6291089322031436445">Dissenter विकासक ॲप</translation>
+<translation id="6291549208091401781">तुमच्या कॉंप्युटरवरील सर्व वापरकर्त्यांसाठी Dissenter आधीच इंस्टॉल केला आहे.</translation>
+<translation id="6338556085225130112">Dissenter अपडेट होत आहे</translation>
 <translation id="6368958679917195344"> Chrome OS अतिरिक्त <ph name="BEGIN_LINK_CROS_OSS" />मुक्त स्रोत सॉफ्टवेअर<ph name="END_LINK_CROS_OSS" /> द्वारे शक्य झाले आहे.</translation>
-<translation id="6468844726266617801">{0,plural, =1{एका दिवसामध्ये Brave पुन्हा लाँच करा}other{# दिवसांमध्ये Brave पुन्हा लाँच करा}}</translation>
-<translation id="3943696263619956191"><ph name="PAGE_TITLE" /> - Brave डेव्हलपर</translation>
-<translation id="6566149418543181476">Brave अपडेट करीत आहे (<ph name="PROGRESS_PERCENT" />)</translation>
-<translation id="2472951610753402739">तुम्ही तुमचा Brave आशय सिंक करण्यासाठी <ph name="PROFILE_EMAIL" /> वापरत आहात. तुमचे सिंक प्राधान्य अपडेट करण्यासाठी किंवा Google खात्याशिवाय Brave वापरण्यासाठी, <ph name="SETTINGS_LINK" /> ला भेट द्या.</translation>
-<translation id="663059986967017181">Brave वर कॉपी केले</translation>
-<translation id="6634887557811630702">Brave अद्ययावत आहे.</translation>
+<translation id="6468844726266617801">{0,plural, =1{एका दिवसामध्ये Dissenter पुन्हा लाँच करा}other{# दिवसांमध्ये Dissenter पुन्हा लाँच करा}}</translation>
+<translation id="3943696263619956191"><ph name="PAGE_TITLE" /> - Dissenter डेव्हलपर</translation>
+<translation id="6566149418543181476">Dissenter अपडेट करीत आहे (<ph name="PROGRESS_PERCENT" />)</translation>
+<translation id="2472951610753402739">तुम्ही तुमचा Dissenter आशय सिंक करण्यासाठी <ph name="PROFILE_EMAIL" /> वापरत आहात. तुमचे सिंक प्राधान्य अपडेट करण्यासाठी किंवा Google खात्याशिवाय Dissenter वापरण्यासाठी, <ph name="SETTINGS_LINK" /> ला भेट द्या.</translation>
+<translation id="663059986967017181">Dissenter वर कॉपी केले</translation>
+<translation id="6634887557811630702">Dissenter अद्ययावत आहे.</translation>
 <translation id="6676384891291319759">इंटरनेट अॅक्सेस करा</translation>
-<translation id="6679975945624592337">Brave बॅकग्राउंडमध्ये चालू द्या</translation>
-<translation id="677276454032249905">तरीही Brave बंद करायचे?</translation>
-<translation id="683440813066116847">mDNS रहदारीस अनुमती देण्यासाठी Brave कॅनरी साठी अंतर्गामी नियम.</translation>
-<translation id="686561893457936865">Brave ला सर्वत्र न्या</translation>
-<translation id="6885412569789873916">Brave बीटा ॲप</translation>
-<translation id="6943584222992551122">या व्यक्तीचा ब्राउझिंग डेटा या डिव्हाइसवरून हटवला जाईल. डेटा रीकव्हर करण्यासाठी, Brave वर <ph name="USER_EMAIL" /> म्हणून साइन इन करा.</translation>
-<translation id="6964107240822114422">{0,plural, =0{Brave अपडेट उपलब्ध आहे}=1{Brave अपडेट उपलब्ध आहे}other{Brave अपडेट # दिवसांसाठी उपलब्ध आहे}}</translation>
-<translation id="6967962315388095737">Brave बीटाचा mDNS रहदारीस अनुमती देण्यासाठी इनबाउंड नियम.</translation>
+<translation id="6679975945624592337">Dissenter बॅकग्राउंडमध्ये चालू द्या</translation>
+<translation id="677276454032249905">तरीही Dissenter बंद करायचे?</translation>
+<translation id="683440813066116847">mDNS रहदारीस अनुमती देण्यासाठी Dissenter कॅनरी साठी अंतर्गामी नियम.</translation>
+<translation id="686561893457936865">Dissenter ला सर्वत्र न्या</translation>
+<translation id="6885412569789873916">Dissenter बीटा ॲप</translation>
+<translation id="6943584222992551122">या व्यक्तीचा ब्राउझिंग डेटा या डिव्हाइसवरून हटवला जाईल. डेटा रीकव्हर करण्यासाठी, Dissenter वर <ph name="USER_EMAIL" /> म्हणून साइन इन करा.</translation>
+<translation id="6964107240822114422">{0,plural, =0{Dissenter अपडेट उपलब्ध आहे}=1{Dissenter अपडेट उपलब्ध आहे}other{Dissenter अपडेट # दिवसांसाठी उपलब्ध आहे}}</translation>
+<translation id="6967962315388095737">Dissenter बीटाचा mDNS रहदारीस अनुमती देण्यासाठी इनबाउंड नियम.</translation>
 <translation id="6970811910055250180">तुमचे डिव्हाइस अपडेट करीत आहे...</translation>
 <translation id="6982337800632491844"><ph name="DOMAIN" /> ला हे डिव्हाइस वापरण्यापूर्वी तुम्ही खालील सेवा अटी वाचणे आणि स्वीकारणे आवश्यक आहे. या अटी Google Chrome OS अटींना विस्तृत, सुधारित किंवा मर्यादित करत नाहीत.</translation>
-<translation id="6989339256997917931">Brave अपडेट केला गेला, परंतु तुम्ही तो किमान 30 दिवसांपासून वापरलेला नाही.</translation>
+<translation id="6989339256997917931">Dissenter अपडेट केला गेला, परंतु तुम्ही तो किमान 30 दिवसांपासून वापरलेला नाही.</translation>
 <translation id="7023651421574588884">अपडेट लागू करण्यासाठी तुम्ही Chrome OS रीस्टार्ट करणे तुमच्या ॲडमिनिस्ट्रेटरसाठी आवश्यक आहे.</translation>
-<translation id="8919461291440820124">Brave तुमचा मायक्रोफोन वापरत आहे.</translation>
-<translation id="5516268345616100622">टास्क मॅनेजर – Brave</translation>
-<translation id="474353600079041991">तुम्ही Google कडे संभाव्य सुरक्षितता घटनांच्या तपशीलांचा स्वयंचलितपणे अहवाल देऊन Brave वापरणे अधिक सुरक्षित आणि सुलभ बनविण्यात मदत करू शकता.</translation>
-<translation id="7242029209006116544">तुम्ही एका व्यवस्थापित खात्यासह साइन इन करत आहात आणि तुमच्या Brave प्रोफाइलवर त्याच्या अॅडमिनिस्ट्रेटरला नियंत्रण देत आहात. तुमचा Brave डेटा, जसे की तुमचे अॅप्स, बुकमार्क, इतिहास, पासवर्ड आणि अन्य सेटिंग्ज <ph name="USER_NAME" /> वर कायमच्या बद्ध होतील. तुम्ही Google खाती डॅशबोर्डद्वारे हा डेटा हटवण्यात सक्षम व्हाल, परंतु तुम्ही दुसर्‍या खात्यासह हा डेटा संबद्ध करण्यात सक्षम असणार नाही. तुम्ही तुमचा विद्यमान Brave डेटा वेगळा ठेवण्यासाठी एक नवीन प्रोफाइल वैकल्पिकपणे तयार करू शकता. <ph name="LEARN_MORE" /></translation>
-<translation id="7295052994004373688">ही भाषा Brave UI दाखवण्यासाठी वापरली जाते</translation>
+<translation id="8919461291440820124">Dissenter तुमचा मायक्रोफोन वापरत आहे.</translation>
+<translation id="5516268345616100622">टास्क मॅनेजर – Dissenter</translation>
+<translation id="474353600079041991">तुम्ही Google कडे संभाव्य सुरक्षितता घटनांच्या तपशीलांचा स्वयंचलितपणे अहवाल देऊन Dissenter वापरणे अधिक सुरक्षित आणि सुलभ बनविण्यात मदत करू शकता.</translation>
+<translation id="7242029209006116544">तुम्ही एका व्यवस्थापित खात्यासह साइन इन करत आहात आणि तुमच्या Dissenter प्रोफाइलवर त्याच्या अॅडमिनिस्ट्रेटरला नियंत्रण देत आहात. तुमचा Dissenter डेटा, जसे की तुमचे अॅप्स, बुकमार्क, इतिहास, पासवर्ड आणि अन्य सेटिंग्ज <ph name="USER_NAME" /> वर कायमच्या बद्ध होतील. तुम्ही Google खाती डॅशबोर्डद्वारे हा डेटा हटवण्यात सक्षम व्हाल, परंतु तुम्ही दुसर्‍या खात्यासह हा डेटा संबद्ध करण्यात सक्षम असणार नाही. तुम्ही तुमचा विद्यमान Dissenter डेटा वेगळा ठेवण्यासाठी एक नवीन प्रोफाइल वैकल्पिकपणे तयार करू शकता. <ph name="LEARN_MORE" /></translation>
+<translation id="7295052994004373688">ही भाषा Dissenter UI दाखवण्यासाठी वापरली जाते</translation>
 <translation id="7296210096911315575">महत्त्वाचा वापर आणि सुरक्षा माहिती</translation>
-<translation id="7308322188646931570">फायली डाउनलोड करण्यासाठी Brave ला स्टोरेजचा अॅक्सेस हवा आहे</translation>
+<translation id="7308322188646931570">फायली डाउनलोड करण्यासाठी Dissenter ला स्टोरेजचा अॅक्सेस हवा आहे</translation>
 <translation id="7339898014177206373">नवीन विंडो</translation>
-<translation id="7398801000654795464">तुम्ही <ph name="USER_EMAIL_ADDRESS" /> या रुपात Brave मध्ये साइन इन केले होते. कृपया पुन्हा साइन इन करण्यासाठी समान खाते वापरा.</translation>
+<translation id="7398801000654795464">तुम्ही <ph name="USER_EMAIL_ADDRESS" /> या रुपात Dissenter मध्ये साइन इन केले होते. कृपया पुन्हा साइन इन करण्यासाठी समान खाते वापरा.</translation>
 <translation id="7408085963519505752">Chrome OS अटी</translation>
 <translation id="7419046106786626209">आपल्या डोमेनसाठी संकालन उपलब्ध नसल्यामुळे Chrome OS तुमचा डेटा संकालित करू शकले नाही.</translation>
-<translation id="7459554271817304652">तुमची पर्सनलाइझ केलेली ब्राउझर वैशिष्ट्ये सेव्ह करण्यासाठी सिंक सेट करा आणि कोणत्याही कॉंप्युटरवरील Brave वरून ते अॅक्सेस करा.</translation>
-<translation id="7473136999113284234">Brave स्वयंचलितपणे अपडेट होते जेणेकरून आपल्याकडे नेहमी सर्वात नवीन आवृत्ती असते.</translation>
-<translation id="7486227612705979895">ॲड्रेस बारमध्ये सूचना देण्यासाठी Brave तुमची ड्राइव्ह ॲक्सेस करेल</translation>
-<translation id="2938460345748897177">ही फाईल धोकादायक आहे, त्यामुळे Brave ने ती ब्लॉक केली आहे. तुम्ही प्रगत संरक्षणाद्वारे संरक्षित आहात.</translation>
-<translation id="8887390605192156061">Brave च्या सर्व प्रती बंद करा.</translation>
-<translation id="7535429826459677826">Brave विकासक</translation>
+<translation id="7459554271817304652">तुमची पर्सनलाइझ केलेली ब्राउझर वैशिष्ट्ये सेव्ह करण्यासाठी सिंक सेट करा आणि कोणत्याही कॉंप्युटरवरील Dissenter वरून ते अॅक्सेस करा.</translation>
+<translation id="7473136999113284234">Dissenter स्वयंचलितपणे अपडेट होते जेणेकरून आपल्याकडे नेहमी सर्वात नवीन आवृत्ती असते.</translation>
+<translation id="7486227612705979895">ॲड्रेस बारमध्ये सूचना देण्यासाठी Dissenter तुमची ड्राइव्ह ॲक्सेस करेल</translation>
+<translation id="2938460345748897177">ही फाईल धोकादायक आहे, त्यामुळे Dissenter ने ती ब्लॉक केली आहे. तुम्ही प्रगत संरक्षणाद्वारे संरक्षित आहात.</translation>
+<translation id="8887390605192156061">Dissenter च्या सर्व प्रती बंद करा.</translation>
+<translation id="7535429826459677826">Dissenter विकासक</translation>
 <translation id="7552219221109926349">Chrome OS या भाषेत डिस्प्ले करा</translation>
-<translation id="7561940363513215021">{0,plural, =1{Brave एका मिनिटानंतर पुन्हा लाँँच होईल}other{Brave # मिनिटांनंतर पुन्हा लाँँच होईल}}</translation>
-<translation id="7589360514048265910">यापुढे Mac OS X 10.9 ला सपोर्ट नसल्यामुळे, या कॉंप्युटरला इथून पुढे Brave चे अपडेट मिळणार नाहीत.</translation>
-<translation id="7592736734348559088">तुमचे खाते साइन इन तपशील कालबाह्य झाल्यामुळे Brave तुमचा डेटा संकालित करू शकले नाही.</translation>
-<translation id="7207456302801184289">Brave मध्ये स्वागत आहे</translation>
-<translation id="7636297873481318396">ही फाईल धोकादायक आहे, त्यामुळे Brave ने ती ब्लॉक केली आहे. तुम्ही प्रगत संरक्षणाद्वारे संरक्षित आहात.</translation>
-<translation id="7641148173327520642">तुमच्या सिस्टम अ‍ॅडमिनिस्ट्रेटरने <ph name="TARGET_URL_HOSTNAME" /> अ‍ॅक्सेस करण्यासाठी <ph name="ALTERNATIVE_BROWSER_NAME" /> उघडण्याकरिता Brave कॉन्फिगर केले आहे.</translation>
-<translation id="7651907282515937834">Brave एंटरप्राइझ लोगो</translation>
+<translation id="7561940363513215021">{0,plural, =1{Dissenter एका मिनिटानंतर पुन्हा लाँँच होईल}other{Dissenter # मिनिटांनंतर पुन्हा लाँँच होईल}}</translation>
+<translation id="7589360514048265910">यापुढे Mac OS X 10.9 ला सपोर्ट नसल्यामुळे, या कॉंप्युटरला इथून पुढे Dissenter चे अपडेट मिळणार नाहीत.</translation>
+<translation id="7592736734348559088">तुमचे खाते साइन इन तपशील कालबाह्य झाल्यामुळे Dissenter तुमचा डेटा संकालित करू शकले नाही.</translation>
+<translation id="7207456302801184289">Dissenter मध्ये स्वागत आहे</translation>
+<translation id="7636297873481318396">ही फाईल धोकादायक आहे, त्यामुळे Dissenter ने ती ब्लॉक केली आहे. तुम्ही प्रगत संरक्षणाद्वारे संरक्षित आहात.</translation>
+<translation id="7641148173327520642">तुमच्या सिस्टम अ‍ॅडमिनिस्ट्रेटरने <ph name="TARGET_URL_HOSTNAME" /> अ‍ॅक्सेस करण्यासाठी <ph name="ALTERNATIVE_BROWSER_NAME" /> उघडण्याकरिता Dissenter कॉन्फिगर केले आहे.</translation>
+<translation id="7651907282515937834">Dissenter एंटरप्राइझ लोगो</translation>
 <translation id="7747138024166251722">इन्स्टॉलर तात्पुरती डिरेक्टरी तयार करू शकत नाही. कृपया सॉफ्टवेअर इंस्टॉल करण्यासाठी रिक्त डिस्क स्थान आणि परवानगी पहा.</translation>
-<translation id="7761834446675418963">Brave उघडण्यासाठी तुमचे नाव क्लिक करा आणि ब्राउझिंग प्रारंभ करा.</translation>
-<translation id="7777080907402804672">इमेजचे उपयोगी वर्णन नसल्यास, Brave तुमच्यासाठी ते देण्याचा प्रयत्न करेल. वर्णने तयार करण्यासाठी, इमेज Google ला पाठवल्या जातात. तुम्ही हे सेटिंग्जमध्ये कधीही बंद करू शकता.</translation>
-<translation id="7781002470561365167">Brave ची नवी आवृत्ती उपलब्ध आहे. </translation>
-<translation id="7787950393032327779">प्रोफाइल दुसर्‍या कॉंप्युटरवरील (<ph name="HOST_NAME" />) दुसर्‍या Brave प्रक्रियेद्वारे (<ph name="PROCESS_ID" />) वापरले जात असल्याचे दिसते. Brave ने प्रोफाइल लॉक केले आहे जेणेकरून ते दूषित होत नाही. कोणत्याही इतर प्रक्रिया हे प्रोफाइल वापरत नसल्याची तुम्हाला खात्री असल्यास, तुम्ही प्रोफाइल अनलॉक करू शकता आणि Brave पुन्हा एकदा लॉंच करू शकता.</translation>
-<translation id="777113543093865885">Brave मधून काढून टाका...</translation>
-<translation id="7825851276765848807">नमूद न केलेल्या एररमुळे स्थापना अयशस्वी. कृपया Brave पुन्हा डाउनलोड करा.</translation>
-<translation id="7855730255114109580">Brave अपडेट झाले आहे</translation>
-<translation id="7888186132678118370">Brave ला आपल्या टास्कबार वर पिन करा</translation>
-<translation id="7890208801193284374">तुम्ही कॉंप्युटर शेअर केल्यास, मित्र आणि कुटुंब स्वतंत्रपणे ब्राउझ करू शकतात आणि त्यांना पाहिजे तसे Brave सेट अप करू शकतात.</translation>
-<translation id="7896673875602241923">कोणीतरी यापूर्वी <ph name="ACCOUNT_EMAIL_LAST" /> म्हणून या संंगणकावरील Brave मध्ये साइन इन केले आहे. कृपया तुमची माहिती स्वतंत्र ठेवण्यासाठी एक नवीन Brave वापरकर्ता तयार करा.</translation>
-<translation id="7908168227788431038">जवळजवळ अद्ययावत पूर्ण झाले! अपडेट समाप्त करण्यासाठी Brave रीलाँच करा.</translation>
-<translation id="7962410387636238736">Windows XP आणि Windows Vista ला आता सपोर्ट नसल्याने या कॉंप्युटरला यापुढे Brave अपडेट मिळणार नाहीत</translation>
-<translation id="8005540215158006229">Brave जवळजवळ तयार आहे.</translation>
-<translation id="5875673934455379806">Brave पुनर्स्थापित करा</translation>
-<translation id="8013993649590906847">इमेजचे उपयोगी वर्णन नसल्यास, Brave तुमच्यासाठी ते देण्याचा प्रयत्न करेल. वर्णने तयार करण्यासाठी, इमेज Google ला पाठवल्या जातात.</translation>
+<translation id="7761834446675418963">Dissenter उघडण्यासाठी तुमचे नाव क्लिक करा आणि ब्राउझिंग प्रारंभ करा.</translation>
+<translation id="7777080907402804672">इमेजचे उपयोगी वर्णन नसल्यास, Dissenter तुमच्यासाठी ते देण्याचा प्रयत्न करेल. वर्णने तयार करण्यासाठी, इमेज Google ला पाठवल्या जातात. तुम्ही हे सेटिंग्जमध्ये कधीही बंद करू शकता.</translation>
+<translation id="7781002470561365167">Dissenter ची नवी आवृत्ती उपलब्ध आहे. </translation>
+<translation id="7787950393032327779">प्रोफाइल दुसर्‍या कॉंप्युटरवरील (<ph name="HOST_NAME" />) दुसर्‍या Dissenter प्रक्रियेद्वारे (<ph name="PROCESS_ID" />) वापरले जात असल्याचे दिसते. Dissenter ने प्रोफाइल लॉक केले आहे जेणेकरून ते दूषित होत नाही. कोणत्याही इतर प्रक्रिया हे प्रोफाइल वापरत नसल्याची तुम्हाला खात्री असल्यास, तुम्ही प्रोफाइल अनलॉक करू शकता आणि Dissenter पुन्हा एकदा लॉंच करू शकता.</translation>
+<translation id="777113543093865885">Dissenter मधून काढून टाका...</translation>
+<translation id="7825851276765848807">नमूद न केलेल्या एररमुळे स्थापना अयशस्वी. कृपया Dissenter पुन्हा डाउनलोड करा.</translation>
+<translation id="7855730255114109580">Dissenter अपडेट झाले आहे</translation>
+<translation id="7888186132678118370">Dissenter ला आपल्या टास्कबार वर पिन करा</translation>
+<translation id="7890208801193284374">तुम्ही कॉंप्युटर शेअर केल्यास, मित्र आणि कुटुंब स्वतंत्रपणे ब्राउझ करू शकतात आणि त्यांना पाहिजे तसे Dissenter सेट अप करू शकतात.</translation>
+<translation id="7896673875602241923">कोणीतरी यापूर्वी <ph name="ACCOUNT_EMAIL_LAST" /> म्हणून या संंगणकावरील Dissenter मध्ये साइन इन केले आहे. कृपया तुमची माहिती स्वतंत्र ठेवण्यासाठी एक नवीन Dissenter वापरकर्ता तयार करा.</translation>
+<translation id="7908168227788431038">जवळजवळ अद्ययावत पूर्ण झाले! अपडेट समाप्त करण्यासाठी Dissenter रीलाँच करा.</translation>
+<translation id="7962410387636238736">Windows XP आणि Windows Vista ला आता सपोर्ट नसल्याने या कॉंप्युटरला यापुढे Dissenter अपडेट मिळणार नाहीत</translation>
+<translation id="8005540215158006229">Dissenter जवळजवळ तयार आहे.</translation>
+<translation id="5875673934455379806">Dissenter पुनर्स्थापित करा</translation>
+<translation id="8013993649590906847">इमेजचे उपयोगी वर्णन नसल्यास, Dissenter तुमच्यासाठी ते देण्याचा प्रयत्न करेल. वर्णने तयार करण्यासाठी, इमेज Google ला पाठवल्या जातात.</translation>
 <translation id="8030318113982266900"><ph name="CHANNEL_NAME" /> चॅनेलवर तुमचे डिव्हाइस अपडेट करत आहे...</translation>
-<translation id="1672124279374861424">Brave वरून तुमचे खाते काढल्यानंतर, तुम्हाला हे प्रभावी होण्यासाठी तुमचे उघडे टॅब रीलोड करण्याची आवश्यकता असू शकते.</translation>
+<translation id="1672124279374861424">Dissenter वरून तुमचे खाते काढल्यानंतर, तुम्हाला हे प्रभावी होण्यासाठी तुमचे उघडे टॅब रीलोड करण्याची आवश्यकता असू शकते.</translation>
 <translation id="8077352834923175128">हे अपडेट लागू करण्यासाठी तुमचा ॲडमिनिस्ट्रेटर तुम्हाला Chrome OS रीस्टार्ट करण्यास सांगेल</translation>
-<translation id="8129812357326543296">&amp;Brave विषयी</translation>
-<translation id="8899693649891674038">तुमच्या फोनवर Brave इंस्टॉल करा. आम्ही तुमच्या फोनवर एक SMS पाठवू.</translation>
-<translation id="8183957050892517584">Brave तुमचे वैयक्तिक तपशील सुरक्षितपणे संचयित करेल जेणेकरून तुम्हाला ते पुन्हा टाइप करण्याची आवश्यकता नसेल.</translation>
+<translation id="8129812357326543296">&amp;Dissenter विषयी</translation>
+<translation id="8899693649891674038">तुमच्या फोनवर Dissenter इंस्टॉल करा. आम्ही तुमच्या फोनवर एक SMS पाठवू.</translation>
+<translation id="8183957050892517584">Dissenter तुमचे वैयक्तिक तपशील सुरक्षितपणे संचयित करेल जेणेकरून तुम्हाला ते पुन्हा टाइप करण्याची आवश्यकता नसेल.</translation>
 <translation id="8226081633851087288">{0,plural, =0{Chrome OS आता रीस्टार्ट होईल}=1{Chrome OS एका सेकंदात रीस्टार्ट होईल}other{Chrome OS # सेकंदामध्ये रीस्टार्ट होईल}}</translation>
-<translation id="5138664332909611586">हे पेज खूप जास्त मेमरी वापरत असल्यामुळे, Brave ने काही आशय काढून टाकला आहे.</translation>
-<translation id="3293668930608086049">Brave तुमचा कॅमेरा आणि मायक्रोफोन वापरत आहे.</translation>
-<translation id="8286862437124483331">Brave पासवर्ड दर्शविण्‍याचा प्रयत्‍न करत आहे. यास अनुमती देण्‍यासाठी तुमचा Windows पासवर्ड टाइप करा.</translation>
-<translation id="8290100596633877290">अरेरे! Brave क्रॅश झाला. त्वरित पुन्हा लाँच करायचा?</translation>
-<translation id="9067428552314418522">ही फाईल धोकादायक आहे, त्यामुळे Brave ने ती अवरोधित केली आहे.</translation>
-<translation id="8370517070665726704">कॉपीराइट <ph name="YEAR" /> Brave Software Inc. सर्व हक्क राखीव.</translation>
-<translation id="8380166467911888159">शब्दलेखनाच्या चुकांमध्ये सुधारणा करण्यासाठी Brave तुम्ही मजकूर भागामध्ये टाइप केलेला मजकूर Google ला पाठवते</translation>
-<translation id="840084489713044809">Brave ला तुमचे पासवर्ड एक्सपोर्ट करायचे आहेत.</translation>
-<translation id="763369711159699222">Brave उत्कृष्ट बनविण्यात मदत करा</translation>
-<translation id="5509303873219371662">तुम्ही आता Brave रीस्टार्ट करावे</translation>
+<translation id="5138664332909611586">हे पेज खूप जास्त मेमरी वापरत असल्यामुळे, Dissenter ने काही आशय काढून टाकला आहे.</translation>
+<translation id="3293668930608086049">Dissenter तुमचा कॅमेरा आणि मायक्रोफोन वापरत आहे.</translation>
+<translation id="8286862437124483331">Dissenter पासवर्ड दर्शविण्‍याचा प्रयत्‍न करत आहे. यास अनुमती देण्‍यासाठी तुमचा Windows पासवर्ड टाइप करा.</translation>
+<translation id="8290100596633877290">अरेरे! Dissenter क्रॅश झाला. त्वरित पुन्हा लाँच करायचा?</translation>
+<translation id="9067428552314418522">ही फाईल धोकादायक आहे, त्यामुळे Dissenter ने ती अवरोधित केली आहे.</translation>
+<translation id="8370517070665726704">कॉपीराइट <ph name="YEAR" /> Gab AI Inc. सर्व हक्क राखीव.</translation>
+<translation id="8380166467911888159">शब्दलेखनाच्या चुकांमध्ये सुधारणा करण्यासाठी Dissenter तुम्ही मजकूर भागामध्ये टाइप केलेला मजकूर Google ला पाठवते</translation>
+<translation id="840084489713044809">Dissenter ला तुमचे पासवर्ड एक्सपोर्ट करायचे आहेत.</translation>
+<translation id="763369711159699222">Dissenter उत्कृष्ट बनविण्यात मदत करा</translation>
+<translation id="5509303873219371662">तुम्ही आता Dissenter रीस्टार्ट करावे</translation>
 <translation id="8455999171311319804">पर्यायी: निदान आणि वापर डेटा Google कडे स्वयंचलितपणे पाठवून Chrome OS ला आणखी चांगले बनविण्‍यात मदत करा.</translation>
-<translation id="2965084188004448871">Brave तुमच्या फोनवर इंस्टॉल करा. आम्ही तुमच्या या खाते रिकव्हरी फोन नंबरवर एक SMS पाठवू: <ph name="PHONE_NUMBER" /></translation>
-<translation id="8668413672647811944">Brave साठी आत्ताच एक विशिष्ट सुरक्षितता अपडेट लागू करण्यात आला. आता रीस्टार्ट करा आणि आम्ही तुमचे टॅब रिस्टोअर करू.</translation>
-<translation id="8521348052903287641">Brave विकासकाने mDNS रहदारीस अनुमती देण्यासाठी इनबाउंड नियम.</translation>
-<translation id="8547799825197623713">Brave App Launcher Canary</translation>
-<translation id="8556340503434111824">Brave ची नवीन आवृत्ती उपलब्ध आहे, आणि ही नेहमीपेक्षा द्रुत आहे. </translation>
-<translation id="8568392309447938879">अ‍ॅप्स वापरण्यासाठी तुम्ही Brave मध्ये साइन इन केलेले असणे आवश्यक आहे. हे Brave ला डिव्हाइसेसवर तुमचे अ‍ॅप्स, बुकमार्क, इतिहास, पासवर्ड आणि अन्य सेटिंग्ज संकालित करण्याची अनुमती देते.</translation>
-<translation id="8606668294522778825">Brave तुमच्या ब्राउझिंग अनुभवात सुधारणा करण्यासाठी वेब सेवा वापरू शकते. तुमच्याकडे या सेवा बंद करण्याचा पर्याय आहे. <ph name="BEGIN_LINK" />अधिक जाणून घ्या<ph name="END_LINK" /></translation>
-<translation id="8614913330719544658">Brave प्रतिसाद देत नाही. त्वरित पुन्हा लाँच करायचा?</translation>
+<translation id="2965084188004448871">Dissenter तुमच्या फोनवर इंस्टॉल करा. आम्ही तुमच्या या खाते रिकव्हरी फोन नंबरवर एक SMS पाठवू: <ph name="PHONE_NUMBER" /></translation>
+<translation id="8668413672647811944">Dissenter साठी आत्ताच एक विशिष्ट सुरक्षितता अपडेट लागू करण्यात आला. आता रीस्टार्ट करा आणि आम्ही तुमचे टॅब रिस्टोअर करू.</translation>
+<translation id="8521348052903287641">Dissenter विकासकाने mDNS रहदारीस अनुमती देण्यासाठी इनबाउंड नियम.</translation>
+<translation id="8547799825197623713">Dissenter App Launcher Canary</translation>
+<translation id="8556340503434111824">Dissenter ची नवीन आवृत्ती उपलब्ध आहे, आणि ही नेहमीपेक्षा द्रुत आहे. </translation>
+<translation id="8568392309447938879">अ‍ॅप्स वापरण्यासाठी तुम्ही Dissenter मध्ये साइन इन केलेले असणे आवश्यक आहे. हे Dissenter ला डिव्हाइसेसवर तुमचे अ‍ॅप्स, बुकमार्क, इतिहास, पासवर्ड आणि अन्य सेटिंग्ज संकालित करण्याची अनुमती देते.</translation>
+<translation id="8606668294522778825">Dissenter तुमच्या ब्राउझिंग अनुभवात सुधारणा करण्यासाठी वेब सेवा वापरू शकते. तुमच्याकडे या सेवा बंद करण्याचा पर्याय आहे. <ph name="BEGIN_LINK" />अधिक जाणून घ्या<ph name="END_LINK" /></translation>
+<translation id="8614913330719544658">Dissenter प्रतिसाद देत नाही. त्वरित पुन्हा लाँच करायचा?</translation>
 <translation id="8667808506758191620">तुमचे <ph name="DEVICE_TYPE" /> अद्ययावत आहे.</translation>
-<translation id="8669527147644353129">Brave मदतनीस</translation>
-<translation id="8679801911857917785">तुम्ही Brave सुरू करता तेव्हा कोणते पृष्ठ दर्शविले जाते हे देखील हे नियंत्रित करते.</translation>
-<translation id="870251953148363156">&amp;Brave अपडेट करा</translation>
+<translation id="8669527147644353129">Dissenter मदतनीस</translation>
+<translation id="8679801911857917785">तुम्ही Dissenter सुरू करता तेव्हा कोणते पृष्ठ दर्शविले जाते हे देखील हे नियंत्रित करते.</translation>
+<translation id="870251953148363156">&amp;Dissenter अपडेट करा</translation>
 <translation id="8704255848199359374">Google शोध मध्ये वापरत असेलेले स्पेल चेकर वापरा. तुम्ही ब्राउझरमध्ये टाइप करत असलेला मजकूर Google कडे पाठवला जातो. तुम्ही हे वर्तन कधीही सेटिंग्ज मध्ये बदलू शकता.</translation>
-<translation id="873133009373065397">Brave डीफॉल्ट ब्राउझर निर्धारित करू शकत नाही किंवा सेट करू शकत नाही</translation>
-<translation id="8736674169840206667">तुमच्या अॅडमिनिस्ट्रेटरला अपडेट लागू करता यावी यासाठी तुम्ही Brave पुन्हा लाँच करणे अावश्यक आहे</translation>
+<translation id="873133009373065397">Dissenter डीफॉल्ट ब्राउझर निर्धारित करू शकत नाही किंवा सेट करू शकत नाही</translation>
+<translation id="8736674169840206667">तुमच्या अॅडमिनिस्ट्रेटरला अपडेट लागू करता यावी यासाठी तुम्ही Dissenter पुन्हा लाँच करणे अावश्यक आहे</translation>
 <translation id="8788264404293392165">ही भाषा Chrome OS UI दाखवण्यासाठी वापरली जाते</translation>
 <translation id="8791470158600044404">{0,plural, =1{ Chrome OS एका मिनिटामध्ये रीस्टार्ट होईल}other{ Chrome OS # मिनिटांमध्ये रीस्टार्ट होईल}}</translation>
-<translation id="8823341990149967727">Brave कालबाह्य आहे</translation>
-<translation id="884296878221830158">तुम्ही Brave सुरू करता किंवा होम बटण क्लिक करता तेव्हा कोणते पेज दर्शविले जाते ते देखील हे नियंत्रित करते.</translation>
+<translation id="8823341990149967727">Dissenter कालबाह्य आहे</translation>
+<translation id="884296878221830158">तुम्ही Dissenter सुरू करता किंवा होम बटण क्लिक करता तेव्हा कोणते पेज दर्शविले जाते ते देखील हे नियंत्रित करते.</translation>
 <translation id="8862326446509486874">तुमच्याकडे सिस्टम स्तरावरील इंस्टॉलसाठी योग्य अधिकार नाहीत. अॅडमिनिस्ट्रेटर म्हणून पुन्हा इंस्टॉलर चालविण्याचा प्रयत्न करा.</translation>
-<translation id="8914504000324227558">Brave रीलाँच करा</translation>
+<translation id="8914504000324227558">Dissenter रीलाँच करा</translation>
 <translation id="9026991721384951619">तुमचे खाते साइन इन तपशील कालबाह्य झाल्यामुळे Chrome OS तुमचा डेटा संकालित करू शकले नाही.</translation>
-<translation id="9067395829937117663">Brave साठी Windows 7 किंवा त्यानंतरची आवृत्ती आवश्यक आहे.</translation>
+<translation id="9067395829937117663">Dissenter साठी Windows 7 किंवा त्यानंतरची आवृत्ती आवश्यक आहे.</translation>
 <translation id="909149346112452267">{0,plural, =1{ Chrome OS एका तासात रीस्टार्ट होईल}other{ Chrome OS # तासांमध्ये रीस्टार्ट होईल}}</translation>
 <translation id="911206726377975832">तुमचा ब्राउझिंग डेटा देखील हटवायचा?</translation>
-<translation id="9138603949443464873">तुम्ही केलेले बदल लागू करण्यासाठी, Brave रीलाँच करा</translation>
+<translation id="9138603949443464873">तुम्ही केलेले बदल लागू करण्यासाठी, Dissenter रीलाँच करा</translation>
 <translation id="919706545465235479">सिंक सुरू करण्यासाठी अपडेट करा</translation>
-<translation id="924447568950697217">Brave ला तुमचा डीफॉल्ट ब्राउझर बनवा</translation>
-<translation id="989369509083708165">Brave तुमचा डीफॉल्ट ब्राउझर आहे</translation>
+<translation id="924447568950697217">Dissenter ला तुमचा डीफॉल्ट ब्राउझर बनवा</translation>
+<translation id="989369509083708165">Dissenter तुमचा डीफॉल्ट ब्राउझर आहे</translation>
 </translationbundle>

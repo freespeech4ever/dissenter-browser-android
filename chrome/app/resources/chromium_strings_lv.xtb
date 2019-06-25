@@ -2,285 +2,285 @@
 <!DOCTYPE translationbundle>
 <translationbundle lang="lv">
 <translation id="1065672644894730302">Jūsu preferences nevar nolasīt. Dažas funkcijas var nebūt pieejamas, un preferenču izmaiņas netiks saglabātas</translation>
-<translation id="1104942323762546749">Pārlūkā Brave tiek mēģināts eksportēt jūsu paroles. Lai to atļautu, ievadiet savu Windows paroli.</translation>
-<translation id="1115445892567829615">Brave nevarēja sinhronizēt jūsu datus. Lūdzu, atjauniniet savu sinhronizācijas ieejas frāzi.</translation>
-<translation id="113122355610423240">Jūsu noklusējuma pārlūks ir Brave.</translation>
-<translation id="1609678321160597289">Instalējiet pārlūku Brave savā tālrunī. Mēs nosūtīsim īsziņu uz jūsu konta atkopšanas tālruņa numuru.</translation>
-<translation id="8296145982386097283">Vai datoru izmanto vairāki lietotāji? Tagad varat iestatīt pārlūku Brave atbilstoši savām vajadzībām.</translation>
-<translation id="8541922081612557424">Par Brave</translation>
-<translation id="1209657686917656928">{0,plural, =0{Pārlūks Brave tiks restartēts tūlīt}=1{Pārlūks Brave tiks restartēts pēc 1 sekundes}zero{Pārlūks Brave tiks restartēts pēc # sekundēm}one{Pārlūks Brave tiks restartēts pēc # sekundes}other{Pārlūks Brave tiks restartēts pēc # sekundēm}}</translation>
-<translation id="1267419686153937460">{0,plural, =1{Restartējiet pārlūku Brave dienas laikā}zero{Restartējiet pārlūku Brave # dienu laikā}one{Restartējiet pārlūku Brave # dienas laikā}other{Restartējiet pārlūku Brave # dienu laikā}}</translation>
+<translation id="1104942323762546749">Pārlūkā Dissenter tiek mēģināts eksportēt jūsu paroles. Lai to atļautu, ievadiet savu Windows paroli.</translation>
+<translation id="1115445892567829615">Dissenter nevarēja sinhronizēt jūsu datus. Lūdzu, atjauniniet savu sinhronizācijas ieejas frāzi.</translation>
+<translation id="113122355610423240">Jūsu noklusējuma pārlūks ir Dissenter.</translation>
+<translation id="1609678321160597289">Instalējiet pārlūku Dissenter savā tālrunī. Mēs nosūtīsim īsziņu uz jūsu konta atkopšanas tālruņa numuru.</translation>
+<translation id="8296145982386097283">Vai datoru izmanto vairāki lietotāji? Tagad varat iestatīt pārlūku Dissenter atbilstoši savām vajadzībām.</translation>
+<translation id="8541922081612557424">Par Dissenter</translation>
+<translation id="1209657686917656928">{0,plural, =0{Pārlūks Dissenter tiks restartēts tūlīt}=1{Pārlūks Dissenter tiks restartēts pēc 1 sekundes}zero{Pārlūks Dissenter tiks restartēts pēc # sekundēm}one{Pārlūks Dissenter tiks restartēts pēc # sekundes}other{Pārlūks Dissenter tiks restartēts pēc # sekundēm}}</translation>
+<translation id="1267419686153937460">{0,plural, =1{Restartējiet pārlūku Dissenter dienas laikā}zero{Restartējiet pārlūku Dissenter # dienu laikā}one{Restartējiet pārlūku Dissenter # dienas laikā}other{Restartējiet pārlūku Dissenter # dienu laikā}}</translation>
 <translation id="1298199220304005244">Saņemt palīdzību par Chromium OS izmantošanu</translation>
-<translation id="1396446129537741364">Brave mēģina rādīt paroles.</translation>
-<translation id="1414495520565016063">Esat pierakstījies operētājsistēmā Brave!</translation>
-<translation id="1502360822835740515">Iestatiet Brave par noklusējuma pārlūku</translation>
-<translation id="151962892725702025">Brave OS nevarēja sinhronizēt jūsu datus, jo jūsu domēnā nav pieejama sinhronizācija.</translation>
+<translation id="1396446129537741364">Dissenter mēģina rādīt paroles.</translation>
+<translation id="1414495520565016063">Esat pierakstījies operētājsistēmā Dissenter!</translation>
+<translation id="1502360822835740515">Iestatiet Dissenter par noklusējuma pārlūku</translation>
+<translation id="151962892725702025">Dissenter OS nevarēja sinhronizēt jūsu datus, jo jūsu domēnā nav pieejama sinhronizācija.</translation>
 <translation id="1585657529869845941">Noklikšķiniet uz pogas <ph name="BEGIN_BOLD" />Pārslēgt jebkurā gadījumā<ph name="END_BOLD" />, ja tāda tiek parādīta.</translation>
-<translation id="1672124279374861424">Kad konts būs noņemts no Brave, iespējams, būs atkārtoti jāielādē atvērtās cilnes, lai izmaiņas stātos spēkā.</translation>
-<translation id="1688750314291223739">Iestatiet sinhronizāciju, lai saglabātu savas personalizētās pārlūka funkcijas tīmeklī un piekļūtu tām no Brave jebkurā datorā.</translation>
-<translation id="1708666629004767631">Ir pieejama jauna un drošāka Brave versija.</translation>
-<translation id="1766096484055239003">Lai lietotu atjauninājumu, administrators pieprasa restartēt pārlūku Brave.</translation>
-<translation id="1774152462503052664">Ļaut Brave darboties fonā</translation>
-<translation id="1779356040007214683">Lai uzlabotu Brave drošību, mēs atspējojām dažus paplašinājumus, kas nav norādīti vietnē <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> un, iespējams, tika pievienoti, jums nezinot.</translation>
-<translation id="5875673934455379806">Pārinstalēt Brave</translation>
-<translation id="474353600079041991">Varat palīdzēt uzlabot Brave drošību un lietošanas ērtumu, automātiski nosūtot Google serveriem informāciju par iespējamām drošības problēmām.</translation>
-<translation id="1881322772814446296">Jūs pierakstāties ar pārvaldītu kontu, kura administrators var kontrolēt jūsu profilu. Jūsu Brave dati, piemēram, lietotnes, grāmatzīmes, vēsture, paroles un citi iestatījumi, tiks neatgriezeniski saistīti ar lietotāju <ph name="USER_NAME" />. Varēsiet dzēst šos datus, izmantojot Google kontu informācijas paneli, taču nevarēsiet šos datus saistīt ar citu kontu. Ja vēlaties, varat izveidot jaunu profilu, lai atsevišķi glabātu Brave datus. <ph name="LEARN_MORE" /></translation>
-<translation id="1895626441344023878">{0,plural, =0{Ir pieejams Brave atjauninājums}=1{Ir pieejams Brave atjauninājums}zero{Brave atjauninājums ir pieejams # dienas}one{Brave atjauninājums ir pieejams # dienu}other{Brave atjauninājums ir pieejams # dienas}}</translation>
-<translation id="1911763535808217981">Ja izslēgsiet šo iestatījumu, varēsiet pierakstīties Google vietnēs, piemēram, pakalpojumā Gmail, nepierakstoties pārlūkā Brave.</translation>
-<translation id="1929939181775079593">Brave nereaģē. Vai restartēt to tūlīt?</translation>
-<translation id="1966382378801805537">Brave nevar noteikt vai iestatīt noklusējuma pārlūku.</translation>
-<translation id="2008474315282236005">Veicot šo darbību, no šīs ierīces tiks dzēsts 1 vienums. Lai vēlāk izgūtu datus, pierakstieties pārlūkā Brave kā <ph name="USER_EMAIL" />.</translation>
-<translation id="8858456697111532356">Fails <ph name="FILE_NAME" /> ir bīstams, tādēļ Brave to bloķēja. Jūsu konts ir aizsargāts ar papildu aizsardzības funkcijām.</translation>
-<translation id="2117378023188580026">Lai lietotu šo atjauninājumu, administrators lūdz restartēt pārlūku Brave.</translation>
+<translation id="1672124279374861424">Kad konts būs noņemts no Dissenter, iespējams, būs atkārtoti jāielādē atvērtās cilnes, lai izmaiņas stātos spēkā.</translation>
+<translation id="1688750314291223739">Iestatiet sinhronizāciju, lai saglabātu savas personalizētās pārlūka funkcijas tīmeklī un piekļūtu tām no Dissenter jebkurā datorā.</translation>
+<translation id="1708666629004767631">Ir pieejama jauna un drošāka Dissenter versija.</translation>
+<translation id="1766096484055239003">Lai lietotu atjauninājumu, administrators pieprasa restartēt pārlūku Dissenter.</translation>
+<translation id="1774152462503052664">Ļaut Dissenter darboties fonā</translation>
+<translation id="1779356040007214683">Lai uzlabotu Dissenter drošību, mēs atspējojām dažus paplašinājumus, kas nav norādīti vietnē <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> un, iespējams, tika pievienoti, jums nezinot.</translation>
+<translation id="5875673934455379806">Pārinstalēt Dissenter</translation>
+<translation id="474353600079041991">Varat palīdzēt uzlabot Dissenter drošību un lietošanas ērtumu, automātiski nosūtot Google serveriem informāciju par iespējamām drošības problēmām.</translation>
+<translation id="1881322772814446296">Jūs pierakstāties ar pārvaldītu kontu, kura administrators var kontrolēt jūsu profilu. Jūsu Dissenter dati, piemēram, lietotnes, grāmatzīmes, vēsture, paroles un citi iestatījumi, tiks neatgriezeniski saistīti ar lietotāju <ph name="USER_NAME" />. Varēsiet dzēst šos datus, izmantojot Google kontu informācijas paneli, taču nevarēsiet šos datus saistīt ar citu kontu. Ja vēlaties, varat izveidot jaunu profilu, lai atsevišķi glabātu Dissenter datus. <ph name="LEARN_MORE" /></translation>
+<translation id="1895626441344023878">{0,plural, =0{Ir pieejams Dissenter atjauninājums}=1{Ir pieejams Dissenter atjauninājums}zero{Dissenter atjauninājums ir pieejams # dienas}one{Dissenter atjauninājums ir pieejams # dienu}other{Dissenter atjauninājums ir pieejams # dienas}}</translation>
+<translation id="1911763535808217981">Ja izslēgsiet šo iestatījumu, varēsiet pierakstīties Google vietnēs, piemēram, pakalpojumā Gmail, nepierakstoties pārlūkā Dissenter.</translation>
+<translation id="1929939181775079593">Dissenter nereaģē. Vai restartēt to tūlīt?</translation>
+<translation id="1966382378801805537">Dissenter nevar noteikt vai iestatīt noklusējuma pārlūku.</translation>
+<translation id="2008474315282236005">Veicot šo darbību, no šīs ierīces tiks dzēsts 1 vienums. Lai vēlāk izgūtu datus, pierakstieties pārlūkā Dissenter kā <ph name="USER_EMAIL" />.</translation>
+<translation id="8858456697111532356">Fails <ph name="FILE_NAME" /> ir bīstams, tādēļ Dissenter to bloķēja. Jūsu konts ir aizsargāts ar papildu aizsardzības funkcijām.</translation>
+<translation id="2117378023188580026">Lai lietotu šo atjauninājumu, administrators lūdz restartēt pārlūku Dissenter.</translation>
 <translation id="2119636228670142020">Par &amp;Chromium OS</translation>
-<translation id="5509303873219371662">Restartējiet Brave tūlīt</translation>
-<translation id="2241627712206172106">Ja jūsu datoru izmanto arī jūsu draugi un ģimenes locekļi, viņi var iestatīt pārlūku Brave atbilstoši savām vēlmēm un pārlūkot saturu atsevišķos kontos.</translation>
-<translation id="8358191771897395012">Iegūt Brave savā iPhone tālrunī</translation>
-<translation id="3813272600615358652">Šis paplašinājums mainīja iestatījumu, kura lapa tiek parādīta, palaižot pārlūku Brave.</translation>
-<translation id="2576129394594491151">Paplašinājums “<ph name="EXTENSION_NAME" />” mainīja iestatījumu, kura lapa tiek parādīta, palaižot pārlūku Brave.</translation>
-<translation id="6078442581074612226">Pārlūkā Brave</translation>
+<translation id="5509303873219371662">Restartējiet Dissenter tūlīt</translation>
+<translation id="2241627712206172106">Ja jūsu datoru izmanto arī jūsu draugi un ģimenes locekļi, viņi var iestatīt pārlūku Dissenter atbilstoši savām vēlmēm un pārlūkot saturu atsevišķos kontos.</translation>
+<translation id="8358191771897395012">Iegūt Dissenter savā iPhone tālrunī</translation>
+<translation id="3813272600615358652">Šis paplašinājums mainīja iestatījumu, kura lapa tiek parādīta, palaižot pārlūku Dissenter.</translation>
+<translation id="2576129394594491151">Paplašinājums “<ph name="EXTENSION_NAME" />” mainīja iestatījumu, kura lapa tiek parādīta, palaižot pārlūku Dissenter.</translation>
+<translation id="6078442581074612226">Pārlūkā Dissenter</translation>
 <translation id="2485422356828889247">Atinstalēt</translation>
-<translation id="2527042973354814951">Restartējiet Brave, lai iespējotu spraudni <ph name="PLUGIN_NAME" />.</translation>
-<translation id="2535480412977113886">Brave OS nevarēja sinhronizēt jūsu datus, jo jūsu konta pierakstīšanās informācija ir novecojusi.</translation>
-<translation id="2560420686485554789">Pārlūkam Brave ir nepieciešama piekļuve krātuvei, lai varētu lejupielādēt failus.</translation>
-<translation id="2572494885440352020">Brave palīgs</translation>
-<translation id="2587578672395088481">Lai lietotu atjauninājumu, operētājsistēma Brave ir jārestartē.</translation>
-<translation id="2647554856022461007">Brave var izmantot tīmekļa pakalpojumus, lai uzlabotu jūsu pārlūkošanas pieredzi. Varat arī atspējot šos pakalpojumus. <ph name="BEGIN_LINK" />Uzziniet vairāk<ph name="END_LINK" />.</translation>
-<translation id="2648074677641340862">Instalācijas laikā radās operētājsistēmas kļūda. Lejupielādējiet Brave vēlreiz.</translation>
-<translation id="6791166902140255175">Brave cilne</translation>
-<translation id="2718390899429598676">Papildu drošības nolūkos Brave šifrēs jūsu datus.</translation>
+<translation id="2527042973354814951">Restartējiet Dissenter, lai iespējotu spraudni <ph name="PLUGIN_NAME" />.</translation>
+<translation id="2535480412977113886">Dissenter OS nevarēja sinhronizēt jūsu datus, jo jūsu konta pierakstīšanās informācija ir novecojusi.</translation>
+<translation id="2560420686485554789">Pārlūkam Dissenter ir nepieciešama piekļuve krātuvei, lai varētu lejupielādēt failus.</translation>
+<translation id="2572494885440352020">Dissenter palīgs</translation>
+<translation id="2587578672395088481">Lai lietotu atjauninājumu, operētājsistēma Dissenter ir jārestartē.</translation>
+<translation id="2647554856022461007">Dissenter var izmantot tīmekļa pakalpojumus, lai uzlabotu jūsu pārlūkošanas pieredzi. Varat arī atspējot šos pakalpojumus. <ph name="BEGIN_LINK" />Uzziniet vairāk<ph name="END_LINK" />.</translation>
+<translation id="2648074677641340862">Instalācijas laikā radās operētājsistēmas kļūda. Lejupielādējiet Dissenter vēlreiz.</translation>
+<translation id="6791166902140255175">Dissenter cilne</translation>
+<translation id="2718390899429598676">Papildu drošības nolūkos Dissenter šifrēs jūsu datus.</translation>
 <translation id="2770231113462710648">Mainīt noklusējuma pārlūkprogrammu uz:</translation>
 <translation id="2799223571221894425">Restartēt</translation>
-<translation id="2632141563911437138">Lai varētu atjaunināt pārlūku Brave, pārlūkam šajā datorā jāpārtrauc darboties. Citi lietotāji, kas ir pieteikušies šajā datorā, var zaudēt nesaglabātās izmaiņas.</translation>
-<translation id="777113543093865885">Noņemšana no pārlūka Brave...</translation>
-<translation id="2886012850691518054">Izvēles: palīdziet uzlabot Brave, automātiski nosūtot lietojuma statistiku un avārijas pārskatus uzņēmumam Google.</translation>
-<translation id="1570795130102031380">Instalējiet pārlūku Brave savā tālrunī. Mēs nosūtīsim īsziņu uz jūsu tālruņa numuru: <ph name="PHONE_NUMBER" />.</translation>
-<translation id="2910007522516064972">Par &amp;Brave</translation>
-<translation id="2977470724722393594">Brave ir atjaunināts</translation>
-<translation id="8880183781256147665">Notiek pievienošana pārlūkam Brave...</translation>
-<translation id="3046695367536568084">Lai izmantotu lietotnes, jums ir jāpierakstās operētājsistēmā Brave. Tādējādi operētājsistēmā Brave varēs sinhronizēt jūsu lietotnes, grāmatzīmes, vēsturi, paroles un citus iestatījumus visās ierīcēs.</translation>
-<translation id="3052899382720782935">{0,plural, =1{Pārlūks Brave tiks restartēts pēc 1 minūtes}zero{Pārlūks Brave tiks restartēts pēc # minūtēm}one{Pārlūks Brave tiks restartēts pēc # minūtes}other{Pārlūks Brave tiks restartēts pēc # minūtēm}}</translation>
-<translation id="7348158796480960456">Palīdzēt uzlabot Brave, nosūtot Google serveriem avāriju pārskatus un <ph name="UMA_LINK" /></translation>
-<translation id="3103660991484857065">Instalēšanas programmai neizdevās atarhivēt arhīvu. Lejupielādējiet Brave vēlreiz.</translation>
-<translation id="8919461291440820124">Pārlūkā Brave tiek izmantots jūsu mikrofons.</translation>
-<translation id="6205431412329939367">Fails <ph name="FILE_NAME" /> var būt bīstams, tādēļ Brave to bloķēja. Jūsu konts ir aizsargāts ar papildu aizsardzības funkcijām.</translation>
-<translation id="3155163173539279776">Restartēt Brave</translation>
+<translation id="2632141563911437138">Lai varētu atjaunināt pārlūku Dissenter, pārlūkam šajā datorā jāpārtrauc darboties. Citi lietotāji, kas ir pieteikušies šajā datorā, var zaudēt nesaglabātās izmaiņas.</translation>
+<translation id="777113543093865885">Noņemšana no pārlūka Dissenter...</translation>
+<translation id="2886012850691518054">Izvēles: palīdziet uzlabot Dissenter, automātiski nosūtot lietojuma statistiku un avārijas pārskatus uzņēmumam Google.</translation>
+<translation id="1570795130102031380">Instalējiet pārlūku Dissenter savā tālrunī. Mēs nosūtīsim īsziņu uz jūsu tālruņa numuru: <ph name="PHONE_NUMBER" />.</translation>
+<translation id="2910007522516064972">Par &amp;Dissenter</translation>
+<translation id="2977470724722393594">Dissenter ir atjaunināts</translation>
+<translation id="8880183781256147665">Notiek pievienošana pārlūkam Dissenter...</translation>
+<translation id="3046695367536568084">Lai izmantotu lietotnes, jums ir jāpierakstās operētājsistēmā Dissenter. Tādējādi operētājsistēmā Dissenter varēs sinhronizēt jūsu lietotnes, grāmatzīmes, vēsturi, paroles un citus iestatījumus visās ierīcēs.</translation>
+<translation id="3052899382720782935">{0,plural, =1{Pārlūks Dissenter tiks restartēts pēc 1 minūtes}zero{Pārlūks Dissenter tiks restartēts pēc # minūtēm}one{Pārlūks Dissenter tiks restartēts pēc # minūtes}other{Pārlūks Dissenter tiks restartēts pēc # minūtēm}}</translation>
+<translation id="7348158796480960456">Palīdzēt uzlabot Dissenter, nosūtot Google serveriem avāriju pārskatus un <ph name="UMA_LINK" /></translation>
+<translation id="3103660991484857065">Instalēšanas programmai neizdevās atarhivēt arhīvu. Lejupielādējiet Dissenter vēlreiz.</translation>
+<translation id="8919461291440820124">Pārlūkā Dissenter tiek izmantots jūsu mikrofons.</translation>
+<translation id="6205431412329939367">Fails <ph name="FILE_NAME" /> var būt bīstams, tādēļ Dissenter to bloķēja. Jūsu konts ir aizsargāts ar papildu aizsardzības funkcijām.</translation>
+<translation id="3155163173539279776">Restartēt Dissenter</translation>
 <translation id="3179665906251668410">Atvērt saiti inko&amp;gnito režīma logā</translation>
-<translation id="3190315855212034486">Eh! Brave ir avarējis. Vai restartēt to tūlīt?</translation>
-<translation id="3229526316128325841">Pārlūkā Brave tiek mēģināts eksportēt jūsu paroles.</translation>
-<translation id="663059986967017181">Nokopēta pārlūkā Brave</translation>
-<translation id="2585240446624043880">Brave nevar nolasīt savu datu direktoriju un ierakstīt tajā:
+<translation id="3190315855212034486">Eh! Dissenter ir avarējis. Vai restartēt to tūlīt?</translation>
+<translation id="3229526316128325841">Pārlūkā Dissenter tiek mēģināts eksportēt jūsu paroles.</translation>
+<translation id="663059986967017181">Nokopēta pārlūkā Dissenter</translation>
+<translation id="2585240446624043880">Dissenter nevar nolasīt savu datu direktoriju un ierakstīt tajā:
 
 <ph name="USER_DATA_DIRECTORY" /></translation>
-<translation id="350396164462274391">Trūkst Google API atslēgu. Tiks atspējotas dažas Brave funkcijas.</translation>
-<translation id="3296368748942286671">Turpināt lietotņu izpildi fonā, kad Brave ir aizvērts</translation>
-<translation id="331951419404882060">Brave OS nevarēja sinhronizēt jūsu datus pierakstīšanās kļūdas dēļ.</translation>
-<translation id="3474745554856756813">Veicot šo darbību, no šīs ierīces tiks dzēsts(-i) <ph name="ITEMS_COUNT" /> vienums(-i). Lai vēlāk izgūtu datus, pierakstieties pārlūkā Brave kā <ph name="USER_EMAIL" />.</translation>
+<translation id="350396164462274391">Trūkst Google API atslēgu. Tiks atspējotas dažas Dissenter funkcijas.</translation>
+<translation id="3296368748942286671">Turpināt lietotņu izpildi fonā, kad Dissenter ir aizvērts</translation>
+<translation id="331951419404882060">Dissenter OS nevarēja sinhronizēt jūsu datus pierakstīšanās kļūdas dēļ.</translation>
+<translation id="3474745554856756813">Veicot šo darbību, no šīs ierīces tiks dzēsts(-i) <ph name="ITEMS_COUNT" /> vienums(-i). Lai vēlāk izgūtu datus, pierakstieties pārlūkā Dissenter kā <ph name="USER_EMAIL" />.</translation>
 <translation id="3479552764303398839">Vēlāk</translation>
-<translation id="3509308970982693815">Aizveriet visus Brave logus un mēģiniet vēlreiz.</translation>
-<translation id="352783484088404971">Noņemšana no pārlūka Brave...</translation>
-<translation id="3575459661164320785">Jūsu datorā ir kaitīga programmatūra. Pārlūkprogramma Brave var to noņemt, atjaunot jūsu iestatījumus un atspējot paplašinājumus, lai atkal pareizi darbotos.</translation>
-<translation id="5047208012586153436">Notiek Brave atjaunināšana...</translation>
-<translation id="4847979153841887006">Brave logotips</translation>
-<translation id="3639635944603682591">Šī lietotāja pārlūkošanas dati tiks dzēsti no šīs ierīces. Lai atkoptu datus, pierakstieties pārlūkprogrammā Brave kā lietotājs <ph name="USER_EMAIL" />.</translation>
-<translation id="3713809861844741608">Atvērt saiti jaunā Brave &amp;cilnē</translation>
-<translation id="3728336900324680424">Pārlūkā Brave tiks izmantota Diskā pieejamā informācija, lai adrešu joslā piedāvātu ieteikumus</translation>
-<translation id="378917192836375108">Brave ļauj jums noklikšķināt uz tālruņa numura un zvanīt uz to pakalpojumā Skype!</translation>
-<translation id="5381622442243174305"><ph name="PAGE_TITLE" /> — Brave</translation>
-<translation id="3852700440713538496">Piespraudiet pārlūku Brave uzdevumjoslai</translation>
-<translation id="6315734375101223238">Pielāgojiet un kontrolējiet pārlūkprogrammu Brave. Ir nepieciešama jūsu uzmanība. Noklikšķiniet, lai skatītu plašāku informāciju.</translation>
-<translation id="3889543394854987837">Noklikšķiniet uz sava vārda, lai atvērtu Brave un sāktu pārlūkošanu.</translation>
+<translation id="3509308970982693815">Aizveriet visus Dissenter logus un mēģiniet vēlreiz.</translation>
+<translation id="352783484088404971">Noņemšana no pārlūka Dissenter...</translation>
+<translation id="3575459661164320785">Jūsu datorā ir kaitīga programmatūra. Pārlūkprogramma Dissenter var to noņemt, atjaunot jūsu iestatījumus un atspējot paplašinājumus, lai atkal pareizi darbotos.</translation>
+<translation id="5047208012586153436">Notiek Dissenter atjaunināšana...</translation>
+<translation id="4847979153841887006">Dissenter logotips</translation>
+<translation id="3639635944603682591">Šī lietotāja pārlūkošanas dati tiks dzēsti no šīs ierīces. Lai atkoptu datus, pierakstieties pārlūkprogrammā Dissenter kā lietotājs <ph name="USER_EMAIL" />.</translation>
+<translation id="3713809861844741608">Atvērt saiti jaunā Dissenter &amp;cilnē</translation>
+<translation id="3728336900324680424">Pārlūkā Dissenter tiks izmantota Diskā pieejamā informācija, lai adrešu joslā piedāvātu ieteikumus</translation>
+<translation id="378917192836375108">Dissenter ļauj jums noklikšķināt uz tālruņa numura un zvanīt uz to pakalpojumā Skype!</translation>
+<translation id="5381622442243174305"><ph name="PAGE_TITLE" /> — Dissenter</translation>
+<translation id="3852700440713538496">Piespraudiet pārlūku Dissenter uzdevumjoslai</translation>
+<translation id="6315734375101223238">Pielāgojiet un kontrolējiet pārlūkprogrammu Dissenter. Ir nepieciešama jūsu uzmanība. Noklikšķiniet, lai skatītu plašāku informāciju.</translation>
+<translation id="3889543394854987837">Noklikšķiniet uz sava vārda, lai atvērtu Dissenter un sāktu pārlūkošanu.</translation>
 <translation id="3898493977366060150">Tīmekļa pārlūkošana, izmantojot Google viedās tehnoloģijas</translation>
-<translation id="2938460345748897177">Šis fails ir bīstams, tādēļ Brave to bloķēja. Jūsu konts ir aizsargāts ar papildu aizsardzības funkcijām.</translation>
-<translation id="3965668104013180445">{0,plural, =1{Operētājsistēma Brave OS tiks restartēta pēc vienas stundas}zero{Operētājsistēma Brave OS tiks restartēta pēc # stundām}one{Operētājsistēma Brave OS tiks restartēta pēc # stundas}other{Operētājsistēma Brave OS tiks restartēta pēc # stundām}}</translation>
-<translation id="4036079820698952681">Palīdziet uzlabot pārlūku Brave, ziņojot par <ph name="BEGIN_LINK" />pašreizējiem iestatījumiem<ph name="END_LINK" />.</translation>
+<translation id="2938460345748897177">Šis fails ir bīstams, tādēļ Dissenter to bloķēja. Jūsu konts ir aizsargāts ar papildu aizsardzības funkcijām.</translation>
+<translation id="3965668104013180445">{0,plural, =1{Operētājsistēma Dissenter OS tiks restartēta pēc vienas stundas}zero{Operētājsistēma Dissenter OS tiks restartēta pēc # stundām}one{Operētājsistēma Dissenter OS tiks restartēta pēc # stundas}other{Operētājsistēma Dissenter OS tiks restartēta pēc # stundām}}</translation>
+<translation id="4036079820698952681">Palīdziet uzlabot pārlūku Dissenter, ziņojot par <ph name="BEGIN_LINK" />pašreizējiem iestatījumiem<ph name="END_LINK" />.</translation>
 <translation id="4050175100176540509">Jaunākajā versijā ir pieejami svarīgi drošības uzlabojumi un jaunas funkcijas.</translation>
-<translation id="407254336480250557">Atlasiet <ph name="SMALL_PRODUCT_LOGO" /> <ph name="BEGIN_BOLD" />Brave<ph name="END_BOLD" /></translation>
-<translation id="2871190378186459992">Atklājiet lieliskas lietotnes, spēles, paplašinājumus un motīvus, ko varat izmantot pārlūkā Brave.</translation>
-<translation id="4216212958613226427">Šī valoda tiek izmantota, lai attēlotu Brave lietotāja saskarni</translation>
-<translation id="4222580632002216401">Jūs esat pierakstījies operētājsistēmā Brave. Jūsu administrators ir atspējojis sinhronizēšanu.</translation>
-<translation id="4224199872375172890">Brave ir atjaunināts.</translation>
-<translation id="4230135487732243613">Vai saistīt Brave datus ar šo kontu?</translation>
-<translation id="4271805377592243930">Saņemt palīdzību par Brave</translation>
-<translation id="4285930937574705105">Instalācija neizdevās nenoteiktas kļūdas dēļ. Ja Brave šobrīd darbojas, aizveriet to un mēģiniet vēlreiz.</translation>
-<translation id="4407044323746248786">Vai tik un tā aizvērt pārlūku Brave?</translation>
-<translation id="4415566066719264597">Ļaut pārlūkam Brave darboties fonā</translation>
-<translation id="8148611988012584308">Pielāgot un kontrolēt Brave</translation>
+<translation id="407254336480250557">Atlasiet <ph name="SMALL_PRODUCT_LOGO" /> <ph name="BEGIN_BOLD" />Dissenter<ph name="END_BOLD" /></translation>
+<translation id="2871190378186459992">Atklājiet lieliskas lietotnes, spēles, paplašinājumus un motīvus, ko varat izmantot pārlūkā Dissenter.</translation>
+<translation id="4216212958613226427">Šī valoda tiek izmantota, lai attēlotu Dissenter lietotāja saskarni</translation>
+<translation id="4222580632002216401">Jūs esat pierakstījies operētājsistēmā Dissenter. Jūsu administrators ir atspējojis sinhronizēšanu.</translation>
+<translation id="4224199872375172890">Dissenter ir atjaunināts.</translation>
+<translation id="4230135487732243613">Vai saistīt Dissenter datus ar šo kontu?</translation>
+<translation id="4271805377592243930">Saņemt palīdzību par Dissenter</translation>
+<translation id="4285930937574705105">Instalācija neizdevās nenoteiktas kļūdas dēļ. Ja Dissenter šobrīd darbojas, aizveriet to un mēģiniet vēlreiz.</translation>
+<translation id="4407044323746248786">Vai tik un tā aizvērt pārlūku Dissenter?</translation>
+<translation id="4415566066719264597">Ļaut pārlūkam Dissenter darboties fonā</translation>
+<translation id="8148611988012584308">Pielāgot un kontrolēt Dissenter</translation>
 <translation id="4567424176335768812">Jūs esat pierakstījies kā <ph name="USER_EMAIL_ADDRESS" />. Tagad varat piekļūt savām grāmatzīmēm, vēsturei un citiem iestatījumiem visās ierīcēs, kurās esat pierakstījies.</translation>
-<translation id="300669147395456190">Brave lietotnes</translation>
-<translation id="4621240073146040695">Atjaunināšana ir gandrīz pabeigta. Lai pabeigtu atjaunināšanu, atkārtoti palaidiet pārlūku Brave.</translation>
-<translation id="4677944499843243528">Šķiet, ka profils tiek izmantots citā Brave procesā (<ph name="PROCESS_ID" />) citā datorā (<ph name="HOST_NAME" />). Lai profils netiktu bojāts, pārlūkā Brave tas ir bloķēts. Ja esat pārliecināts, ka šis profils netiek izmantots citos procesos, varat to atbloķēt un restartēt pārlūku Brave.</translation>
-<translation id="469338717132742108">Saņemt palīdzību par Brave OS</translation>
-<translation id="4708774505295300557">Kāds iepriekš pierakstījās pārlūkā Brave šajā datorā, izmantojot e-pasta adresi <ph name="ACCOUNT_EMAIL_LAST" />. Lūdzu, izveidojiet jaunu Brave lietotāju, lai nošķirtu savu informāciju.</translation>
-<translation id="4714956846925717402">Ātrāka piekļuve pārlūkam Brave</translation>
-<translation id="4746050847053251315">Vai tik un tā aizvērt pārlūku Brave?</translation>
-<translation id="8668413672647811944">Tikko tika piemērots īpašs Brave drošības atjauninājums. Restartējiet tūlīt, un mēs atjaunosim jūsu cilnes.</translation>
-<translation id="4888717733111232871">Ienākošo savienojumu kārtula pārlūkam Brave, lai atļautu mDNS datplūsmu.</translation>
-<translation id="4943838377383847465">Brave darbojas fona režīmā.</translation>
-<translation id="4987820182225656817">Viesi var izmantot Brave, neatstājot nekādas pēdas.</translation>
-<translation id="4994636714258228724">Pievienot savu kontu pārlūkā Brave</translation>
-<translation id="5021854341188256296">{0,plural, =0{Ir pieejams Brave OS atjauninājums}=1{Ir pieejams Brave OS atjauninājums}zero{Brave OS atjauninājums ir pieejams # dienas}one{Brave OS atjauninājums ir pieejams # dienu}other{Brave OS atjauninājums ir pieejams # dienas}}</translation>
-<translation id="2887570477425111999">Saglabāt informāciju operētājsistēmā Brave</translation>
-<translation id="5045248521775609809">Paņemiet Brave sev līdzi</translation>
-<translation id="193559141530782783">Brave droši saglabās jūsu privāto informāciju, lai jums vairs nevajadzētu to atkārtoti ievadīt.</translation>
-<translation id="5138664332909611586">Šī lapa izmanto pārāk daudz atmiņas, tādēļ Brave noņēma daļu satura.</translation>
-<translation id="5277894862589591112">Lai ieviestu veiktās izmaiņas, atkārtoti palaidiet pārlūku Brave.</translation>
-<translation id="5358375970380395591">Jūs pierakstāties ar pārvaldītu kontu, kura administrators var kontrolēt jūsu profilu. Jūsu Brave dati, piemēram, lietotnes, grāmatzīmes, vēsture, paroles un citi iestatījumi, tiks neatgriezeniski saistīti ar lietotāju <ph name="USER_NAME" />. Varēsiet dzēst šos datus, izmantojot Google kontu informācijas paneli, taču nevarēsiet šos datus saistīt ar citu kontu. <ph name="LEARN_MORE" /></translation>
-<translation id="5386450000063123300">Notiek Brave atjaunināšana (<ph name="PROGRESS_PERCENT" />)</translation>
-<translation id="538767207339317086">Atļaut pierakstīties pārlūkā Brave</translation>
-<translation id="5398878173008909840">Pieejama jauna Brave versija.</translation>
-<translation id="5874882355102994015">Brave nevar parādīt drukas priekšskatījumu, ja nav pieejams iebūvētais PDF skatītājs.</translation>
-<translation id="5427571867875391349">Iestatīt Brave kā noklusējuma pārlūku</translation>
-<translation id="1403270718080126244"><ph name="PAGE_TITLE" /> — Brave beta versija</translation>
-<translation id="5466153949126434691">Pārlūks Brave tiek atjaunināts automātiski, tādēļ jums vienmēr būs pieejama visjaunākā versija. Kad šī lejupielāde būs pabeigta, pārlūks Brave tiks restartēts un varēsiet sākt lietot visjaunāko versiju.</translation>
-<translation id="5479196819031988440">Brave OS nevar atvērt šo lapu.</translation>
-<translation id="5480860683791598150">Pārlūkam Brave ir nepieciešama piekļuve jūsu atrašanās vietas datiem, lai varētu tos kopīgot ar šo vietni.</translation>
-<translation id="549669000822060376">Lūdzu, uzgaidiet, kamēr Brave instalē jaunākos sistēmas atjauninājumus.</translation>
-<translation id="5529843986978123325">{0,plural, =1{Operētājsistēma Brave OS tiks restartēta pēc 1 minūtes}zero{Operētājsistēma Brave OS tiks restartēta pēc # minūtēm}one{Operētājsistēma Brave OS tiks restartēta pēc # minūtes}other{Operētājsistēma Brave OS tiks restartēta pēc # minūtēm}}</translation>
-<translation id="5631814766731275228">Brave profila vārds un attēls</translation>
-<translation id="5634636535844844681">Pārlūka Brave izmantošanai nepieciešama operētājsistēma Windows 7 vai jaunāka versija.</translation>
-<translation id="5935964611177478118">pierakstieties pārlūkā Brave</translation>
-<translation id="5698481217667032250">Rādīt Brave šajā valodā</translation>
-<translation id="5712253116097046984">Lai lietotu šo atjauninājumu, administrators lūdz restartēt operētājsistēmu Brave OS.</translation>
-<translation id="8943391224520748272">Šis fails var būt bīstams, tādēļ Brave to bloķēja. Jūsu konts ir aizsargāts ar papildu aizsardzības funkcijām.</translation>
+<translation id="300669147395456190">Dissenter lietotnes</translation>
+<translation id="4621240073146040695">Atjaunināšana ir gandrīz pabeigta. Lai pabeigtu atjaunināšanu, atkārtoti palaidiet pārlūku Dissenter.</translation>
+<translation id="4677944499843243528">Šķiet, ka profils tiek izmantots citā Dissenter procesā (<ph name="PROCESS_ID" />) citā datorā (<ph name="HOST_NAME" />). Lai profils netiktu bojāts, pārlūkā Dissenter tas ir bloķēts. Ja esat pārliecināts, ka šis profils netiek izmantots citos procesos, varat to atbloķēt un restartēt pārlūku Dissenter.</translation>
+<translation id="469338717132742108">Saņemt palīdzību par Dissenter OS</translation>
+<translation id="4708774505295300557">Kāds iepriekš pierakstījās pārlūkā Dissenter šajā datorā, izmantojot e-pasta adresi <ph name="ACCOUNT_EMAIL_LAST" />. Lūdzu, izveidojiet jaunu Dissenter lietotāju, lai nošķirtu savu informāciju.</translation>
+<translation id="4714956846925717402">Ātrāka piekļuve pārlūkam Dissenter</translation>
+<translation id="4746050847053251315">Vai tik un tā aizvērt pārlūku Dissenter?</translation>
+<translation id="8668413672647811944">Tikko tika piemērots īpašs Dissenter drošības atjauninājums. Restartējiet tūlīt, un mēs atjaunosim jūsu cilnes.</translation>
+<translation id="4888717733111232871">Ienākošo savienojumu kārtula pārlūkam Dissenter, lai atļautu mDNS datplūsmu.</translation>
+<translation id="4943838377383847465">Dissenter darbojas fona režīmā.</translation>
+<translation id="4987820182225656817">Viesi var izmantot Dissenter, neatstājot nekādas pēdas.</translation>
+<translation id="4994636714258228724">Pievienot savu kontu pārlūkā Dissenter</translation>
+<translation id="5021854341188256296">{0,plural, =0{Ir pieejams Dissenter OS atjauninājums}=1{Ir pieejams Dissenter OS atjauninājums}zero{Dissenter OS atjauninājums ir pieejams # dienas}one{Dissenter OS atjauninājums ir pieejams # dienu}other{Dissenter OS atjauninājums ir pieejams # dienas}}</translation>
+<translation id="2887570477425111999">Saglabāt informāciju operētājsistēmā Dissenter</translation>
+<translation id="5045248521775609809">Paņemiet Dissenter sev līdzi</translation>
+<translation id="193559141530782783">Dissenter droši saglabās jūsu privāto informāciju, lai jums vairs nevajadzētu to atkārtoti ievadīt.</translation>
+<translation id="5138664332909611586">Šī lapa izmanto pārāk daudz atmiņas, tādēļ Dissenter noņēma daļu satura.</translation>
+<translation id="5277894862589591112">Lai ieviestu veiktās izmaiņas, atkārtoti palaidiet pārlūku Dissenter.</translation>
+<translation id="5358375970380395591">Jūs pierakstāties ar pārvaldītu kontu, kura administrators var kontrolēt jūsu profilu. Jūsu Dissenter dati, piemēram, lietotnes, grāmatzīmes, vēsture, paroles un citi iestatījumi, tiks neatgriezeniski saistīti ar lietotāju <ph name="USER_NAME" />. Varēsiet dzēst šos datus, izmantojot Google kontu informācijas paneli, taču nevarēsiet šos datus saistīt ar citu kontu. <ph name="LEARN_MORE" /></translation>
+<translation id="5386450000063123300">Notiek Dissenter atjaunināšana (<ph name="PROGRESS_PERCENT" />)</translation>
+<translation id="538767207339317086">Atļaut pierakstīties pārlūkā Dissenter</translation>
+<translation id="5398878173008909840">Pieejama jauna Dissenter versija.</translation>
+<translation id="5874882355102994015">Dissenter nevar parādīt drukas priekšskatījumu, ja nav pieejams iebūvētais PDF skatītājs.</translation>
+<translation id="5427571867875391349">Iestatīt Dissenter kā noklusējuma pārlūku</translation>
+<translation id="1403270718080126244"><ph name="PAGE_TITLE" /> — Dissenter beta versija</translation>
+<translation id="5466153949126434691">Pārlūks Dissenter tiek atjaunināts automātiski, tādēļ jums vienmēr būs pieejama visjaunākā versija. Kad šī lejupielāde būs pabeigta, pārlūks Dissenter tiks restartēts un varēsiet sākt lietot visjaunāko versiju.</translation>
+<translation id="5479196819031988440">Dissenter OS nevar atvērt šo lapu.</translation>
+<translation id="5480860683791598150">Pārlūkam Dissenter ir nepieciešama piekļuve jūsu atrašanās vietas datiem, lai varētu tos kopīgot ar šo vietni.</translation>
+<translation id="549669000822060376">Lūdzu, uzgaidiet, kamēr Dissenter instalē jaunākos sistēmas atjauninājumus.</translation>
+<translation id="5529843986978123325">{0,plural, =1{Operētājsistēma Dissenter OS tiks restartēta pēc 1 minūtes}zero{Operētājsistēma Dissenter OS tiks restartēta pēc # minūtēm}one{Operētājsistēma Dissenter OS tiks restartēta pēc # minūtes}other{Operētājsistēma Dissenter OS tiks restartēta pēc # minūtēm}}</translation>
+<translation id="5631814766731275228">Dissenter profila vārds un attēls</translation>
+<translation id="5634636535844844681">Pārlūka Dissenter izmantošanai nepieciešama operētājsistēma Windows 7 vai jaunāka versija.</translation>
+<translation id="5935964611177478118">pierakstieties pārlūkā Dissenter</translation>
+<translation id="5698481217667032250">Rādīt Dissenter šajā valodā</translation>
+<translation id="5712253116097046984">Lai lietotu šo atjauninājumu, administrators lūdz restartēt operētājsistēmu Dissenter OS.</translation>
+<translation id="8943391224520748272">Šis fails var būt bīstams, tādēļ Dissenter to bloķēja. Jūsu konts ir aizsargāts ar papildu aizsardzības funkcijām.</translation>
 <translation id="5756484659843248772">Šī valoda tiek izmantota, lai attēlotu Chromium OS lietotāja saskarni</translation>
-<translation id="5768914737813585044">Rādīt Brave OS šajā valodā</translation>
-<translation id="5796460469508169315">Brave ir gandrīz gatavs!</translation>
+<translation id="5768914737813585044">Rādīt Dissenter OS šajā valodā</translation>
+<translation id="5796460469508169315">Dissenter ir gandrīz gatavs!</translation>
 <translation id="5820394555380036790">Chromium OS</translation>
-<translation id="7207456302801184289">Laipni lūdzam pārlūkā Brave!</translation>
+<translation id="7207456302801184289">Laipni lūdzam pārlūkā Dissenter!</translation>
 <translation id="5877064549588274448">Kanāls tika mainīts. Lai lietotu izmaiņas, restartējiet ierīci.</translation>
 <translation id="5895138241574237353">Restartēt</translation>
 <translation id="5906655207909574370">Atjaunināšana ir gandrīz pabeigta. Restartējiet ierīci, lai pabeigtu atjaunināšanu.</translation>
-<translation id="5987687638152509985">Lai sāktu sinhronizēšanu, atjauniniet Brave.</translation>
-<translation id="6013050204643758987">Brave OS darbību nodrošina papildu <ph name="BEGIN_LINK_CROS_OSS" />atklātā pirmkoda programmatūra<ph name="END_LINK_CROS_OSS" />, tāpat kā <ph name="BEGIN_LINK_LINUX_OSS" />Linux (Beta)<ph name="END_LINK_LINUX_OSS" /> darbību.</translation>
+<translation id="5987687638152509985">Lai sāktu sinhronizēšanu, atjauniniet Dissenter.</translation>
+<translation id="6013050204643758987">Dissenter OS darbību nodrošina papildu <ph name="BEGIN_LINK_CROS_OSS" />atklātā pirmkoda programmatūra<ph name="END_LINK_CROS_OSS" />, tāpat kā <ph name="BEGIN_LINK_LINUX_OSS" />Linux (Beta)<ph name="END_LINK_LINUX_OSS" /> darbību.</translation>
 <translation id="6040143037577758943">Aizvērt</translation>
-<translation id="6055895534982063517">Ir pieejama jauna Brave versija, un tā ir ātrāka nekā jebkad agrāk.</translation>
-<translation id="9071554113102421877">&amp;Atvērt pārlūkā Brave</translation>
-<translation id="6072279588547424923">Paplašinājums <ph name="EXTENSION_NAME" /> ir pievienots pārlūkam Brave</translation>
-<translation id="608189560609172163">Brave nevarēja sinhronizēt jūsu datus pierakstīšanās kļūdas dēļ.</translation>
-<translation id="5849446944780602366">Pielāgojiet un pārvaldiet pārlūku Brave. Ir pieejams atjauninājums.</translation>
-<translation id="6163134585289952357">Pārlūks Brave saglabās šo paroli jūsu Google kontā. To nav nepieciešams iegaumēt.</translation>
-<translation id="4168372721886011198">Fails <ph name="FILE_NAME" /> ir bīstams, tādēļ Brave to bloķēja.</translation>
-<translation id="620022061217911843">Lai lietotu atjauninājumu, administrators pieprasa restartēt operētājsistēmu Brave OS.</translation>
-<translation id="6212496753309875659">Šim datoram jau ir jaunākā Brave versija. Ja programmatūra nedarbojas, atinstalējiet pārlūku Brave un mēģiniet vēlreiz.</translation>
-<translation id="5019879183386042809">Padarīt Brave par noklusējuma pārlūku</translation>
-<translation id="7445061995866044926">Vai izrakstīties no Brave?</translation>
-<translation id="3561569806301739367">Fails <ph name="FILE_NAME" /> var būt bīstams, tādēļ Brave to bloķēja.</translation>
-<translation id="3205074487970075628">Brave saitē tiek izmantota kamera.</translation>
-<translation id="6333502561965082103">Tiek veikta cita darbība pārlūkā Brave. Lūdzu, vēlāk mēģiniet vēlreiz.</translation>
-<translation id="6334986366598267305">Tagad pārlūkā Brave ir vieglāk izmantot Google kontu, kā arī ir atvieglota lietošana datoros, ko izmanto vairākas personas.</translation>
-<translation id="6373523479360886564">Vai tiešām vēlaties atinstalēt pārlūku Brave?</translation>
-<translation id="6400072781405947421">Iespējams, Brave nedarbosies pareizi, jo tas vairs netiek atbalstīts operētājsistēmā Mac OS X 10.9.</translation>
-<translation id="6403826409255603130">Brave ir tīmekļa pārlūks, kas darbina tīmekļa lapas un lietojumprogrammas zibenīgā ātrumā. Tas ir ātrs, stabils un ērti lietojams. Pārlūkojiet tīmekli vēl drošāk ar aizsardzību pret ļaunprātīgu programmatūru un pikšķerēšanu, kas iebūvēta pārlūkā Brave.</translation>
-<translation id="6434250628340475518">Brave OS sistēma</translation>
-<translation id="2513524988380267210">{SECONDS,plural, =1{Pārlūks Brave tiks restartēts pēc 1 sekundes.}zero{Pārlūks Brave tiks restartēts pēc # sekundēm.}one{Pārlūks Brave tiks restartēts pēc # sekundes.}other{Pārlūks Brave tiks restartēts pēc # sekundēm.}}</translation>
-<translation id="6475912303565314141">Tas nosaka arī to, kāda lapa tiks rādīta, kad atvērsiet pārlūku Brave.</translation>
-<translation id="2472951610753402739">Brave satura sinhronizēšanai jūs izmantojat kontu <ph name="PROFILE_EMAIL" />. Lai atjauninātu savas sinhronizācijas preferences vai izmantotu Brave bez Google konta, dodieties uz: <ph name="SETTINGS_LINK" />.</translation>
-<translation id="6510925080656968729">Atinstalēt Brave</translation>
-<translation id="6570579332384693436">Lai izlabotu pareizrakstības kļūdas, Brave nosūta teksta laukos ievadīto tekstu Google serveriem.</translation>
-<translation id="6598877126913850652">Pāriet uz Brave paziņojumu iestatījumiem</translation>
+<translation id="6055895534982063517">Ir pieejama jauna Dissenter versija, un tā ir ātrāka nekā jebkad agrāk.</translation>
+<translation id="9071554113102421877">&amp;Atvērt pārlūkā Dissenter</translation>
+<translation id="6072279588547424923">Paplašinājums <ph name="EXTENSION_NAME" /> ir pievienots pārlūkam Dissenter</translation>
+<translation id="608189560609172163">Dissenter nevarēja sinhronizēt jūsu datus pierakstīšanās kļūdas dēļ.</translation>
+<translation id="5849446944780602366">Pielāgojiet un pārvaldiet pārlūku Dissenter. Ir pieejams atjauninājums.</translation>
+<translation id="6163134585289952357">Pārlūks Dissenter saglabās šo paroli jūsu Google kontā. To nav nepieciešams iegaumēt.</translation>
+<translation id="4168372721886011198">Fails <ph name="FILE_NAME" /> ir bīstams, tādēļ Dissenter to bloķēja.</translation>
+<translation id="620022061217911843">Lai lietotu atjauninājumu, administrators pieprasa restartēt operētājsistēmu Dissenter OS.</translation>
+<translation id="6212496753309875659">Šim datoram jau ir jaunākā Dissenter versija. Ja programmatūra nedarbojas, atinstalējiet pārlūku Dissenter un mēģiniet vēlreiz.</translation>
+<translation id="5019879183386042809">Padarīt Dissenter par noklusējuma pārlūku</translation>
+<translation id="7445061995866044926">Vai izrakstīties no Dissenter?</translation>
+<translation id="3561569806301739367">Fails <ph name="FILE_NAME" /> var būt bīstams, tādēļ Dissenter to bloķēja.</translation>
+<translation id="3205074487970075628">Dissenter saitē tiek izmantota kamera.</translation>
+<translation id="6333502561965082103">Tiek veikta cita darbība pārlūkā Dissenter. Lūdzu, vēlāk mēģiniet vēlreiz.</translation>
+<translation id="6334986366598267305">Tagad pārlūkā Dissenter ir vieglāk izmantot Google kontu, kā arī ir atvieglota lietošana datoros, ko izmanto vairākas personas.</translation>
+<translation id="6373523479360886564">Vai tiešām vēlaties atinstalēt pārlūku Dissenter?</translation>
+<translation id="6400072781405947421">Iespējams, Dissenter nedarbosies pareizi, jo tas vairs netiek atbalstīts operētājsistēmā Mac OS X 10.9.</translation>
+<translation id="6403826409255603130">Dissenter ir tīmekļa pārlūks, kas darbina tīmekļa lapas un lietojumprogrammas zibenīgā ātrumā. Tas ir ātrs, stabils un ērti lietojams. Pārlūkojiet tīmekli vēl drošāk ar aizsardzību pret ļaunprātīgu programmatūru un pikšķerēšanu, kas iebūvēta pārlūkā Dissenter.</translation>
+<translation id="6434250628340475518">Dissenter OS sistēma</translation>
+<translation id="2513524988380267210">{SECONDS,plural, =1{Pārlūks Dissenter tiks restartēts pēc 1 sekundes.}zero{Pārlūks Dissenter tiks restartēts pēc # sekundēm.}one{Pārlūks Dissenter tiks restartēts pēc # sekundes.}other{Pārlūks Dissenter tiks restartēts pēc # sekundēm.}}</translation>
+<translation id="6475912303565314141">Tas nosaka arī to, kāda lapa tiks rādīta, kad atvērsiet pārlūku Dissenter.</translation>
+<translation id="2472951610753402739">Dissenter satura sinhronizēšanai jūs izmantojat kontu <ph name="PROFILE_EMAIL" />. Lai atjauninātu savas sinhronizācijas preferences vai izmantotu Dissenter bez Google konta, dodieties uz: <ph name="SETTINGS_LINK" />.</translation>
+<translation id="6510925080656968729">Atinstalēt Dissenter</translation>
+<translation id="6570579332384693436">Lai izlabotu pareizrakstības kļūdas, Dissenter nosūta teksta laukos ievadīto tekstu Google serveriem.</translation>
+<translation id="6598877126913850652">Pāriet uz Dissenter paziņojumu iestatījumiem</translation>
 <translation id="6676384891291319759">Piekļūt internetam</translation>
-<translation id="1489465648257900784">Jūsu profilu nevar izmantot, jo tas ir no jaunākas Brave versijas.
+<translation id="1489465648257900784">Jūsu profilu nevar izmantot, jo tas ir no jaunākas Dissenter versijas.
 
-Dažas funkcijas var nebūt pieejamas. Norādiet citu profila direktoriju vai izmantojiet jaunāku Brave versiju.</translation>
-<translation id="6734080038664603509">Atjaunināt &amp;Brave</translation>
-<translation id="6734291798041940871">Pārlūks Brave jau ir instalēts visiem lietotājiem jūsu datorā.</translation>
-<translation id="7456658570432774853">Palīdziet uzlabot pārlūku Brave, ziņojot par pašreizējiem iestatījumiem.</translation>
-<translation id="6857782730669500492">Brave — <ph name="PAGE_TITLE" /></translation>
-<translation id="6863361426438995919">Google Pay (kopēts pārlūkā Brave)</translation>
-<translation id="1801551749768408825">Darbojas citas Brave kopijas. Lai veiktu atjaunināšanu, aizveriet tās.</translation>
-<translation id="6893813176749746474">Pārlūks Brave ir atjaunināts, bet jūs neesat to izmantojis vismaz 30 dienas.</translation>
+Dažas funkcijas var nebūt pieejamas. Norādiet citu profila direktoriju vai izmantojiet jaunāku Dissenter versiju.</translation>
+<translation id="6734080038664603509">Atjaunināt &amp;Dissenter</translation>
+<translation id="6734291798041940871">Pārlūks Dissenter jau ir instalēts visiem lietotājiem jūsu datorā.</translation>
+<translation id="7456658570432774853">Palīdziet uzlabot pārlūku Dissenter, ziņojot par pašreizējiem iestatījumiem.</translation>
+<translation id="6857782730669500492">Dissenter — <ph name="PAGE_TITLE" /></translation>
+<translation id="6863361426438995919">Google Pay (kopēts pārlūkā Dissenter)</translation>
+<translation id="1801551749768408825">Darbojas citas Dissenter kopijas. Lai veiktu atjaunināšanu, aizveriet tās.</translation>
+<translation id="6893813176749746474">Pārlūks Dissenter ir atjaunināts, bet jūs neesat to izmantojis vismaz 30 dienas.</translation>
 <translation id="6964305034639999644">Atvērt saiti inko&amp;gnito režīma logā</translation>
 <translation id="6970811910055250180">Notiek ierīces atjaunināšana...</translation>
-<translation id="6990124437352146030">Pārlūkam Brave ir nepieciešama atļauja piekļūt jūsu mikrofonam šajā vietnē.</translation>
-<translation id="1705567146636171298">Atjaunināt Brave</translation>
-<translation id="7066436765290594559">Brave OS nevarēja sinhronizēt jūsu datus. Lūdzu, atjauniniet savu sinhronizācijas ieejas frāzi.</translation>
-<translation id="7067091210845072982">Ja attēlam nav vērtīga apraksta, pārlūks Brave mēģinās jums tādu nodrošināt. Lai izveidotu aprakstus, attēli tiek nosūtīti uzņēmumam Google.</translation>
-<translation id="7196312274710523067">Neizdevās palaist Brave. Mēģiniet vēlreiz.</translation>
-<translation id="7205698830395646142">Paslēpšana Brave izvēlnē</translation>
-<translation id="5516268345616100622">Uzdevumu pārvaldnieks — Brave</translation>
+<translation id="6990124437352146030">Pārlūkam Dissenter ir nepieciešama atļauja piekļūt jūsu mikrofonam šajā vietnē.</translation>
+<translation id="1705567146636171298">Atjaunināt Dissenter</translation>
+<translation id="7066436765290594559">Dissenter OS nevarēja sinhronizēt jūsu datus. Lūdzu, atjauniniet savu sinhronizācijas ieejas frāzi.</translation>
+<translation id="7067091210845072982">Ja attēlam nav vērtīga apraksta, pārlūks Dissenter mēģinās jums tādu nodrošināt. Lai izveidotu aprakstus, attēli tiek nosūtīti uzņēmumam Google.</translation>
+<translation id="7196312274710523067">Neizdevās palaist Dissenter. Mēģiniet vēlreiz.</translation>
+<translation id="7205698830395646142">Paslēpšana Dissenter izvēlnē</translation>
+<translation id="5516268345616100622">Uzdevumu pārvaldnieks — Dissenter</translation>
 <translation id="731644333568559921">Atjaunināt &amp;Chromium OS</translation>
-<translation id="731795002583552498">Notiek Brave atjaunināšana</translation>
-<translation id="3403365884036456766">Jūsu preferenču fails ir bojāts vai nederīgs. Brave nespēj atkopt jūsu iestatījumus.</translation>
-<translation id="8899693649891674038">Instalējiet pārlūku Brave savā tālrunī. Mēs nosūtīsim īsziņu uz jūsu tālruņa numuru.</translation>
-<translation id="939305735877869636">Brave</translation>
+<translation id="731795002583552498">Notiek Dissenter atjaunināšana</translation>
+<translation id="3403365884036456766">Jūsu preferenču fails ir bojāts vai nederīgs. Dissenter nespēj atkopt jūsu iestatījumus.</translation>
+<translation id="8899693649891674038">Instalējiet pārlūku Dissenter savā tālrunī. Mēs nosūtīsim īsziņu uz jūsu tālruņa numuru.</translation>
+<translation id="939305735877869636">Dissenter</translation>
 <translation id="7339898014177206373">Jauns logs</translation>
-<translation id="734373864078049451">Šeit atrodas jūsu tīmekļa saturs, grāmatzīmes un cits Brave saturs.</translation>
+<translation id="734373864078049451">Šeit atrodas jūsu tīmekļa saturs, grāmatzīmes un cits Dissenter saturs.</translation>
 <translation id="7344413941077984497">Lai iestatītu, kuras vietnes var skatīt lietotājs <ph name="NEW_PROFILE_NAME" />, varat konfigurēt ierobežojumus un iestatījumus vietnē <ph name="BEGIN_LINK_1" /><ph name="DISPLAY_LINK" /><ph name="END_LINK_1" />. Ja nemainīsiet noklusējuma iestatījumus, <ph name="NEW_PROFILE_NAME" /> varēs pārlūkot visu tīmekļa saturu.
 
-Lai <ph name="NEW_PROFILE_NAME" /> nevarētu piekļūt jūsu kontam, noteikti bloķējiet savu profilu, kad neizmantojat Brave. Lai to izdarītu, pārlūka augšējā labajā stūrī noklikšķiniet uz sava profila vārda un atlasiet vienumu “Iziet un bloķēt”.
+Lai <ph name="NEW_PROFILE_NAME" /> nevarētu piekļūt jūsu kontam, noteikti bloķējiet savu profilu, kad neizmantojat Dissenter. Lai to izdarītu, pārlūka augšējā labajā stūrī noklikšķiniet uz sava profila vārda un atlasiet vienumu “Iziet un bloķēt”.
 <ph name="BEGIN_LINK_2" />Uzziniet vairāk<ph name="END_LINK_2" />.
 
 Papildu norādījumus skatiet e-pasta ziņojumā šeit: <ph name="ACCOUNT_EMAIL" />.</translation>
-<translation id="7349591376906416160">Jūsu sistēmas administrators ir konfigurējis Brave atvērt <ph name="ALTERNATIVE_BROWSER_NAME" />, lai piekļūtu <ph name="TARGET_URL_HOSTNAME" />.</translation>
-<translation id="7448255348454382571">Brave OS restartēšana</translation>
-<translation id="3943696263619956191"><ph name="PAGE_TITLE" /> — Brave izstrādātāju versija</translation>
-<translation id="7451052299415159299">Pārlūkam Brave ir nepieciešama atļauja piekļūt jūsu kamerai šajā vietnē.</translation>
-<translation id="7471302858145901434">{0,plural, =1{Restartējiet operētājsistēmu Brave OS vienas dienas laikā}zero{Restartējiet operētājsistēmu Brave OS # dienu laikā}one{Restartējiet operētājsistēmu Brave OS # dienas laikā}other{Restartējiet operētājsistēmu Brave OS # dienu laikā}}</translation>
-<translation id="7483335560992089831">Nevar instalēt to pašu Brave versiju, kas jau šobrīd darbojas. Aizveriet Brave un mēģiniet vēlreiz.</translation>
+<translation id="7349591376906416160">Jūsu sistēmas administrators ir konfigurējis Dissenter atvērt <ph name="ALTERNATIVE_BROWSER_NAME" />, lai piekļūtu <ph name="TARGET_URL_HOSTNAME" />.</translation>
+<translation id="7448255348454382571">Dissenter OS restartēšana</translation>
+<translation id="3943696263619956191"><ph name="PAGE_TITLE" /> — Dissenter izstrādātāju versija</translation>
+<translation id="7451052299415159299">Pārlūkam Dissenter ir nepieciešama atļauja piekļūt jūsu kamerai šajā vietnē.</translation>
+<translation id="7471302858145901434">{0,plural, =1{Restartējiet operētājsistēmu Dissenter OS vienas dienas laikā}zero{Restartējiet operētājsistēmu Dissenter OS # dienu laikā}one{Restartējiet operētājsistēmu Dissenter OS # dienas laikā}other{Restartējiet operētājsistēmu Dissenter OS # dienu laikā}}</translation>
+<translation id="7483335560992089831">Nevar instalēt to pašu Dissenter versiju, kas jau šobrīd darbojas. Aizveriet Dissenter un mēģiniet vēlreiz.</translation>
 <translation id="7549178288319965365">Par Chromium OS</translation>
-<translation id="7561906087460245826">Notīrīt arī datus no Brave (<ph name="URL" />)</translation>
-<translation id="3293668930608086049">Pārlūkā Brave tiek izmantota jūsu kamera un mikrofons.</translation>
-<translation id="7617377681829253106">Pārlūkā Brave ir veikti uzlabojumi</translation>
-<translation id="3343095737966473035">Brave nav jūsu noklusējuma pārlūks.</translation>
-<translation id="5477319665405831211">Brave sinhronizēšana un personalizēšana visās savās ierīcēs</translation>
-<translation id="7729447699958282447">Brave nevarēja sinhronizēt jūsu datus, jo jūsu domēnam nav pieejama sinhronizācija.</translation>
-<translation id="7745317241717453663">Veicot šo darbību, no šīs ierīces tiks dzēsti pārlūkošanas dati. Lai vēlāk izgūtu datus, pierakstieties pārlūkā Brave kā <ph name="USER_EMAIL" />.</translation>
+<translation id="7561906087460245826">Notīrīt arī datus no Dissenter (<ph name="URL" />)</translation>
+<translation id="3293668930608086049">Pārlūkā Dissenter tiek izmantota jūsu kamera un mikrofons.</translation>
+<translation id="7617377681829253106">Pārlūkā Dissenter ir veikti uzlabojumi</translation>
+<translation id="3343095737966473035">Dissenter nav jūsu noklusējuma pārlūks.</translation>
+<translation id="5477319665405831211">Dissenter sinhronizēšana un personalizēšana visās savās ierīcēs</translation>
+<translation id="7729447699958282447">Dissenter nevarēja sinhronizēt jūsu datus, jo jūsu domēnam nav pieejama sinhronizācija.</translation>
+<translation id="7745317241717453663">Veicot šo darbību, no šīs ierīces tiks dzēsti pārlūkošanas dati. Lai vēlāk izgūtu datus, pierakstieties pārlūkā Dissenter kā <ph name="USER_EMAIL" />.</translation>
 <translation id="7747138024166251722">Instalētājam neizdevās izveidot pagaidu katalogu. Lūdzu, pārbaudiet, vai diskā pietiek vietas un vai ir atļauja instalēt programmatūru.</translation>
-<translation id="5436841087823876677">Brīdinājums! Brave nevar novērst to, ka paplašinājumi ieraksta jūsu pārlūkošanas vēsturi. Lai atspējotu šo paplašinājumu inkognito režīmā, noņemiet atzīmi no šīs opcijas.</translation>
-<translation id="6236814935154483927"><ph name="PAGE_TITLE" /> — Brave Canary</translation>
-<translation id="7963515534397191222">Nevarēja atjaunināt uz jaunāko Brave versiju, tādēļ jūs nevarēsiet piekļūt jaunākajām funkcijām un drošības labojumiem.</translation>
-<translation id="7901117350626490574">Pieejams Brave atjauninājums, un tas tiks lietots, tiklīdz restartēsiet pārlūku.</translation>
-<translation id="7937630085815544518">Operētājsistēmā Brave iepriekš pierakstījāties kā lietotājs <ph name="USER_EMAIL_ADDRESS" />. Lai pierakstītos vēlreiz, lūdzu, izmantojiet to pašu kontu.</translation>
-<translation id="7962572577636132072">Pārlūks Brave tiek atjaunināts automātiski, tādēļ jums vienmēr būs pieejama visjaunākā versija.</translation>
-<translation id="7975919845073681630">Šī ir Brave papildu instalācija, un to nevar izmantot kā noklusējuma pārlūku.</translation>
-<translation id="7979877361127045932">Paslēpt Brave izvēlnē</translation>
-<translation id="8013436988911883588">Tiklīdz pārlūkam Brave tiks sniegta piekļuve, vietnes varēs lūgt jums piekļuvi.</translation>
+<translation id="5436841087823876677">Brīdinājums! Dissenter nevar novērst to, ka paplašinājumi ieraksta jūsu pārlūkošanas vēsturi. Lai atspējotu šo paplašinājumu inkognito režīmā, noņemiet atzīmi no šīs opcijas.</translation>
+<translation id="6236814935154483927"><ph name="PAGE_TITLE" /> — Dissenter Canary</translation>
+<translation id="7963515534397191222">Nevarēja atjaunināt uz jaunāko Dissenter versiju, tādēļ jūs nevarēsiet piekļūt jaunākajām funkcijām un drošības labojumiem.</translation>
+<translation id="7901117350626490574">Pieejams Dissenter atjauninājums, un tas tiks lietots, tiklīdz restartēsiet pārlūku.</translation>
+<translation id="7937630085815544518">Operētājsistēmā Dissenter iepriekš pierakstījāties kā lietotājs <ph name="USER_EMAIL_ADDRESS" />. Lai pierakstītos vēlreiz, lūdzu, izmantojiet to pašu kontu.</translation>
+<translation id="7962572577636132072">Pārlūks Dissenter tiek atjaunināts automātiski, tādēļ jums vienmēr būs pieejama visjaunākā versija.</translation>
+<translation id="7975919845073681630">Šī ir Dissenter papildu instalācija, un to nevar izmantot kā noklusējuma pārlūku.</translation>
+<translation id="7979877361127045932">Paslēpt Dissenter izvēlnē</translation>
+<translation id="8013436988911883588">Tiklīdz pārlūkam Dissenter tiks sniegta piekļuve, vietnes varēs lūgt jums piekļuvi.</translation>
 <translation id="8030318113982266900">Notiek ierīces atjaunināšana uz kanālu <ph name="CHANNEL_NAME" />...</translation>
-<translation id="9067428552314418522">Šis fails ir bīstams, tāpēc Brave to bloķēja.</translation>
-<translation id="2965084188004448871">Instalējiet pārlūku Brave savā tālrunī. Mēs nosūtīsim īsziņu uz jūsu konta atkopšanas tālruņa numuru: <ph name="PHONE_NUMBER" />.</translation>
-<translation id="8248265253516264921">Ja attēlam nav vērtīga apraksta, pārlūks Brave mēģinās jums tādu nodrošināt. Lai izveidotu aprakstus, attēli tiek nosūtīti uzņēmumam Google. Jebkurā brīdī iestatījumos varat izslēgt šo iespēju.</translation>
-<translation id="763369711159699222">Palīdziet uzlabot Brave</translation>
-<translation id="89367911614620585">Šis fails var būt bīstams, tāpēc Brave to bloķēja.</translation>
-<translation id="3360368475735266712">Pierakstieties, lai sinhronizētu un personalizētu pārlūku Brave visās savās ierīcēs.</translation>
-<translation id="8340674089072921962"><ph name="USER_EMAIL_ADDRESS" /> iepriekš izmantoja Brave</translation>
-<translation id="8375950122744241554">Pārlūkā Brave 70 un jaunākās versijās vairs nebūs pieejami uzraudzīto lietotāju profili.</translation>
-<translation id="8379713241968949941">{0,plural, =1{Pārlūks Brave tiks restartēts pēc stundas}zero{Pārlūks Brave tiks restartēts pēc # stundām}one{Pārlūks Brave tiks restartēts pēc # stundas}other{Pārlūks Brave tiks restartēts pēc # stundām}}</translation>
-<translation id="8453117565092476964">Instalēšanas programmas arhīvs ir bojāts vai nav derīgs. Lejupielādējiet Brave vēlreiz.</translation>
-<translation id="8493179195440786826">Brave versija ir novecojusi</translation>
-<translation id="85843667276690461">Saņemt palīdzību par Brave izmantošanu</translation>
-<translation id="8586442755830160949">Autortiesības <ph name="YEAR" /> Brave autori. Visas tiesības paturētas.</translation>
-<translation id="8599548569518771270">{0,plural, =0{Operētājsistēma Brave OS tiks restartēta tūlīt}=1{Operētājsistēma Brave OS tiks restartēta pēc 1 sekundes}zero{Operētājsistēma Brave OS tiks restartēta pēc # sekundēm}one{Operētājsistēma Brave OS tiks restartēta pēc # sekundes}other{Operētājsistēma Brave OS tiks restartēta pēc # sekundēm}}</translation>
-<translation id="8619360774459241877">Notiek Brave palaišana...</translation>
-<translation id="8621669128220841554">Instalēšana neizdevās nenoteiktas kļūdas dēļ. Lejupielādējiet pārlūku Brave vēlreiz.</translation>
+<translation id="9067428552314418522">Šis fails ir bīstams, tāpēc Dissenter to bloķēja.</translation>
+<translation id="2965084188004448871">Instalējiet pārlūku Dissenter savā tālrunī. Mēs nosūtīsim īsziņu uz jūsu konta atkopšanas tālruņa numuru: <ph name="PHONE_NUMBER" />.</translation>
+<translation id="8248265253516264921">Ja attēlam nav vērtīga apraksta, pārlūks Dissenter mēģinās jums tādu nodrošināt. Lai izveidotu aprakstus, attēli tiek nosūtīti uzņēmumam Google. Jebkurā brīdī iestatījumos varat izslēgt šo iespēju.</translation>
+<translation id="763369711159699222">Palīdziet uzlabot Dissenter</translation>
+<translation id="89367911614620585">Šis fails var būt bīstams, tāpēc Dissenter to bloķēja.</translation>
+<translation id="3360368475735266712">Pierakstieties, lai sinhronizētu un personalizētu pārlūku Dissenter visās savās ierīcēs.</translation>
+<translation id="8340674089072921962"><ph name="USER_EMAIL_ADDRESS" /> iepriekš izmantoja Dissenter</translation>
+<translation id="8375950122744241554">Pārlūkā Dissenter 70 un jaunākās versijās vairs nebūs pieejami uzraudzīto lietotāju profili.</translation>
+<translation id="8379713241968949941">{0,plural, =1{Pārlūks Dissenter tiks restartēts pēc stundas}zero{Pārlūks Dissenter tiks restartēts pēc # stundām}one{Pārlūks Dissenter tiks restartēts pēc # stundas}other{Pārlūks Dissenter tiks restartēts pēc # stundām}}</translation>
+<translation id="8453117565092476964">Instalēšanas programmas arhīvs ir bojāts vai nav derīgs. Lejupielādējiet Dissenter vēlreiz.</translation>
+<translation id="8493179195440786826">Dissenter versija ir novecojusi</translation>
+<translation id="85843667276690461">Saņemt palīdzību par Dissenter izmantošanu</translation>
+<translation id="8586442755830160949">Autortiesības <ph name="YEAR" /> Dissenter autori. Visas tiesības paturētas.</translation>
+<translation id="8599548569518771270">{0,plural, =0{Operētājsistēma Dissenter OS tiks restartēta tūlīt}=1{Operētājsistēma Dissenter OS tiks restartēta pēc 1 sekundes}zero{Operētājsistēma Dissenter OS tiks restartēta pēc # sekundēm}one{Operētājsistēma Dissenter OS tiks restartēta pēc # sekundes}other{Operētājsistēma Dissenter OS tiks restartēta pēc # sekundēm}}</translation>
+<translation id="8619360774459241877">Notiek Dissenter palaišana...</translation>
+<translation id="8621669128220841554">Instalēšana neizdevās nenoteiktas kļūdas dēļ. Lejupielādējiet pārlūku Dissenter vēlreiz.</translation>
 <translation id="8667808506758191620"><ph name="DEVICE_TYPE" /> ierīce ir atjaunināta.</translation>
-<translation id="8697124171261953979">Tas nosaka arī to, kāda lapa tiks rādīta, kad atvērsiet pārlūku Brave vai meklēsiet, izmantojot universālo lodziņu.</translation>
-<translation id="4100716194836114130">Šis ir jūsu Brave</translation>
+<translation id="8697124171261953979">Tas nosaka arī to, kāda lapa tiks rādīta, kad atvērsiet pārlūku Dissenter vai meklēsiet, izmantojot universālo lodziņu.</translation>
+<translation id="4100716194836114130">Šis ir jūsu Dissenter</translation>
 <translation id="8704255848199359374">Šeit tiek izmantota tā pati pareizrakstības pārbaude, kāda tiek izmantota Google meklēšanā. Pārlūkprogrammā ievadītais teksts tiek nosūtīts Google serveriem. Jebkurā brīdī varat mainīt šo darbību iestatījumos.</translation>
-<translation id="8887390605192156061">Aizveriet visas Brave kopijas.</translation>
-<translation id="8796602469536043152">Pārlūkam Brave ir nepieciešama atļauja piekļūt jūsu kamerai un mikrofonam šajā vietnē.</translation>
-<translation id="8803635938069941624">Brave OS noteikumi</translation>
-<translation id="8821041990367117597">Brave nevarēja sinhronizēt jūsu datus, jo jūsu konta pierakstīšanās informācija ir novecojusi.</translation>
+<translation id="8887390605192156061">Aizveriet visas Dissenter kopijas.</translation>
+<translation id="8796602469536043152">Pārlūkam Dissenter ir nepieciešama atļauja piekļūt jūsu kamerai un mikrofonam šajā vietnē.</translation>
+<translation id="8803635938069941624">Dissenter OS noteikumi</translation>
+<translation id="8821041990367117597">Dissenter nevarēja sinhronizēt jūsu datus, jo jūsu konta pierakstīšanās informācija ir novecojusi.</translation>
 <translation id="8862326446509486874">Jums nav vajadzīgo tiesību, lai instalētu sistēmas līmenī. Mēģiniet vēlreiz palaist instalēšanas programmu kā administrators.</translation>
-<translation id="8897323336392112261">Tas nosaka arī to, kāda lapa tiks rādīta, kad atvērsiet pārlūku Brave vai noklikšķināsiet uz pogas “Sākums”.</translation>
-<translation id="8907580949721785412">Brave mēģina rādīt paroles. Lai to atļautu, ierakstiet savu Windows paroli.</translation>
-<translation id="6389268239133412586">Nevar atjaunināt Brave</translation>
+<translation id="8897323336392112261">Tas nosaka arī to, kāda lapa tiks rādīta, kad atvērsiet pārlūku Dissenter vai noklikšķināsiet uz pogas “Sākums”.</translation>
+<translation id="8907580949721785412">Dissenter mēģina rādīt paroles. Lai to atļautu, ierakstiet savu Windows paroli.</translation>
+<translation id="6389268239133412586">Nevar atjaunināt Dissenter</translation>
 <translation id="8974095189086268230">Chrome OS ir kļuvusi iespējama, pateicoties papildu <ph name="BEGIN_LINK_CROS_OSS" />atklātā pirmkoda programmatūrai<ph name="END_LINK_CROS_OSS" />.</translation>
-<translation id="8985587603644336029">Kāds iepriekš pierakstījās operētājsistēmā Brave šajā datorā, izmantojot e-pasta adresi <ph name="ACCOUNT_EMAIL_LAST" />. Ja tas nav jūsu konts, izveidojiet jaunu Brave lietotāju, lai jūsu informācija tiktu glabāta atsevišķi.
+<translation id="8985587603644336029">Kāds iepriekš pierakstījās operētājsistēmā Dissenter šajā datorā, izmantojot e-pasta adresi <ph name="ACCOUNT_EMAIL_LAST" />. Ja tas nav jūsu konts, izveidojiet jaunu Dissenter lietotāju, lai jūsu informācija tiktu glabāta atsevišķi.
 
-Ja pierakstīsieties tik un tā, Brave informācija, piemēram, grāmatzīmes, vēsture un citi iestatījumi, tiks apvienota ar konta <ph name="ACCOUNT_EMAIL_NEW" /> informāciju.</translation>
-<translation id="9019929317751753759">Lai uzlabotu Brave drošību, mēs atspējojām tālāk norādīto paplašinājumu, kas nav norādīts vietnē <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> un, iespējams, tika pievienots, jums nezinot.</translation>
-<translation id="82609232232243542">Pierakstieties pārlūkā Brave</translation>
-<translation id="5805364706385912897">Šī lapa izmanto pārāk daudz atmiņas, tādēļ Brave to apturēja.</translation>
-<translation id="9036189287518468038">Brave lietotņu palaišanas programma</translation>
-<translation id="5173820533850252773">Brave versija ir novecojusi.</translation>
-<translation id="91086099826398415">Atvērt saiti jaunā Brave &amp;cilnē</translation>
+Ja pierakstīsieties tik un tā, Dissenter informācija, piemēram, grāmatzīmes, vēsture un citi iestatījumi, tiks apvienota ar konta <ph name="ACCOUNT_EMAIL_NEW" /> informāciju.</translation>
+<translation id="9019929317751753759">Lai uzlabotu Dissenter drošību, mēs atspējojām tālāk norādīto paplašinājumu, kas nav norādīts vietnē <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> un, iespējams, tika pievienots, jums nezinot.</translation>
+<translation id="82609232232243542">Pierakstieties pārlūkā Dissenter</translation>
+<translation id="5805364706385912897">Šī lapa izmanto pārāk daudz atmiņas, tādēļ Dissenter to apturēja.</translation>
+<translation id="9036189287518468038">Dissenter lietotņu palaišanas programma</translation>
+<translation id="5173820533850252773">Dissenter versija ir novecojusi.</translation>
+<translation id="91086099826398415">Atvērt saiti jaunā Dissenter &amp;cilnē</translation>
 <translation id="911206726377975832">Vai dzēst arī pārlūkošanas datus?</translation>
-<translation id="9158494823179993217">Sistēmas administrators ir konfigurējis Brave, lai vietne <ph name="TARGET_URL_HOSTNAME" /> tiktu atvērta papildu pārlūkā.</translation>
-<translation id="4806360651959814118">Atvienojot lietotāju <ph name="USERNAME" />, tiks notīrīta vēsture, grāmatzīmes, iestatījumi un citi Brave dati, kas ir saglabāti šajā ierīcē. Jūsu Google kontā saglabātie dati netiks notīrīti, un tos var pārvaldīt <ph name="GOOGLE_DASHBOARD_LINK" />Google informācijas panelī<ph name="END_GOOGLE_DASHBOARD_LINK" />.</translation>
-<translation id="9190841055450128916">Brave (mDNS ienākošie savienojumi)</translation>
-<translation id="4934157190377700991">Jūs esat pierakstījies pārlūkā Brave</translation>
-<translation id="93478295209880648">Iespējams, Brave nedarbosies pareizi, jo tas vairs netiek atbalstīts operētājsistēmās Windows XP un Windows Vista.</translation>
-<translation id="95514773681268843">Pirms šīs ierīces lietošanas jums ir jāizlasa un jāapstiprina tālāk sniegtie domēna <ph name="DOMAIN" /> pakalpojumu sniegšanas noteikumi. Šie noteikumi nepaplašina, nepārveido vai neierobežo operētājsistēmas Brave OS noteikumus.</translation>
-<translation id="985602178874221306">Brave autori</translation>
+<translation id="9158494823179993217">Sistēmas administrators ir konfigurējis Dissenter, lai vietne <ph name="TARGET_URL_HOSTNAME" /> tiktu atvērta papildu pārlūkā.</translation>
+<translation id="4806360651959814118">Atvienojot lietotāju <ph name="USERNAME" />, tiks notīrīta vēsture, grāmatzīmes, iestatījumi un citi Dissenter dati, kas ir saglabāti šajā ierīcē. Jūsu Google kontā saglabātie dati netiks notīrīti, un tos var pārvaldīt <ph name="GOOGLE_DASHBOARD_LINK" />Google informācijas panelī<ph name="END_GOOGLE_DASHBOARD_LINK" />.</translation>
+<translation id="9190841055450128916">Dissenter (mDNS ienākošie savienojumi)</translation>
+<translation id="4934157190377700991">Jūs esat pierakstījies pārlūkā Dissenter</translation>
+<translation id="93478295209880648">Iespējams, Dissenter nedarbosies pareizi, jo tas vairs netiek atbalstīts operētājsistēmās Windows XP un Windows Vista.</translation>
+<translation id="95514773681268843">Pirms šīs ierīces lietošanas jums ir jāizlasa un jāapstiprina tālāk sniegtie domēna <ph name="DOMAIN" /> pakalpojumu sniegšanas noteikumi. Šie noteikumi nepaplašina, nepārveido vai neierobežo operētājsistēmas Dissenter OS noteikumus.</translation>
+<translation id="985602178874221306">Dissenter autori</translation>
 </translationbundle>

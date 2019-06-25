@@ -1,6 +1,6 @@
 <resources>
 
-    <string name="brave_settings_title">Brave webskjoldsindstillinger for</string>
+    <string name="brave_settings_title">Dissenter webskjoldsindstillinger for</string>
     <string name="brave_shields_down">Ned</string>
     <string name="brave_shields_up">Op</string>
     <string name="brave_shields_ads_trackers">Reklamer og Sporere er blokeret</string>
@@ -9,7 +9,7 @@
     <string name="brave_shields_ads_tracking_switch">Blokér Reklamer og sporing</string>
     <string name="brave_shields_https_everywhere_switch">HTTPS Everywhere</string>
     <string name="brave_shields_blocks_scripts_switch">Blokér Scripts</string>
-    <string name="accessibility_toolbar_btn_brave_shields">Aktivér/Desaktivér Brave Skjolde</string>
+    <string name="accessibility_toolbar_btn_brave_shields">Aktivér/Desaktivér Dissenter Skjolde</string>
     <string name="brave_shields_block_3rd_party_cookies_switch">Bloker 3. parts cookies</string>
 
     <string name="httpse_summary">Åbner understøttede sider ved at bruge HTTPS i stedet for HTTP når det er muligt</string>
@@ -65,13 +65,13 @@ besparelse</string>
     <string name="website_settings_category_play_video_in_background_enabled_summary">Aktiveret</string>
     <string name="website_settings_category_play_video_in_background_disabled_summary">Deaktiveret</string>
     <string name="website_settings_category_play_video_in_background_enabled">Eksperimentel. Gør det muligt at afspille lyd fra video i baggrunden, når fanen ikke er aktiv eller enhedens skærm er slukket. Prøv at skifte til skrivebordstilstand, hvis denne funktion ikke virker.</string>
-    <string name="settings_require_relaunch_notice">Dine ændringer træder i kraft næste gang du genstarter Brave</string>
+    <string name="settings_require_relaunch_notice">Dine ændringer træder i kraft næste gang du genstarter Dissenter</string>
     <string name="settings_require_relaunch_now">GENSTART NU</string>
     <string name="settings_require_relaunch_later">SENERE</string>
 
-    <string name="play_yt_video_in_browser_title">Videoafspilning i Brave</string>
+    <string name="play_yt_video_in_browser_title">Videoafspilning i Dissenter</string>
     <string name="website_settings_category_play_yt_video_in_browser_enabled_summary">Aktiveret</string>
     <string name="website_settings_category_play_yt_video_in_browser_disabled_summary">Deaktiveret</string>
-    <string name="website_settings_category_play_yt_video_in_browser_enabled">Hvis aktiveret, afspilles videoer i Brave i stedet for tilsvarende app</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled">Hvis aktiveret, afspilles videoer i Dissenter i stedet for tilsvarende app</string>
 
     </resources>

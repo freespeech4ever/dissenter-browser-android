@@ -1,6 +1,6 @@
 <resources>
 
-    <string name="brave_settings_title">Rregullime mburoje Brave sajti për</string>
+    <string name="brave_settings_title">Rregullime mburoje Dissenter sajti për</string>
     <string name="brave_shields_down">Poshtë</string>
     <string name="brave_shields_up">Sipër</string>
     <string name="brave_shields_ads_trackers">Reklama dhe Gjurmues të Bllokuar</string>
@@ -9,8 +9,8 @@
     <string name="brave_shields_ads_tracking_switch">Bllokoni Reklama dhe Gjurmues</string>
     <string name="brave_shields_https_everywhere_switch">HTTPS Everywhere</string>
     <string name="brave_shields_blocks_scripts_switch">Bllokoni Skripte</string>
-    <string name="accessibility_toolbar_btn_brave_shields">Aktivizoni/Çaktivizoni Mburoja Brave</string>
-    <string name="accessibility_toolbar_btn_brave_rewards">Administroni Shpërblime Brave</string>
+    <string name="accessibility_toolbar_btn_brave_shields">Aktivizoni/Çaktivizoni Mburoja Dissenter</string>
+    <string name="accessibility_toolbar_btn_brave_rewards">Administroni Shpërblime Dissenter</string>
     <string name="brave_shields_block_3rd_party_cookies_switch">Blloko cookies palësh të treta</string>
 
     <string name="httpse_summary">Sajtet që e mbulojnë këtë akt, i hap duke përdorur HTTPS, në vend se HTTP, kur kjo është e mundur</string>
@@ -31,7 +31,7 @@
 
     <string name="menu_exit">Dilni</string>
 
-    <string name="brave_sync">Brave Sync (beta)</string>
+    <string name="brave_sync">Dissenter Sync (beta)</string>
     <string name="sync_settings_add_device_name_title">Shtoni emër pajisjeje</string>
     <string name="sync_settings_add_device_name_label">Jepni një emër opsional për këtë pajisje</string>
     <string name="sync_example_device_name">Pajisje Android</string>
@@ -66,11 +66,11 @@ Afërsisht</string>
     <string name="website_settings_category_play_video_in_background_enabled_summary">E aktivizuar</string>
     <string name="website_settings_category_play_video_in_background_disabled_summary">E çaktivizuar</string>
     <string name="website_settings_category_play_video_in_background_enabled">Eksperimentale. Bën të mundur luajtje audioje prej videosh në prapaskenë, kur skeda s\’është aktive ose kur ekrani i pajisjes është i fikur. Nëse kjo veçori nuk funksionon, provoni të kaloni te desktopi.</string>
-    <string name="settings_require_relaunch_notice">Ndryshimet tuaja do të hyjnë në fuqi herës tjetër që do të rinisni Brave-in</string>
+    <string name="settings_require_relaunch_notice">Ndryshimet tuaja do të hyjnë në fuqi herës tjetër që do të rinisni Dissenter-in</string>
     <string name="settings_require_relaunch_now">RINISENI TANI</string>
     <string name="settings_require_relaunch_later">MË VONË</string>
 
-    <string name="play_yt_video_in_browser_title">Luajtje videosh në Brave</string>
+    <string name="play_yt_video_in_browser_title">Luajtje videosh në Dissenter</string>
     <string name="website_settings_category_play_yt_video_in_browser_enabled_summary">E aktivizuar</string>
     <string name="website_settings_category_play_yt_video_in_browser_disabled_summary">E çaktivizuar</string>
     <string name="website_settings_category_play_yt_video_in_browser_enabled">Në u aktivizoftë, videot do të luhen në brave, në vend se te aplikacioni përkatës</string>
@@ -82,7 +82,7 @@ Afërsisht</string>
     <string name="open_pages_in_custom_tabs_summary">Ofro hapjen e skedave në Skeda Vetjake</string>
 
     <string name="ddg_offer_title">Kërkim privat me DuckDuckGo?</string>
-    <string name="ddg_offer_text">Nën kërkim privat, Brave-i do të përdorë DuckDuckGo për t\’iu përgjigjur kërkimeve tuaja, teksa gjendeni në këtë skedë private. DuckDuckGo është një motor kërkimesh që nuk e ndjek historikun e kërkimeve tuaja, duke bërë kështu të mundur të kërkoni privatisht.</string>
+    <string name="ddg_offer_text">Nën kërkim privat, Dissenter-i do të përdorë DuckDuckGo për t\’iu përgjigjur kërkimeve tuaja, teksa gjendeni në këtë skedë private. DuckDuckGo është një motor kërkimesh që nuk e ndjek historikun e kërkimeve tuaja, duke bërë kështu të mundur të kërkoni privatisht.</string>
     <string name="ddg_offer_positive">Po</string>
     <string name="ddg_offer_negative">Jo</string>
     <string name="ddg_offer_link">Mësoni rreth kërkimit privat me DuckDuckGo</string>
@@ -94,25 +94,25 @@ Afërsisht</string>
     <string name="brave_new_private_tab">Skedë e re private</string>
     <string name="brave_new_tab_private_header">Kjo është një Skedë Private</string>
     <string name="brave_new_tab_private_message">Edhe pse sajtet që vizitoni në skeda private nuk ruhen lokalisht, këto nuk ju bëjnë anonim apo të padukshëm për ISP-në tuaj, për punëdhënësin tuaj, apo për sajtet që vizitoni.</string>
-    <string name="update_notification_title">Përditësim Brave-i</string>
-    <string name="update_notification_text">Shfletuesi i ri Brave është 22% më i shpejtë</string>
+    <string name="update_notification_title">Përditësim Dissenter-i</string>
+    <string name="update_notification_text">Shfletuesi i ri Dissenter është 22% më i shpejtë</string>
     <string name="prefs_sync">Njëkohësim (beta)</string>
-    <string name="brave_sync_description_page_1_part_1">Brave Sync ju lejon të njëkohësoni privatisht të dhëna faqerojtësish mes Shfletuesve tuaj Brave në pajisje të ndryshme.</string>
+    <string name="brave_sync_description_page_1_part_1">Dissenter Sync ju lejon të njëkohësoni privatisht të dhëna faqerojtësish mes Shfletuesve tuaj Dissenter në pajisje të ndryshme.</string>
     <string name="brave_sync_description_page_1_part_2">Thjesht skanoni kodin prej zinxhirit tuaj të njëkohësimit që keni krijuar në pajisje tjetër. Ose nisni një zinxhir të ri.</string>
     <string name="brave_sync_scan_chain_code">Skanoni ose jepni kod njëkohësimi</string>
     <string name="brave_sync_start_new_chain">Nisni një zinxhir të ri njëkohësimi</string>
-    <string name="brave_sync_qrcode_message_v2">Duke përdorur një pajisje ekzistuese të njëkohësuar, hapni Rregullime Brave-i dhe kaloni te Rregullime > Njëkohësim. Zgjidhni \"Shtoni Pajisje\" dhe skanoni kodin QR të shfaqur në ekran.</string>
-    <string name="brave_sync_codewords_message">Duke përdorur një pajisje ekzistuese të njëkohësuar, hapni Rregullime Brave-i dhe kaloni te Rregullime > Njëkohësim. Zgjidhni \"Shtoni Pajisje\", mandej \"Shfaq fjalë kodi, më mirë\".</string>
+    <string name="brave_sync_qrcode_message_v2">Duke përdorur një pajisje ekzistuese të njëkohësuar, hapni Rregullime Dissenter-i dhe kaloni te Rregullime > Njëkohësim. Zgjidhni \"Shtoni Pajisje\" dhe skanoni kodin QR të shfaqur në ekran.</string>
+    <string name="brave_sync_codewords_message">Duke përdorur një pajisje ekzistuese të njëkohësuar, hapni Rregullime Dissenter-i dhe kaloni te Rregullime > Njëkohësim. Zgjidhni \"Shtoni Pajisje\", mandej \"Shfaq fjalë kodi, më mirë\".</string>
     <string name="brave_sync_btn_mobile">Shtoni një Pajisje Celulare</string>
     <string name="brave_sync_btn_laptop">Shtoni një Kompjuter</string>
     <string name="brave_sync_scan_sync_code">Skanoni këtë kod njëkohësimi</string>
-    <string name="brave_sync_add_mobile_device_text_part_1">Duke përdorur një telefon apo tablet të dytë, kaloni te Rregullime Brave-i > Njëkohësim > Skanim.</string>
+    <string name="brave_sync_add_mobile_device_text_part_1">Duke përdorur një telefon apo tablet të dytë, kaloni te Rregullime Dissenter-i > Njëkohësim > Skanim.</string>
     <string name="brave_sync_add_mobile_device_text_part_2">Fiksoni kodin QR (më sipër) me pajisjen tuaj të dytë, ose jepni fjalë kodi, nëse s\’ka kamera të përdorshme.</string>
     <string name="brave_sync_btn_done">U bë</string>
     <string name="brave_sync_tabs_text">Skeda</string>
     <string name="brave_sync_history_text">Historik</string>
     <string name="brave_sync_autofill_passwords_text">Vetëplotësim/Fjalëkalime</string>
-    <string name="brave_sync_payment_settings_text">Rregullime Pagesash Brave</string>
+    <string name="brave_sync_payment_settings_text">Rregullime Pagesash Dissenter</string>
     <string name="brave_sync_settings_title">NJËKOHËSO NË KËTË PAJISJE</string>
     <string name="brave_sync_settings_description">Ndryshimi i rregullimeve do të prekë vetëm të dhëna që kjo pajisje i ndan me të tjerët.</string>
     <string name="brave_sync_devices_title">TË TJERA PAJISJE NË ZINXHIR</string>
@@ -121,7 +121,7 @@ Afërsisht</string>
     <string name="brave_sync_remove_device_text">Hiqe këtë pajisje</string>
     <string name="brave_sync_code_words_title">Çiftoje</string>
     <string name="brave_sync_add_laptop_text_title">Jepni kodin e njëkohësimit të zinxhirit</string>
-    <string name="brave_sync_add_laptop_text_part_1">Në kompjuterin tuaj, kaloni te Rregullime Brave-i > Njëkohësime. Zgjidhni \"Jepni një Kod Njëkohësimi Zinxhiri\".</string>
+    <string name="brave_sync_add_laptop_text_part_1">Në kompjuterin tuaj, kaloni te Rregullime Dissenter-i > Njëkohësime. Zgjidhni \"Jepni një Kod Njëkohësimi Zinxhiri\".</string>
     <string name="brave_sync_add_laptop_text_part_2">Jepni fjalët e kodit më sipër, përfshi hapësira.</string>
     <string name="brave_sync_delete_device">Jeni i sigurt se doni të fshihet pajisja \'<ph name="DEVICE_NAME">%1$s</ph>\'?</string>
     <string name="brave_sync_delete_sent">Kërkesa për fshirje u dërgua. Pajisja do të hiqet së shpejti.</string>
@@ -137,14 +137,14 @@ Afërsisht</string>
     <string name="brave_sync_copied_text">U kopjua në Të papastër</string>
     <string name="brave_sync_this_device_text">(këtë pajisje)</string>
 
-    <string name="brave_already_set_as_default_browser">Brave-i është tashmë i caktuar
+    <string name="brave_already_set_as_default_browser">Dissenter-i është tashmë i caktuar
 si shfletuesi juaj parazgjedhje.</string>
     <string name="brave_default_browser_go_to_settings">E keni caktuar tashmë një shfletues parazgjedhje.
 Shfletuesin parazgjedhje mund ta ndryshoni te rregullimet tuaja për aplikacionin.</string>
-    <string name="brave_default_browser_notification_body">Kurseni baterinë dhe ngarkojini faqet web më shpejt. Bëjeni Brave-in Shfletuesin tuaj parazgjedhje. Që nga menuja e Brave-it, prekni “Caktojeni si shfletues parazgjedhje”</string>
+    <string name="brave_default_browser_notification_body">Kurseni baterinë dhe ngarkojini faqet web më shpejt. Bëjeni Dissenter-in Shfletuesin tuaj parazgjedhje. Që nga menuja e Dissenter-it, prekni “Caktojeni si shfletues parazgjedhje”</string>
     <string name="brave_set_default_browser">Vëre si shfletues parazgjedhje</string>
-    <string name="brave_set_default_browser_dialog_text">Përzgjidhni Brave-in prej listës dhe prekni “Përherë”</string>
-    <string name="brave_default_browser_existing_notification_body">Bëjeni Brave-in shfletuesin tuaj parazgjedhje
+    <string name="brave_set_default_browser_dialog_text">Përzgjidhni Dissenter-in prej listës dhe prekni “Përherë”</string>
+    <string name="brave_default_browser_existing_notification_body">Bëjeni Dissenter-in shfletuesin tuaj parazgjedhje
 Kurseni baterinë dhe ngarkojini faqet web më shpejt</string>
 
     <string name="brave_ui_welcome_header_two">Bëhuni gati të shijoni
@@ -169,7 +169,7 @@ shikim reklamash që respektojnë privatësinë.</string>
     <string name="brave_ui_send_tip">dërgo bakshishin tim</string>
     <string name="brave_ui_do_monthly">caktoni bakshish të përmuajshëm</string>
     <string name="brave_ui_not_enough_tokens">pikë të pamjaftueshme</string>
-    <string name="brave_ui_site_banner_notice_text">SHËNIM: Ky krijues s\’është regjistruar ende për të marrë kontribute nga përdorues të Brave-it. Do të provojmë ta japim kontributin derisa të verifikohen, ose derisa të kenë kaluar 90 ditë.</string>
+    <string name="brave_ui_site_banner_notice_text">SHËNIM: Ky krijues s\’është regjistruar ende për të marrë kontribute nga përdorues të Dissenter-it. Do të provojmë ta japim kontributin derisa të verifikohen, ose derisa të kenë kaluar 90 ditë.</string>
     <string name="brave_ui_please">ju lutemi</string>
     <string name="brave_ui_add_funds">shtoni fonde</string>
     <string name="brave_ui_thank_you">Faleminderit!</string>
@@ -197,9 +197,9 @@ muaj…</string>
     <string name="brave_ui_rewards_contribute_description">Keni kontribuar <ph name="BAT_VALUE">%1$s<ex>50</ex></ph> BAT.</string>
     <string name="brave_ui_one_time_donation">Bakshishe të Një here</string>
     <string name="brave_ui_recurring_donation">Bakshishe të Përmuajshëm</string>
-    <string name="brave_ui_verified_publisher">Botues Brave i Verifikuar</string>
+    <string name="brave_ui_verified_publisher">Botues Dissenter i Verifikuar</string>
     <string name="brave_ui_not_verified_publisher">Ende i paverifikuar</string>
-    <string name="brave_ui_not_verified_publisher_description">Ky krijues s\’është regjistruar ende për të marrë kontribute nga përdorues të Brave-it.
+    <string name="brave_ui_not_verified_publisher_description">Ky krijues s\’është regjistruar ende për të marrë kontribute nga përdorues të Dissenter-it.
 Çfarëdo bakshishi që dërgoni do të mbetet në portofolin tuaj derisa të verifikohen.</string>
     <string name="brave_ui_on_youtube">në YouTube</string>
     <string name="brave_ui_on_twitch">në Twitch</string>
@@ -210,14 +210,14 @@ të japë kontributet derisa të bëjnë verifikim, ose derisa të kenë kaluar 
     <string name="brave_ui_notification_desc_tip_error">Pati një problem me përpunimin e bakshishit tuaj, ju lutemi, riprovoni.</string>
     <string name="brave_ui_notification_desc_contr_error">Pati një problem me përpunimin e kontributit tuaj.</string>
     <string name="brave_rewards_local_uh_oh">Hëm!</string>
-    <string name="brave_rewards_local_server_not_responding">Shërbyesi i Shpërblimeve Brave nuk po përgjigjet. Do ta ndreqim sa më shpejt të jetë e mundur.</string>
+    <string name="brave_rewards_local_server_not_responding">Shërbyesi i Shpërblimeve Dissenter nuk po përgjigjet. Do ta ndreqim sa më shpejt të jetë e mundur.</string>
     <string name="brave_ui_grants">Grante</string>
     <string name="brave_ui_expires_on">skadon më <ph name="DATE">%1$s<ex>4/14/2019</ex></ph></string>
     <string name="brave_ui_insufficient_funds_msg">Fonde të Pamjaftueshëm</string>
-    <string name="brave_ui_insufficient_funds_desc">Llogaria jua Shpërblime Brave po pret për një depozitim.</string>
+    <string name="brave_ui_insufficient_funds_desc">Llogaria jua Shpërblime Dissenter po pret për një depozitim.</string>
     <string name="brave_ui_backup_wallet_msg">Kopjeruaje Portofolin</string>
     <string name="brave_ui_backup_wallet_desc">Ju lutemi, kopjeruani portofolin tuaj.</string>
-    <string name="brave_ui_brave_rewards">Shpërblime Brave</string>
+    <string name="brave_ui_brave_rewards">Shpërblime Dissenter</string>
     <string name="brave_ui_welcome_back_message">Mirë se u kthyet!</string>
     <string name="brave_ui_get_rewarded">Shpërblehuni për shfletim.</string>
     <string name="brave_ui_brave_rewards_desc">Fitoni duke parë reklama që respektojnë
@@ -233,21 +233,21 @@ përkrahje të krijuesve të lëndës që doni.</string>
     <string name="search_or_url">Kërkim ose URL</string>
     <string name="accessibility_toolbar_btn_bookmark">Krijoni një shenjë referimi</string>
     <string name="brave_ui_donate_monthly">Jepini bakshish këtij uebsajti çdo muaj</string>
-    <string name="brave_rewards_intro_title">Brave Rewards është këtu</string>
+    <string name="brave_rewards_intro_title">Dissenter Rewards është këtu</string>
     <string name="brave_rewards_intro_text">Mbështesni uebsajtet të cilat i doni.</string>
     <string name="brave_rewards_dismiss">Hiqni</string>
     <string name="brave_rewards_get_started">Filloni</string>
 
     <string name="prefs_section_display">Shfaqni</string>
     <string name="prefs_appearance">Pamja</string>
-    <string name="hide_brave_rewards_icon_title">Fshihni Ikonën e Brave Rewards</string>
-    <string name="hide_brave_rewards_icon_description">Fsheh Ikonën e Brave Rewards kur Brave Rewards nuk është i aktivizuar</string>
+    <string name="hide_brave_rewards_icon_title">Fshihni Ikonën e Dissenter Rewards</string>
+    <string name="hide_brave_rewards_icon_description">Fsheh Ikonën e Dissenter Rewards kur Dissenter Rewards nuk është i aktivizuar</string>
 
     <string name="brave_ui_pre_grant_message">Kontrolloni përsëri së shpejti per një dhuratë</string>
 
-    <string name="reset_brave_rewards_option">Rivendosni Brave Rewards</string>
-    <string name="reset_brave_rewards_option_description">Kjo do të fshijë portofolin tuaj Brave dhe do të rivendosë të gjitha të dhënat tuaja të Brave Rewards</string>
+    <string name="reset_brave_rewards_option">Rivendosni Dissenter Rewards</string>
+    <string name="reset_brave_rewards_option_description">Kjo do të fshijë portofolin tuaj Dissenter dhe do të rivendosë të gjitha të dhënat tuaja të Dissenter Rewards</string>
     <string name="reset_brave_rewards_error_title">Gabim i rivendosjes</string>
-    <string name="reset_brave_rewards_error_description">Pati një gabim në rivendosjen e Brave Rewards. Ju lutemi të rilëshoni Brave dhe të provoni përsëri</string>
+    <string name="reset_brave_rewards_error_description">Pati një gabim në rivendosjen e Dissenter Rewards. Ju lutemi të rilëshoni Dissenter dhe të provoni përsëri</string>
 
     </resources>

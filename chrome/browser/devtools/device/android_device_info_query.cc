@@ -90,7 +90,7 @@ const BrowserDescriptor kBrowserDescriptors[] = {
     "Chromium"
   },
   {
-    "com.brave.browser",
+    "com.dissenter.browser",
     kChromeDefaultSocket,
     "Brave"
   },

@@ -52,7 +52,7 @@
 
 2. Deploy it to your Android device:
 
-   `build/android/adb_install_apk.py out/Default/apks/Brave.apk`
+   `build/android/adb_install_apk.py out/Default/apks/Dissenter.apk`
 
 #### Release (arm)
 

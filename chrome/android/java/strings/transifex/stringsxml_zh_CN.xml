@@ -1,6 +1,6 @@
 <resources>
 
-    <string name="brave_settings_title">Brave网站屏蔽设置对象为</string>
+    <string name="brave_settings_title">Dissenter网站屏蔽设置对象为</string>
     <string name="brave_shields_down">关闭</string>
     <string name="brave_shields_up">开启</string>
     <string name="brave_shields_ads_trackers">已屏蔽广告和跟踪器</string>
@@ -9,8 +9,8 @@
     <string name="brave_shields_ads_tracking_switch">屏蔽广告和跟踪</string>
     <string name="brave_shields_https_everywhere_switch">HTTPS Everywhere</string>
     <string name="brave_shields_blocks_scripts_switch">屏蔽脚本</string>
-    <string name="accessibility_toolbar_btn_brave_shields">启用/禁用Brave屏蔽器</string>
-    <string name="accessibility_toolbar_btn_brave_rewards">管理 Brave 的奖励</string>
+    <string name="accessibility_toolbar_btn_brave_shields">启用/禁用Dissenter屏蔽器</string>
+    <string name="accessibility_toolbar_btn_brave_rewards">管理 Dissenter 的奖励</string>
     <string name="brave_shields_block_3rd_party_cookies_switch">屏蔽第三方cookies</string>
 
     <string name="httpse_summary">尽可能使用 HTTPS 而不是 HTTP 打开支持的网站</string>
@@ -31,7 +31,7 @@
 
     <string name="menu_exit">退出</string>
 
-    <string name="brave_sync">Brave 同步 （测试）</string>
+    <string name="brave_sync">Dissenter 同步 （测试）</string>
     <string name="sync_settings_add_device_name_title">添加设备名称</string>
     <string name="sync_settings_add_device_name_label">为此设备输入可选名称</string>
     <string name="sync_example_device_name">Android 设备</string>
@@ -66,14 +66,14 @@
     <string name="website_settings_category_play_video_in_background_enabled_summary">启用</string>
     <string name="website_settings_category_play_video_in_background_disabled_summary">禁用</string>
     <string name="website_settings_category_play_video_in_background_enabled">实验性功能。当标签页未激活或者设备锁屏时可以在后台播放视频。如果此功能不起作用，尝试切换到桌面模式。</string>
-    <string name="settings_require_relaunch_notice">您的更改将在重启Brave后生效</string>
+    <string name="settings_require_relaunch_notice">您的更改将在重启Dissenter后生效</string>
     <string name="settings_require_relaunch_now">现在重启</string>
     <string name="settings_require_relaunch_later">稍后</string>
 
-    <string name="play_yt_video_in_browser_title">在Brave中播放视频</string>
+    <string name="play_yt_video_in_browser_title">在Dissenter中播放视频</string>
     <string name="website_settings_category_play_yt_video_in_browser_enabled_summary">启用</string>
     <string name="website_settings_category_play_yt_video_in_browser_disabled_summary">禁用</string>
-    <string name="website_settings_category_play_yt_video_in_browser_enabled">启用后视频会使用Brave播放而不是相应的程序</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled">启用后视频会使用Dissenter播放而不是相应的程序</string>
 
     <string name="close_tabs_on_exit_title">退出时关闭标签页</string>
     <string name="close_tabs_on_exit_summary">不要在两次浏览会话中保存标签页</string>
@@ -82,7 +82,7 @@
     <string name="open_pages_in_custom_tabs_summary">在自定义标签页打开标签页的选项</string>
 
     <string name="ddg_offer_title">使用DuckDuckGo进行隐私搜索？</string>
-    <string name="ddg_offer_text">启用隐私搜索后，Brave会在隐私标签页中使用 DuckDuckGo 搜索。DuckDuckGo 这个搜索引擎不会通过搜索历史来跟踪您，可以保证您的搜索隐私性。</string>
+    <string name="ddg_offer_text">启用隐私搜索后，Dissenter会在隐私标签页中使用 DuckDuckGo 搜索。DuckDuckGo 这个搜索引擎不会通过搜索历史来跟踪您，可以保证您的搜索隐私性。</string>
     <string name="ddg_offer_positive">确定</string>
     <string name="ddg_offer_negative">取消</string>
     <string name="ddg_offer_link">了解如何使用 Duckduckgo 隐私搜索</string>
@@ -94,25 +94,25 @@
     <string name="brave_new_private_tab">新建隐私标签页</string>
     <string name="brave_new_tab_private_header">这是个隐私标签页</string>
     <string name="brave_new_tab_private_message">即使您通过隐私标签访问的网站未保存在本地，但这对于您的 ISP ，您的雇主或您访问的网站仍然不是匿名或者隐身的。</string>
-    <string name="update_notification_title">更新 Brave</string>
-    <string name="update_notification_text">新版Brave浏览器快了22%</string>
+    <string name="update_notification_title">更新 Dissenter</string>
+    <string name="update_notification_text">新版Dissenter浏览器快了22%</string>
     <string name="prefs_sync">同步（beta）</string>
-    <string name="brave_sync_description_page_1_part_1">Brave Sync允许您在不同设备上的Brave浏览器之间自行同步书签数据。</string>
+    <string name="brave_sync_description_page_1_part_1">Dissenter Sync允许您在不同设备上的Dissenter浏览器之间自行同步书签数据。</string>
     <string name="brave_sync_description_page_1_part_2">只需从另一个设备上创建的同步链中扫描代码。或者启动一个新的同步链。</string>
     <string name="brave_sync_scan_chain_code">扫描或输入同步代码</string>
     <string name="brave_sync_start_new_chain">启动一个新的同步链</string>
-    <string name="brave_sync_qrcode_message_v2">使用现有的同步设备，打开Brave设置然后导航到设置>同步。选择“添加设备”，扫描屏幕上显示的二维码。</string>
-    <string name="brave_sync_codewords_message">使用现有的同步设备，打开 Brave 设置和导航到设置>同步。选择“添加设备”，然后选择“替换显示码字”。</string>
+    <string name="brave_sync_qrcode_message_v2">使用现有的同步设备，打开Dissenter设置然后导航到设置>同步。选择“添加设备”，扫描屏幕上显示的二维码。</string>
+    <string name="brave_sync_codewords_message">使用现有的同步设备，打开 Dissenter 设置和导航到设置>同步。选择“添加设备”，然后选择“替换显示码字”。</string>
     <string name="brave_sync_btn_mobile">添加移动设备</string>
     <string name="brave_sync_btn_laptop">添加计算机</string>
     <string name="brave_sync_scan_sync_code">扫描此同步代码</string>
-    <string name="brave_sync_add_mobile_device_text_part_1">使用第二部手机或平板电脑，导航到Brave设置>同步>扫描。</string>
+    <string name="brave_sync_add_mobile_device_text_part_1">使用第二部手机或平板电脑，导航到Dissenter设置>同步>扫描。</string>
     <string name="brave_sync_add_mobile_device_text_part_2">用第二台设备捕捉二维码（上图），若无可用摄像头，则输入码字。</string>
     <string name="brave_sync_btn_done">完成</string>
     <string name="brave_sync_tabs_text">选项卡</string>
     <string name="brave_sync_history_text">历史</string>
     <string name="brave_sync_autofill_passwords_text">自动填充/密码</string>
-    <string name="brave_sync_payment_settings_text">Brave支付设置</string>
+    <string name="brave_sync_payment_settings_text">Dissenter支付设置</string>
     <string name="brave_sync_settings_title">在此设备上同步</string>
     <string name="brave_sync_settings_description">更改设置只会影响此设备与其他人共享的数据。</string>
     <string name="brave_sync_devices_title">链上其他设备</string>
@@ -121,7 +121,7 @@
     <string name="brave_sync_remove_device_text">删除此设备</string>
     <string name="brave_sync_code_words_title">配对</string>
     <string name="brave_sync_add_laptop_text_title">输入同步链代码</string>
-    <string name="brave_sync_add_laptop_text_part_1">在您的计算机上，导航到Brave设置>同步。选择“输入同步链代码”。</string>
+    <string name="brave_sync_add_laptop_text_part_1">在您的计算机上，导航到Dissenter设置>同步。选择“输入同步链代码”。</string>
     <string name="brave_sync_add_laptop_text_part_2">输入上面的码字，包括空格。</string>
     <string name="brave_sync_delete_device">您确定要删除设备“<ph name=\"DEVICE_NAME\">%1$s</ph>”？</string>
     <string name="brave_sync_delete_sent">已发送删除请求。设备将在短时间内移除。</string>
@@ -137,14 +137,14 @@
     <string name="brave_sync_copied_text">已复制到剪贴板</string>
     <string name="brave_sync_this_device_text">（此设备）</string>
 
-    <string name="brave_already_set_as_default_browser">Brave 已经设为
+    <string name="brave_already_set_as_default_browser">Dissenter 已经设为
 您的默认浏览器。</string>
     <string name="brave_default_browser_go_to_settings">您已经设置了默认浏览器。
 您可以在应用设置中更改默认浏览器。</string>
-    <string name="brave_default_browser_notification_body">节约电量并能更快的加载网页。设置 Brave 为默认浏览器。在 Brave 菜单中点击“设为默认浏览器” </string>
+    <string name="brave_default_browser_notification_body">节约电量并能更快的加载网页。设置 Dissenter 为默认浏览器。在 Dissenter 菜单中点击“设为默认浏览器” </string>
     <string name="brave_set_default_browser">设为默认浏览器</string>
-    <string name="brave_set_default_browser_dialog_text">在列表中选择 Brave 并点击“总是” </string>
-    <string name="brave_default_browser_existing_notification_body">设置 Brave 为默认浏览器
+    <string name="brave_set_default_browser_dialog_text">在列表中选择 Dissenter 并点击“总是” </string>
+    <string name="brave_default_browser_existing_notification_body">设置 Dissenter 为默认浏览器
 节约电量并能更快的加载网页</string>
 
     <string name="brave_ui_welcome_header_two">做好准备，体验
@@ -169,7 +169,7 @@
     <string name="brave_ui_send_tip">发送我的小费</string>
     <string name="brave_ui_do_monthly">设置每月小费</string>
     <string name="brave_ui_not_enough_tokens">代币不足</string>
-    <string name="brave_ui_site_banner_notice_text">注意：此创建者尚未签收 Brave 用户的捐款。我们将不断尝试捐献，直至得到验证，或者直至 90 天后。</string>
+    <string name="brave_ui_site_banner_notice_text">注意：此创建者尚未签收 Dissenter 用户的捐款。我们将不断尝试捐献，直至得到验证，或者直至 90 天后。</string>
     <string name="brave_ui_please">请</string>
     <string name="brave_ui_add_funds">增加资金</string>
     <string name="brave_ui_thank_you">谢谢您！</string>
@@ -198,9 +198,9 @@
     <string name="brave_ui_rewards_contribute_description">您已捐献 <ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph> BAT。</string>
     <string name="brave_ui_one_time_donation">一次性小费</string>
     <string name="brave_ui_recurring_donation">每月小费</string>
-    <string name="brave_ui_verified_publisher">Brave 验证发表者</string>
+    <string name="brave_ui_verified_publisher">Dissenter 验证发表者</string>
     <string name="brave_ui_not_verified_publisher">尚未验证</string>
-    <string name="brave_ui_not_verified_publisher_description">此创建者尚未签收 Brave 用户的捐款。
+    <string name="brave_ui_not_verified_publisher_description">此创建者尚未签收 Dissenter 用户的捐款。
     您发送的任何小费将仍然在您的钱包中，直至得到验证。</string>
     <string name="brave_ui_on_youtube">在 YouTube 上</string>
     <string name="brave_ui_on_twitch">在 Twitch 上</string>
@@ -214,14 +214,14 @@
     <string name="brave_ui_notification_desc_tip_error">处理您的小费时出现问题，请再试一次。</string>
     <string name="brave_ui_notification_desc_contr_error">处理您的捐款时出现问题。</string>
     <string name="brave_rewards_local_uh_oh">哎呀！</string>
-    <string name="brave_rewards_local_server_not_responding">Brave 奖励服务器无响应。我们将尽快修复。</string>
+    <string name="brave_rewards_local_server_not_responding">Dissenter 奖励服务器无响应。我们将尽快修复。</string>
     <string name="brave_ui_grants">捐款</string>
     <string name="brave_ui_expires_on">于 <ph name=\"DATE\">%1$s<ex>2019 年 4 月 14 日</ex></ph> 到期</string>
     <string name="brave_ui_insufficient_funds_msg">资金不足</string>
-    <string name="brave_ui_insufficient_funds_desc">您的 Brave 奖励账户正在等待存款。</string>
+    <string name="brave_ui_insufficient_funds_desc">您的 Dissenter 奖励账户正在等待存款。</string>
     <string name="brave_ui_backup_wallet_msg">备份钱包</string>
-    <string name="brave_ui_backup_wallet_desc">请备份您的 Brave 钱包。</string>
-    <string name="brave_ui_brave_rewards">Brave 奖励</string>
+    <string name="brave_ui_backup_wallet_desc">请备份您的 Dissenter 钱包。</string>
+    <string name="brave_ui_brave_rewards">Dissenter 奖励</string>
     <string name="brave_ui_welcome_back_message">欢迎回来！</string>
     <string name="brave_ui_get_rewarded">获取浏览奖励。</string>
     <string name="brave_ui_brave_rewards_desc">通过观看隐私尊重广告
@@ -237,21 +237,21 @@
     <string name="search_or_url">搜索或输入网址</string>
     <string name="accessibility_toolbar_btn_bookmark">创建书签</string>
     <string name="brave_ui_donate_monthly">每月打赏本网站</string>
-    <string name="brave_rewards_intro_title">Brave 奖励在此</string>
+    <string name="brave_rewards_intro_title">Dissenter 奖励在此</string>
     <string name="brave_rewards_intro_text">支持你喜爱的网站。</string>
     <string name="brave_rewards_dismiss">忽视</string>
     <string name="brave_rewards_get_started">开始</string>
 
     <string name="prefs_section_display">显示</string>
     <string name="prefs_appearance">外观</string>
-    <string name="hide_brave_rewards_icon_title">隐藏 Brave 奖励图标</string>
-    <string name="hide_brave_rewards_icon_description">当未启用 Brave 奖励时隐藏 Brave 奖励图标</string>
+    <string name="hide_brave_rewards_icon_title">隐藏 Dissenter 奖励图标</string>
+    <string name="hide_brave_rewards_icon_description">当未启用 Dissenter 奖励时隐藏 Dissenter 奖励图标</string>
 
     <string name="brave_ui_pre_grant_message">稍后回来查看免费令牌授权</string>
 
-    <string name="reset_brave_rewards_option">重设 Brave 奖励</string>
-    <string name="reset_brave_rewards_option_description">这将会删除你的 Brave 钱包并重设你的全部 Brave 奖励数据</string>
+    <string name="reset_brave_rewards_option">重设 Dissenter 奖励</string>
+    <string name="reset_brave_rewards_option_description">这将会删除你的 Dissenter 钱包并重设你的全部 Dissenter 奖励数据</string>
     <string name="reset_brave_rewards_error_title">重设错误</string>
-    <string name="reset_brave_rewards_error_description">重设 Brave 奖励时出现了一个错误。 请重新启动 Brave 并重试</string>
+    <string name="reset_brave_rewards_error_description">重设 Dissenter 奖励时出现了一个错误。 请重新启动 Dissenter 并重试</string>
 
     </resources>

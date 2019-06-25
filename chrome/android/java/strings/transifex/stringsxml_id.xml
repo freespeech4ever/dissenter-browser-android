@@ -1,6 +1,6 @@
 <resources>
 
-    <string name="brave_settings_title">Pengaturan perisai situs Brave untuk</string>
+    <string name="brave_settings_title">Pengaturan perisai situs Dissenter untuk</string>
     <string name="brave_shields_down">Turun</string>
     <string name="brave_shields_up">Naik</string>
     <string name="brave_shields_ads_trackers">Iklan dan Pelacak Diblokir</string>
@@ -9,8 +9,8 @@
     <string name="brave_shields_ads_tracking_switch">Blokir Iklan dan Pelacakan</string>
     <string name="brave_shields_https_everywhere_switch">HTTPS Everywhere</string>
     <string name="brave_shields_blocks_scripts_switch">Blokir Skrip</string>
-    <string name="accessibility_toolbar_btn_brave_shields">Aktifkan/Nonaktifkan Perisai Brave</string>
-    <string name="accessibility_toolbar_btn_brave_rewards">Kelola Brave Rewards</string>
+    <string name="accessibility_toolbar_btn_brave_shields">Aktifkan/Nonaktifkan Perisai Dissenter</string>
+    <string name="accessibility_toolbar_btn_brave_rewards">Kelola Dissenter Rewards</string>
     <string name="brave_shields_block_3rd_party_cookies_switch">Blokir kuki pihak ke-3</string>
 
     <string name="httpse_summary">Buka situs yang didukung menggunakan HTTPS daripada HTTP jika memungkinkan</string>
@@ -31,7 +31,7 @@
 
     <string name="menu_exit">Keluar</string>
 
-    <string name="brave_sync">Sinkronisasi Brave (beta)</string>
+    <string name="brave_sync">Sinkronisasi Dissenter (beta)</string>
     <string name="sync_settings_add_device_name_title">Tambahkan nama perangkat</string>
     <string name="sync_settings_add_device_name_label">Masukkan nama opsional untuk perangkat ini</string>
     <string name="sync_example_device_name">Perangkat Android</string>
@@ -68,14 +68,14 @@ Dihemat</string>
     <string name="website_settings_category_play_video_in_background_enabled_summary">Diaktifkan</string>
     <string name="website_settings_category_play_video_in_background_disabled_summary">Dinonaktifkan</string>
     <string name="website_settings_category_play_video_in_background_enabled">Eksperimental: Aktifkan memutar audio dari video di latar ketika tab tidak aktif atau layar perangkat mati. Coba beralih ke mode desktop jika fitur ini tidak bekerja.</string>
-    <string name="settings_require_relaunch_notice">Perubahan Anda akan berlaku setelah Anda meluncurkan ulang Brave</string>
+    <string name="settings_require_relaunch_notice">Perubahan Anda akan berlaku setelah Anda meluncurkan ulang Dissenter</string>
     <string name="settings_require_relaunch_now">LUNCURKAN ULANG</string>
     <string name="settings_require_relaunch_later">NANTI</string>
 
-    <string name="play_yt_video_in_browser_title">Pemutaran video di Brave</string>
+    <string name="play_yt_video_in_browser_title">Pemutaran video di Dissenter</string>
     <string name="website_settings_category_play_yt_video_in_browser_enabled_summary">Diaktifkan</string>
     <string name="website_settings_category_play_yt_video_in_browser_disabled_summary">Dinonaktifkan</string>
-    <string name="website_settings_category_play_yt_video_in_browser_enabled">Jika diaktifkan, video akan diputar di Brave dan bukan di aplikasi yang terkait</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled">Jika diaktifkan, video akan diputar di Dissenter dan bukan di aplikasi yang terkait</string>
 
     <string name="close_tabs_on_exit_title">Tutup tab saat keluar</string>
     <string name="close_tabs_on_exit_summary">Jangan ingat tab di antara sesi penjelajahan</string>
@@ -84,7 +84,7 @@ Dihemat</string>
     <string name="open_pages_in_custom_tabs_summary">Tawarkan untuk membuka tab di Tab Ubahsuai</string>
 
     <string name="ddg_offer_title">Pencarian pribadi dengan DuckDuckGo?</string>
-    <string name="ddg_offer_text">Dengan pencarian pribadi, Brave akan menggunakan DuckDuckGo untuk mencari jawaban pencarian Anda saat Anda berada dalam tab pribadi ini. DuckDuckGo adalah mesin pencari yang tidak merekam riwayat pencarian Anda, memungkinkan Anda untuk mencari secara pribadi.</string>
+    <string name="ddg_offer_text">Dengan pencarian pribadi, Dissenter akan menggunakan DuckDuckGo untuk mencari jawaban pencarian Anda saat Anda berada dalam tab pribadi ini. DuckDuckGo adalah mesin pencari yang tidak merekam riwayat pencarian Anda, memungkinkan Anda untuk mencari secara pribadi.</string>
     <string name="ddg_offer_positive">Ya
 </string>
     <string name="ddg_offer_negative">Tidak
@@ -99,25 +99,25 @@ Dihemat</string>
     <string name="brave_new_private_tab">Tab pribadi baru</string>
     <string name="brave_new_tab_private_header">Ini adalah Tab Pribadi</string>
     <string name="brave_new_tab_private_message">Meski situs yang Anda kunjungi melalui tab pribadi tidak disimpan secara lokal, tetapi tidak membuat jadi anonim atau tak tampak dari ISP Anda, bos Anda, atau situs yang Anda kunjungi.</string>
-    <string name="update_notification_title">Pembaruan Brave</string>
-    <string name="update_notification_text">Peramban Brave baru 22% lebih cepat</string>
+    <string name="update_notification_title">Pembaruan Dissenter</string>
+    <string name="update_notification_text">Peramban Dissenter baru 22% lebih cepat</string>
     <string name="prefs_sync">Sync (beta)</string>
-    <string name="brave_sync_description_page_1_part_1">Brave Sync memungkinkan Anda mensinkronisasi data markah secara pribadi antarperamban Brave di semua perangkat Anda.</string>
+    <string name="brave_sync_description_page_1_part_1">Dissenter Sync memungkinkan Anda mensinkronisasi data markah secara pribadi antarperamban Dissenter di semua perangkat Anda.</string>
     <string name="brave_sync_description_page_1_part_2">Cukup pindai kode dari rantai sinkronisasi yang Anda buat pada perangkat lain. Atau mulai rantai sinkronisasi baru.</string>
     <string name="brave_sync_scan_chain_code">Pindai atau masukkan kode sinkronisasi</string>
     <string name="brave_sync_start_new_chain">Mulai rantai sinkronisasi baru</string>
-    <string name="brave_sync_qrcode_message_v2">Menggunakan perangkat tersinkronisasi yang ada, buka Pengaturan Brave dan bernavigasi ke Pengaturan > Sinkronisasi. Pilih \"Tambah Perangkat\" dan pindai Kode QR yang ditampilkan di layar.</string>
-    <string name="brave_sync_codewords_message">Menggunakan perangkat tersinkronisasi yang ada, buka Pengaturan Brave dan bernavigasi ke Pengaturan > Sinkronisasi. Pilih \"Tambah Perangkat\" lalu \"Tampilkan kata-kata kode\".</string>
+    <string name="brave_sync_qrcode_message_v2">Menggunakan perangkat tersinkronisasi yang ada, buka Pengaturan Dissenter dan bernavigasi ke Pengaturan > Sinkronisasi. Pilih \"Tambah Perangkat\" dan pindai Kode QR yang ditampilkan di layar.</string>
+    <string name="brave_sync_codewords_message">Menggunakan perangkat tersinkronisasi yang ada, buka Pengaturan Dissenter dan bernavigasi ke Pengaturan > Sinkronisasi. Pilih \"Tambah Perangkat\" lalu \"Tampilkan kata-kata kode\".</string>
     <string name="brave_sync_btn_mobile">Tambah Perangkat Seluler</string>
     <string name="brave_sync_btn_laptop">Tambah Komputer</string>
     <string name="brave_sync_scan_sync_code">Pindai kode sinkronisasi ini</string>
-    <string name="brave_sync_add_mobile_device_text_part_1">Menggunakan ponsel atau tablet kedua, buka Pengaturan Brave > Sinkronisasi > Pindai.</string>
+    <string name="brave_sync_add_mobile_device_text_part_1">Menggunakan ponsel atau tablet kedua, buka Pengaturan Dissenter > Sinkronisasi > Pindai.</string>
     <string name="brave_sync_add_mobile_device_text_part_2">Tangkap kode QR (di atas) dengan perangkat kedua Anda, atau masukkan kata-kata kode jika tidak ada kamera.</string>
     <string name="brave_sync_btn_done">Selesai</string>
     <string name="brave_sync_tabs_text">Tab</string>
     <string name="brave_sync_history_text">Riwayat</string>
     <string name="brave_sync_autofill_passwords_text">Isi otomatis/Kata sandi</string>
-    <string name="brave_sync_payment_settings_text">Pengaturan Brave Payment</string>
+    <string name="brave_sync_payment_settings_text">Pengaturan Dissenter Payment</string>
     <string name="brave_sync_settings_title">SINKRONISASI DI PERANGKAT INI</string>
     <string name="brave_sync_settings_description">Mengubah pengaturan hanya akan mempengaruhi data yang dibagikan perangkat ini dengan perangkat lain.</string>
     <string name="brave_sync_devices_title">PERANGKAT LAIN DALAM RANTAI</string>
@@ -126,7 +126,7 @@ Dihemat</string>
     <string name="brave_sync_remove_device_text">Hapus perangkat ini</string>
     <string name="brave_sync_code_words_title">Sambungkan</string>
     <string name="brave_sync_add_laptop_text_title">Masukkan kode rantai sinkronisasi</string>
-    <string name="brave_sync_add_laptop_text_part_1">Pada komputer Anda, buka Pengaturan Brave > Sinkronisasi. Pilih \"Masukkan Kode Rantai Sinkronisasi\".</string>
+    <string name="brave_sync_add_laptop_text_part_1">Pada komputer Anda, buka Pengaturan Dissenter > Sinkronisasi. Pilih \"Masukkan Kode Rantai Sinkronisasi\".</string>
     <string name="brave_sync_add_laptop_text_part_2">Masukkan kata-kata kode di bawah ini, termasuk spasi.</string>
     <string name="brave_sync_delete_device">Yakin ingin menghapus perangkat \'<ph name=\"DEVICE_NAME\">%1$s</ph>\'?</string>
     <string name="brave_sync_delete_sent">Permintaan penghapusan telah dikirim. Perangkat akan dihapus sebentar lagi.</string>
@@ -142,14 +142,14 @@ Dihemat</string>
     <string name="brave_sync_copied_text">Telah Disalin ke Clipboard</string>
     <string name="brave_sync_this_device_text">(perangkat ini)</string>
 
-    <string name="brave_already_set_as_default_browser">Brave telah ditetapkan sebagai
+    <string name="brave_already_set_as_default_browser">Dissenter telah ditetapkan sebagai
 browser default.</string>
     <string name="brave_default_browser_go_to_settings">Anda telah menetapkan browser default.
 Anda dapat mengubah browser default dalam pengaturan aplikasi.</string>
-    <string name="brave_default_browser_notification_body">Hemat baterai dan muat laman web lebih cepat. Jadikan Brave peramban baku Anda. Dari menu Brave, ketuk \"Atur sebagai peramban baku\"</string>
+    <string name="brave_default_browser_notification_body">Hemat baterai dan muat laman web lebih cepat. Jadikan Dissenter peramban baku Anda. Dari menu Dissenter, ketuk \"Atur sebagai peramban baku\"</string>
     <string name="brave_set_default_browser">Atur sebagai peramban baku</string>
-    <string name="brave_set_default_browser_dialog_text">Pilih Brave dari daftar dan ketuk \"Selalu\"</string>
-    <string name="brave_default_browser_existing_notification_body">Jadikan Brave peramban baku Anda
+    <string name="brave_set_default_browser_dialog_text">Pilih Dissenter dari daftar dan ketuk \"Selalu\"</string>
+    <string name="brave_default_browser_existing_notification_body">Jadikan Dissenter peramban baku Anda
 Hemat baterai dan muat laman web lebih cepat</string>
 
     <string name="brave_ui_welcome_header_two">Bersiaplah untuk merasakan pengalaman
@@ -174,7 +174,7 @@ menonton iklan yang tidak mengganggu privasi.</string>
     <string name="brave_ui_send_tip">kirim tip saya</string>
     <string name="brave_ui_do_monthly">atur tip bulanan</string>
     <string name="brave_ui_not_enough_tokens">token tidak cukup</string>
-    <string name="brave_ui_site_banner_notice_text">CATATAN: Pembuat ini belum terdaftar untuk menerima kontribusi dari pengguna Brave. Kami akan terus mencoba memberikan kontribusi hingga diverifikasi, atau hingga 90 hari telah lewat.</string>
+    <string name="brave_ui_site_banner_notice_text">CATATAN: Pembuat ini belum terdaftar untuk menerima kontribusi dari pengguna Dissenter. Kami akan terus mencoba memberikan kontribusi hingga diverifikasi, atau hingga 90 hari telah lewat.</string>
     <string name="brave_ui_please">tambahkan</string>
     <string name="brave_ui_add_funds">dana</string>
     <string name="brave_ui_thank_you">Terima kasih!</string>
@@ -203,9 +203,9 @@ bulan ini...</string>
     <string name="brave_ui_rewards_contribute_description">Anda telah berkontribusi sebesar <ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph> BAT.</string>
     <string name="brave_ui_one_time_donation">Tip Satu Kali</string>
     <string name="brave_ui_recurring_donation">Tip Bulanan</string>
-    <string name="brave_ui_verified_publisher">Penerbit Terverifikasi Brave</string>
+    <string name="brave_ui_verified_publisher">Penerbit Terverifikasi Dissenter</string>
     <string name="brave_ui_not_verified_publisher">Belum terverifikasi</string>
-    <string name="brave_ui_not_verified_publisher_description">Pembuat ini belum terdaftar untuk menerima kontribusi dari pengguna Brave.
+    <string name="brave_ui_not_verified_publisher_description">Pembuat ini belum terdaftar untuk menerima kontribusi dari pengguna Dissenter.
         Setiap tip yang Anda kirim akan tetap ada di dompet Anda hingga diverifikasi.</string>
     <string name="brave_ui_on_youtube">di YouTube</string>
     <string name="brave_ui_on_twitch">di Twitch</string>
@@ -219,14 +219,14 @@ hingga diverifikasi, atau hingga 90 hari telah lewat.</string>
     <string name="brave_ui_notification_desc_tip_error">Terjadi masalah saat memproses tip Anda, coba lagi.</string>
     <string name="brave_ui_notification_desc_contr_error">Terjadi masalah saat memproses kontribusi Anda.</string>
     <string name="brave_rewards_local_uh_oh">Oh!</string>
-    <string name="brave_rewards_local_server_not_responding">Server Brave Rewards tidak merespons. Kami akan memperbaiki masalah ini secepat mungkin.</string>
+    <string name="brave_rewards_local_server_not_responding">Server Dissenter Rewards tidak merespons. Kami akan memperbaiki masalah ini secepat mungkin.</string>
     <string name="brave_ui_grants">Hadiah</string>
     <string name="brave_ui_expires_on">berakhir pada <ph name=\"DATE\">%1$s<ex>14/4/2019</ex></ph></string>
     <string name="brave_ui_insufficient_funds_msg">Dana Tidak Cukup</string>
-    <string name="brave_ui_insufficient_funds_desc">Akun Brave Rewards Anda sedang menunggu setoran dari Anda.</string>
+    <string name="brave_ui_insufficient_funds_desc">Akun Dissenter Rewards Anda sedang menunggu setoran dari Anda.</string>
     <string name="brave_ui_backup_wallet_msg">Dompet Cadangan</string>
-    <string name="brave_ui_backup_wallet_desc">Cadangkan dompet Brave Anda.</string>
-    <string name="brave_ui_brave_rewards">Brave Rewards</string>
+    <string name="brave_ui_backup_wallet_desc">Cadangkan dompet Dissenter Anda.</string>
+    <string name="brave_ui_brave_rewards">Dissenter Rewards</string>
     <string name="brave_ui_welcome_back_message">Selamat datang!</string>
     <string name="brave_ui_get_rewarded">Dapatkan hadiah saat menelusuri.</string>
     <string name="brave_ui_brave_rewards_desc">Dapatkan dengan menonton iklan
@@ -242,27 +242,27 @@ pembuat konten yang Anda sukai.</string>
     <string name="search_or_url">Cari atau URL</string>
     <string name="accessibility_toolbar_btn_bookmark">Buat markah</string>
     <string name="brave_ui_donate_monthly">Beri situs ini tip setiap bulan</string>
-    <string name="brave_rewards_intro_title">Brave Rewards sudah tiba</string>
+    <string name="brave_rewards_intro_title">Dissenter Rewards sudah tiba</string>
     <string name="brave_rewards_intro_text">Dukung situs yang Anda sukai.</string>
     <string name="brave_rewards_dismiss">Tutup</string>
     <string name="brave_rewards_get_started">Memulai</string>
 
-    <string name="brave_rewards_not_available">Maaf, sepertinya Brave Rewards tidak tersedia di perangkat Anda</string>
+    <string name="brave_rewards_not_available">Maaf, sepertinya Dissenter Rewards tidak tersedia di perangkat Anda</string>
 
     <string name="prefs_section_display">Layar Tampilan</string>
     <string name="prefs_appearance">Tampilan</string>
-    <string name="hide_brave_rewards_icon_title">Sembunyikan Ikon Brave Rewards</string>
-    <string name="hide_brave_rewards_icon_description">Menyembunyikan Ikon Brave Rewards ketika Brave Rewards tidak diaktifkan</string>
+    <string name="hide_brave_rewards_icon_title">Sembunyikan Ikon Dissenter Rewards</string>
+    <string name="hide_brave_rewards_icon_description">Menyembunyikan Ikon Dissenter Rewards ketika Dissenter Rewards tidak diaktifkan</string>
 
     <string name="brave_ui_pre_grant_message">Periksa lagi nanti untuk mendapatkan token gratis</string>
 
-    <string name="reset_brave_rewards_option">Atur Ulang Brave Rewards</string>
-    <string name="reset_brave_rewards_option_description">Dompet Brave Anda akan dihapus dan mengatur ulang semua data Brave Rewards Anda</string>
+    <string name="reset_brave_rewards_option">Atur Ulang Dissenter Rewards</string>
+    <string name="reset_brave_rewards_option_description">Dompet Dissenter Anda akan dihapus dan mengatur ulang semua data Dissenter Rewards Anda</string>
     <string name="reset_brave_rewards_error_title">Kesalahan Pengaturan Ulang</string>
-    <string name="reset_brave_rewards_error_description">Terjadi kesalahan saat mengatur ulang Brave Rewards. Harap luncurkan ulang Brave dan coba lagi</string>
+    <string name="reset_brave_rewards_error_description">Terjadi kesalahan saat mengatur ulang Dissenter Rewards. Harap luncurkan ulang Dissenter dan coba lagi</string>
 
     <string name="brave_sync_add_laptop_text_part_2_new">Masukkan kata-kata kode rantai sinkronisasi yang ditunjukkan di bawah ini. Perlakukan kode ini seperti kata sandi. Jika orang lain mengetahuinya, mereka dapat membaca dan memodifikasi data tersinkronkan milik Anda.</string>
 
-    <string name="brave_sync_official">Brave Sync</string>
+    <string name="brave_sync_official">Dissenter Sync</string>
     <string name="prefs_sync_official">Sinkronkan</string>
 </resources>

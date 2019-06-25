@@ -1,6 +1,6 @@
 <resources>
 
-    <string name="brave_settings_title">Nastavení stránkového štítu Brave pro</string>
+    <string name="brave_settings_title">Nastavení stránkového štítu Dissenter pro</string>
     <string name="brave_shields_down">Dolů</string>
     <string name="brave_shields_up">Nahoru</string>
     <string name="brave_shields_ads_trackers">Reklamy a trackery zablokovány</string>
@@ -9,7 +9,7 @@
     <string name="brave_shields_ads_tracking_switch">Zablokovat reklamy a sledování</string>
     <string name="brave_shields_https_everywhere_switch">HTTPS všude</string>
     <string name="brave_shields_blocks_scripts_switch">Blokovat skripty</string>
-    <string name="accessibility_toolbar_btn_brave_shields">Zapnout/vypnout štíty Brave</string>
+    <string name="accessibility_toolbar_btn_brave_shields">Zapnout/vypnout štíty Dissenter</string>
     <string name="brave_shields_block_3rd_party_cookies_switch">Blokovat cookies třetí strany</string>
 
     <string name="httpse_summary">Otevře podporované stránky pomocí HTTPS místo HTTP, pokud je to možné</string>
@@ -66,14 +66,14 @@ Uložen</string>
     <string name="website_settings_category_play_video_in_background_enabled_summary">Zapnuto</string>
     <string name="website_settings_category_play_video_in_background_disabled_summary">Vypnuto</string>
     <string name="website_settings_category_play_video_in_background_enabled">Experimentální. Umožňuje, aby zvuk z videa hrál na pozadí, když panel není aktivní nebo je vypnutá obrazovka zařízení. Pokud tato funkce nefunguje, zkuste přepnout na desktopový mód.</string>
-    <string name="settings_require_relaunch_notice">Vaše změny začnou platit, až znovu spustíte Brave.</string>
+    <string name="settings_require_relaunch_notice">Vaše změny začnou platit, až znovu spustíte Dissenter.</string>
     <string name="settings_require_relaunch_now">ZNOVU SPUSTIT NYNÍ</string>
     <string name="settings_require_relaunch_later">POZDĚJI</string>
 
-    <string name="play_yt_video_in_browser_title">Přehrávání videa v aplikaci Brave</string>
+    <string name="play_yt_video_in_browser_title">Přehrávání videa v aplikaci Dissenter</string>
     <string name="website_settings_category_play_yt_video_in_browser_enabled_summary">Povoleno</string>
     <string name="website_settings_category_play_yt_video_in_browser_disabled_summary">Zakázáno</string>
-    <string name="website_settings_category_play_yt_video_in_browser_enabled">Pokud je tato funkce povolena, videa budou přehrávána v aplikaci Brave namísto příslušné aplikace</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled">Pokud je tato funkce povolena, videa budou přehrávána v aplikaci Dissenter namísto příslušné aplikace</string>
 
     <string name="close_tabs_on_exit_title">Zavřít panely při vypnutí</string>
     <string name="close_tabs_on_exit_summary">Neponechávat panely mezi relacemi prohlížeče</string>
@@ -82,7 +82,7 @@ Uložen</string>
     <string name="open_pages_in_custom_tabs_summary">Nabídnout otevření ve Vlastních kartách</string>
 
     <string name="ddg_offer_title">Soukromé vyhledávání ve vyhledávači DuckDuckGo? </string>
-    <string name="ddg_offer_text">Díky soukromému vyhledávání Brave použije vyhledávač DuckDuckGo k odpovědi na vaše vyhledávání, zatímco budete na této soukromé kartě. DuckDuckGo je vyhledávač, který nezaznamenává vaši historii vyhledávání a umožní vám vyhledávat v anonymitě.</string>
+    <string name="ddg_offer_text">Díky soukromému vyhledávání Dissenter použije vyhledávač DuckDuckGo k odpovědi na vaše vyhledávání, zatímco budete na této soukromé kartě. DuckDuckGo je vyhledávač, který nezaznamenává vaši historii vyhledávání a umožní vám vyhledávat v anonymitě.</string>
     <string name="ddg_offer_positive">Ano</string>
     <string name="ddg_offer_negative">Ne</string>
     <string name="ddg_offer_link">Zjistěte více o soukromém vyhledávání s vyhledávačem DuckDuckGo</string>
@@ -94,25 +94,25 @@ Uložen</string>
     <string name="brave_new_private_tab">Nová soukromá karta</string>
     <string name="brave_new_tab_private_header">Toto je soukromá karta </string>
     <string name="brave_new_tab_private_message">Přestože stránky, které jste navštívili v anonymním okně, nejsou ukládány lokálně, nezaručují vám anonymitu ani neviditelnost u vašeho poskytovatele internetu, zaměstnavatele ani navštěvovaných stránek.</string>
-    <string name="update_notification_title">Aktualizace Brave</string>
-    <string name="update_notification_text">Nový prohlížeč Brave je o 22 % rychlejší</string>
+    <string name="update_notification_title">Aktualizace Dissenter</string>
+    <string name="update_notification_text">Nový prohlížeč Dissenter je o 22 % rychlejší</string>
     <string name="prefs_sync">Synchronizace (beta)</string>
-    <string name="brave_sync_description_page_1_part_1">Synchronizace Brave umožňuje soukromě synchronizovat data z uložených záložek mezi vašimi prohlížeči Brave na různých zařízeních.</string>
+    <string name="brave_sync_description_page_1_part_1">Synchronizace Dissenter umožňuje soukromě synchronizovat data z uložených záložek mezi vašimi prohlížeči Dissenter na různých zařízeních.</string>
     <string name="brave_sync_description_page_1_part_2">Jednoduše naskenujte kód z vašeho synchronizačního řetězce, který jste vytvořili na jiném zařízení, nebo spusťte nový.</string>
     <string name="brave_sync_scan_chain_code">Naskenovat nebo zadat synchronizační kód</string>
     <string name="brave_sync_start_new_chain">Spustit nový synchronizační řetězec</string>
-    <string name="brave_sync_qrcode_message_v2">Na existujícím synchronizovaném zařízení otevřete Nastavení Brave a přejděte na Nastavení > Synchronizace. Vyberte „Vybrat zařízení“ a naskenujte QR kód z obrazovky.</string>
-    <string name="brave_sync_codewords_message">Na existujícím synchronizovaném zařízení otevřete Nastavení Brave a přejděte na Nastavení > Synchronizace. Vyberte „Přidat zařízení“ a potom „Místo toho zobrazit kódová slova“.</string>
+    <string name="brave_sync_qrcode_message_v2">Na existujícím synchronizovaném zařízení otevřete Nastavení Dissenter a přejděte na Nastavení > Synchronizace. Vyberte „Vybrat zařízení“ a naskenujte QR kód z obrazovky.</string>
+    <string name="brave_sync_codewords_message">Na existujícím synchronizovaném zařízení otevřete Nastavení Dissenter a přejděte na Nastavení > Synchronizace. Vyberte „Přidat zařízení“ a potom „Místo toho zobrazit kódová slova“.</string>
     <string name="brave_sync_btn_mobile">Přidat mobilní zařízení</string>
     <string name="brave_sync_btn_laptop">Přidat počítač</string>
     <string name="brave_sync_scan_sync_code">Naskenujte tento synchronizační kód</string>
-    <string name="brave_sync_add_mobile_device_text_part_1">Na druhém telefonu nebo tabletu přejděte na Nastavení Brave > Synchronizace > Skenovat.</string>
+    <string name="brave_sync_add_mobile_device_text_part_1">Na druhém telefonu nebo tabletu přejděte na Nastavení Dissenter > Synchronizace > Skenovat.</string>
     <string name="brave_sync_add_mobile_device_text_part_2">Vyfoťte QR kód (výše) vaším druhým zařízením, nebo pokud nemáte k dispozici fotoaparát, vložte kódová slova.</string>
     <string name="brave_sync_btn_done">Hotovo</string>
     <string name="brave_sync_tabs_text">Karty</string>
     <string name="brave_sync_history_text">Historie</string>
     <string name="brave_sync_autofill_passwords_text">Automatické vyplnění / Hesla</string>
-    <string name="brave_sync_payment_settings_text">Nastavení plateb Brave</string>
+    <string name="brave_sync_payment_settings_text">Nastavení plateb Dissenter</string>
     <string name="brave_sync_settings_title">SYNCHRONIZOVAT NA TOMTO ZAŘÍZENÍ</string>
     <string name="brave_sync_settings_description">Změna nastavení ovlivní pouze data, která toto zařízení sdílí s jinými zařízeními.</string>
     <string name="brave_sync_devices_title">DALŠÍ ZAŘÍZENÍ V ŘETĚZCI</string>
@@ -121,7 +121,7 @@ Uložen</string>
     <string name="brave_sync_remove_device_text">Odstranit toto zařízení</string>
     <string name="brave_sync_code_words_title">Spárovat</string>
     <string name="brave_sync_add_laptop_text_title">Zadejte kód synchronizačního řetězce</string>
-    <string name="brave_sync_add_laptop_text_part_1">Na svém počítači přejděte na Nastavení Brave > Synchronizace. Vyberte „Zadat kód synchronizačního řetězce“.</string>
+    <string name="brave_sync_add_laptop_text_part_1">Na svém počítači přejděte na Nastavení Dissenter > Synchronizace. Vyberte „Zadat kód synchronizačního řetězce“.</string>
     <string name="brave_sync_add_laptop_text_part_2">Vložte kódová slova výše včetně mezer.</string>
     <string name="brave_sync_delete_device">Opravdu chcete odstranit zařízení „<ph name=\"DEVICE_NAME\">%1$s</ph>“?</string>
     <string name="brave_sync_delete_sent">Žádost o odstranění byla odeslána. Zařízení bude brzy odebráno.</string>
@@ -137,14 +137,14 @@ Uložen</string>
     <string name="brave_sync_copied_text">Zkopírováno do schránky</string>
     <string name="brave_sync_this_device_text">(toto zařízení)</string>
 
-    <string name="brave_already_set_as_default_browser">Brave je už nastaven
+    <string name="brave_already_set_as_default_browser">Dissenter je už nastaven
 jako váš výchozí prohlížeč.</string>
     <string name="brave_default_browser_go_to_settings">Výchozí prohlížeč jste si už vybrali. 
 Změnit ho můžete v nastavení aplikací. </string>
-    <string name="brave_default_browser_notification_body">Šetřete baterii a načítejte webové stránky rychleji. Učiňte z Brave svůj výchozí prohlížeč. V nabídce Brave klikněte na \"Nastavit jako výchozí prohlížeč\"</string>
+    <string name="brave_default_browser_notification_body">Šetřete baterii a načítejte webové stránky rychleji. Učiňte z Dissenter svůj výchozí prohlížeč. V nabídce Dissenter klikněte na \"Nastavit jako výchozí prohlížeč\"</string>
     <string name="brave_set_default_browser">Nastavit jako výchozí prohlížeč</string>
-    <string name="brave_set_default_browser_dialog_text">Zvolte v seznamu Brave a klepněte na \"Vždy\"</string>
-    <string name="brave_default_browser_existing_notification_body">Nastavte si Brave jako výchozí webový prohlížeč
+    <string name="brave_set_default_browser_dialog_text">Zvolte v seznamu Dissenter a klepněte na \"Vždy\"</string>
+    <string name="brave_default_browser_existing_notification_body">Nastavte si Dissenter jako výchozí webový prohlížeč
 Šetřete baterii a nahrávejte webové stránky rychleji </string>
 
     <string name="brave_ui_welcome_header_two">Připravte se na nový zážitek
@@ -169,7 +169,7 @@ za sledování reklam respektujících soukromí.</string>
     <string name="brave_ui_send_tip">poslat spropitné</string>
     <string name="brave_ui_do_monthly">nastavit měsíční spropitné</string>
     <string name="brave_ui_not_enough_tokens">nedostatek tokenů</string>
-    <string name="brave_ui_site_banner_notice_text">POZNÁMKA: Tento autor se zatím nezaregistroval, aby mohl získávat příspěvky od uživatelů Brave. Budeme se mu snažit přispívat, dokud svůj účet neověří, nebo dokud neuplyne 90 dní.</string>
+    <string name="brave_ui_site_banner_notice_text">POZNÁMKA: Tento autor se zatím nezaregistroval, aby mohl získávat příspěvky od uživatelů Dissenter. Budeme se mu snažit přispívat, dokud svůj účet neověří, nebo dokud neuplyne 90 dní.</string>
     <string name="brave_ui_please">prosím</string>
     <string name="brave_ui_add_funds">přidat prostředky</string>
     <string name="brave_ui_thank_you">Děkujeme!</string>
@@ -198,9 +198,9 @@ k žádné aktivitě...</string>
     <string name="brave_ui_rewards_contribute_description">Přispěl/a jste <ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph> BAT.</string>
     <string name="brave_ui_one_time_donation">Jednorázové spropitné</string>
     <string name="brave_ui_recurring_donation">Měsíční spropitné</string>
-    <string name="brave_ui_verified_publisher">Autor ověřený Brave</string>
+    <string name="brave_ui_verified_publisher">Autor ověřený Dissenter</string>
     <string name="brave_ui_not_verified_publisher">Zatím neověřeno</string>
-    <string name="brave_ui_not_verified_publisher_description">Tento autor se zatím nezaregistroval, aby mohl získávat příspěvky od uživatelů Brave.
+    <string name="brave_ui_not_verified_publisher_description">Tento autor se zatím nezaregistroval, aby mohl získávat příspěvky od uživatelů Dissenter.
       Jakékoli zaslané spropitné zůstane ve vaší peněžence, dokud autor svůj účet neověří.</string>
     <string name="brave_ui_on_youtube">na YouTube</string>
     <string name="brave_ui_on_twitch">na Twitchi</string>
@@ -213,14 +213,14 @@ dokud autoři svůj účet neověří, nebo dokud neuplyne 90 dní. </string>
     <string name="brave_ui_notification_desc_tip_error">Při zpracovávání vašeho spropitného došlo k chybě. Zkuste to znovu.</string>
     <string name="brave_ui_notification_desc_contr_error">Při zpracovávání vašeho příspěvku došlo k chybě.</string>
     <string name="brave_rewards_local_uh_oh">Jejda!</string>
-    <string name="brave_rewards_local_server_not_responding">Server Brave Rewards neodpovídá. Co nejrychleji to napravíme.</string>
+    <string name="brave_rewards_local_server_not_responding">Server Dissenter Rewards neodpovídá. Co nejrychleji to napravíme.</string>
     <string name="brave_ui_grants">Dárky</string>
     <string name="brave_ui_expires_on">vyprší <ph name=\"DATE\">%1$s<ex>14. 4. 2019</ex></ph></string>
     <string name="brave_ui_insufficient_funds_msg">Nedostatek prostředků</string>
-    <string name="brave_ui_insufficient_funds_desc">Váš účet Brave Rewards čeká na vklad.</string>
+    <string name="brave_ui_insufficient_funds_desc">Váš účet Dissenter Rewards čeká na vklad.</string>
     <string name="brave_ui_backup_wallet_msg">Zálohovat peněženku</string>
-    <string name="brave_ui_backup_wallet_desc">Zálohujte si peněženku Brave.</string>
-    <string name="brave_ui_brave_rewards">Brave Rewards</string>
+    <string name="brave_ui_backup_wallet_desc">Zálohujte si peněženku Dissenter.</string>
+    <string name="brave_ui_brave_rewards">Dissenter Rewards</string>
     <string name="brave_ui_welcome_back_message">Vítejte zpět!</string>
     <string name="brave_ui_get_rewarded">Dostávejte odměny za prohlížení.</string>
     <string name="brave_ui_brave_rewards_desc">Vydělávejte sledováním reklam
@@ -236,27 +236,27 @@ tvůrce obsahu, který milujete.</string>
     <string name="search_or_url">Hledat nebo URL</string>
     <string name="accessibility_toolbar_btn_bookmark">Vytvořit záložku</string>
     <string name="brave_ui_donate_monthly">Podpořit stránku každý měsíc</string>
-    <string name="brave_rewards_intro_title">Odměny Brave jsou tady</string>
+    <string name="brave_rewards_intro_title">Odměny Dissenter jsou tady</string>
     <string name="brave_rewards_intro_text">Podporovat stránku, kterou máte rádi.</string>
     <string name="brave_rewards_dismiss">Odmítnout</string>
     <string name="brave_rewards_get_started">Začít</string>
 
-    <string name="brave_rewards_not_available">Je nám líto, že na vašem zařízení není k dispozici Brave Rewards</string>
+    <string name="brave_rewards_not_available">Je nám líto, že na vašem zařízení není k dispozici Dissenter Rewards</string>
 
     <string name="prefs_section_display">Zobrazit</string>
     <string name="prefs_appearance">Vzhled</string>
-    <string name="hide_brave_rewards_icon_title">Skrýt ikonu odměn Brave</string>
-    <string name="hide_brave_rewards_icon_description">Skryje ikonu odměn Brave, pokud nejsou odměny Brave k dispozici</string>
+    <string name="hide_brave_rewards_icon_title">Skrýt ikonu odměn Dissenter</string>
+    <string name="hide_brave_rewards_icon_description">Skryje ikonu odměn Dissenter, pokud nejsou odměny Dissenter k dispozici</string>
 
     <string name="brave_ui_pre_grant_message">Brzy si opět zkontrolujte, zda není k dispozici žeton zdarma</string>
 
-    <string name="reset_brave_rewards_option">Resetovat odměny Brave</string>
-    <string name="reset_brave_rewards_option_description">Tímto se vaše peněženka Brave vymaže a s ní i veškeré údaje o odměnách Brave</string>
+    <string name="reset_brave_rewards_option">Resetovat odměny Dissenter</string>
+    <string name="reset_brave_rewards_option_description">Tímto se vaše peněženka Dissenter vymaže a s ní i veškeré údaje o odměnách Dissenter</string>
     <string name="reset_brave_rewards_error_title">Resetovat chybu</string>
-    <string name="reset_brave_rewards_error_description">Při opětovném nastavování odměn Brave nastala chyba. Spusťte Brave a zkuste to znovu </string>
+    <string name="reset_brave_rewards_error_description">Při opětovném nastavování odměn Dissenter nastala chyba. Spusťte Dissenter a zkuste to znovu </string>
 
     <string name="brave_sync_add_laptop_text_part_2_new">Zadejte níže uvedená kódová slova synchronizačního řetězce. S tímto kódem zacházejte jako s heslem. Pokud se ho někdo zmocní, může dotyčný číst a upravovat vaše synchronizovaná data.</string>
 
-    <string name="brave_sync_official">Synchronizace Brave</string>
+    <string name="brave_sync_official">Synchronizace Dissenter</string>
     <string name="prefs_sync_official">Synchronizovat</string>
 </resources>

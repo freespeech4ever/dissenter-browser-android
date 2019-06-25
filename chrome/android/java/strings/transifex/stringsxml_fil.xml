@@ -1,6 +1,6 @@
 <resources>
 
-    <string name="brave_settings_title">Mga setting ng shield ng Brave site para sa</string>
+    <string name="brave_settings_title">Mga setting ng shield ng Dissenter site para sa</string>
     <string name="brave_shields_down">Pababa</string>
     <string name="brave_shields_up">Pataas</string>
     <string name="brave_shields_ads_trackers">Na-block ang Mga Ad at Tracker</string>
@@ -9,7 +9,7 @@
     <string name="brave_shields_ads_tracking_switch">I-block ang Mga Ad at Pag-track</string>
     <string name="brave_shields_https_everywhere_switch">HTTPS sa Lahat ng Lugar</string>
     <string name="brave_shields_blocks_scripts_switch">I-block ang Mga Script</string>
-    <string name="accessibility_toolbar_btn_brave_shields">I-enable/I-disable ang Mga Shield ng Brave</string>
+    <string name="accessibility_toolbar_btn_brave_shields">I-enable/I-disable ang Mga Shield ng Dissenter</string>
     <string name="brave_shields_block_3rd_party_cookies_switch">I-block ang cookies ng 3rd party</string>
 
     <string name="httpse_summary">Binubuksan ang mga sinusuportahang site gamit ang HTTPS sa halip na HTTP hangga\'t maaari</string>
@@ -64,14 +64,14 @@ na Natipid</string>
     <string name="website_settings_category_play_video_in_background_enabled_summary">Naka-enable</string>
     <string name="website_settings_category_play_video_in_background_disabled_summary">Naka-disable</string>
     <string name="website_settings_category_play_video_in_background_enabled">Pang-eksperimento. Ine-enable ang pag-play ng audio mula sa video sa background kapag hindi aktibo ang tab o naka-off ang screen ng device. Subukang lumipat sa desktop mode kung hindi gumagana ang feature na ito.</string>
-    <string name="settings_require_relaunch_notice">Malalapat ang iyong mga pagbabago sa susunod na pagkakataong muli mong ilulunsad ang Brave</string>
+    <string name="settings_require_relaunch_notice">Malalapat ang iyong mga pagbabago sa susunod na pagkakataong muli mong ilulunsad ang Dissenter</string>
     <string name="settings_require_relaunch_now">MULING ILUNSAD NGAYON</string>
     <string name="settings_require_relaunch_later">SA IBANG PAGKAKATAON</string>
 
-    <string name="play_yt_video_in_browser_title">Pag-playback ng video sa Brave</string>
+    <string name="play_yt_video_in_browser_title">Pag-playback ng video sa Dissenter</string>
     <string name="website_settings_category_play_yt_video_in_browser_enabled_summary">Naka-enable</string>
     <string name="website_settings_category_play_yt_video_in_browser_disabled_summary">Naka-disable</string>
-    <string name="website_settings_category_play_yt_video_in_browser_enabled">Kung naka-enable, mape-play ang mga video sa Brave sa halip na sa kaukulang app</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled">Kung naka-enable, mape-play ang mga video sa Dissenter sa halip na sa kaukulang app</string>
 
     <string name="close_tabs_on_exit_title">Isara ang mga tab sa paglabas</string>
     <string name="close_tabs_on_exit_summary">Huwag panatilihin ang mga tab sa pagitan ng mga session ng pag-browse</string>
@@ -80,7 +80,7 @@ na Natipid</string>
     <string name="open_pages_in_custom_tabs_summary">Nag-aalok na buksan ang mga tab sa Mga Custom na Tab</string>
 
     <string name="ddg_offer_title">Pribadong maghanap sa DuckDuckGo?</string>
-    <string name="ddg_offer_text">Sa pribadong paghahanap, gagamitin ng Brave ang DuckDuckGo para tugunan ang iyong mga paghahanap habang ikaw ay nasa pribadong tab na ito. Ang DuckDuckGo ay isang search engine na hindi sinusubaybayan ang iyong history sa paghahanap, kung kaya nabibigyang-daan kang maghanap sa pribadong paraan.</string>
+    <string name="ddg_offer_text">Sa pribadong paghahanap, gagamitin ng Dissenter ang DuckDuckGo para tugunan ang iyong mga paghahanap habang ikaw ay nasa pribadong tab na ito. Ang DuckDuckGo ay isang search engine na hindi sinusubaybayan ang iyong history sa paghahanap, kung kaya nabibigyang-daan kang maghanap sa pribadong paraan.</string>
     <string name="ddg_offer_positive">Oo</string>
     <string name="ddg_offer_negative">Hindi</string>
     <string name="ddg_offer_link">Alamin ang tungkol sa pribadong paghahanap sa DuckDuckGo</string>
@@ -92,25 +92,25 @@ na Natipid</string>
     <string name="brave_new_private_tab">Bagong pribadong tab</string>
     <string name="brave_new_tab_private_header">Isa itong Pribadong Tab</string>
     <string name="brave_new_tab_private_message">Bagama\'t hindi lokal na nase-save ang mga site na binibisita mo sa mga pribadong tab, hindi ka nito ginagawang anonymous o invisible sa iyong ISP, sa iyong employer, o sa mga site na binibisita mo.</string>
-    <string name="update_notification_title">Update sa Brave</string>
-    <string name="update_notification_text">Ang bagong Brave browser ay 22% mas mabilis</string>
+    <string name="update_notification_title">Update sa Dissenter</string>
+    <string name="update_notification_text">Ang bagong Dissenter browser ay 22% mas mabilis</string>
     <string name="prefs_sync">Pag-sync (beta)</string>
-    <string name="brave_sync_description_page_1_part_1">Ang Pag-sync ng Brave ay nagbibigay-daan sa iyong i-sync nang pribado ang data ng mga bookmark sa pagitan ng iyong Mga Brave Browser sa iba\'t ibang device mo.</string>
+    <string name="brave_sync_description_page_1_part_1">Ang Pag-sync ng Dissenter ay nagbibigay-daan sa iyong i-sync nang pribado ang data ng mga bookmark sa pagitan ng iyong Mga Dissenter Browser sa iba\'t ibang device mo.</string>
     <string name="brave_sync_description_page_1_part_2">I-scan lang ang code mula sa iyong chain ng pag-sync na ginawa mo sa ibang device. O kaya, magsimula ng bagong chain ng pag-sync.</string>
     <string name="brave_sync_scan_chain_code">I-scan o ilagay ang code sa pag-sync</string>
     <string name="brave_sync_start_new_chain">Magsimula ng bagong chain ng pag-sync</string>
-    <string name="brave_sync_qrcode_message_v2">Gamit ang kasalukuyang naka-sync na device, buksan ang Mga Setting ng Brave at mag-navigate sa Mga Setting > Pag-sync. Piliin ang \"Magdagdag ng Device\" at i-scan ang QR Code na ipinapakita sa screen.</string>
-    <string name="brave_sync_codewords_message">Gamit ang kasalukuyang naka-sync na device, buksan ang Mga Setting ng Brave at mag-navigate sa Mga Setting > Pag-sync. Piliin ang \"Magdagdag ng Device\" pagkatapos ay \"Ipakita na lang ang mga code na salita\".</string>
+    <string name="brave_sync_qrcode_message_v2">Gamit ang kasalukuyang naka-sync na device, buksan ang Mga Setting ng Dissenter at mag-navigate sa Mga Setting > Pag-sync. Piliin ang \"Magdagdag ng Device\" at i-scan ang QR Code na ipinapakita sa screen.</string>
+    <string name="brave_sync_codewords_message">Gamit ang kasalukuyang naka-sync na device, buksan ang Mga Setting ng Dissenter at mag-navigate sa Mga Setting > Pag-sync. Piliin ang \"Magdagdag ng Device\" pagkatapos ay \"Ipakita na lang ang mga code na salita\".</string>
     <string name="brave_sync_btn_mobile">Magdagdag ng Mobile Device</string>
     <string name="brave_sync_btn_laptop">Magdagdag ng Computer</string>
     <string name="brave_sync_scan_sync_code">I-scan ang code sa pag-sync na ito</string>
-    <string name="brave_sync_add_mobile_device_text_part_1">Gamit ang pangalawang telepono o tablet, mag-navigate sa Mga Setting ng Brave > Pag-sync > Mag-scan.</string>
+    <string name="brave_sync_add_mobile_device_text_part_1">Gamit ang pangalawang telepono o tablet, mag-navigate sa Mga Setting ng Dissenter > Pag-sync > Mag-scan.</string>
     <string name="brave_sync_add_mobile_device_text_part_2">I-capture ang QR code (sa itaas) gamit ang iyong pangalawang device, o ilagay ang mga code na salita kung walang available na camera.</string>
     <string name="brave_sync_btn_done">Tapos na</string>
     <string name="brave_sync_tabs_text">Mga Tab</string>
     <string name="brave_sync_history_text">History</string>
     <string name="brave_sync_autofill_passwords_text">Autofill/Mga Password</string>
-    <string name="brave_sync_payment_settings_text">Mga Setting ng Pagbabayad sa Brave</string>
+    <string name="brave_sync_payment_settings_text">Mga Setting ng Pagbabayad sa Dissenter</string>
     <string name="brave_sync_settings_title">MAG-SYNC SA DEVICE NA ITO</string>
     <string name="brave_sync_settings_description">Kapag binago ang mga setting, ang data lang na ibinabahagi ng device na ito sa iba ang maaapektuhan.</string>
     <string name="brave_sync_devices_title">IBA PANG DEVICE SA CHAIN</string>
@@ -119,7 +119,7 @@ na Natipid</string>
     <string name="brave_sync_remove_device_text">Alisin ang device na ito</string>
     <string name="brave_sync_code_words_title">Pares</string>
     <string name="brave_sync_add_laptop_text_title">Ilagay ang code sa chain ng pag-sync</string>
-    <string name="brave_sync_add_laptop_text_part_1">Sa iyong computer, mag-navigate sa Mga Setting ng Brave > Pag-sync. Piliin ang \"Maglagay ng Code sa Chain ng Pag-sync\".</string>
+    <string name="brave_sync_add_laptop_text_part_1">Sa iyong computer, mag-navigate sa Mga Setting ng Dissenter > Pag-sync. Piliin ang \"Maglagay ng Code sa Chain ng Pag-sync\".</string>
     <string name="brave_sync_add_laptop_text_part_2">Ilagay ang mga code na salita sa itaas, kasama ang mga puwang.</string>
     <string name="brave_sync_delete_device">Sigurado ka bang gusto mong i-delete ang device na \'<ph name=\"DEVICE_NAME\">%1$s</ph>\'?</string>
     <string name="brave_sync_delete_sent">Naipadala na ang kahilingan sa pag-delete. Aalisin ang device sa loob ng ilang sandali.</string>
@@ -135,12 +135,12 @@ na Natipid</string>
     <string name="brave_sync_copied_text">Kinopya sa Clipboard</string>
     <string name="brave_sync_this_device_text">(ang device na ito)</string>
 
-    <string name="brave_already_set_as_default_browser">Naka-set na ang Brave
+    <string name="brave_already_set_as_default_browser">Naka-set na ang Dissenter
 bilang iyong default na browser.</string>
     <string name="brave_default_browser_go_to_settings">Nag-set ka na ng default na browser.
 Pwede mong baguhin ang default na browser sa mga setting ng iyong app.</string>
     <string name="brave_set_default_browser">I-set bilang default na browser</string>
-    <string name="brave_default_browser_existing_notification_body">Gawing iyong default na web browser ang Brave
+    <string name="brave_default_browser_existing_notification_body">Gawing iyong default na web browser ang Dissenter
 Makatipid ng baterya at mag-load ng mga web page nang mas mabilis</string>
 
     <string name="brave_ui_welcome_header_two">Maghandang maranasan
@@ -165,7 +165,7 @@ sa panonood ng mga ad na gumagalang sa privacy.</string>
     <string name="brave_ui_send_tip">ipadala ang tip ko</string>
     <string name="brave_ui_do_monthly">mag-set ng buwanang tip</string>
     <string name="brave_ui_not_enough_tokens">hindi sapat ang mga token</string>
-    <string name="brave_ui_site_banner_notice_text">TANDAAN: Ang creator na ito ay hindi pa nag-sign up para makatanggap ng mga kontribusyon mula sa mga user ng Brave. Patuloy naming susubukang mag-ambag hanggang sa mag-verify sila, o hanggang lumipas ang 90 araw.</string>
+    <string name="brave_ui_site_banner_notice_text">TANDAAN: Ang creator na ito ay hindi pa nag-sign up para makatanggap ng mga kontribusyon mula sa mga user ng Dissenter. Patuloy naming susubukang mag-ambag hanggang sa mag-verify sila, o hanggang lumipas ang 90 araw.</string>
     <string name="brave_ui_please">kung maaari</string>
     <string name="brave_ui_add_funds">magdagdag ng pondo</string>
     <string name="brave_ui_thank_you">Salamat!</string>
@@ -194,9 +194,9 @@ ngayong buwan...</string>
     <string name="brave_ui_rewards_contribute_description">Nag-ambag ka ng <ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph> BAT.</string>
     <string name="brave_ui_one_time_donation">Mga One-time na Tip</string>
     <string name="brave_ui_recurring_donation">Mga Buwanang Tip</string>
-    <string name="brave_ui_verified_publisher">Brave Verified Publisher</string>
+    <string name="brave_ui_verified_publisher">Dissenter Verified Publisher</string>
     <string name="brave_ui_not_verified_publisher">Hindi pa na-verify</string>
-    <string name="brave_ui_not_verified_publisher_description">Ang creator na ito ay hindi pa nag-sign up para makatanggap ng mga kontribusyon mula sa mga Brave user.
+    <string name="brave_ui_not_verified_publisher_description">Ang creator na ito ay hindi pa nag-sign up para makatanggap ng mga kontribusyon mula sa mga Dissenter user.
         Ang anumang tip na ipinadala mo ay mananatili sa iyong wallet hanggang sa mag-verify sila.</string>
     <string name="brave_ui_on_youtube">sa YouTube</string>
     <string name="brave_ui_on_twitch">sa Twitch</string>
@@ -209,14 +209,14 @@ hanggang sa mag-verify sila, o hanggang lumipas ang 90 araw.</string>
     <string name="brave_ui_notification_desc_tip_error">Nagkaroon ng problema sa pagproseso sa iyong tip, pakisubukang muli.</string>
     <string name="brave_ui_notification_desc_contr_error">Nagkaroon ng problema sa pagproseso sa iyong kontribusyon.</string>
     <string name="brave_rewards_local_uh_oh">Hala!</string>
-    <string name="brave_rewards_local_server_not_responding">Hindi nagre-respond ang Brave Rewards server. Susubukan namin itong ayusin sa lalong madaling panahon.</string>
+    <string name="brave_rewards_local_server_not_responding">Hindi nagre-respond ang Dissenter Rewards server. Susubukan namin itong ayusin sa lalong madaling panahon.</string>
     <string name="brave_ui_grants">Mga Grant</string>
     <string name="brave_ui_expires_on">mag-e-expire sa <ph name=\"DATE\">%1$s<ex>4/14/2019</ex></ph></string>
     <string name="brave_ui_insufficient_funds_msg">Hindi Sapat ang Pondo</string>
-    <string name="brave_ui_insufficient_funds_desc">Naghihintay ng deposito ang iyong Brave Rewards account.</string>
+    <string name="brave_ui_insufficient_funds_desc">Naghihintay ng deposito ang iyong Dissenter Rewards account.</string>
     <string name="brave_ui_backup_wallet_msg">Backup Wallet</string>
-    <string name="brave_ui_backup_wallet_desc">Paki-back up ang iyong Brave wallet.</string>
-    <string name="brave_ui_brave_rewards">Brave Rewards</string>
+    <string name="brave_ui_backup_wallet_desc">Paki-back up ang iyong Dissenter wallet.</string>
+    <string name="brave_ui_brave_rewards">Dissenter Rewards</string>
     <string name="brave_ui_welcome_back_message">Maligayang pagbabalik!</string>
     <string name="brave_ui_get_rewarded">Magkaroon ng reward para sa pagba-browse.</string>
     <string name="brave_ui_brave_rewards_desc">Kumita sa pamamagitan ng panonood ng

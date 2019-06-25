@@ -1,6 +1,6 @@
 <resources>
 
-    <string name="brave_settings_title">การตั้งค่าเกราะป้องกัน Brave สำหรับ</string>
+    <string name="brave_settings_title">การตั้งค่าเกราะป้องกัน Dissenter สำหรับ</string>
     <string name="brave_shields_down">ลง</string>
     <string name="brave_shields_up">ขึ้น</string>
     <string name="brave_shields_ads_trackers">ป้องกันโฆษณาและการติดตามข้อมูลแล้ว</string>
@@ -9,7 +9,7 @@
     <string name="brave_shields_ads_tracking_switch">ป้องกันโฆษณาและการติดตามข้อมูล</string>
     <string name="brave_shields_https_everywhere_switch">HTTPS ทุกแห่ง</string>
     <string name="brave_shields_blocks_scripts_switch">ป้องกันสคริป</string>
-    <string name="accessibility_toolbar_btn_brave_shields">เปิดใช้งาน/ปิดเกราะป้องกัน Brave</string>
+    <string name="accessibility_toolbar_btn_brave_shields">เปิดใช้งาน/ปิดเกราะป้องกัน Dissenter</string>
     <string name="brave_shields_block_3rd_party_cookies_switch">ปิดกั้นคุกกี้จากบุคคลภายนอก</string>
 
     <string name="httpse_summary">เปิดเว็บที่รองรับโดยใช้ HTTPS แทน HTTP หากเป็นไปได้</string>
@@ -66,14 +66,14 @@ EST แล้ว</string>
     <string name="website_settings_category_play_video_in_background_enabled_summary">เปิดใช้แล้ว</string>
     <string name="website_settings_category_play_video_in_background_disabled_summary">ปิดใช้แล้ว</string>
     <string name="website_settings_category_play_video_in_background_enabled">การทดลอง เปิดใช้ฟีเจอร์เล่นเสียงจากวิดีโอในเบื้องหลังเมื่อแท็บไม่ได้ทำงานหรือเมื่อปิดหน้าจออุปกรณ์ ลองเปลี่ยนเป็นโหมดเดสก์ท็อปหากฟีเจอร์นี้ยังไม่ทำงาน</string>
-    <string name="settings_require_relaunch_notice">การเปลี่ยนแปลงจะมีผลในครั้งถัดไปที่คุณเปิด Brave ใหม่</string>
+    <string name="settings_require_relaunch_notice">การเปลี่ยนแปลงจะมีผลในครั้งถัดไปที่คุณเปิด Dissenter ใหม่</string>
     <string name="settings_require_relaunch_now">เปิดใหม่ทันที</string>
     <string name="settings_require_relaunch_later">ภายหลัง</string>
 
-    <string name="play_yt_video_in_browser_title">การเล่นวิดีโอใน Brave</string>
+    <string name="play_yt_video_in_browser_title">การเล่นวิดีโอใน Dissenter</string>
     <string name="website_settings_category_play_yt_video_in_browser_enabled_summary">เปิดใช้งาน</string>
     <string name="website_settings_category_play_yt_video_in_browser_disabled_summary">ปิดใช้งาน</string>
-    <string name="website_settings_category_play_yt_video_in_browser_enabled">หากเปิดใช้งาน วิดีโอจะถูกเล่นใน Brave แทนแอปที่เกี่ยวข้อง</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled">หากเปิดใช้งาน วิดีโอจะถูกเล่นใน Dissenter แทนแอปที่เกี่ยวข้อง</string>
 
     <string name="close_tabs_on_exit_title">ปิดแท็บเมื่อออก</string>
     <string name="close_tabs_on_exit_summary">อย่าเก็บแท็บไว้ข้ามเซสชันการเรียกดู</string>
@@ -82,7 +82,7 @@ EST แล้ว</string>
     <string name="open_pages_in_custom_tabs_summary">ข้อเสนอให้เปิดแท็บในแท็บแบบกำหนดเอง</string>
 
     <string name="ddg_offer_title">สงสัยเรื่องการค้นหาส่วนตัวด้วย DuckDuckGo ใช่หรือไม่</string>
-    <string name="ddg_offer_text">ด้วยการค้นหาส่วนตัว Brave จะใช้ DuckDuckGo เพื่อตอบการค้นหาในขณะที่คุณอยู่ในแท็บส่วนตัวนี้ DuckDuckGo คือเครื่องมือค้นหาที่ไม่ติดตามประวัติการใช้งาน จึงทำให้คุณค้นหาได้อย่างเป็นส่วนตัว</string>
+    <string name="ddg_offer_text">ด้วยการค้นหาส่วนตัว Dissenter จะใช้ DuckDuckGo เพื่อตอบการค้นหาในขณะที่คุณอยู่ในแท็บส่วนตัวนี้ DuckDuckGo คือเครื่องมือค้นหาที่ไม่ติดตามประวัติการใช้งาน จึงทำให้คุณค้นหาได้อย่างเป็นส่วนตัว</string>
     <string name="ddg_offer_positive">ไม่ใช่</string>
     <string name="ddg_offer_negative">ใช่</string>
     <string name="ddg_offer_link">เรียนรู้เกี่ยวกับการค้นหาส่วนตัวด้วย DuckDuckGo</string>
@@ -94,25 +94,25 @@ EST แล้ว</string>
     <string name="brave_new_private_tab">แท็บส่วนตัวใหม่</string>
     <string name="brave_new_tab_private_header">นี่คือแท็บส่วนตัว</string>
     <string name="brave_new_tab_private_message">แม้ว่าเว็บไซต์ที่คุณเข้าชมในแท็บส่วนตัวจะไม่บันทึกลงในเครื่อง แต่วิธีนี้ไม่ทำให้คุณไม่มีตัวตนหรือหายไปจากผู้ให้บริการอินเทอร์เน็ต, นายจ้าง หรือเว็บไซต์ที่คุณเข้าชม</string>
-    <string name="update_notification_title">อัปเดตของ Brave</string>
-    <string name="update_notification_text">เบราว์เซอร์ Brave รุ่นใหม่เร็วขึ้น 22%</string>
+    <string name="update_notification_title">อัปเดตของ Dissenter</string>
+    <string name="update_notification_text">เบราว์เซอร์ Dissenter รุ่นใหม่เร็วขึ้น 22%</string>
     <string name="prefs_sync">Sync (เบต้า)</string>
-    <string name="brave_sync_description_page_1_part_1">Brave Sync ให้คุณซิงค์ข้อมูลบุ๊กมาร์กระหว่าง Brave Browser บนอุปกรณ์ต่างๆ ของคุณได้อย่างเป็นส่วนตัว</string>
+    <string name="brave_sync_description_page_1_part_1">Dissenter Sync ให้คุณซิงค์ข้อมูลบุ๊กมาร์กระหว่าง Dissenter Browser บนอุปกรณ์ต่างๆ ของคุณได้อย่างเป็นส่วนตัว</string>
     <string name="brave_sync_description_page_1_part_2">เพียงสแกนรหัสจากกลุ่มการซิงค์ที่คุณสร้างไว้บนอีกอุปกรณ์หนึ่ง หรือเริ่มกลุ่มการซิงค์ใหม่</string>
     <string name="brave_sync_scan_chain_code">สแกนหรือป้อนรหัสการซิงค์</string>
     <string name="brave_sync_start_new_chain">เริ่มกลุ่มการซิงค์ใหม่</string>
-    <string name="brave_sync_qrcode_message_v2">หากต้องการใช้อุปกรณ์ที่ซิงค์อยู่ในปัจจุบัน ให้เปิด การตั้งค่า Brave แล้วนำทางไปยัง การตั้งค่า > ซิงค์ เลือก \"เพิ่มอุปกรณ์\" แล้วสแกนรหัส QR ที่แสดงอยู่บนหน้าจอ</string>
-    <string name="brave_sync_codewords_message">หากต้องการใช้อุปกรณ์ที่ซิงค์อยู่ในปัจจุบัน ให้เปิด การตั้งค่า Brave แล้วนำทางไปยัง การตั้งค่า > ซิงค์ เลือก \"เพิ่มอุปกรณ์\" จากนั้นเลือก \"แสดงข้อความรหัสแทน\"</string>
+    <string name="brave_sync_qrcode_message_v2">หากต้องการใช้อุปกรณ์ที่ซิงค์อยู่ในปัจจุบัน ให้เปิด การตั้งค่า Dissenter แล้วนำทางไปยัง การตั้งค่า > ซิงค์ เลือก \"เพิ่มอุปกรณ์\" แล้วสแกนรหัส QR ที่แสดงอยู่บนหน้าจอ</string>
+    <string name="brave_sync_codewords_message">หากต้องการใช้อุปกรณ์ที่ซิงค์อยู่ในปัจจุบัน ให้เปิด การตั้งค่า Dissenter แล้วนำทางไปยัง การตั้งค่า > ซิงค์ เลือก \"เพิ่มอุปกรณ์\" จากนั้นเลือก \"แสดงข้อความรหัสแทน\"</string>
     <string name="brave_sync_btn_mobile">เพิ่มอุปกรณ์เคลื่อนที่</string>
     <string name="brave_sync_btn_laptop">เพิ่มคอมพิวเตอร์</string>
     <string name="brave_sync_scan_sync_code">สแกนรหัสการซิงค์นี้</string>
-    <string name="brave_sync_add_mobile_device_text_part_1">หากต้องการใช้โทรศัพท์หรือแท็บเล็ตเครื่องที่สอง ให้นำทางไปยัง การตั้งค่า Brave > ซิงค์ > สแกน</string>
+    <string name="brave_sync_add_mobile_device_text_part_1">หากต้องการใช้โทรศัพท์หรือแท็บเล็ตเครื่องที่สอง ให้นำทางไปยัง การตั้งค่า Dissenter > ซิงค์ > สแกน</string>
     <string name="brave_sync_add_mobile_device_text_part_2">จับภาพรหัส QR (ด้านล่าง) ด้วยอุปกรณ์เครื่องที่สองของคุณ หรือป้อนข้อความรหัสหากไม่มีกล้องที่พร้อมใช้งาน</string>
     <string name="brave_sync_btn_done">เสร็จสิ้น</string>
     <string name="brave_sync_tabs_text">แท็บ</string>
     <string name="brave_sync_history_text">ประวัติ</string>
     <string name="brave_sync_autofill_passwords_text">ป้อนอัตโนมัติ/รหัสผ่าน</string>
-    <string name="brave_sync_payment_settings_text">การตั้งค่า Brave Payment</string>
+    <string name="brave_sync_payment_settings_text">การตั้งค่า Dissenter Payment</string>
     <string name="brave_sync_settings_title">ซิงค์บนอุปกรณ์นี้</string>
     <string name="brave_sync_settings_description">การเปลี่ยนแปลงการตั้งค่าจะมีผลเฉพาะกับข้อมูลที่อุปกรณ์นี้แชร์กับอุปกรณ์อื่นๆ</string>
     <string name="brave_sync_devices_title">อุปกรณ์อื่นๆ ในกลุ่ม</string>
@@ -121,7 +121,7 @@ EST แล้ว</string>
     <string name="brave_sync_remove_device_text">ลบอุปกรณ์นี้</string>
     <string name="brave_sync_code_words_title">จับคู่</string>
     <string name="brave_sync_add_laptop_text_title">ป้อนรหัสกลุ่มการซิงค์</string>
-    <string name="brave_sync_add_laptop_text_part_1">บนคอมพิวเตอร์ของคุณ ให้นำทางไปยัง การตั้งค่า Brave > ซิงค์ เลือก \"ป้อนรหัสกลุ่มการซิงค์\"</string>
+    <string name="brave_sync_add_laptop_text_part_1">บนคอมพิวเตอร์ของคุณ ให้นำทางไปยัง การตั้งค่า Dissenter > ซิงค์ เลือก \"ป้อนรหัสกลุ่มการซิงค์\"</string>
     <string name="brave_sync_add_laptop_text_part_2">ป้อนข้อความรหัสที่กล่าวถึงข้างต้น รวมช่องว่าง</string>
     <string name="brave_sync_delete_device">คุณแน่ใจหรือไม่ว่าต้องการลบอุปกรณ์ \'<ph name=\"DEVICE_NAME\">%1$s</ph>\'</string>
     <string name="brave_sync_delete_sent">ส่งคำขอลบแล้ว อุปกรณ์จะถูกลบในไม่ช้า</string>
@@ -137,14 +137,14 @@ EST แล้ว</string>
     <string name="brave_sync_copied_text">คัดลอกไปยังคลิปบอร์ดแล้ว</string>
     <string name="brave_sync_this_device_text">(อุปกรณ์นี้)</string>
 
-    <string name="brave_already_set_as_default_browser">Brave ถูกตั้งเป็น
+    <string name="brave_already_set_as_default_browser">Dissenter ถูกตั้งเป็น
 เบราว์เซอร์เริ่มต้นของคุณแล้ว</string>
     <string name="brave_default_browser_go_to_settings">คุณได้ตั้งค่าเบราว์เซอร์เริ่มต้นไว้เรียบร้อยแล้ว
 คุณสามารถเปลี่ยนเบราเซอร์เริ่มต้นได้ในการตั้งค่าแอพของคุณ</string>
-    <string name="brave_default_browser_notification_body">ประหยัดแบตเตอรี่และโหลดหน้าเว็บเร็วขึ้น ตั้ง Brave เป็นเบราว์เซอร์เริ่มต้น แตะ \"ตั้งเป็นเบราว์เซอร์เริ่มต้น\" จากเมนู Brave</string>
+    <string name="brave_default_browser_notification_body">ประหยัดแบตเตอรี่และโหลดหน้าเว็บเร็วขึ้น ตั้ง Dissenter เป็นเบราว์เซอร์เริ่มต้น แตะ \"ตั้งเป็นเบราว์เซอร์เริ่มต้น\" จากเมนู Dissenter</string>
     <string name="brave_set_default_browser">ตั้งค่าเป็นเบราว์เซอร์เริ่มต้น</string>
-    <string name="brave_set_default_browser_dialog_text">เลือก Brave จากรายการและแตะ \"ทุกครั้ง\"</string>
-    <string name="brave_default_browser_existing_notification_body">ตั้งค่า Brave เป็นเว็บเบราว์เซอร์เริ่มต้น
+    <string name="brave_set_default_browser_dialog_text">เลือก Dissenter จากรายการและแตะ \"ทุกครั้ง\"</string>
+    <string name="brave_default_browser_existing_notification_body">ตั้งค่า Dissenter เป็นเว็บเบราว์เซอร์เริ่มต้น
 ประหยัดแบตเตอรี่ โหลดหน้าเว็บได้เร็วขึ้น</string>
 
     <string name="brave_ui_welcome_header_two">เตรียมตัวพบกับ
@@ -169,7 +169,7 @@ EST แล้ว</string>
     <string name="brave_ui_send_tip">ส่งทิปของฉัน</string>
     <string name="brave_ui_do_monthly">กำหนดทิปรายเดือน</string>
     <string name="brave_ui_not_enough_tokens">มีโทเค็นไม่เพียงพอ</string>
-    <string name="brave_ui_site_banner_notice_text">หมายเหตุ: ครีเอเตอร์รายนี้ยังไม่ได้ลงทะเบียนเพื่อรับเงินสนับสนุนจากผู้ใช้ Brave เราจะพยายามส่งเงินสนับสนุนให้พวกเขาจนกว่าจะยืนยันตัวตนหรือจนกว่าจะผ่านไป 90 วัน</string>
+    <string name="brave_ui_site_banner_notice_text">หมายเหตุ: ครีเอเตอร์รายนี้ยังไม่ได้ลงทะเบียนเพื่อรับเงินสนับสนุนจากผู้ใช้ Dissenter เราจะพยายามส่งเงินสนับสนุนให้พวกเขาจนกว่าจะยืนยันตัวตนหรือจนกว่าจะผ่านไป 90 วัน</string>
     <string name="brave_ui_please">ได้โปรด</string>
     <string name="brave_ui_add_funds">เติมเงิน</string>
     <string name="brave_ui_thank_you">ขอบคุณ</string>
@@ -198,9 +198,9 @@ EST แล้ว</string>
     <string name="brave_ui_rewards_contribute_description">คุณได้สนับสนุน <ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph>BAT</string>
     <string name="brave_ui_one_time_donation">ทิปครั้งเดียว</string>
     <string name="brave_ui_recurring_donation">ทิปรายเดือน</string>
-    <string name="brave_ui_verified_publisher">ผู้เผยแพร่ที่ยืนยันตัวตนกับ Brave แล้ว</string>
+    <string name="brave_ui_verified_publisher">ผู้เผยแพร่ที่ยืนยันตัวตนกับ Dissenter แล้ว</string>
     <string name="brave_ui_not_verified_publisher">ยังไม่ได้ยืนยันตัวตน</string>
-    <string name="brave_ui_not_verified_publisher_description">ครีเอเตอร์รายนี้ยังไม่ได้ลงทะเบียนเพื่อรับเงินสนับสนุนจากผู้ใช้ Brave
+    <string name="brave_ui_not_verified_publisher_description">ครีเอเตอร์รายนี้ยังไม่ได้ลงทะเบียนเพื่อรับเงินสนับสนุนจากผู้ใช้ Dissenter
         ทิปที่คุณส่งจะยังคงอยู่ในกระเป๋าเงินของคุณจนกว่าพวกเขาจะยืนยันตัวตน</string>
     <string name="brave_ui_on_youtube">บน Youtube</string>
     <string name="brave_ui_on_twitch">บน Twitch</string>
@@ -213,14 +213,14 @@ EST แล้ว</string>
     <string name="brave_ui_notification_desc_tip_error">มีปัญหาเกิดขึ้นในการประมวลผลทิปของคุณ กรุณาลองอีกครั้ง</string>
     <string name="brave_ui_notification_desc_contr_error">มีปัญหาเกิดขึ้นในการประมวลผลการสนับสนุนของคุณ</string>
     <string name="brave_rewards_local_uh_oh">แย่แล้ว</string>
-    <string name="brave_rewards_local_server_not_responding">เซิร์ฟเวอร์ของ Brave Rewards ไม่ตอบสนอง เราจะรีบแก้ไขให้เร็วที่สุดเท่าที่จะเป็นไปได้</string>
+    <string name="brave_rewards_local_server_not_responding">เซิร์ฟเวอร์ของ Dissenter Rewards ไม่ตอบสนอง เราจะรีบแก้ไขให้เร็วที่สุดเท่าที่จะเป็นไปได้</string>
     <string name="brave_ui_grants">เงินรางวัล</string>
     <string name="brave_ui_expires_on">หมดอายุวันที่ <ph name=\"DATE\">%1$s<ex>4/14/2019</ex></ph></string>
     <string name="brave_ui_insufficient_funds_msg">เงินไม่เพียงพอ</string>
-    <string name="brave_ui_insufficient_funds_desc">บัญชี Brave Rewards ของคุณกำลังรอการฝากอยู่</string>
+    <string name="brave_ui_insufficient_funds_desc">บัญชี Dissenter Rewards ของคุณกำลังรอการฝากอยู่</string>
     <string name="brave_ui_backup_wallet_msg">กระเป๋าเงินสำรอง</string>
-    <string name="brave_ui_backup_wallet_desc">กรุณาสำรองกระเป๋าเงิน Brave ของคุณ</string>
-    <string name="brave_ui_brave_rewards">Brave Rewards</string>
+    <string name="brave_ui_backup_wallet_desc">กรุณาสำรองกระเป๋าเงิน Dissenter ของคุณ</string>
+    <string name="brave_ui_brave_rewards">Dissenter Rewards</string>
     <string name="brave_ui_welcome_back_message">ขอต้อนรับกลับมา</string>
     <string name="brave_ui_get_rewarded">รับรางวัลสำหรับการท่องเว็บ</string>
     <string name="brave_ui_brave_rewards_desc">สร้างรายได้จากการดูโฆษณาที่ไม่กระทบ
@@ -236,27 +236,27 @@ EST แล้ว</string>
     <string name="search_or_url">ค้นหาหรือ URL</string>
     <string name="accessibility_toolbar_btn_bookmark">สร้างบุ๊กมาร์ก</string>
     <string name="brave_ui_donate_monthly">ให้ทิปเว็บไซต์นี้เป็นรายเดือน</string>
-    <string name="brave_rewards_intro_title">Brave Rewards อยู่นี่แล้ว</string>
+    <string name="brave_rewards_intro_title">Dissenter Rewards อยู่นี่แล้ว</string>
     <string name="brave_rewards_intro_text">สนับสนุนเว็บไซต์ที่คุณชื่นชอบ</string>
     <string name="brave_rewards_dismiss">เพิกเฉย</string>
     <string name="brave_rewards_get_started">เริ่มต้นใช้งาน</string>
 
-    <string name="brave_rewards_not_available">ขออภัย ดูเหมือนว่า Brave Rewards จะไม่สามารถใช้งานบนอุปกรณ์ของคุณได้</string>
+    <string name="brave_rewards_not_available">ขออภัย ดูเหมือนว่า Dissenter Rewards จะไม่สามารถใช้งานบนอุปกรณ์ของคุณได้</string>
 
     <string name="prefs_section_display">แสดง</string>
     <string name="prefs_appearance">ลักษณะ</string>
-    <string name="hide_brave_rewards_icon_title">ซ่อนไอคอน Brave Rewards</string>
-    <string name="hide_brave_rewards_icon_description">ซ่อนไอคอน Brave Rewards เมื่อไม่ได้เปิดใช้งาน Brave Rewards</string>
+    <string name="hide_brave_rewards_icon_title">ซ่อนไอคอน Dissenter Rewards</string>
+    <string name="hide_brave_rewards_icon_description">ซ่อนไอคอน Dissenter Rewards เมื่อไม่ได้เปิดใช้งาน Dissenter Rewards</string>
 
     <string name="brave_ui_pre_grant_message">กลับมาใหม่เร็ว ๆ นี้เพื่อรับโทเค็นฟรี</string>
 
-    <string name="reset_brave_rewards_option">รีเซ็ต Brave Rewards</string>
-    <string name="reset_brave_rewards_option_description">คำสั่งนี้จะลบกระเป๋าเงิน Brave ของคุณและรีเซ็ตข้อมูล Brave Rewards ของคุณทั้งหมด</string>
+    <string name="reset_brave_rewards_option">รีเซ็ต Dissenter Rewards</string>
+    <string name="reset_brave_rewards_option_description">คำสั่งนี้จะลบกระเป๋าเงิน Dissenter ของคุณและรีเซ็ตข้อมูล Dissenter Rewards ของคุณทั้งหมด</string>
     <string name="reset_brave_rewards_error_title">ข้อผิดพลาดในการรีเซ็ต</string>
-    <string name="reset_brave_rewards_error_description">เกิดข้อผิดพลาดขณะรีเซ็ต Brave Rewards กรุณาปิดแล้วเปิด Brave ใหม่และลองอีกครั้ง</string>
+    <string name="reset_brave_rewards_error_description">เกิดข้อผิดพลาดขณะรีเซ็ต Dissenter Rewards กรุณาปิดแล้วเปิด Dissenter ใหม่และลองอีกครั้ง</string>
 
     <string name="brave_sync_add_laptop_text_part_2_new">กรอกโค้ดคำซิงก์เชนที่แสดงด้านล่าง โปรดดูแลโค้ดนี้เสมือนเป็นรหัสผ่าน หากมีผู้ใดยึดครองโค้ดนี้ พวกเขาจะสามารถอ่านและแก้ไขข้อมูลที่คุณซิงก์ได้</string>
 
-    <string name="brave_sync_official">ซิงก์ Brave</string>
+    <string name="brave_sync_official">ซิงก์ Dissenter</string>
     <string name="prefs_sync_official">ซิงก์</string>
 </resources>

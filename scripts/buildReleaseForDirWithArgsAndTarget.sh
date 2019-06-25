@@ -43,7 +43,7 @@ then
 	APK_FILE_NAME="BraveMono"
 elif [ "$TARGET_NAME" = "chrome_modern_public_apk" ] ;
 then
-	APK_FILE_NAME="BraveModern"
+	APK_FILE_NAME="DissenterModern"
 else
 	echo "3rd argument target name can be only chrome_public_apk, chrome_modern_public_apk or monochrome_public_apk"
 	exit 3

@@ -1,6 +1,6 @@
 <resources>
 
-    <string name="brave_settings_title">Configuració d'escuts web de Brave per a</string>
+    <string name="brave_settings_title">Configuració d'escuts web de Dissenter per a</string>
     <string name="brave_shields_down">Avall</string>
     <string name="brave_shields_up">Amunt</string>
     <string name="brave_shields_ads_trackers">Anuncis i seguiment blocats</string>
@@ -9,7 +9,7 @@
     <string name="brave_shields_ads_tracking_switch">Bloca anuncis i seguiment</string>
     <string name="brave_shields_https_everywhere_switch">HTTPS Arreu</string>
     <string name="brave_shields_blocks_scripts_switch">Bloca scripts</string>
-    <string name="accessibility_toolbar_btn_brave_shields">Activa/desactiva escuts Brave</string>
+    <string name="accessibility_toolbar_btn_brave_shields">Activa/desactiva escuts Dissenter</string>
     <string name="brave_shields_block_3rd_party_cookies_switch">Bloca les galetes de 3rs</string>
 
     <string name="httpse_summary">Obre els llocs compatibles amb HTTPS enlloc de HTTP, si és possible</string>
@@ -64,14 +64,14 @@ Desat</string>
     <string name="website_settings_category_play_video_in_background_enabled_summary">Activat</string>
     <string name="website_settings_category_play_video_in_background_disabled_summary">Desactivat</string>
     <string name="website_settings_category_play_video_in_background_enabled">Experimental. Activa la reproducció d\'àudio d\'un vídeo de fons quan la pestanya no està activa o la pantalla del dispositiu està apagada. Si aquesta característica no funciona, prova de canviar al mode d\'escriptori.</string>
-    <string name="settings_require_relaunch_notice">Els teus canvis tindran efecte la pròxima vegada que tornis a executar Brave</string>
+    <string name="settings_require_relaunch_notice">Els teus canvis tindran efecte la pròxima vegada que tornis a executar Dissenter</string>
     <string name="settings_require_relaunch_now">REEMPRÈN ARA</string>
     <string name="settings_require_relaunch_later">DESPRÉS</string>
 
-    <string name="play_yt_video_in_browser_title">Reproducció de vídeo a Brave</string>
+    <string name="play_yt_video_in_browser_title">Reproducció de vídeo a Dissenter</string>
     <string name="website_settings_category_play_yt_video_in_browser_enabled_summary">Activat</string>
     <string name="website_settings_category_play_yt_video_in_browser_disabled_summary">Desactivat</string>
-    <string name="website_settings_category_play_yt_video_in_browser_enabled">Si s\'activa aquesta opció, els vídeos es reproduiran a Brave en comptes de l\'aplicació corresponent</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled">Si s\'activa aquesta opció, els vídeos es reproduiran a Dissenter en comptes de l\'aplicació corresponent</string>
 
     <string name="close_tabs_on_exit_title">Tanca les pestanyes en sortir</string>
     <string name="close_tabs_on_exit_summary">No conservis les pestanyes en canviar de sessió de navegador</string>
@@ -80,7 +80,7 @@ Desat</string>
     <string name="open_pages_in_custom_tabs_summary">Ofereix obrir les pestanyes de Pestanyes personalitzades</string>
 
     <string name="ddg_offer_title">Cerca privada amb DuckDuckGo?</string>
-    <string name="ddg_offer_text">Amb la cerca privada, Brave farà les teves cerques amb DuckDuckGo quan estiguis en aquesta pestanya privada. DuckDuckGo és un motor de cerca que no rastreja el teu historial de cerca, per la qual cosa pots fer cerques privades.</string>
+    <string name="ddg_offer_text">Amb la cerca privada, Dissenter farà les teves cerques amb DuckDuckGo quan estiguis en aquesta pestanya privada. DuckDuckGo és un motor de cerca que no rastreja el teu historial de cerca, per la qual cosa pots fer cerques privades.</string>
     <string name="ddg_offer_positive">Sí</string>
     <string name="ddg_offer_negative">No</string>
     <string name="ddg_offer_link">Més informació sobre la cerca privada amb DuckDuckGo</string>
@@ -92,25 +92,25 @@ Desat</string>
     <string name="brave_new_private_tab">Pestanya privada nova</string>
     <string name="brave_new_tab_private_header">Aquesta és una pestanya privada</string>
     <string name="brave_new_tab_private_message">Tot i que els llocs que visites a les pestanyes privades no es desen localment, no et fan anònim ni invisible de cara al teu proveïdor de serveis d\'Internet, el teu ocupador o els llocs que visites.</string>
-    <string name="update_notification_title">Actualització de Brave</string>
-    <string name="update_notification_text">El navegador nou de Brave és un 22% més ràpid</string>
+    <string name="update_notification_title">Actualització de Dissenter</string>
+    <string name="update_notification_text">El navegador nou de Dissenter és un 22% més ràpid</string>
     <string name="prefs_sync">Sincronització (beta)</string>
-    <string name="brave_sync_description_page_1_part_1">Brave Sync et permet sincronitzar dades de marcadors de manera privada entre els teus navegadors de Brave en diversos dispositius.</string>
+    <string name="brave_sync_description_page_1_part_1">Dissenter Sync et permet sincronitzar dades de marcadors de manera privada entre els teus navegadors de Dissenter en diversos dispositius.</string>
     <string name="brave_sync_description_page_1_part_2">Simplement escaneja el codi de la cadena de sincronització  que vas crear en un altre dispositiu o comença una altra cadena de sincronització.</string>
     <string name="brave_sync_scan_chain_code">Escaneja o introdueix un codi de sincronització</string>
     <string name="brave_sync_start_new_chain">Comença una cadena de sincronització nova</string>
-    <string name="brave_sync_qrcode_message_v2">Des d\'un dispositiu de sincronització existent, obre l\'opció de configuració de Brave i ves a Configuració > Sync. Tria \"Afegeix dispositiu\" i escaneja el codi QR que es mostra a la pantalla.</string>
-    <string name="brave_sync_codewords_message">Des d\'un dispositiu de sincronització existent, obre l\'opció de configuració de Brave i ves a Configuració > Sincronització. Tria \"Afegeix dispositiu\" i, a continuació, \"Mostra les paraules del codi\".</string>
+    <string name="brave_sync_qrcode_message_v2">Des d\'un dispositiu de sincronització existent, obre l\'opció de configuració de Dissenter i ves a Configuració > Sync. Tria \"Afegeix dispositiu\" i escaneja el codi QR que es mostra a la pantalla.</string>
+    <string name="brave_sync_codewords_message">Des d\'un dispositiu de sincronització existent, obre l\'opció de configuració de Dissenter i ves a Configuració > Sincronització. Tria \"Afegeix dispositiu\" i, a continuació, \"Mostra les paraules del codi\".</string>
     <string name="brave_sync_btn_mobile">Afegeix un dispositiu mòbil</string>
     <string name="brave_sync_btn_laptop">Afegeix un ordinador</string>
     <string name="brave_sync_scan_sync_code">Escaneja aquest codi de sincronització</string>
-    <string name="brave_sync_add_mobile_device_text_part_1">Des d\'un altre telèfon mòbil o una tauleta, ves a l\'opció de Configuració de Brave > Sync > Escaneja.</string>
+    <string name="brave_sync_add_mobile_device_text_part_1">Des d\'un altre telèfon mòbil o una tauleta, ves a l\'opció de Configuració de Dissenter > Sync > Escaneja.</string>
     <string name="brave_sync_add_mobile_device_text_part_2">Captura el codi QR (a dalt) amb l\'altre dispositiu o introdueix les paraules del codi si no tens cap càmera disponible.</string>
     <string name="brave_sync_btn_done">Fet</string>
     <string name="brave_sync_tabs_text">Pestanyes</string>
     <string name="brave_sync_history_text">Historial</string>
     <string name="brave_sync_autofill_passwords_text">Emplenament automàtic/Contrasenyes</string>
-    <string name="brave_sync_payment_settings_text">Configuració del pagament de Brave</string>
+    <string name="brave_sync_payment_settings_text">Configuració del pagament de Dissenter</string>
     <string name="brave_sync_settings_title">SINCRONITZA EN AQUEST DISPOSITIU</string>
     <string name="brave_sync_settings_description">Si canvies la configuració, només es veuran afectades les dades que aquest dispositiu comparteix amb altres.</string>
     <string name="brave_sync_devices_title">ALTRES DISPOSITIUS DE LA CADENA</string>
@@ -119,7 +119,7 @@ Desat</string>
     <string name="brave_sync_remove_device_text">Suprimeix aquest dispositiu</string>
     <string name="brave_sync_code_words_title">Aparella</string>
     <string name="brave_sync_add_laptop_text_title">Introdueix el codi de la cadena de sincronització</string>
-    <string name="brave_sync_add_laptop_text_part_1">Des del teu ordinador, ves a l\'opció de configuració de Brave > Sync. Tria \"Introdueix un codi de cadena de sincronització\".</string>
+    <string name="brave_sync_add_laptop_text_part_1">Des del teu ordinador, ves a l\'opció de configuració de Dissenter > Sync. Tria \"Introdueix un codi de cadena de sincronització\".</string>
     <string name="brave_sync_add_laptop_text_part_2">Introdueix les paraules del codi a dalt, amb espais.</string>
     <string name="brave_sync_delete_device">Estàs segur que vols suprimir el dispositiu \'<ph name=\"DEVICE_NAME\">%1$s</ph>\'?</string>
     <string name="brave_sync_delete_sent">S\'ha enviat la petició de supressió. El dispositiu se suprimirà de seguida.</string>
@@ -135,12 +135,12 @@ Desat</string>
     <string name="brave_sync_copied_text">S\'ha copiat al porta-retalls</string>
     <string name="brave_sync_this_device_text">(aquest dispositiu)</string>
 
-    <string name="brave_already_set_as_default_browser">Brave ja està definit
+    <string name="brave_already_set_as_default_browser">Dissenter ja està definit
 com el teu navegador predeterminat.</string>
     <string name="brave_default_browser_go_to_settings">Ja has definit un navegador predeterminat.
 Pots canviar el navegador predeterminat a la configuració de l\'aplicació.</string>
     <string name="brave_set_default_browser">Defineix com a navegador predeterminat</string>
-    <string name="brave_default_browser_existing_notification_body">Defineix Brave com el teu navegador web predeterminat
+    <string name="brave_default_browser_existing_notification_body">Defineix Dissenter com el teu navegador web predeterminat
 Estalvia bateria i carrega pàgines web més ràpid</string>
 
     <string name="brave_ui_welcome_header_two">Prepara\'t per experimentar
@@ -165,7 +165,7 @@ per mirar anuncis que respecten la privacitat.</string>
     <string name="brave_ui_send_tip">envia la meva propina</string>
     <string name="brave_ui_do_monthly">envia una propina mensual</string>
     <string name="brave_ui_not_enough_tokens">no hi ha prou tokens</string>
-    <string name="brave_ui_site_banner_notice_text">NOTA: Aquest creador encara no s\'ha registrat per rebre contribucions d\'usuaris de Brave. Continuarem intentant contribuir fins que ho verifiquin o fins que passin 90 dies.</string>
+    <string name="brave_ui_site_banner_notice_text">NOTA: Aquest creador encara no s\'ha registrat per rebre contribucions d\'usuaris de Dissenter. Continuarem intentant contribuir fins que ho verifiquin o fins que passin 90 dies.</string>
     <string name="brave_ui_please">si us plau</string>
     <string name="brave_ui_add_funds">afegeix fons</string>
     <string name="brave_ui_thank_you">Gràcies!</string>
@@ -194,9 +194,9 @@ aquest mes...</string>
     <string name="brave_ui_rewards_contribute_description">Has contribuït amb <ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph> BAT.</string>
     <string name="brave_ui_one_time_donation">Propines puntuals</string>
     <string name="brave_ui_recurring_donation">Propines mensuals</string>
-    <string name="brave_ui_verified_publisher">Editor verificat de Brave</string>
+    <string name="brave_ui_verified_publisher">Editor verificat de Dissenter</string>
     <string name="brave_ui_not_verified_publisher">Encara no s\'ha verificat</string>
-    <string name="brave_ui_not_verified_publisher_description">Aquest creador encara no s\'ha registrat per rebre contribucions d\'usuaris de Brave.
+    <string name="brave_ui_not_verified_publisher_description">Aquest creador encara no s\'ha registrat per rebre contribucions d\'usuaris de Dissenter.
         Les propines que enviïs es mantindran a la teva cartera fins que es verifiquin.</string>
     <string name="brave_ui_on_youtube">a YouTube</string>
     <string name="brave_ui_on_twitch">a Twitch</string>
@@ -209,14 +209,14 @@ fins que es verifiquin o fins que passin 90 dies.</string>
     <string name="brave_ui_notification_desc_tip_error">S\'ha produït un problema en processar la teva propina, torna-ho a provar.</string>
     <string name="brave_ui_notification_desc_contr_error">S\'ha produït un problema en processar la teva contribució.</string>
     <string name="brave_rewards_local_uh_oh">Vaja!</string>
-    <string name="brave_rewards_local_server_not_responding">El servidor de Rewards Brave no respon. Ho arreglarem tan aviat com es pugui.</string>
+    <string name="brave_rewards_local_server_not_responding">El servidor de Rewards Dissenter no respon. Ho arreglarem tan aviat com es pugui.</string>
     <string name="brave_ui_grants">Concessions</string>
     <string name="brave_ui_expires_on">caduca el <ph name=\"DATE\">%1$s<ex>14/4/2019</ex></ph></string>
     <string name="brave_ui_insufficient_funds_msg">Fons insuficients</string>
-    <string name="brave_ui_insufficient_funds_desc">El teu compte de Brave Rewards està esperant un dipòsit.</string>
+    <string name="brave_ui_insufficient_funds_desc">El teu compte de Dissenter Rewards està esperant un dipòsit.</string>
     <string name="brave_ui_backup_wallet_msg">Protegeix la cartera</string>
-    <string name="brave_ui_backup_wallet_desc">Protegeix la teva cartera de Brave.</string>
-    <string name="brave_ui_brave_rewards">Brave Rewards</string>
+    <string name="brave_ui_backup_wallet_desc">Protegeix la teva cartera de Dissenter.</string>
+    <string name="brave_ui_brave_rewards">Dissenter Rewards</string>
     <string name="brave_ui_welcome_back_message">Benvingut de nou!</string>
     <string name="brave_ui_get_rewarded">Aconsegueix recompenses per navegar.</string>
     <string name="brave_ui_brave_rewards_desc">Guanya per mirar anuncis que respecten
@@ -232,21 +232,21 @@ als creadors de contingut que t\'agraden.</string>
     <string name="search_or_url">Buscar o URL</string>
     <string name="accessibility_toolbar_btn_bookmark">Crear una adreça d\'interès</string>
     <string name="brave_ui_donate_monthly">Donar una propina a aquest lloc cada mes</string>
-    <string name="brave_rewards_intro_title">Ja és aquí Brave Rewards</string>
+    <string name="brave_rewards_intro_title">Ja és aquí Dissenter Rewards</string>
     <string name="brave_rewards_intro_text">Dona suport als llocs webs que t\'agraden.</string>
     <string name="brave_rewards_dismiss">Descartar</string>
     <string name="brave_rewards_get_started">Iniciar</string>
 
     <string name="prefs_section_display">Visualitzar</string>
     <string name="prefs_appearance">Aparença</string>
-    <string name="hide_brave_rewards_icon_title">Ocultar Brave Rewards</string>
-    <string name="hide_brave_rewards_icon_description">Amaga la icona de Brave Rewards quan Brave Rewards no estigui activat</string>
+    <string name="hide_brave_rewards_icon_title">Ocultar Dissenter Rewards</string>
+    <string name="hide_brave_rewards_icon_description">Amaga la icona de Dissenter Rewards quan Dissenter Rewards no estigui activat</string>
 
     <string name="brave_ui_pre_grant_message">Torna aviat per poder rebre un obsequi gratuït</string>
 
-    <string name="reset_brave_rewards_option">Inicialitzar Brave Rewards</string>
-    <string name="reset_brave_rewards_option_description">Això eliminarà la cartera Brave Rewards i inicialitzarà totes les teves dades de Brave Rewards</string>
+    <string name="reset_brave_rewards_option">Inicialitzar Dissenter Rewards</string>
+    <string name="reset_brave_rewards_option_description">Això eliminarà la cartera Dissenter Rewards i inicialitzarà totes les teves dades de Dissenter Rewards</string>
     <string name="reset_brave_rewards_error_title">Error d\'inicialització</string>
-    <string name="reset_brave_rewards_error_description">S\'ha produït un error en inicialitzar Brave Rewards. Reinicia Brave i torna-ho a provar</string>
+    <string name="reset_brave_rewards_error_description">S\'ha produït un error en inicialitzar Dissenter Rewards. Reinicia Dissenter i torna-ho a provar</string>
 
     </resources>

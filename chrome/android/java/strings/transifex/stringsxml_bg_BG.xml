@@ -1,6 +1,6 @@
 <resources>
 
-    <string name="brave_settings_title">Настройки на щита на Brave сайта</string>
+    <string name="brave_settings_title">Настройки на щита на Dissenter сайта</string>
     <string name="brave_shields_down">Надолу</string>
     <string name="brave_shields_up">Нагоре</string>
     <string name="brave_shields_ads_trackers">Блокирани реклами и проследяване</string>
@@ -9,8 +9,8 @@
     <string name="brave_shields_ads_tracking_switch">Блокиране на реклами и проследяване</string>
     <string name="brave_shields_https_everywhere_switch">HTTPS навсякъде</string>
     <string name="brave_shields_blocks_scripts_switch">Блокирайте скриптовете</string>
-    <string name="accessibility_toolbar_btn_brave_shields">Разрешете/отменете щитовете на Brave</string>
-    <string name="accessibility_toolbar_btn_brave_rewards">Управление на Brave Rewards</string>
+    <string name="accessibility_toolbar_btn_brave_shields">Разрешете/отменете щитовете на Dissenter</string>
+    <string name="accessibility_toolbar_btn_brave_rewards">Управление на Dissenter Rewards</string>
     <string name="brave_shields_block_3rd_party_cookies_switch">Блокиране на бисквитки на трети страни</string>
 
     <string name="httpse_summary">Отваря сайтове за поддръжка като използва HTTPS вместо of HTTP когато е възможно</string>
@@ -31,7 +31,7 @@
 
     <string name="menu_exit">Изход</string>
 
-    <string name="brave_sync">Синхронизиране на Brave (бета)</string>
+    <string name="brave_sync">Синхронизиране на Dissenter (бета)</string>
     <string name="sync_settings_add_device_name_title">Добавете име на устройство</string>
     <string name="sync_settings_add_device_name_label">Въведете опционно име за това устройство</string>
     <string name="sync_example_device_name">Android устройство</string>
@@ -66,14 +66,14 @@
     <string name="website_settings_category_play_video_in_background_enabled_summary">Разрешено</string>
     <string name="website_settings_category_play_video_in_background_disabled_summary">Забранено</string>
     <string name="website_settings_category_play_video_in_background_enabled">Експериментално. Разрешава просвирване на аудио на фона когато разделът не е активен или екранът на устройството е изключен. Опитайте да превключите към режим работен плот ако тази характеристика не работи.</string>
-    <string name="settings_require_relaunch_notice">Вашите промени ще влезнат в сила следващия път, в който пуснете Brave</string>
+    <string name="settings_require_relaunch_notice">Вашите промени ще влезнат в сила следващия път, в който пуснете Dissenter</string>
     <string name="settings_require_relaunch_now">ПРЕЗАРЕДИ СЕГА</string>
     <string name="settings_require_relaunch_later">ПО-КЪСНО</string>
 
-    <string name="play_yt_video_in_browser_title">Възпроизвеждане на видео в Brave</string>
+    <string name="play_yt_video_in_browser_title">Възпроизвеждане на видео в Dissenter</string>
     <string name="website_settings_category_play_yt_video_in_browser_enabled_summary">Разрешено</string>
     <string name="website_settings_category_play_yt_video_in_browser_disabled_summary">Забранено</string>
-    <string name="website_settings_category_play_yt_video_in_browser_enabled">Ако е разрешено, видеоклиповете ще се възпроизвеждат в Brave вместо в съответното приложение</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled">Ако е разрешено, видеоклиповете ще се възпроизвеждат в Dissenter вместо в съответното приложение</string>
 
     <string name="close_tabs_on_exit_title">Затворете разделите при излизане</string>
     <string name="close_tabs_on_exit_summary">Не поддържайте разделите между сесиите на браузване</string>
@@ -82,7 +82,7 @@
     <string name="open_pages_in_custom_tabs_summary">Предложение за отваряне на разделите в Персонализирани Раздели</string>
 
     <string name="ddg_offer_title">Поверително търсене с DuckDuckGo?</string>
-    <string name="ddg_offer_text">С поверително търсене Brave ще използва DuckDuckGo, за да отговаря на вашите търсения, докато сте в този поверителен раздел. DuckDuckGo е търсачка, която не проследява историята на търсенията ви, като ви дава възможност да търсите поверително.</string>
+    <string name="ddg_offer_text">С поверително търсене Dissenter ще използва DuckDuckGo, за да отговаря на вашите търсения, докато сте в този поверителен раздел. DuckDuckGo е търсачка, която не проследява историята на търсенията ви, като ви дава възможност да търсите поверително.</string>
     <string name="ddg_offer_positive">Да</string>
     <string name="ddg_offer_negative">Не</string>
     <string name="ddg_offer_link">Научете за поверителното търсене с DuckDuckGo</string>
@@ -94,25 +94,25 @@
     <string name="brave_new_private_tab">Нов поверителен раздел</string>
     <string name="brave_new_tab_private_header">Това е поверителен раздел</string>
     <string name="brave_new_tab_private_message">Въпреки че сайтовете, които посещавате в поверителните раздели, не се запазват локално, те не ви правят анонимни или невидими за вашия интернет доставчик, работодател или за сайтовете, които посещавате.</string>
-    <string name="update_notification_title">Актуализация на Brave</string>
-    <string name="update_notification_text">Новият браузър Brave е с 22% по-бърз</string>
+    <string name="update_notification_title">Актуализация на Dissenter</string>
+    <string name="update_notification_text">Новият браузър Dissenter е с 22% по-бърз</string>
     <string name="prefs_sync">Синхронизация (бета)</string>
-    <string name="brave_sync_description_page_1_part_1">Brave Sync позволява поверително синхронизиране на данни за отметки между Вашите браузъри Brave върху различни устройства.</string>
+    <string name="brave_sync_description_page_1_part_1">Dissenter Sync позволява поверително синхронизиране на данни за отметки между Вашите браузъри Dissenter върху различни устройства.</string>
     <string name="brave_sync_description_page_1_part_2">Просто сканирайте кода от Вашата синхронизираща верига, която сте създали на друго устройство. Или стартирайте нова синхронизираща верига.</string>
     <string name="brave_sync_scan_chain_code">Сканиране или въвеждане на код за синхронизация</string>
     <string name="brave_sync_start_new_chain">Стартиране на нова синхронизираща верига</string>
-    <string name="brave_sync_qrcode_message_v2">Използвайки съществуващото синхронизирано устройство, отворете Настройки на Brave и отидете на Настройки > Синхронизиране. Изберете \"Добавяне на устройство\" и сканирайте QR кода на екрана.</string>
-    <string name="brave_sync_codewords_message">Използвайки съществуващото синхронизирано устройство, отворете Настройки на Brave и отидете на Настройки > Синхронизиране. Изберете \"Добавяне на устройство\" и \"Показване на кодови думи\".</string>
+    <string name="brave_sync_qrcode_message_v2">Използвайки съществуващото синхронизирано устройство, отворете Настройки на Dissenter и отидете на Настройки > Синхронизиране. Изберете \"Добавяне на устройство\" и сканирайте QR кода на екрана.</string>
+    <string name="brave_sync_codewords_message">Използвайки съществуващото синхронизирано устройство, отворете Настройки на Dissenter и отидете на Настройки > Синхронизиране. Изберете \"Добавяне на устройство\" и \"Показване на кодови думи\".</string>
     <string name="brave_sync_btn_mobile">Добавяне на мобилно устройство</string>
     <string name="brave_sync_btn_laptop">Добавяне на компютър</string>
     <string name="brave_sync_scan_sync_code">Сканирайте този код за синхронизация</string>
-    <string name="brave_sync_add_mobile_device_text_part_1">Използвайки втори телефон или таблет, отидете на Настройки на Brave > Синхронизиране > Сканиране.</string>
+    <string name="brave_sync_add_mobile_device_text_part_1">Използвайки втори телефон или таблет, отидете на Настройки на Dissenter > Синхронизиране > Сканиране.</string>
     <string name="brave_sync_add_mobile_device_text_part_2">Заснемете QR кода (по-горе) с второто устройство или въведете кодовите думи, ако не разполагате с камера.</string>
     <string name="brave_sync_btn_done">Готово</string>
     <string name="brave_sync_tabs_text">Раздели</string>
     <string name="brave_sync_history_text">Хронология</string>
     <string name="brave_sync_autofill_passwords_text">Автоматично попълване/пароли</string>
-    <string name="brave_sync_payment_settings_text">Настройки на Brave за плащане</string>
+    <string name="brave_sync_payment_settings_text">Настройки на Dissenter за плащане</string>
     <string name="brave_sync_settings_title">СИНХРОНИЗИРАЙ НА ТОВА УСТРОЙСТВО</string>
     <string name="brave_sync_settings_description">Промяната на настройките засяга само данни, които това устройство споделя с другите.</string>
     <string name="brave_sync_devices_title">ДРУГИ УСТРОЙСТВА ВЪВ ВЕРИГАТА</string>
@@ -121,7 +121,7 @@
     <string name="brave_sync_remove_device_text">Премахване на това устройство</string>
     <string name="brave_sync_code_words_title">Сдвояване</string>
     <string name="brave_sync_add_laptop_text_title">Въвеждане на кода на синхронизиращата верига</string>
-    <string name="brave_sync_add_laptop_text_part_1">Използвайки компютъра си, отидете на Настройки на Brave > Синхронизиране. Изберете \"Въвеждане на код на синхронизираща верига\".</string>
+    <string name="brave_sync_add_laptop_text_part_1">Използвайки компютъра си, отидете на Настройки на Dissenter > Синхронизиране. Изберете \"Въвеждане на код на синхронизираща верига\".</string>
     <string name="brave_sync_add_laptop_text_part_2">Въведете кодовите думи по-горе, заедно с интервалите.</string>
     <string name="brave_sync_delete_device">Сигурни ли сте, че искате да изтриете устройство \"<ph name=\"DEVICE_NAME\">%1$s</ph>\"?</string>
     <string name="brave_sync_delete_sent">Изпратена е заявка за изтриване. Скоро устройството ще бъде премахнато.</string>
@@ -137,14 +137,14 @@
     <string name="brave_sync_copied_text">Копирано в клипборда</string>
     <string name="brave_sync_this_device_text">(това устройство)</string>
 
-    <string name="brave_already_set_as_default_browser">Brave вече е зададен
+    <string name="brave_already_set_as_default_browser">Dissenter вече е зададен
 като Вашия браузър по подразбиране.</string>
     <string name="brave_default_browser_go_to_settings">Вече сте задали браузър по подразбиране.
 Можете да промените браузъра по подразбиране в настройките на приложенията си.</string>
-    <string name="brave_default_browser_notification_body">Пестете батерия и зареждайте уеб страниците по-бързо. Направете Brave Вашият браузър по подразбиране. От менюто на Brave изберете \"Задаване като браузър по подразбиране\"</string>
+    <string name="brave_default_browser_notification_body">Пестете батерия и зареждайте уеб страниците по-бързо. Направете Dissenter Вашият браузър по подразбиране. От менюто на Dissenter изберете \"Задаване като браузър по подразбиране\"</string>
     <string name="brave_set_default_browser">Задаване като браузър по подразбиране</string>
-    <string name="brave_set_default_browser_dialog_text">Изберете Brave от списъка и натиснете „Винаги“</string>
-    <string name="brave_default_browser_existing_notification_body">Направете Brave Вашият браузър по подразбиране
+    <string name="brave_set_default_browser_dialog_text">Изберете Dissenter от списъка и натиснете „Винаги“</string>
+    <string name="brave_default_browser_existing_notification_body">Направете Dissenter Вашият браузър по подразбиране
 Пестете батерия и зареждайте уеб страниците по-бързо</string>
 
     <string name="brave_ui_welcome_header_two">Пригответе се да опитате
@@ -169,7 +169,7 @@
     <string name="brave_ui_send_tip">изпращане на моето дарение</string>
     <string name="brave_ui_do_monthly">задаване на месечно дарение</string>
     <string name="brave_ui_not_enough_tokens">няма достатъчно токени</string>
-    <string name="brave_ui_site_banner_notice_text">ЗАБЕЛЕЖКА: Този създател все още не се е регистрирал, за да получава дарения от потребители на Brave. Ще продължим да се опитваме да даряваме, докато не потвърдят, или до изтичането на 90 дни.</string>
+    <string name="brave_ui_site_banner_notice_text">ЗАБЕЛЕЖКА: Този създател все още не се е регистрирал, за да получава дарения от потребители на Dissenter. Ще продължим да се опитваме да даряваме, докато не потвърдят, или до изтичането на 90 дни.</string>
     <string name="brave_ui_please">моля</string>
     <string name="brave_ui_add_funds">добавяне на средства</string>
     <string name="brave_ui_thank_you">Благодарим Ви!</string>
@@ -198,9 +198,9 @@
     <string name="brave_ui_rewards_contribute_description">Дарили сте <ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph> BAT.</string>
     <string name="brave_ui_one_time_donation">Еднократни дарения</string>
     <string name="brave_ui_recurring_donation">Месечни дарения</string>
-    <string name="brave_ui_verified_publisher">Издател, потвърден от Brave</string>
+    <string name="brave_ui_verified_publisher">Издател, потвърден от Dissenter</string>
     <string name="brave_ui_not_verified_publisher">Все още не е потвърдено</string>
-    <string name="brave_ui_not_verified_publisher_description">Този създател все още не се е регистрирал, за да получава дарения от потребители на Brave.
+    <string name="brave_ui_not_verified_publisher_description">Този създател все още не се е регистрирал, за да получава дарения от потребители на Dissenter.
         Всички дарения, които изпращате, ще останат в портфейла Ви, докато не бъдат потвърдени.</string>
     <string name="brave_ui_on_youtube">в YouTube</string>
     <string name="brave_ui_on_twitch">в Twitch</string>
@@ -215,14 +215,14 @@
     <string name="brave_ui_notification_desc_tip_error">Възникна проблем при обработката на Вашето дарение. Моля, опитайте отново.</string>
     <string name="brave_ui_notification_desc_contr_error">Възникна проблем при обработката на Вашето дарение.</string>
     <string name="brave_rewards_local_uh_oh">Ъ!</string>
-    <string name="brave_rewards_local_server_not_responding">Сървърът на Brave Rewards не отговаря. Ще поправим това възможно най-скоро.</string>
+    <string name="brave_rewards_local_server_not_responding">Сървърът на Dissenter Rewards не отговаря. Ще поправим това възможно най-скоро.</string>
     <string name="brave_ui_grants">Дарения</string>
     <string name="brave_ui_expires_on">изтича на <ph name=\"DATE\">%1$s<ex>4/14/2019</ex></ph></string>
     <string name="brave_ui_insufficient_funds_msg">Липса на достатъчно средства</string>
-    <string name="brave_ui_insufficient_funds_desc">Вашата Brave Rewards сметка очаква депозит.</string>
+    <string name="brave_ui_insufficient_funds_desc">Вашата Dissenter Rewards сметка очаква депозит.</string>
     <string name="brave_ui_backup_wallet_msg">Резервен портфейл</string>
-    <string name="brave_ui_backup_wallet_desc">Моля, направете резервен Brave портфейл.</string>
-    <string name="brave_ui_brave_rewards">Brave Rewards</string>
+    <string name="brave_ui_backup_wallet_desc">Моля, направете резервен Dissenter портфейл.</string>
+    <string name="brave_ui_brave_rewards">Dissenter Rewards</string>
     <string name="brave_ui_welcome_back_message">Добре дошли отново!</string>
     <string name="brave_ui_get_rewarded">Получете възнаграждение за сърфиране.</string>
     <string name="brave_ui_brave_rewards_desc">Печелете, гледайки съобразени с неприкосновеността на личните данни
@@ -238,21 +238,21 @@
     <string name="search_or_url">Търсене или URL адрес</string>
     <string name="accessibility_toolbar_btn_bookmark">Създаване на маркер</string>
     <string name="brave_ui_donate_monthly">Правете дарение на този сайт ежемесечно</string>
-    <string name="brave_rewards_intro_title">Brave Rewards е  тук</string>
+    <string name="brave_rewards_intro_title">Dissenter Rewards е  тук</string>
     <string name="brave_rewards_intro_text">Подкрепяйте любимите си сайтове.</string>
     <string name="brave_rewards_dismiss">Отхвърляне</string>
     <string name="brave_rewards_get_started">Начало</string>
 
     <string name="prefs_section_display">Показване</string>
     <string name="prefs_appearance">Облик</string>
-    <string name="hide_brave_rewards_icon_title">Скриване на иконата на Brave Rewards</string>
-    <string name="hide_brave_rewards_icon_description">Скрива иконата на Brave Rewards, когато система Brave Rewards е неактивна</string>
+    <string name="hide_brave_rewards_icon_title">Скриване на иконата на Dissenter Rewards</string>
+    <string name="hide_brave_rewards_icon_description">Скрива иконата на Dissenter Rewards, когато система Dissenter Rewards е неактивна</string>
 
     <string name="brave_ui_pre_grant_message">Проверете скоро за получаване на безплатен токен</string>
 
-    <string name="reset_brave_rewards_option">Възстановяване на Brave Rewards</string>
-    <string name="reset_brave_rewards_option_description">Това ще изтрие вашия Brave портфейл и ще нулира всичките Ви данни за Brave Rewards</string>
+    <string name="reset_brave_rewards_option">Възстановяване на Dissenter Rewards</string>
+    <string name="reset_brave_rewards_option_description">Това ще изтрие вашия Dissenter портфейл и ще нулира всичките Ви данни за Dissenter Rewards</string>
     <string name="reset_brave_rewards_error_title">Възстановяване на грешка</string>
-    <string name="reset_brave_rewards_error_description">При възстановяването на Brave Rewards възникна грешка. Моля, рестартирайте Brave и опитайте отново</string>
+    <string name="reset_brave_rewards_error_description">При възстановяването на Dissenter Rewards възникна грешка. Моля, рестартирайте Dissenter и опитайте отново</string>
 
     </resources>

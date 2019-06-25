@@ -1,6 +1,6 @@
 <resources>
 
-    <string name="brave_settings_title">Nastavitve ščitov za spletno mesto Brave</string>
+    <string name="brave_settings_title">Nastavitve ščitov za spletno mesto Dissenter</string>
     <string name="brave_shields_down">Dol</string>
     <string name="brave_shields_up">Gor</string>
     <string name="brave_shields_ads_trackers">Oglasi in sledilniki so blokirani</string>
@@ -9,7 +9,7 @@
     <string name="brave_shields_ads_tracking_switch">Blokiraj oglase in sledenje</string>
     <string name="brave_shields_https_everywhere_switch">HTTPS povsod</string>
     <string name="brave_shields_blocks_scripts_switch">Blokiraj skripte</string>
-    <string name="accessibility_toolbar_btn_brave_shields">Omogoči/onemogoči ščite Brave</string>
+    <string name="accessibility_toolbar_btn_brave_shields">Omogoči/onemogoči ščite Dissenter</string>
     <string name="brave_shields_block_3rd_party_cookies_switch">Blokiranje piškotkov tretjih strani</string>
 
     <string name="httpse_summary">Odpre podprta spletna mesta z uporabo protokola HTTPS, namesto z uporabo protokola HTTP, kjerkoli je mogoče</string>
@@ -64,14 +64,14 @@ Shranjeno</string>
     <string name="website_settings_category_play_video_in_background_enabled_summary">Omogočeno</string>
     <string name="website_settings_category_play_video_in_background_disabled_summary">Onemogočeno</string>
     <string name="website_settings_category_play_video_in_background_enabled">Poskusno. Omogoča predvajanje zvoka iz videa v ozadju, ko zavihek ni aktiven ali je zaslon naprave izključen. Če ta funkcija ne deluje, poskusite preklopiti na namizni način.</string>
-    <string name="settings_require_relaunch_notice">Opravljene spremembe bodo začele veljati po naslednjem ponovnem zagonu Brave.</string>
+    <string name="settings_require_relaunch_notice">Opravljene spremembe bodo začele veljati po naslednjem ponovnem zagonu Dissenter.</string>
     <string name="settings_require_relaunch_now">PONOVNO ZAŽENI ZDAJ</string>
     <string name="settings_require_relaunch_later">KASNEJE</string>
 
-    <string name="play_yt_video_in_browser_title">Predvajanje videa v Brave</string>
+    <string name="play_yt_video_in_browser_title">Predvajanje videa v Dissenter</string>
     <string name="website_settings_category_play_yt_video_in_browser_enabled_summary">Omogočeno</string>
     <string name="website_settings_category_play_yt_video_in_browser_disabled_summary">Onemogočeno</string>
-    <string name="website_settings_category_play_yt_video_in_browser_enabled">Če potrdite to možnost, se bodo filmi predvajali v Brave in ne v zato namenjenih programih</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled">Če potrdite to možnost, se bodo filmi predvajali v Dissenter in ne v zato namenjenih programih</string>
 
     <string name="close_tabs_on_exit_title">Zapri zavihke ob izhodu</string>
     <string name="close_tabs_on_exit_summary">Ne vztrajaj z zavihki med sejami brskanja</string>
@@ -80,7 +80,7 @@ Shranjeno</string>
     <string name="open_pages_in_custom_tabs_summary">Ponudi odpiranje zavihkov med zavihki po meri</string>
 
     <string name="ddg_offer_title">Želite zasebno iskanje z DuckDuckGo?</string>
-    <string name="ddg_offer_text">Z zasebnim iskanjem bo Brave uporabljal DuckDuckGo za opravljanje iskanje, ko ste v tem zasebnem zavihku. DuckDuckGo je iskalnik, ki ne sledi vaši zgodovini iskanja, zaradi česar lahko iščete zasebno.</string>
+    <string name="ddg_offer_text">Z zasebnim iskanjem bo Dissenter uporabljal DuckDuckGo za opravljanje iskanje, ko ste v tem zasebnem zavihku. DuckDuckGo je iskalnik, ki ne sledi vaši zgodovini iskanja, zaradi česar lahko iščete zasebno.</string>
     <string name="ddg_offer_positive">Da</string>
     <string name="ddg_offer_negative">Ne</string>
     <string name="ddg_offer_link">Izvejte več o zasebnem iskanju z DuckDuckGo</string>
@@ -92,25 +92,25 @@ Shranjeno</string>
     <string name="brave_new_private_tab">Nov zasebni zavihek</string>
     <string name="brave_new_tab_private_header">To je zasebni zavihek</string>
     <string name="brave_new_tab_private_message">Čeprav spletišča, ki jih obiščete v zasebnih zavihkih, niso krajevno shranjena, ne ohranjajo vaše anonimnosti ali nevidnosti nasproti vašemu ponudniku internetnih storitev, vašemu delodajalcu ali spletiščem, ki jih obiskujete.</string>
-    <string name="update_notification_title">Posodobitev Brave</string>
-    <string name="update_notification_text">Novi brskalnik Brave je 22 % hitrejši</string>
+    <string name="update_notification_title">Posodobitev Dissenter</string>
+    <string name="update_notification_text">Novi brskalnik Dissenter je 22 % hitrejši</string>
     <string name="prefs_sync">Sync (beta)</string>
-    <string name="brave_sync_description_page_1_part_1">Brave Sync vam omogoča zasebno sinhronizacijo podatkov o zaznamkih med brskalniki Brave na vaših različnih napravah.</string>
+    <string name="brave_sync_description_page_1_part_1">Dissenter Sync vam omogoča zasebno sinhronizacijo podatkov o zaznamkih med brskalniki Dissenter na vaših različnih napravah.</string>
     <string name="brave_sync_description_page_1_part_2">Enostavno skenirajte kodo vaše sinhronizacijske verige, ki ste jo ustvarili na drugi napravi ali pa ustvarite novo sinhronizacijsko verigo.</string>
     <string name="brave_sync_scan_chain_code">Skeniraj ali vnesi kodo za sinhronizacijo</string>
     <string name="brave_sync_start_new_chain">Ustvari novo sinhronizacijsko verigo</string>
-    <string name="brave_sync_qrcode_message_v2">Z uporabo že obstoječe sinhronizirane naprave odprite nastavitve Brave in izberite Nastavitve > Sinhronizacija. Izberite »Dodaj napravo« in skenirajte kodo QR, ki je prikazana na zaslonu.</string>
-    <string name="brave_sync_codewords_message">Z uporabo že obstoječe sinhronizirane naprave odprite nastavitve Brave in izberite Nastavitve > Sinhronizacija. Izberite »Dodaj napravo« in nato »Prikaži kodne besede«.</string>
+    <string name="brave_sync_qrcode_message_v2">Z uporabo že obstoječe sinhronizirane naprave odprite nastavitve Dissenter in izberite Nastavitve > Sinhronizacija. Izberite »Dodaj napravo« in skenirajte kodo QR, ki je prikazana na zaslonu.</string>
+    <string name="brave_sync_codewords_message">Z uporabo že obstoječe sinhronizirane naprave odprite nastavitve Dissenter in izberite Nastavitve > Sinhronizacija. Izberite »Dodaj napravo« in nato »Prikaži kodne besede«.</string>
     <string name="brave_sync_btn_mobile">Dodaj mobilno napravo</string>
     <string name="brave_sync_btn_laptop">Dodaj računalnik</string>
     <string name="brave_sync_scan_sync_code">Skeniraj to kodo za sinhronizacijo</string>
-    <string name="brave_sync_add_mobile_device_text_part_1">Na drugem telefonu ali tabličnem računalniku izberite Nastavitve Brave > Sinhronizacija > Skeniranje.</string>
+    <string name="brave_sync_add_mobile_device_text_part_1">Na drugem telefonu ali tabličnem računalniku izberite Nastavitve Dissenter > Sinhronizacija > Skeniranje.</string>
     <string name="brave_sync_add_mobile_device_text_part_2">Zajemite kodo QR (zgoraj) z drugo napravo ali vnesite kodne besede, če kamera naprave ni na voljo.</string>
     <string name="brave_sync_btn_done">Končano</string>
     <string name="brave_sync_tabs_text">Zavihki</string>
     <string name="brave_sync_history_text">Zgodovina</string>
     <string name="brave_sync_autofill_passwords_text">Samodejni vnos/Gesla</string>
-    <string name="brave_sync_payment_settings_text">Nastavitve plačil Brave</string>
+    <string name="brave_sync_payment_settings_text">Nastavitve plačil Dissenter</string>
     <string name="brave_sync_settings_title">SINHRONIZACIJA NA TEJ NAPRAVI</string>
     <string name="brave_sync_settings_description">Sprememba nastavitev bo vplivala le na podatke, ki jih ta naprava deli z drugimi.</string>
     <string name="brave_sync_devices_title">DRUGE NAPRAVE V VERIGI</string>
@@ -119,7 +119,7 @@ Shranjeno</string>
     <string name="brave_sync_remove_device_text">Odstrani to napravo</string>
     <string name="brave_sync_code_words_title">Seznani</string>
     <string name="brave_sync_add_laptop_text_title">Vnesi kodo sinhronizacijske verige</string>
-    <string name="brave_sync_add_laptop_text_part_1">Na računalniku izberite Nastavitve Brave > Sinhronizacija. Nato izberite »Vnesi kodo sinhronizacijske verige«.</string>
+    <string name="brave_sync_add_laptop_text_part_1">Na računalniku izberite Nastavitve Dissenter > Sinhronizacija. Nato izberite »Vnesi kodo sinhronizacijske verige«.</string>
     <string name="brave_sync_add_laptop_text_part_2">Vnesite kodne besede zgoraj, vključno s presledki.</string>
     <string name="brave_sync_delete_device">Ali ste prepričani, da želite izbrisati napravo \'<ph name=\"DEVICE_NAME\">%1$s</ph>\'?</string>
     <string name="brave_sync_delete_sent">Poslan je bil zahtevek za izbris. Naprava bo kmalu izbrisana.</string>
@@ -135,12 +135,12 @@ Shranjeno</string>
     <string name="brave_sync_copied_text">Kopirano v odložišče</string>
     <string name="brave_sync_this_device_text">(ta naprava)</string>
 
-    <string name="brave_already_set_as_default_browser">Brave je že nastavljen
+    <string name="brave_already_set_as_default_browser">Dissenter je že nastavljen
 kot vaš privzeti brskalnik.</string>
     <string name="brave_default_browser_go_to_settings">Privzeti brskalnik ste že nastavili.
 Spremenite ga lahko v nastavitvah aplikacije.</string>
     <string name="brave_set_default_browser">Nastavi kot privzeti brskalnik</string>
-    <string name="brave_default_browser_existing_notification_body">Nastavite Brave kot privzeti brskalnik
+    <string name="brave_default_browser_existing_notification_body">Nastavite Dissenter kot privzeti brskalnik
 Prihranite baterijo in hitreje naložite spletne strani.</string>
 
     <string name="brave_ui_welcome_header_two">Pripravite se na
@@ -165,7 +165,7 @@ gledanjem oglasov, ki spoštujejo vašo zasebnost.</string>
     <string name="brave_ui_send_tip">Pošlji mojo donacijo</string>
     <string name="brave_ui_do_monthly">Nastavi mesečno donacijo</string>
     <string name="brave_ui_not_enough_tokens">Ni dovolj žetonov</string>
-    <string name="brave_ui_site_banner_notice_text">OPOMBA: Ustvarjalec vsebine se še ni registriral za prejemanje donacij uporabnikov Brave. Donacijo bomo še naprej poskušali izvesti, dokler je ne potrdijo oziroma do preteka 90 dni.</string>
+    <string name="brave_ui_site_banner_notice_text">OPOMBA: Ustvarjalec vsebine se še ni registriral za prejemanje donacij uporabnikov Dissenter. Donacijo bomo še naprej poskušali izvesti, dokler je ne potrdijo oziroma do preteka 90 dni.</string>
     <string name="brave_ui_please">prosim</string>
     <string name="brave_ui_add_funds">dodaj sredstva</string>
     <string name="brave_ui_thank_you">Hvala!</string>
@@ -194,9 +194,9 @@ dejavnosti ...</string>
     <string name="brave_ui_rewards_contribute_description">Donirali ste <ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph> BAT.</string>
     <string name="brave_ui_one_time_donation">Enkratna donacija</string>
     <string name="brave_ui_recurring_donation">Mesečna donacija</string>
-    <string name="brave_ui_verified_publisher">Preverjeni ustvarjalec vsebine Brave</string>
+    <string name="brave_ui_verified_publisher">Preverjeni ustvarjalec vsebine Dissenter</string>
     <string name="brave_ui_not_verified_publisher">Še nepreverjen</string>
-    <string name="brave_ui_not_verified_publisher_description">Ustvarjalec vsebine se še ni registriral za prejemanje donacij uporabnikov Brave.
+    <string name="brave_ui_not_verified_publisher_description">Ustvarjalec vsebine se še ni registriral za prejemanje donacij uporabnikov Dissenter.
 Donacije, ki jih pošljete, bodo v vaši denarnici, dokler jih ustvarjalec vsebine ne potrdi.</string>
     <string name="brave_ui_on_youtube">na YouTubu</string>
     <string name="brave_ui_on_twitch">na Twitchu</string>
@@ -209,14 +209,14 @@ je ne potrdijo oziroma do preteka 90 dni.</string>
     <string name="brave_ui_notification_desc_tip_error">Pri obdelavi vaše donacije je prišlo do težave. Prosimo, poskusite znova.</string>
     <string name="brave_ui_notification_desc_contr_error">Pri obdelavi vaše donacije je prišlo do težave.</string>
     <string name="brave_rewards_local_uh_oh">Ojoj!</string>
-    <string name="brave_rewards_local_server_not_responding">Strežnik Brave Rewards se ne odziva. Težave bomo skušali rešiti čim prej.</string>
+    <string name="brave_rewards_local_server_not_responding">Strežnik Dissenter Rewards se ne odziva. Težave bomo skušali rešiti čim prej.</string>
     <string name="brave_ui_grants">Zneski</string>
     <string name="brave_ui_expires_on">poteče dne <ph name=\"DATE\">%1$s<ex>14. 4. 2019</ex></ph></string>
     <string name="brave_ui_insufficient_funds_msg">Nezadostna sredstva</string>
-    <string name="brave_ui_insufficient_funds_desc">Vaš račun Brave Rewards čaka na nakazilo.</string>
+    <string name="brave_ui_insufficient_funds_desc">Vaš račun Dissenter Rewards čaka na nakazilo.</string>
     <string name="brave_ui_backup_wallet_msg">Varnostna kopija denarnice</string>
-    <string name="brave_ui_backup_wallet_desc">Varnostno kopirajte svojo denarnico Brave.</string>
-    <string name="brave_ui_brave_rewards">Nagrade Brave Rewards</string>
+    <string name="brave_ui_backup_wallet_desc">Varnostno kopirajte svojo denarnico Dissenter.</string>
+    <string name="brave_ui_brave_rewards">Nagrade Dissenter Rewards</string>
     <string name="brave_ui_welcome_back_message">Dobrodošli nazaj!</string>
     <string name="brave_ui_get_rewarded">Zagotovite si nagrado za brskanje.</string>
     <string name="brave_ui_brave_rewards_desc">Zaslužite z ogledi oglasov, ki spoštujejo

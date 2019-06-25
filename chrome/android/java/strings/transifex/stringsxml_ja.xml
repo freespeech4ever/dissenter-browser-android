@@ -1,6 +1,6 @@
 <resources>
 
-    <string name="brave_settings_title">Brave サイトシールドの設定 対象:</string>
+    <string name="brave_settings_title">Dissenter サイトシールドの設定 対象:</string>
     <string name="brave_shields_down">下へ</string>
     <string name="brave_shields_up">上ヘ</string>
     <string name="brave_shields_ads_trackers">広告と追跡トラッカーはブロックされました</string>
@@ -9,7 +9,7 @@
     <string name="brave_shields_ads_tracking_switch">広告と追跡トラッカーをブロック</string>
     <string name="brave_shields_https_everywhere_switch">HTTPSをどこでも</string>
     <string name="brave_shields_blocks_scripts_switch">スクリプトをブロック</string>
-    <string name="accessibility_toolbar_btn_brave_shields">Braveシールドを有効化/無効化</string>
+    <string name="accessibility_toolbar_btn_brave_shields">Dissenterシールドを有効化/無効化</string>
     <string name="brave_shields_block_3rd_party_cookies_switch">サードパーティクッキーをブロック</string>
 
     <string name="httpse_summary">HTTPの代わりにHTTPSの利用が可能であれば、HTTPSでサポートされたサイトを開</string>
@@ -66,14 +66,14 @@
     <string name="website_settings_category_play_video_in_background_enabled_summary">有効</string>
     <string name="website_settings_category_play_video_in_background_disabled_summary">無効</string>
     <string name="website_settings_category_play_video_in_background_enabled">試験的機能です。タブが無効またはデバイスの画面がオフの際のバックグラウンドの動画からのオーディオ再生を有効化します。この機能が動作しない場合には、デスクトップモードに切り替えてみてください。</string>
-    <string name="settings_require_relaunch_notice">変更は次回の Brave 再起動後に有効となります</string>
+    <string name="settings_require_relaunch_notice">変更は次回の Dissenter 再起動後に有効となります</string>
     <string name="settings_require_relaunch_now">今すぐ再起動する</string>
     <string name="settings_require_relaunch_later">後で</string>
 
-    <string name="play_yt_video_in_browser_title">Braveでの動画再生</string>
+    <string name="play_yt_video_in_browser_title">Dissenterでの動画再生</string>
     <string name="website_settings_category_play_yt_video_in_browser_enabled_summary">有効になっています</string>
     <string name="website_settings_category_play_yt_video_in_browser_disabled_summary">無効になっています</string>
-    <string name="website_settings_category_play_yt_video_in_browser_enabled">有効になっているときは、対応するアプリの代わりにBraveで動画が再生されます</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled">有効になっているときは、対応するアプリの代わりにDissenterで動画が再生されます</string>
 
     <string name="close_tabs_on_exit_title">出口にあるタブを閉じてください</string>
     <string name="close_tabs_on_exit_summary">ブラウズの間はタブをそのままにしないでください。</string>
@@ -82,7 +82,7 @@
     <string name="open_pages_in_custom_tabs_summary">カスタムタブ内のタブを開くよう提案する</string>
 
     <string name="ddg_offer_title"> DuckDuckGoでプライベート検索しますか？</string>
-    <string name="ddg_offer_text">プライベート検索では、BraveがDuckDuckGoを使って、このプライベートタブ内であなたの検索リクエストに応えます。DuckDuckGoは、検索履歴を追跡しない検索エンジンなので、プライベートな検索を行うことができます。</string>
+    <string name="ddg_offer_text">プライベート検索では、DissenterがDuckDuckGoを使って、このプライベートタブ内であなたの検索リクエストに応えます。DuckDuckGoは、検索履歴を追跡しない検索エンジンなので、プライベートな検索を行うことができます。</string>
     <string name="ddg_offer_positive">はい</string>
     <string name="ddg_offer_negative">いいえ</string>
     <string name="ddg_offer_link">DuckDuckGoを使ったプライベート検索について学ぶ</string>
@@ -94,25 +94,25 @@
     <string name="brave_new_private_tab">新しいプライベートタブ</string>
     <string name="brave_new_tab_private_header">これはプライベートタブです</string>
     <string name="brave_new_tab_private_message">プライベートタブで訪れたサイトはローカルに保存されませんが、ISPや雇用主、又は訪れたサイトに対して、あなたを匿名に保ったり、身元が分からない状態にはしません。</string>
-    <string name="update_notification_title">Braveアプデート</string>
-    <string name="update_notification_text">新しく生まれ変わったBraveブラウザは、22%の高速化を達成しました</string>
+    <string name="update_notification_title">Dissenterアプデート</string>
+    <string name="update_notification_text">新しく生まれ変わったDissenterブラウザは、22%の高速化を達成しました</string>
     <string name="prefs_sync">Sync (beta版)</string>
-    <string name="brave_sync_description_page_1_part_1">Brave Sync は、さまざまな端末上の Brave ブラウザ間でのブックマークデータの同期を可能にします。</string>
+    <string name="brave_sync_description_page_1_part_1">Dissenter Sync は、さまざまな端末上の Dissenter ブラウザ間でのブックマークデータの同期を可能にします。</string>
     <string name="brave_sync_description_page_1_part_2">別の端末で作成した同期チェーンからコードをスキャンするだけ。または新しい同期チェーンを開始します。</string>
     <string name="brave_sync_scan_chain_code">同期コードをスキャンまたは入力</string>
     <string name="brave_sync_start_new_chain">新しい同期チェーンを開始</string>
-    <string name="brave_sync_qrcode_message_v2">同期された既存の端末を使って Brave 設定を開き、 [設定] > [同期] に移動します。[デバイスを追加] を選択し、画面に表示された QR コードをスキャンします。</string>
-    <string name="brave_sync_codewords_message">同期された既存の端末を使ってBrave 設定を開き、 [設定] > [同期] に移動します。[デバイスを追加] 、次に [代わりにコードの単語を表示] を選択します。</string>
+    <string name="brave_sync_qrcode_message_v2">同期された既存の端末を使って Dissenter 設定を開き、 [設定] > [同期] に移動します。[デバイスを追加] を選択し、画面に表示された QR コードをスキャンします。</string>
+    <string name="brave_sync_codewords_message">同期された既存の端末を使ってDissenter 設定を開き、 [設定] > [同期] に移動します。[デバイスを追加] 、次に [代わりにコードの単語を表示] を選択します。</string>
     <string name="brave_sync_btn_mobile">モバイル端末を追加</string>
     <string name="brave_sync_btn_laptop">コンピュータを追加</string>
     <string name="brave_sync_scan_sync_code">この同期コードをスキャンします</string>
-    <string name="brave_sync_add_mobile_device_text_part_1">2 つ目の電話またはタブレットを使用して、[Brave 設定] > [同期] > {スキャン} に移動します。</string>
+    <string name="brave_sync_add_mobile_device_text_part_1">2 つ目の電話またはタブレットを使用して、[Dissenter 設定] > [同期] > {スキャン} に移動します。</string>
     <string name="brave_sync_add_mobile_device_text_part_2">2 つ目のデバイスで QR コード (上記) を読み込むか、カメラが利用できない場合はコードの単語を入力します。</string>
     <string name="brave_sync_btn_done">完了</string>
     <string name="brave_sync_tabs_text">タブ</string>
     <string name="brave_sync_history_text">履歴</string>
     <string name="brave_sync_autofill_passwords_text">自動入力/パスワード</string>
-    <string name="brave_sync_payment_settings_text">Brave 支払い設定</string>
+    <string name="brave_sync_payment_settings_text">Dissenter 支払い設定</string>
     <string name="brave_sync_settings_title">この端末で同期</string>
     <string name="brave_sync_settings_description">設定の変更はこの端末が他の端末と共有したデータにのみ影響します。</string>
     <string name="brave_sync_devices_title">チェーン上のその他の端末</string>
@@ -121,7 +121,7 @@
     <string name="brave_sync_remove_device_text">この端末を削除</string>
     <string name="brave_sync_code_words_title">ペア</string>
     <string name="brave_sync_add_laptop_text_title">同期チェーンコードを入力</string>
-    <string name="brave_sync_add_laptop_text_part_1">お使いのコンピューターで、[Brave 設定] > {同期} に移動します。[同期チェーンコードを入力] を選択します。</string>
+    <string name="brave_sync_add_laptop_text_part_1">お使いのコンピューターで、[Dissenter 設定] > {同期} に移動します。[同期チェーンコードを入力] を選択します。</string>
     <string name="brave_sync_add_laptop_text_part_2">上記のコードの単語を、スペースも含めて入力します。</string>
     <string name="brave_sync_delete_device">端末「<ph name=\"DEVICE_NAME\">%1$s</ph>」を削除してよろしいですか？</string>
     <string name="brave_sync_delete_sent">削除リクエストが送信されました。端末はまもなく削除されます。</string>
@@ -137,14 +137,14 @@
     <string name="brave_sync_copied_text">クリップボードにコピー済み</string>
     <string name="brave_sync_this_device_text">(この端末)</string>
 
-    <string name="brave_already_set_as_default_browser">Braveがデフォルトのブラウザーとして
+    <string name="brave_already_set_as_default_browser">Dissenterがデフォルトのブラウザーとして
 設定されています。</string>
     <string name="brave_default_browser_go_to_settings">すでにデフォルトのブラウザーが設定されています。
 アプリの設定で変更が可能です。</string>
-    <string name="brave_default_browser_notification_body">電池を節約しながら、ウェブサイトの読み込みスピードを上げましょう。Braveをデフォルトのブラウザに設定しましょう。Braveのメニューから「デフォルトのブラウザに設定」をタップし選択してください</string>
+    <string name="brave_default_browser_notification_body">電池を節約しながら、ウェブサイトの読み込みスピードを上げましょう。Dissenterをデフォルトのブラウザに設定しましょう。Dissenterのメニューから「デフォルトのブラウザに設定」をタップし選択してください</string>
     <string name="brave_set_default_browser">デフォルトのブラウザとして設定する</string>
-    <string name="brave_set_default_browser_dialog_text">リストからBraveを選び、「常に」をタップします</string>
-    <string name="brave_default_browser_existing_notification_body">Braveをデフォルトのウェブブラウザにしましょう
+    <string name="brave_set_default_browser_dialog_text">リストからDissenterを選び、「常に」をタップします</string>
+    <string name="brave_default_browser_existing_notification_body">Dissenterをデフォルトのウェブブラウザにしましょう
 バッテリーを節約し、Webページの表示速度を上げましょう</string>
 
     <string name="brave_ui_welcome_header_two">次世代インターネットを
@@ -169,7 +169,7 @@
     <string name="brave_ui_send_tip">チップを送信</string>
     <string name="brave_ui_do_monthly">マンスリーチップを設定</string>
     <string name="brave_ui_not_enough_tokens">トークンが不足しています</string>
-    <string name="brave_ui_site_banner_notice_text">注: このクリエイターは、まだBraveユーザーからの寄付を受諾する手続きを行っていません。クリエイターが確認するまで、または90日間が経過するまで、寄付の送信を継続します。</string>
+    <string name="brave_ui_site_banner_notice_text">注: このクリエイターは、まだDissenterユーザーからの寄付を受諾する手続きを行っていません。クリエイターが確認するまで、または90日間が経過するまで、寄付の送信を継続します。</string>
     <string name="brave_ui_add_funds">資金を追加</string>
     <string name="brave_ui_thank_you">ありがとうございます！</string>
     <string name="brave_ui_error_init_wallet">後ほどもう一度お試しください。</string>
@@ -197,9 +197,9 @@
     <string name="brave_ui_rewards_contribute_description"><ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph>BATを寄付しました。</string>
     <string name="brave_ui_one_time_donation">チップ</string>
     <string name="brave_ui_recurring_donation">マンスリーチップ</string>
-    <string name="brave_ui_verified_publisher">Brave認証済みパブリッシャー</string>
+    <string name="brave_ui_verified_publisher">Dissenter認証済みパブリッシャー</string>
     <string name="brave_ui_not_verified_publisher">未認証</string>
-    <string name="brave_ui_not_verified_publisher_description">このクリエイターは、まだBraveユーザーからの寄付を受諾する手続きを行っていません。クリエイターの認証確認が終了するまで、送信されたチップはウォレット内に維持されます。</string>
+    <string name="brave_ui_not_verified_publisher_description">このクリエイターは、まだDissenterユーザーからの寄付を受諾する手続きを行っていません。クリエイターの認証確認が終了するまで、送信されたチップはウォレット内に維持されます。</string>
     <string name="brave_ui_on_youtube">YouTube</string>
     <string name="brave_ui_on_twitch">Twitch</string>
     <string name="brave_ui_new_grant">無料でトークンをご利用いただけます。</string>
@@ -210,14 +210,14 @@
     <string name="brave_ui_notification_desc_tip_error">チップの処理中にエラーが発生しました。もう一度お試しください。</string>
     <string name="brave_ui_notification_desc_contr_error">寄付の処理中にエラーが発生しました。</string>
     <string name="brave_rewards_local_uh_oh">エラー！</string>
-    <string name="brave_rewards_local_server_not_responding">Braveリワードサーバーが応答していません。修復作業が終了するまで少々お待ちください。</string>
+    <string name="brave_rewards_local_server_not_responding">Dissenterリワードサーバーが応答していません。修復作業が終了するまで少々お待ちください。</string>
     <string name="brave_ui_grants">付与</string>
     <string name="brave_ui_expires_on">の期限は<ex>2019/4/14/</ex><ph name=\"DATE\">%1$s</ph>までです</string>
     <string name="brave_ui_insufficient_funds_msg">資金不足</string>
-    <string name="brave_ui_insufficient_funds_desc">Braveリワードアカウントへの入金があります。</string>
+    <string name="brave_ui_insufficient_funds_desc">Dissenterリワードアカウントへの入金があります。</string>
     <string name="brave_ui_backup_wallet_msg">ウォレットのバックアップ</string>
-    <string name="brave_ui_backup_wallet_desc">Braveウォレットをバックアップしてください。</string>
-    <string name="brave_ui_brave_rewards">Braveリワード</string>
+    <string name="brave_ui_backup_wallet_desc">Dissenterウォレットをバックアップしてください。</string>
+    <string name="brave_ui_brave_rewards">Dissenterリワード</string>
     <string name="brave_ui_welcome_back_message">おかえりなさい！</string>
     <string name="brave_ui_get_rewarded">閲覧してリワードを獲得。</string>
     <string name="brave_ui_brave_rewards_desc">プライバシーに配慮した広告を表示して
@@ -233,27 +233,27 @@
     <string name="search_or_url">検索またはURLを入力します</string>
     <string name="accessibility_toolbar_btn_bookmark">ブックマークを作成</string>
     <string name="brave_ui_donate_monthly">このサイトに毎月チップを支払う</string>
-    <string name="brave_rewards_intro_title">Braveリワードはここにあります</string>
+    <string name="brave_rewards_intro_title">Dissenterリワードはここにあります</string>
     <string name="brave_rewards_intro_text">お気に入りのサイトをサポート</string>
     <string name="brave_rewards_dismiss">解除</string>
     <string name="brave_rewards_get_started">始める</string>
 
-    <string name="brave_rewards_not_available">申し訳ありませんが、お使いの端末ではBrave Rewardsをご利用いただけないようです</string>
+    <string name="brave_rewards_not_available">申し訳ありませんが、お使いの端末ではDissenter Rewardsをご利用いただけないようです</string>
 
     <string name="prefs_section_display">表示</string>
     <string name="prefs_appearance">見た目</string>
-    <string name="hide_brave_rewards_icon_title">Braveリワードアイコンを隠す</string>
-    <string name="hide_brave_rewards_icon_description">Braveリワードが有効でない場合にBraveリワードアイコンを隠す</string>
+    <string name="hide_brave_rewards_icon_title">Dissenterリワードアイコンを隠す</string>
+    <string name="hide_brave_rewards_icon_description">Dissenterリワードが有効でない場合にDissenterリワードアイコンを隠す</string>
 
     <string name="brave_ui_pre_grant_message">またすぐにチェックして無料のトークンを受け取りましょう</string>
 
-    <string name="reset_brave_rewards_option">Braveリワードをリセット</string>
-    <string name="reset_brave_rewards_option_description">Braveウォレットが削除され、すべてのBraveリワードデータがリセットされます</string>
+    <string name="reset_brave_rewards_option">Dissenterリワードをリセット</string>
+    <string name="reset_brave_rewards_option_description">Dissenterウォレットが削除され、すべてのDissenterリワードデータがリセットされます</string>
     <string name="reset_brave_rewards_error_title">エラーをリセット</string>
-    <string name="reset_brave_rewards_error_description">Braveリワードのリセット中にエラーが発生しました。Braveを再開して、再度お試しください。</string>
+    <string name="reset_brave_rewards_error_description">Dissenterリワードのリセット中にエラーが発生しました。Dissenterを再開して、再度お試しください。</string>
 
     <string name="brave_sync_add_laptop_text_part_2_new">下に表示された同期チェーンコードワードを入力してください。このコードはパスワードのようにお取り扱いください。誰かがそれを入手すると、あなたの同期データを読んだり、変更したりすることができます。</string>
 
-    <string name="brave_sync_official">Brave Sync</string>
+    <string name="brave_sync_official">Dissenter Sync</string>
     <string name="prefs_sync_official">同期</string>
 </resources>

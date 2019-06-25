@@ -1,6 +1,6 @@
 <resources>
 
-    <string name="brave_settings_title">Brave skjoldsindstillinger for</string>
+    <string name="brave_settings_title">Dissenter skjoldsindstillinger for</string>
     <string name="brave_shields_down">Ned</string>
     <string name="brave_shields_up">Op</string>
     <string name="brave_shields_ads_trackers">Reklamer og sporing er blokeret</string>
@@ -9,7 +9,7 @@
     <string name="brave_shields_ads_tracking_switch">Blokér Reklamer og Sporing</string>
     <string name="brave_shields_https_everywhere_switch">HTTPS Everywhere</string>
     <string name="brave_shields_blocks_scripts_switch">Blokér Scripts</string>
-    <string name="accessibility_toolbar_btn_brave_shields">Aktivér/Desaktivér Brave Skjolde</string>
+    <string name="accessibility_toolbar_btn_brave_shields">Aktivér/Desaktivér Dissenter Skjolde</string>
     <string name="brave_shields_block_3rd_party_cookies_switch">Bloker 3. parts cookies</string>
 
     <string name="httpse_summary">Åbner understøttede sider ved at bruge HTTPS i stedet for HTTP når det er muligt</string>
@@ -66,14 +66,14 @@ besparelse</string>
     <string name="website_settings_category_play_video_in_background_enabled_summary">Aktiveret</string>
     <string name="website_settings_category_play_video_in_background_disabled_summary">Deaktiveret</string>
     <string name="website_settings_category_play_video_in_background_enabled">Eksperimentel. Muliggør afspilning af lyd fra video i baggrunden, når fanen ikke er aktiv eller enhedens skærm er slukket. Prøv at skifte til skrivebordstilstand, hvis denne funktion ikke virker.</string>
-    <string name="settings_require_relaunch_notice">Dine ændringer træder i kraft, næste gang du genstarter Brave</string>
+    <string name="settings_require_relaunch_notice">Dine ændringer træder i kraft, næste gang du genstarter Dissenter</string>
     <string name="settings_require_relaunch_now">GENSTART NU</string>
     <string name="settings_require_relaunch_later">SENERE</string>
 
-    <string name="play_yt_video_in_browser_title">Videoafspilning i Brave</string>
+    <string name="play_yt_video_in_browser_title">Videoafspilning i Dissenter</string>
     <string name="website_settings_category_play_yt_video_in_browser_enabled_summary">Aktiveret</string>
     <string name="website_settings_category_play_yt_video_in_browser_disabled_summary">Deaktiveret</string>
-    <string name="website_settings_category_play_yt_video_in_browser_enabled">Hvis aktiveret, vil videoer blive afspillet i Brave i stedet for den tilsvarende app</string>
+    <string name="website_settings_category_play_yt_video_in_browser_enabled">Hvis aktiveret, vil videoer blive afspillet i Dissenter i stedet for den tilsvarende app</string>
 
     <string name="close_tabs_on_exit_title">Luk faner ved udgang</string>
     <string name="close_tabs_on_exit_summary">Forlad ikke faner mellem browsersessioner</string>
@@ -82,7 +82,7 @@ besparelse</string>
     <string name="open_pages_in_custom_tabs_summary">Tilbyder at åbne tabs i tilpassede tabs</string>
 
     <string name="ddg_offer_title">Privat søgning med DuckDuckGo?</string>
-    <string name="ddg_offer_text">Med privat søgning vil Brave bruge DuckDuckGo til at besvare dine søgninger mens du er i dette private faneblad. DuckDuckGo er en søgemaskine der ikke holder rede med din søgehistorie, hvilket lader dig søge privat.</string>
+    <string name="ddg_offer_text">Med privat søgning vil Dissenter bruge DuckDuckGo til at besvare dine søgninger mens du er i dette private faneblad. DuckDuckGo er en søgemaskine der ikke holder rede med din søgehistorie, hvilket lader dig søge privat.</string>
     <string name="ddg_offer_positive">Ja</string>
     <string name="ddg_offer_negative">Nej</string>
     <string name="ddg_offer_link">Lær mere om privat søgning med DuckDuckGo</string>
@@ -95,25 +95,25 @@ besparelse</string>
     <string name="brave_new_private_tab">Nyt privat faneblad</string>
     <string name="brave_new_tab_private_header">Dette er et Privat Faneblad</string>
     <string name="brave_new_tab_private_message">Selvom hjemmesider du besøger i private faneblade ikke bliver gemt lokalt, gør de dig ikke anonym eller usynlig over for din ISP, chef eller for hjemmesiderne du bsøger.</string>
-    <string name="update_notification_title">Brave opdatering </string>
-    <string name="update_notification_text">Den nye Brave browser er 22% hurtigere </string>
+    <string name="update_notification_title">Dissenter opdatering </string>
+    <string name="update_notification_text">Den nye Dissenter browser er 22% hurtigere </string>
     <string name="prefs_sync">Sync (beta)</string>
-    <string name="brave_sync_description_page_1_part_1">Brave Sync giver dig mulighed for at synkronisere dine bogmærkedata mellem dine Brave-browsere privat, på tværs af enheder.</string>
+    <string name="brave_sync_description_page_1_part_1">Dissenter Sync giver dig mulighed for at synkronisere dine bogmærkedata mellem dine Dissenter-browsere privat, på tværs af enheder.</string>
     <string name="brave_sync_description_page_1_part_2">Scan koden fra den synkroniseringskæde, du skabte på en anden enhed. Eller begynd på en ny synkroniseringskæde.</string>
     <string name="brave_sync_scan_chain_code">Scan eller indtast synkroniseringskode</string>
     <string name="brave_sync_start_new_chain">Begynd på en ny synkroniseringskæde</string>
-    <string name="brave_sync_qrcode_message_v2">På din eksisterende, synkroniserede enhed skal du åbne Brave-indstillinger og gå til Indstillinger > Sync.  Vælg \"Tilføj enhed\", og scan QR-koden, der vises på skærmen.</string>
-    <string name="brave_sync_codewords_message">På din eksisterende, synkroniserede enhed skal du åbne Brave-indstillinger og gå til Indstillinger > Sync.  Vælg \"Tilføj enhed\" og derefter \"Vis kodeord i stedet\".</string>
+    <string name="brave_sync_qrcode_message_v2">På din eksisterende, synkroniserede enhed skal du åbne Dissenter-indstillinger og gå til Indstillinger > Sync.  Vælg \"Tilføj enhed\", og scan QR-koden, der vises på skærmen.</string>
+    <string name="brave_sync_codewords_message">På din eksisterende, synkroniserede enhed skal du åbne Dissenter-indstillinger og gå til Indstillinger > Sync.  Vælg \"Tilføj enhed\" og derefter \"Vis kodeord i stedet\".</string>
     <string name="brave_sync_btn_mobile">Tilføj en mobilenhed</string>
     <string name="brave_sync_btn_laptop">Tilføj en computer</string>
     <string name="brave_sync_scan_sync_code">Scan denne synkroniseringskode</string>
-    <string name="brave_sync_add_mobile_device_text_part_1">På din anden telefon eller tablet skal du gå til Brave-indstillinger > Sync > Scan.</string>
+    <string name="brave_sync_add_mobile_device_text_part_1">På din anden telefon eller tablet skal du gå til Dissenter-indstillinger > Sync > Scan.</string>
     <string name="brave_sync_add_mobile_device_text_part_2">Scan QR-koden (ovenstående) med din anden enhed, eller indtast kodeord, hvis kameraet ikke er tilgængeligt.</string>
     <string name="brave_sync_btn_done">Færdig</string>
     <string name="brave_sync_tabs_text">Faner</string>
     <string name="brave_sync_history_text">Historik</string>
     <string name="brave_sync_autofill_passwords_text">Autoudfyld/Adgangskoder</string>
-    <string name="brave_sync_payment_settings_text">Brave-betalingsindstillinger</string>
+    <string name="brave_sync_payment_settings_text">Dissenter-betalingsindstillinger</string>
     <string name="brave_sync_settings_title">SYNC PÅ DENNE ENHED</string>
     <string name="brave_sync_settings_description">Når du foretager ændringer i indstillinger, påvirker det kun den data, som denne enhed deler med andre.</string>
     <string name="brave_sync_devices_title">ANDRE ENHEDER PÅ KÆDEN</string>
@@ -122,7 +122,7 @@ besparelse</string>
     <string name="brave_sync_remove_device_text">Fjern denne enhed</string>
     <string name="brave_sync_code_words_title">Dan par</string>
     <string name="brave_sync_add_laptop_text_title">Indtast kode til synkroniseringskæde</string>
-    <string name="brave_sync_add_laptop_text_part_1">Gå til Brave-indstillinger > Sync på din computer. Vælg \"Indtast kode til synkroniseringskæden\".</string>
+    <string name="brave_sync_add_laptop_text_part_1">Gå til Dissenter-indstillinger > Sync på din computer. Vælg \"Indtast kode til synkroniseringskæden\".</string>
     <string name="brave_sync_add_laptop_text_part_2">Indtast kodeordene foroven, med mellemrum.</string>
     <string name="brave_sync_delete_device">Er du sikker på, at du vil slette enheden \'<ph name=\"DEVICE_NAME\">%1$s</ph>\'?</string>
     <string name="brave_sync_delete_sent">Sletningsanmodningen er sendt. Enheden fjernes snart.</string>
@@ -138,14 +138,14 @@ besparelse</string>
     <string name="brave_sync_copied_text">Kopieret til udklipsholderen</string>
     <string name="brave_sync_this_device_text">(denne enhed)</string>
 
-    <string name="brave_already_set_as_default_browser">Brave er allerede angivet
+    <string name="brave_already_set_as_default_browser">Dissenter er allerede angivet
 som din standardbrowser.</string>
     <string name="brave_default_browser_go_to_settings">Du har allerede angivet en standardbrowser.
 Du kan skifte standardbrowser i dine appindstillinger.</string>
-    <string name="brave_default_browser_notification_body">Spar batteri og indlæs websider hurtigere. Gør Brave til din standardbrowser. Fra Brave-menuen skal du trykke på \"Indstil som standardbrowser\"</string>
+    <string name="brave_default_browser_notification_body">Spar batteri og indlæs websider hurtigere. Gør Dissenter til din standardbrowser. Fra Dissenter-menuen skal du trykke på \"Indstil som standardbrowser\"</string>
     <string name="brave_set_default_browser">Sæt som standardbrowser </string>
-    <string name="brave_set_default_browser_dialog_text">Vælg Brave fra listen og tryk på \"Altid\"</string>
-    <string name="brave_default_browser_existing_notification_body">Gør Brave til din standardbrowser
+    <string name="brave_set_default_browser_dialog_text">Vælg Dissenter fra listen og tryk på \"Altid\"</string>
+    <string name="brave_default_browser_existing_notification_body">Gør Dissenter til din standardbrowser
 Spar batteri og åbn hjemmesider hurtigere </string>
 
     <string name="brave_ui_welcome_header_two">Gør dig klar til at opleve
@@ -170,7 +170,7 @@ det næste internet.</string>
     <string name="brave_ui_send_tip">send bidrag til</string>
     <string name="brave_ui_do_monthly">angiv månedligt bidrag</string>
     <string name="brave_ui_not_enough_tokens">ikke nok mærker</string>
-    <string name="brave_ui_site_banner_notice_text">BEMÆRK: Denne indholdsskaber har ikke tilmeldt sig modtagelse af støtte fra Brave-brugere. Vi vil forsøge at støtte vedkommende, indtil personen tilmelder sig, eller indtil der er gået 90 dage.</string>
+    <string name="brave_ui_site_banner_notice_text">BEMÆRK: Denne indholdsskaber har ikke tilmeldt sig modtagelse af støtte fra Dissenter-brugere. Vi vil forsøge at støtte vedkommende, indtil personen tilmelder sig, eller indtil der er gået 90 dage.</string>
     <string name="brave_ui_please">vær venlig at</string>
     <string name="brave_ui_add_funds">tilføje penge</string>
     <string name="brave_ui_thank_you">Tak!</string>
@@ -199,9 +199,9 @@ i denne måned ...</string>
     <string name="brave_ui_rewards_contribute_description">Du har bidraget <ph name="BAT_VALUE">%1$s<ex>50</ex></ph> BAT.</string>
     <string name="brave_ui_one_time_donation">Engangsbidrag</string>
     <string name="brave_ui_recurring_donation">Månedligt bidrag</string>
-    <string name="brave_ui_verified_publisher">Godkendt Brave-udgiver</string>
+    <string name="brave_ui_verified_publisher">Godkendt Dissenter-udgiver</string>
     <string name="brave_ui_not_verified_publisher">Endnu ikke godkendt</string>
-    <string name="brave_ui_not_verified_publisher_description">Denne indholdsskaber har endnu ikke tilmeldt sig modtagelse af støtte fra Brave-brugere. 
+    <string name="brave_ui_not_verified_publisher_description">Denne indholdsskaber har endnu ikke tilmeldt sig modtagelse af støtte fra Dissenter-brugere. 
 De bidrag, du sender til vedkommende, vil blive i din tegnebog, indtil indholdsskaberen godkendes.</string>
     <string name="brave_ui_on_youtube">på YouTube</string>
     <string name="brave_ui_on_twitch">på Twitch</string>
@@ -209,19 +209,19 @@ De bidrag, du sender til vedkommende, vil blive i din tegnebog, indtil indholdss
     <string name="brave_ui_new_token_grant">Gratis bevilling af mærker</string>
     <string name="brave_ui_claim">Modtag</string>
     <string name="brave_ui_reserved_amount_text">Du har angivet <ph name="BAT_VALUE">%1$s<ex>50</ex></ph> BAT til indholdsskabere, der endnu ikke
-har tilmeldt sig modtagelse af støtte fra Brave-brugere. Din browser vil forsøge at bidrage,
+har tilmeldt sig modtagelse af støtte fra Dissenter-brugere. Din browser vil forsøge at bidrage,
 indtil vedkommende godkendes, eller indtil der er gået 90 dage.</string>
     <string name="brave_ui_notification_desc_tip_error">Der opstod et problem under behandling af dit bidrag. Prøv igen.</string>
     <string name="brave_ui_notification_desc_contr_error">Der opstod et problem under behandling af din støtte.</string>
     <string name="brave_rewards_local_uh_oh">Åh-åh.</string>
-    <string name="brave_rewards_local_server_not_responding">Serveren for Brave-belønninger svarer ikke. Vi løser problemet hurtigst muligt.</string>
+    <string name="brave_rewards_local_server_not_responding">Serveren for Dissenter-belønninger svarer ikke. Vi løser problemet hurtigst muligt.</string>
     <string name="brave_ui_grants">Bevillinger</string>
     <string name="brave_ui_expires_on">udløber <ph name="DATE">%1$s<ex>14/04 2019</ex></ph></string>
     <string name="brave_ui_insufficient_funds_msg">Ikke nok penge</string>
-    <string name="brave_ui_insufficient_funds_desc">Din konto for Brave-belønninger venter på et indskud.</string>
+    <string name="brave_ui_insufficient_funds_desc">Din konto for Dissenter-belønninger venter på et indskud.</string>
     <string name="brave_ui_backup_wallet_msg">Tag backup af tegnebog</string>
     <string name="brave_ui_backup_wallet_desc">Tag backup af din Brace-tegnebog.</string>
-    <string name="brave_ui_brave_rewards">Brave-belønninger</string>
+    <string name="brave_ui_brave_rewards">Dissenter-belønninger</string>
     <string name="brave_ui_welcome_back_message">Velkommen tilbage!</string>
     <string name="brave_ui_get_rewarded">Bliv belønnet for at browse.</string>
     <string name="brave_ui_brave_rewards_desc">Tjen på at se reklamer, der respekterer dit privatliv,
@@ -237,27 +237,27 @@ de indholdsskabere, du elsker.</string>
     <string name="search_or_url">Søg eller webadresse</string>
     <string name="accessibility_toolbar_btn_bookmark">Lav et bogmærke</string>
     <string name="brave_ui_donate_monthly">Giv denne side månedlige drikkepenge</string>
-    <string name="brave_rewards_intro_title">Brave Belønninger er her</string>
+    <string name="brave_rewards_intro_title">Dissenter Belønninger er her</string>
     <string name="brave_rewards_intro_text">Støt de sider, du holder af</string>
     <string name="brave_rewards_dismiss">Afvis</string>
     <string name="brave_rewards_get_started">Kom i gang</string>
 
-    <string name="brave_rewards_not_available">Vi beklager at det ser ud til at Brave Rewards ikke er tilgængelig på din enhed</string>
+    <string name="brave_rewards_not_available">Vi beklager at det ser ud til at Dissenter Rewards ikke er tilgængelig på din enhed</string>
 
     <string name="prefs_section_display">Visning</string>
     <string name="prefs_appearance">Udseende</string>
-    <string name="hide_brave_rewards_icon_title">Skjul Ikonet for Brave Belønninger</string>
-    <string name="hide_brave_rewards_icon_description">Skjuler Ikonet for Brave Belønninger, når Brave Belønninger ikke er aktiveret</string>
+    <string name="hide_brave_rewards_icon_title">Skjul Ikonet for Dissenter Belønninger</string>
+    <string name="hide_brave_rewards_icon_description">Skjuler Ikonet for Dissenter Belønninger, når Dissenter Belønninger ikke er aktiveret</string>
 
     <string name="brave_ui_pre_grant_message">Kom tilbage snart for at modtage en gratis polet</string>
 
-    <string name="reset_brave_rewards_option">Nulstil Brave Belønninger</string>
-    <string name="reset_brave_rewards_option_description">Dette vil slette din Brave-pengepung og nulstille alle dine data om Brave Belønninger</string>
+    <string name="reset_brave_rewards_option">Nulstil Dissenter Belønninger</string>
+    <string name="reset_brave_rewards_option_description">Dette vil slette din Dissenter-pengepung og nulstille alle dine data om Dissenter Belønninger</string>
     <string name="reset_brave_rewards_error_title">Nulstil Fejl</string>
-    <string name="reset_brave_rewards_error_description">Der opstod fejl ved nulstilling af Brave Belønninger. Du bedes genstarte Brave og prøve igen</string>
+    <string name="reset_brave_rewards_error_description">Der opstod fejl ved nulstilling af Dissenter Belønninger. Du bedes genstarte Dissenter og prøve igen</string>
 
     <string name="brave_sync_add_laptop_text_part_2_new">Indtast sync chain-kodeordene som er vist nedenfor. Betragt denne kode som en adgangskode. Hvis nogen får fat i den, kan de læse og ændre dine synkroniserede data.</string>
 
-    <string name="brave_sync_official">Brave-synkronisering</string>
+    <string name="brave_sync_official">Dissenter-synkronisering</string>
     <string name="prefs_sync_official">Synkronisering</string>
 </resources>

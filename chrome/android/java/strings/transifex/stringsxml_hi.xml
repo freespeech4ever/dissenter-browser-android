@@ -30,7 +30,7 @@
 
     <string name="menu_exit">निकास</string>
 
-    <string name="brave_sync">Brave सिंक (बीटा)</string>
+    <string name="brave_sync">Dissenter सिंक (बीटा)</string>
     <string name="sync_settings_add_device_name_title">उपकरण का नाम जोड़ें </string>
     <string name="sync_settings_add_device_name_label">इस उपकरण के लिए कोई वैकल्पिक नाम एंटर करें </string>
     <string name="sync_example_device_name">ऐन्ड्रॉइड उपकरण </string>
@@ -83,7 +83,7 @@
     <string name="open_pages_in_custom_tabs_summary">कस्टम टैब में टैब खोलने की पेशकश करें</string>
 
     <string name="ddg_offer_title">क्या आप DuckDuckGo के साथ निजी खोज करना चाहते हैं?</string>
-    <string name="ddg_offer_text">निजी खोज के साथ, Brave इस निजी टैब में आपकी खोजों का उत्तर देने के लिए DuckDuckGo का उपयोग करेगा। DuckDuckGo एक खोज इंजन है जो आपके खोज इतिहास को ट्रैक नहीं करता है, और आपको निजी रूप से खोज करने की सुविधा प्रदान करता है।</string>
+    <string name="ddg_offer_text">निजी खोज के साथ, Dissenter इस निजी टैब में आपकी खोजों का उत्तर देने के लिए DuckDuckGo का उपयोग करेगा। DuckDuckGo एक खोज इंजन है जो आपके खोज इतिहास को ट्रैक नहीं करता है, और आपको निजी रूप से खोज करने की सुविधा प्रदान करता है।</string>
     <string name="ddg_offer_positive">हाँ</string>
     <string name="ddg_offer_negative">नहीं</string>
     <string name="ddg_offer_link">DuckDuckGo के साथ निजी खोज के बारे में जानें</string>
@@ -95,25 +95,25 @@
     <string name="brave_new_private_tab">नया निजी टैब</string>
     <string name="brave_new_tab_private_header">यह एक निजी टैब है</string>
     <string name="brave_new_tab_private_message">भले ही आप द्वारा निजी  टैब्स में देखी जाने वाली साइटें स्थानीय रूप से सहेजी नहीं जाती हैं, फिर भी वे आपको आपके ISP, आपके नियोक्ता, या आप द्वारा देखी गई साइटों के लिए अज्ञातकृत या अदृश्य नहीं बनाती हैं।</string>
-    <string name="update_notification_title">Brave अपडेट</string>
-    <string name="update_notification_text">नया Brave ब्राउज़र पहले से 22% ज़्यादा तेज़ है</string>
+    <string name="update_notification_title">Dissenter अपडेट</string>
+    <string name="update_notification_text">नया Dissenter ब्राउज़र पहले से 22% ज़्यादा तेज़ है</string>
     <string name="prefs_sync">सिंक (बीटा)</string>
-    <string name="brave_sync_description_page_1_part_1">Brave सिंक के ज़रिए आप बुकमार्क डेटा को अपने अलग-अलग डिवाइस पर अपने Brave ब्राउज़रों के बीच निजी तौर पर सिंक कर सकते हैं।</string>
+    <string name="brave_sync_description_page_1_part_1">Dissenter सिंक के ज़रिए आप बुकमार्क डेटा को अपने अलग-अलग डिवाइस पर अपने Dissenter ब्राउज़रों के बीच निजी तौर पर सिंक कर सकते हैं।</string>
     <string name="brave_sync_description_page_1_part_2">दूसरे डिवाइस पर बनाई गई अपनी सिंक चेन के कोड को आसानी से स्कैन करें। या किसी नई सिंक चेन की शुरुआत करें।</string>
     <string name="brave_sync_scan_chain_code">सिंक चेन को स्कैन करें या दर्ज़ करें</string>
     <string name="brave_sync_start_new_chain">किसी नई सिंक चेन की शुरुआत करें</string>
-    <string name="brave_sync_qrcode_message_v2">सिंक किए गए मौजूदा डिवाइस का प्रयोग करते हुए Brave सेटिंग्स खोलें और \'सेटिंग्स > सिंक करें\' पर जाएं। \"डिवाइस जोड़ें\" चुनें और स्क्रीन पर दिखाया गया QR कोड स्कैन करें।</string>
-    <string name="brave_sync_codewords_message">सिंक किए गए मौजूदा डिवाइस का प्रयोग करते हुए Brave सेटिंग्स खोलें और \'सेटिंग्स > सिंक करें\' पर जाएं। \"डिवाइस जोड़ें\" चुनकर \"इसकी जगह कोड वर्ड दिखाएं\" चुनें।</string>
+    <string name="brave_sync_qrcode_message_v2">सिंक किए गए मौजूदा डिवाइस का प्रयोग करते हुए Dissenter सेटिंग्स खोलें और \'सेटिंग्स > सिंक करें\' पर जाएं। \"डिवाइस जोड़ें\" चुनें और स्क्रीन पर दिखाया गया QR कोड स्कैन करें।</string>
+    <string name="brave_sync_codewords_message">सिंक किए गए मौजूदा डिवाइस का प्रयोग करते हुए Dissenter सेटिंग्स खोलें और \'सेटिंग्स > सिंक करें\' पर जाएं। \"डिवाइस जोड़ें\" चुनकर \"इसकी जगह कोड वर्ड दिखाएं\" चुनें।</string>
     <string name="brave_sync_btn_mobile">कोई मोबाइल डिवाइस जोड़ें</string>
     <string name="brave_sync_btn_laptop">कोई कंप्यूटर जोड़ें</string>
     <string name="brave_sync_scan_sync_code">यह सिंक कोड स्कैन करें</string>
-    <string name="brave_sync_add_mobile_device_text_part_1">किसी दूसरे फोन या टैबलेट का उपयोग करके, \'Brave सेटिंग्स > सिंक करें > स्कैन करें\' पर जाएं।</string>
+    <string name="brave_sync_add_mobile_device_text_part_1">किसी दूसरे फोन या टैबलेट का उपयोग करके, \'Dissenter सेटिंग्स > सिंक करें > स्कैन करें\' पर जाएं।</string>
     <string name="brave_sync_add_mobile_device_text_part_2">अपने दूसरे डिवाइस से QR कोड (ऊपर बताया गया) को कैप्चर करें या कोई कैमरा मौजूद नहीं होने पर कोड वर्ड दर्ज़ करें।</string>
     <string name="brave_sync_btn_done">हो गया</string>
     <string name="brave_sync_tabs_text">टैब</string>
     <string name="brave_sync_history_text">इतिहास</string>
     <string name="brave_sync_autofill_passwords_text">अपने आप भरें/पासवर्ड</string>
-    <string name="brave_sync_payment_settings_text">Brave भुगतान सेटिंग्स</string>
+    <string name="brave_sync_payment_settings_text">Dissenter भुगतान सेटिंग्स</string>
     <string name="brave_sync_settings_title">इस उपकरण पर सिंक करें</string>
     <string name="brave_sync_settings_description">सेटिंग्स बदलने से केवल उस डेटा पर असर पड़ेगा, जिसे आपका डिवाइस दूसरे डिवाइस के साथ साझा करता है।</string>
     <string name="brave_sync_devices_title">चेन के दूसरे डिवाइस</string>
@@ -122,7 +122,7 @@
     <string name="brave_sync_remove_device_text">यह डिवाइस हटाएँ</string>
     <string name="brave_sync_code_words_title">युग्‍मित करें</string>
     <string name="brave_sync_add_laptop_text_title">सिंक चेन कोड को दर्ज़ करें</string>
-    <string name="brave_sync_add_laptop_text_part_1">अपने कंप्यूटर में, \'Brave सेटिंग्स > सिंक करें\' पर जाएं। \"कोई सिंक चेन कोड दर्ज करें\" चुनें।</string>
+    <string name="brave_sync_add_laptop_text_part_1">अपने कंप्यूटर में, \'Dissenter सेटिंग्स > सिंक करें\' पर जाएं। \"कोई सिंक चेन कोड दर्ज करें\" चुनें।</string>
     <string name="brave_sync_add_laptop_text_part_2">स्पेस के साथ ऊपर दिया गया कोड वर्ड दर्ज़ करें।</string>
     <string name="brave_sync_delete_device">क्या आप वाकई डिवाइस \'<ph name=\"DEVICE_NAME\">%1$s</ph>\' को हटाना चाहते हैं?</string>
     <string name="brave_sync_delete_sent">हटाने का अनुरोध भेजा गया। डिवाइस को जल्द ही हटा दिया जाएगा।</string>
@@ -138,14 +138,14 @@
     <string name="brave_sync_copied_text">क्लिपबोर्ड पर कॉपी किया गया</string>
     <string name="brave_sync_this_device_text">(यह डिवाइस)</string>
 
-    <string name="brave_already_set_as_default_browser">Brave आपके डिफ़ॉल्ट ब्राउज़र
+    <string name="brave_already_set_as_default_browser">Dissenter आपके डिफ़ॉल्ट ब्राउज़र
 के रूप मेें पहले से सेट है.</string>
     <string name="brave_default_browser_go_to_settings">आप पहले से ही डिफ़ॉल्ट ब्राउज़र सेट कर चुके हैं.
 आप अपने ऐप सेटिंग्स में डिफ़ॉल्ट ब्राउज़र बदल सकते हैं.</string>
     <string name="brave_default_browser_notification_body">बैटरी बचाएं और वेब पृष्ठों को तेजी से लोड करें। ब्रेव को अपना डिफॉल्ट ब्राउज़र बनाएं। ब्रेव मेन्यू में \"डिफॉल्ट ब्राउज़र के रूप में सेट करें\" पर टैप करें।  </string>
     <string name="brave_set_default_browser">डिफ़ॉल्ट ब्राउज़र के रूप में सेट करें</string>
     <string name="brave_set_default_browser_dialog_text">सूची में से ब्रेव को चयनित करें और \"हमेशा\" पर टैप करें </string>
-    <string name="brave_default_browser_existing_notification_body">Brave को अपना डिफ़ॉल्ट वेब ब्राउज़र बनायें
+    <string name="brave_default_browser_existing_notification_body">Dissenter को अपना डिफ़ॉल्ट वेब ब्राउज़र बनायें
 बैटरी बचाएं और वेब पेजों को जल्दी लोड करें</string>
 
     <string name="brave_ui_welcome_header_two">अगला इंटरनेट अनुभव
@@ -170,7 +170,7 @@
     <string name="brave_ui_send_tip">मेरा सुझाव भेजें</string>
     <string name="brave_ui_do_monthly">मासिक सुझाव सेट करें</string>
     <string name="brave_ui_not_enough_tokens">पर्याप्त टोकन नहीं</string>
-    <string name="brave_ui_site_banner_notice_text">नोट: इस क्रिएटर ने अभी तक Brave के उपयोगकर्ताओं से मिलने वाले योगदान प्राप्त होने के लिए साइन अप नहीं किया है. हम उनके द्वारा सत्यापित करने या 90 दिन बीत जाने तक प्रयास करना जारी रखेंगे.</string>
+    <string name="brave_ui_site_banner_notice_text">नोट: इस क्रिएटर ने अभी तक Dissenter के उपयोगकर्ताओं से मिलने वाले योगदान प्राप्त होने के लिए साइन अप नहीं किया है. हम उनके द्वारा सत्यापित करने या 90 दिन बीत जाने तक प्रयास करना जारी रखेंगे.</string>
     <string name="brave_ui_please">कृपया</string>
     <string name="brave_ui_add_funds">फ़ंड जोड़ें</string>
     <string name="brave_ui_thank_you">धन्यवाद!</string>
@@ -199,9 +199,9 @@
     <string name="brave_ui_rewards_contribute_description">आपने <ph name=\"BAT_VALUE\">%1$s<ex>50</ex></ph> BAT का योगदान किया है.</string>
     <string name="brave_ui_one_time_donation">वन-टाइम सुझाव</string>
     <string name="brave_ui_recurring_donation">मासिक सुझाव</string>
-    <string name="brave_ui_verified_publisher">Brave का सत्यापित प्रकाशक</string>
+    <string name="brave_ui_verified_publisher">Dissenter का सत्यापित प्रकाशक</string>
     <string name="brave_ui_not_verified_publisher">अभी तक सत्यापित नहीं</string>
-    <string name="brave_ui_not_verified_publisher_description">इस क्रिएटर ने Brave के उपयोगकर्ताओं से योगदान प्राप्त करने के लिए अभी तक साइन अप नहीं किया है.
+    <string name="brave_ui_not_verified_publisher_description">इस क्रिएटर ने Dissenter के उपयोगकर्ताओं से योगदान प्राप्त करने के लिए अभी तक साइन अप नहीं किया है.
         आपके द्वारा भेजे जाने वाले सभी सुझाव सत्यापित होने तक आपके वॉलेट में ही रहेंगे.</string>
     <string name="brave_ui_on_youtube">YouTube पर</string>
     <string name="brave_ui_on_twitch">Twitch पर</string>
@@ -214,14 +214,14 @@
     <string name="brave_ui_notification_desc_tip_error">आपके सुझाव की प्रक्रिया करने में समस्या हुई थी, कृपया पुनः प्रयास करें.</string>
     <string name="brave_ui_notification_desc_contr_error">आपके योगदान की प्रक्रिया करने में समस्या हुई थी.</string>
     <string name="brave_rewards_local_uh_oh">ऊह ओह!</string>
-    <string name="brave_rewards_local_server_not_responding">Brave रिवार्ड्स सर्वर प्रतिक्रिया नहीं दे रहा है. हम शीघ्र ही इसे ठीक करेंगे.</string>
+    <string name="brave_rewards_local_server_not_responding">Dissenter रिवार्ड्स सर्वर प्रतिक्रिया नहीं दे रहा है. हम शीघ्र ही इसे ठीक करेंगे.</string>
     <string name="brave_ui_grants">ग्रांट्स</string>
     <string name="brave_ui_expires_on"><ph name=\"DATE\">%1$s<ex>4/14/2019</ex></ph> को समय-सीमा समाप्त</string>
     <string name="brave_ui_insufficient_funds_msg">अपर्याप्त फ़ंड</string>
-    <string name="brave_ui_insufficient_funds_desc">आपका Brave रिवार्ड्स खाता जमा की प्रतीक्षा में है.</string>
+    <string name="brave_ui_insufficient_funds_desc">आपका Dissenter रिवार्ड्स खाता जमा की प्रतीक्षा में है.</string>
     <string name="brave_ui_backup_wallet_msg">वॉलेट का बैकअप लें</string>
-    <string name="brave_ui_backup_wallet_desc">कृपया अपने Brave वॉलेट का बैकअप लें.</string>
-    <string name="brave_ui_brave_rewards">Brave रिवार्ड्स</string>
+    <string name="brave_ui_backup_wallet_desc">कृपया अपने Dissenter वॉलेट का बैकअप लें.</string>
+    <string name="brave_ui_brave_rewards">Dissenter रिवार्ड्स</string>
     <string name="brave_ui_welcome_back_message">आपका पुनः स्वागत है!</string>
     <string name="brave_ui_get_rewarded">ब्राउज़िंग के लिए पुरस्कार पाएं.</string>
     <string name="brave_ui_brave_rewards_desc">गोपनीयता का सम्मान संबंधी
@@ -238,27 +238,27 @@
     <string name="search_or_url">खोजें या URL</string>
     <string name="accessibility_toolbar_btn_bookmark">बुकमार्क बनाएं</string>
     <string name="brave_ui_donate_monthly">इस साइट को मासिक रूप से टिप दें</string>
-    <string name="brave_rewards_intro_title">Brave इनाम यहाँ हैं</string>
+    <string name="brave_rewards_intro_title">Dissenter इनाम यहाँ हैं</string>
     <string name="brave_rewards_intro_text">उन साइटों का सहयोग करें जिन्हें आप पसंद करते हैं।</string>
     <string name="brave_rewards_dismiss">रद्द करें</string>
     <string name="brave_rewards_get_started">आरम्भ करें</string>
 
-    <string name="brave_rewards_not_available">हमे खेद है, ऐसा प्रतीत होता है कि Brave पुरस्कार आपके डिवाइस पर उपलब्ध नही हैं</string>
+    <string name="brave_rewards_not_available">हमे खेद है, ऐसा प्रतीत होता है कि Dissenter पुरस्कार आपके डिवाइस पर उपलब्ध नही हैं</string>
 
     <string name="prefs_section_display">डिस्प्ले</string>
     <string name="prefs_appearance">रंगरूप</string>
-    <string name="hide_brave_rewards_icon_title">Brave इनाम आइकन छुपाएं</string>
-    <string name="hide_brave_rewards_icon_description">Brave इनाम आइकन सक्रिय न होने पर Brave इनाम आइकन छुपाएं</string>
+    <string name="hide_brave_rewards_icon_title">Dissenter इनाम आइकन छुपाएं</string>
+    <string name="hide_brave_rewards_icon_description">Dissenter इनाम आइकन सक्रिय न होने पर Dissenter इनाम आइकन छुपाएं</string>
 
     <string name="brave_ui_pre_grant_message">निःशुल्क टोकन अनुदान के लिए जल्द ही दुबारा जांचें</string>
 
-    <string name="reset_brave_rewards_option">Brave इनामों को रिसेट करें</string>
-    <string name="reset_brave_rewards_option_description">यह आपके Brave बटुए को डिलीट कर देगा और आपके सभी Brave इनाम डेटा को रीसेट कर देगा</string>
+    <string name="reset_brave_rewards_option">Dissenter इनामों को रिसेट करें</string>
+    <string name="reset_brave_rewards_option_description">यह आपके Dissenter बटुए को डिलीट कर देगा और आपके सभी Dissenter इनाम डेटा को रीसेट कर देगा</string>
     <string name="reset_brave_rewards_error_title">रिसेट त्रुटि</string>
-    <string name="reset_brave_rewards_error_description">Brave इनामों को रीसेट करने में त्रुटि हुई। कृपया Brave को पुनः चलाएँ और दुबारा प्रयास करें</string>
+    <string name="reset_brave_rewards_error_description">Dissenter इनामों को रीसेट करने में त्रुटि हुई। कृपया Dissenter को पुनः चलाएँ और दुबारा प्रयास करें</string>
 
     <string name="brave_sync_add_laptop_text_part_2_new">नीचे दर्शाए गए सिंक चेन कोड शब्दों को दर्ज करें। इस कोड को पासवर्ड ही समझें। अगर कोई इसे प्राप्त कर लेता है तो वे आपके सिंक किए गए डेटा को पढ़ और बदल कर सकते हैं।</string>
 
-    <string name="brave_sync_official">Brave सिंक</string>
+    <string name="brave_sync_official">Dissenter सिंक</string>
     <string name="prefs_sync_official">सिंक</string>
 </resources>

@@ -38,13 +38,13 @@ if (enable_vr) {
   import("//chrome/android/features/vr/vr_module_tmpl.gni")
 }
 
-manifest_package = "com.brave.browser"
+manifest_package = "com.dissenter.browser"
 test_manifest_package = "org.chromium.chrome.tests"
 
 if (android_channel == "stable") {
-  manifest_package = "com.brave.browser"
+  manifest_package = "com.dissenter.browser"
 } else if (android_channel == "default") {
-  manifest_package = "com.brave.browser_default"
+  manifest_package = "com.dissenter.browser_default"
 }
 
 chrome_public_jinja_variables = default_chrome_public_jinja_variables +
@@ -1699,7 +1699,7 @@ chrome_public_apk_or_module_tmpl("chrome_public_apk") {
 
 chrome_public_apk_or_module_tmpl("chrome_modern_public_apk") {
   target_type = "android_apk"
-  apk_name = "BraveModern"
+  apk_name = "DissenterModern"
   is_modern = true
 }
 
@@ -2045,7 +2045,7 @@ if (defined(expected_static_initializer_count)) {
   action_with_pydeps("monochrome_static_initializers") {
     script = "//build/android/gyp/assert_static_initializers.py"
     inputs = [
-      "$root_build_dir/apks/BraveMono.apk",
+      "$root_build_dir/apks/DissenterMono.apk",
     ]
     outputs = [
       "$target_gen_dir/$target_name.stamp",

@@ -1,311 +1,311 @@
 <?xml version="1.0" ?>
 <!DOCTYPE translationbundle>
 <translationbundle lang="lt">
-<translation id="1001534784610492198">Diegimo programos archyvas sugadintas arba negalioja. Atsisiųskite „Brave“ dar kartą.</translation>
-<translation id="5849446944780602366">Tinkinkite ir valdykite „Brave“. Pasiekiamas naujinys.</translation>
-<translation id="5935964611177478118">prisijunkite prie „Brave“</translation>
-<translation id="1051826050538111504">Kompiuteryje yra kenkėjiškos programinės įrangos. „Brave“ gali ją pašalinti, atkurti nustatymus ir išjungti plėtinius, kad naršyklė vėl veiktų įprastai.</translation>
+<translation id="1001534784610492198">Diegimo programos archyvas sugadintas arba negalioja. Atsisiųskite „Dissenter“ dar kartą.</translation>
+<translation id="5849446944780602366">Tinkinkite ir valdykite „Dissenter“. Pasiekiamas naujinys.</translation>
+<translation id="5935964611177478118">prisijunkite prie „Dissenter“</translation>
+<translation id="1051826050538111504">Kompiuteryje yra kenkėjiškos programinės įrangos. „Dissenter“ gali ją pašalinti, atkurti nustatymus ir išjungti plėtinius, kad naršyklė vėl veiktų įprastai.</translation>
 <translation id="1065672644894730302">Jūsų nuostatų negalima nuskaityti.
 
 Kai kurios funkcijos gali būti nepasiekiamos ir nuostatų pakeitimai nebus išsaugoti.</translation>
-<translation id="1088300314857992706"><ph name="USER_EMAIL_ADDRESS" /> anksčiau naudojo „Brave“</translation>
-<translation id="1104959162601287462">Apie „&amp;Brave“ OS</translation>
-<translation id="4100716194836114130">Tai jūsų „Brave“</translation>
-<translation id="6389268239133412586">Nepavyko atnaujinti „Brave“</translation>
-<translation id="9071554113102421877">&amp;Atidaryti naudojant „Brave“</translation>
-<translation id="123620459398936149">„Brave“ OS negali sinchronizuoti duomenų. Atnaujinkite sinchronizavimo slaptafrazę.</translation>
-<translation id="127345590676626841">„Brave“ atnaujinama automatiškai, todėl visada naudojatės naujausia versija. Baigus atsisiųsti, „Brave“ bus paleista iš naujo ir galėsite pradėti ja naudotis.</translation>
-<translation id="1302523850133262269">Palaukite, kol „Brave“ įdiegs naujausius sistemos naujinius.</translation>
-<translation id="1312676208694947750">{0,plural, =0{Pasiekiamas „Brave“ OS naujinys}=1{Pasiekiamas „Brave“ OS naujinys}one{„Brave“ OS naujinys pasiekiamas # dieną}few{„Brave“ OS naujinys pasiekiamas # dienas}many{„Brave“ OS naujinys pasiekiamas # dienos}other{„Brave“ OS naujinys pasiekiamas # dienų}}</translation>
-<translation id="137466361146087520">„Brave“ beta</translation>
-<translation id="1393853151966637042">Gauti su „Brave“ naudojimu susijusios pagalbos</translation>
-<translation id="1399397803214730675">Kompiuteryje jau yra naujausia „Brave“ versija. Jei programinė įranga neveikia, pašalinkite „Brave“ ir bandykite dar kartą.</translation>
-<translation id="1434626383986940139">„Brave“ programos („Canary“)</translation>
-<translation id="5047208012586153436">Atnaujinama „Brave“...</translation>
-<translation id="1469002951682717133">„Brave“ programų paleidimo priemonė</translation>
-<translation id="1705567146636171298">Atnaujinkite „Brave“</translation>
+<translation id="1088300314857992706"><ph name="USER_EMAIL_ADDRESS" /> anksčiau naudojo „Dissenter“</translation>
+<translation id="1104959162601287462">Apie „&amp;Dissenter“ OS</translation>
+<translation id="4100716194836114130">Tai jūsų „Dissenter“</translation>
+<translation id="6389268239133412586">Nepavyko atnaujinti „Dissenter“</translation>
+<translation id="9071554113102421877">&amp;Atidaryti naudojant „Dissenter“</translation>
+<translation id="123620459398936149">„Dissenter“ OS negali sinchronizuoti duomenų. Atnaujinkite sinchronizavimo slaptafrazę.</translation>
+<translation id="127345590676626841">„Dissenter“ atnaujinama automatiškai, todėl visada naudojatės naujausia versija. Baigus atsisiųsti, „Dissenter“ bus paleista iš naujo ir galėsite pradėti ja naudotis.</translation>
+<translation id="1302523850133262269">Palaukite, kol „Dissenter“ įdiegs naujausius sistemos naujinius.</translation>
+<translation id="1312676208694947750">{0,plural, =0{Pasiekiamas „Dissenter“ OS naujinys}=1{Pasiekiamas „Dissenter“ OS naujinys}one{„Dissenter“ OS naujinys pasiekiamas # dieną}few{„Dissenter“ OS naujinys pasiekiamas # dienas}many{„Dissenter“ OS naujinys pasiekiamas # dienos}other{„Dissenter“ OS naujinys pasiekiamas # dienų}}</translation>
+<translation id="137466361146087520">„Dissenter“ beta</translation>
+<translation id="1393853151966637042">Gauti su „Dissenter“ naudojimu susijusios pagalbos</translation>
+<translation id="1399397803214730675">Kompiuteryje jau yra naujausia „Dissenter“ versija. Jei programinė įranga neveikia, pašalinkite „Dissenter“ ir bandykite dar kartą.</translation>
+<translation id="1434626383986940139">„Dissenter“ programos („Canary“)</translation>
+<translation id="5047208012586153436">Atnaujinama „Dissenter“...</translation>
+<translation id="1469002951682717133">„Dissenter“ programų paleidimo priemonė</translation>
+<translation id="1705567146636171298">Atnaujinkite „Dissenter“</translation>
 <translation id="1585657529869845941">Jei bus rodomas, spustelėkite mygtuką <ph name="BEGIN_BOLD" />Vis tiek perjungti<ph name="END_BOLD" /></translation>
-<translation id="3205074487970075628">„Brave“ naudoja jūsų fotoaparatą.</translation>
-<translation id="4168372721886011198">Failas „<ph name="FILE_NAME" />“ pavojingas, todėl „Brave“ jį užblokavo.</translation>
-<translation id="2632141563911437138">Norint atnaujinti „Brave“, programa šiame kompiuteryje turi būti sustabdyta. Todėl kiti naudotojai, prisijungę prie šio kompiuterio, gali prarasti neišsaugotus pakeitimus.</translation>
-<translation id="1619887657840448962">Kad „Brave“ būtų saugesnė, išjungėme toliau nurodytą plėtinį, kuris nepateiktas <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> sąraše ir tikriausiai buvo pridėtas be jūsų žinios.</translation>
-<translation id="1628000112320670027">Gaukite pagalbos dėl „Brave“</translation>
-<translation id="1662639173275167396">„Brave“ OS pasiekiama naudojant papildomą <ph name="BEGIN_LINK_CROS_OSS" />atvirojo šaltinio programinę įrangą<ph name="END_LINK_CROS_OSS" /> (kaip ir <ph name="BEGIN_LINK_LINUX_OSS" />„Linux“ (beta versija)<ph name="END_LINK_LINUX_OSS" />).</translation>
-<translation id="1674870198290878346">Atidaryti nuorodą „Brave“ inko&amp;gnito lange</translation>
-<translation id="2585240446624043880">„Brave“ negali skaityti ir rašyti į duomenų katalogą:
+<translation id="3205074487970075628">„Dissenter“ naudoja jūsų fotoaparatą.</translation>
+<translation id="4168372721886011198">Failas „<ph name="FILE_NAME" />“ pavojingas, todėl „Dissenter“ jį užblokavo.</translation>
+<translation id="2632141563911437138">Norint atnaujinti „Dissenter“, programa šiame kompiuteryje turi būti sustabdyta. Todėl kiti naudotojai, prisijungę prie šio kompiuterio, gali prarasti neišsaugotus pakeitimus.</translation>
+<translation id="1619887657840448962">Kad „Dissenter“ būtų saugesnė, išjungėme toliau nurodytą plėtinį, kuris nepateiktas <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> sąraše ir tikriausiai buvo pridėtas be jūsų žinios.</translation>
+<translation id="1628000112320670027">Gaukite pagalbos dėl „Dissenter“</translation>
+<translation id="1662639173275167396">„Dissenter“ OS pasiekiama naudojant papildomą <ph name="BEGIN_LINK_CROS_OSS" />atvirojo šaltinio programinę įrangą<ph name="END_LINK_CROS_OSS" /> (kaip ir <ph name="BEGIN_LINK_LINUX_OSS" />„Linux“ (beta versija)<ph name="END_LINK_LINUX_OSS" />).</translation>
+<translation id="1674870198290878346">Atidaryti nuorodą „Dissenter“ inko&amp;gnito lange</translation>
+<translation id="2585240446624043880">„Dissenter“ negali skaityti ir rašyti į duomenų katalogą:
 
 <ph name="USER_DATA_DIRECTORY" /></translation>
-<translation id="1698376642261615901">„Brave“ yra žiniatinklio naršyklė, kuri akimirksniu paleidžia tinklalapius ir programas. Ji greita, stabili ir lengvai naudojama. Naršykite žiniatinklį saugiau – „Brave“ įdiegta apsauga nuo kenkėjiškų programų ir sukčiavimo.</translation>
-<translation id="1718131156967340976">Pasirinkite <ph name="SMALL_PRODUCT_LOGO" /> <ph name="BEGIN_BOLD" />Brave<ph name="END_BOLD" /></translation>
-<translation id="6163134585289952357">„Brave“ išsaugos šį slaptažodį „Google“ paskyroje. Jums nereikia jo prisiminti.</translation>
-<translation id="174539241580958092">„Brave“ negali sinchronizuoti duomenų, nes prisijungiant įvyko klaida.</translation>
-<translation id="939305735877869636">Brave</translation>
-<translation id="1773601347087397504">Gauti su „Brave“ OS naudojimu susijusios pagalbos</translation>
-<translation id="1570795130102031380">Įdiekite „Brave“ telefone. Išsiųsime SMS pranešimą jūsų telefono numeriu: <ph name="PHONE_NUMBER" /></translation>
-<translation id="1812689907177901597">Jei išjungsite šį nustatymą, prie „Google“ svetainių galėsite prisijungti kaip prie „Gmail“ neprisijungę prie „Brave“</translation>
-<translation id="8858456697111532356">Failas „<ph name="FILE_NAME" />“ pavojingas, todėl „Brave“ jį užblokavo. Jus saugo Papildomos apsaugos programa.</translation>
-<translation id="1860536484129686729">„Brave“ reikia leidimo, kad galėtų naudoti fotoaparatą šioje svetainėje</translation>
-<translation id="3343095737966473035">„Brave“ nėra numatytoji naršyklė</translation>
-<translation id="1874309113135274312">„Brave“ beta („mDNS-In“)</translation>
-<translation id="5173820533850252773">„Brave“ versija yra pasenusi</translation>
-<translation id="1915828456209461693">Pasiekiamas naujas „Brave“ naujinys, kuris bus pritaikytas, kai paleisite „Brave“ iš naujo.</translation>
-<translation id="1919130412786645364">Leisti „Brave“ prisijungti</translation>
-<translation id="2063848847527508675">Kad būtų galima pritaikyti naujinį, „Brave“ OS reikia paleisti iš naujo.</translation>
-<translation id="2094919256425865063">Vis tiek išeiti iš „Brave“?</translation>
-<translation id="2120620239521071941">Atlikus šį veiksmą, iš šio įrenginio bus ištrinta tiek elementų: <ph name="ITEMS_COUNT" />. Jei vėliau norėsite atgauti duomenis, prisijunkite prie „Brave“ kaip <ph name="USER_EMAIL" />.</translation>
-<translation id="2123055963409958220">Padėkite tobulinti „Brave“ pateikę ataskaitą apie <ph name="BEGIN_LINK" />dabartinius nustatymus<ph name="END_LINK" /></translation>
-<translation id="1609678321160597289">Įdiekite „Brave“ telefone. Išsiųsime SMS pranešimą paskyros atkūrimo telefono numeriu.</translation>
-<translation id="5874882355102994015">„Brave“ negali rodyti spaudinio peržiūros, kai nėra integruotos PDF žiūryklės.</translation>
-<translation id="7456658570432774853">Padėkite pagerinti „Brave“ pateikę ataskaitą apie dabartinius nustatymus</translation>
-<translation id="225363235161345695">{0,plural, =1{„Brave“ bus paleista iš naujo po valandos}one{„Brave“ bus paleista iš naujo po # valandos}few{„Brave“ bus paleista iš naujo po # valandų}many{„Brave“ bus paleista iš naujo po # valandos}other{„Brave“ bus paleista iš naujo po # valandų}}</translation>
-<translation id="4934157190377700991">Esate prisijungę prie „Brave“</translation>
-<translation id="350396164462274391">Trūksta „Google“ API raktų. Bus išjungtos kai kurios „Brave“ funkcijos.</translation>
-<translation id="2290095356545025170">Ar tikrai norite pašalinti „Brave“?</translation>
-<translation id="2309047409763057870">Tai yra antrinis „Brave“ diegimas, todėl ji negali būti nustatyta kaip numatytoji naršyklė.</translation>
-<translation id="2346876346033403680">Kažkas anksčiau prisijungė prie „Brave“ šiame kompiuteryje kaip <ph name="ACCOUNT_EMAIL_LAST" />. Jei tai ne jūsų paskyra, sukurkite naują „Brave“ naudotoją, kad apsaugotumėte savo informaciją.
+<translation id="1698376642261615901">„Dissenter“ yra žiniatinklio naršyklė, kuri akimirksniu paleidžia tinklalapius ir programas. Ji greita, stabili ir lengvai naudojama. Naršykite žiniatinklį saugiau – „Dissenter“ įdiegta apsauga nuo kenkėjiškų programų ir sukčiavimo.</translation>
+<translation id="1718131156967340976">Pasirinkite <ph name="SMALL_PRODUCT_LOGO" /> <ph name="BEGIN_BOLD" />Dissenter<ph name="END_BOLD" /></translation>
+<translation id="6163134585289952357">„Dissenter“ išsaugos šį slaptažodį „Google“ paskyroje. Jums nereikia jo prisiminti.</translation>
+<translation id="174539241580958092">„Dissenter“ negali sinchronizuoti duomenų, nes prisijungiant įvyko klaida.</translation>
+<translation id="939305735877869636">Dissenter</translation>
+<translation id="1773601347087397504">Gauti su „Dissenter“ OS naudojimu susijusios pagalbos</translation>
+<translation id="1570795130102031380">Įdiekite „Dissenter“ telefone. Išsiųsime SMS pranešimą jūsų telefono numeriu: <ph name="PHONE_NUMBER" /></translation>
+<translation id="1812689907177901597">Jei išjungsite šį nustatymą, prie „Google“ svetainių galėsite prisijungti kaip prie „Gmail“ neprisijungę prie „Dissenter“</translation>
+<translation id="8858456697111532356">Failas „<ph name="FILE_NAME" />“ pavojingas, todėl „Dissenter“ jį užblokavo. Jus saugo Papildomos apsaugos programa.</translation>
+<translation id="1860536484129686729">„Dissenter“ reikia leidimo, kad galėtų naudoti fotoaparatą šioje svetainėje</translation>
+<translation id="3343095737966473035">„Dissenter“ nėra numatytoji naršyklė</translation>
+<translation id="1874309113135274312">„Dissenter“ beta („mDNS-In“)</translation>
+<translation id="5173820533850252773">„Dissenter“ versija yra pasenusi</translation>
+<translation id="1915828456209461693">Pasiekiamas naujas „Dissenter“ naujinys, kuris bus pritaikytas, kai paleisite „Dissenter“ iš naujo.</translation>
+<translation id="1919130412786645364">Leisti „Dissenter“ prisijungti</translation>
+<translation id="2063848847527508675">Kad būtų galima pritaikyti naujinį, „Dissenter“ OS reikia paleisti iš naujo.</translation>
+<translation id="2094919256425865063">Vis tiek išeiti iš „Dissenter“?</translation>
+<translation id="2120620239521071941">Atlikus šį veiksmą, iš šio įrenginio bus ištrinta tiek elementų: <ph name="ITEMS_COUNT" />. Jei vėliau norėsite atgauti duomenis, prisijunkite prie „Dissenter“ kaip <ph name="USER_EMAIL" />.</translation>
+<translation id="2123055963409958220">Padėkite tobulinti „Dissenter“ pateikę ataskaitą apie <ph name="BEGIN_LINK" />dabartinius nustatymus<ph name="END_LINK" /></translation>
+<translation id="1609678321160597289">Įdiekite „Dissenter“ telefone. Išsiųsime SMS pranešimą paskyros atkūrimo telefono numeriu.</translation>
+<translation id="5874882355102994015">„Dissenter“ negali rodyti spaudinio peržiūros, kai nėra integruotos PDF žiūryklės.</translation>
+<translation id="7456658570432774853">Padėkite pagerinti „Dissenter“ pateikę ataskaitą apie dabartinius nustatymus</translation>
+<translation id="225363235161345695">{0,plural, =1{„Dissenter“ bus paleista iš naujo po valandos}one{„Dissenter“ bus paleista iš naujo po # valandos}few{„Dissenter“ bus paleista iš naujo po # valandų}many{„Dissenter“ bus paleista iš naujo po # valandos}other{„Dissenter“ bus paleista iš naujo po # valandų}}</translation>
+<translation id="4934157190377700991">Esate prisijungę prie „Dissenter“</translation>
+<translation id="350396164462274391">Trūksta „Google“ API raktų. Bus išjungtos kai kurios „Dissenter“ funkcijos.</translation>
+<translation id="2290095356545025170">Ar tikrai norite pašalinti „Dissenter“?</translation>
+<translation id="2309047409763057870">Tai yra antrinis „Dissenter“ diegimas, todėl ji negali būti nustatyta kaip numatytoji naršyklė.</translation>
+<translation id="2346876346033403680">Kažkas anksčiau prisijungė prie „Dissenter“ šiame kompiuteryje kaip <ph name="ACCOUNT_EMAIL_LAST" />. Jei tai ne jūsų paskyra, sukurkite naują „Dissenter“ naudotoją, kad apsaugotumėte savo informaciją.
 
-Prisijungus bet kuriuo būdu, „Brave“ informacija, pvz., žymės, istorija ir kiti nustatymai, bus sujungta su <ph name="ACCOUNT_EMAIL_NEW" />.</translation>
-<translation id="2348335408836342058">„Brave“ reikia leidimo, kad galėtų naudoti fotoaparatą ir mikrofoną šioje svetainėje</translation>
-<translation id="2429317896000329049">„Brave“ negali sinchronizuoti duomenų, nes jūsų domene sinchronizavimas nepasiekiamas.</translation>
-<translation id="2467438592969358367">„Brave“ nori eksportuoti jūsų slaptažodžius. Įveskite „Windows“ slaptažodį, kad tai leistumėte.</translation>
+Prisijungus bet kuriuo būdu, „Dissenter“ informacija, pvz., žymės, istorija ir kiti nustatymai, bus sujungta su <ph name="ACCOUNT_EMAIL_NEW" />.</translation>
+<translation id="2348335408836342058">„Dissenter“ reikia leidimo, kad galėtų naudoti fotoaparatą ir mikrofoną šioje svetainėje</translation>
+<translation id="2429317896000329049">„Dissenter“ negali sinchronizuoti duomenų, nes jūsų domene sinchronizavimas nepasiekiamas.</translation>
+<translation id="2467438592969358367">„Dissenter“ nori eksportuoti jūsų slaptažodžius. Įveskite „Windows“ slaptažodį, kad tai leistumėte.</translation>
 <translation id="2485422356828889247">Pašalinti</translation>
-<translation id="8943391224520748272">Šis failas gali būti pavojingas, todėl „Brave“ jį užblokavo. Jus saugo Papildomos apsaugos programa.</translation>
-<translation id="2534507159460261402">„Google Pay“ (nukopijuota į „Brave“)</translation>
-<translation id="2535429035253759792">Administratorius prašo paleisti iš naujo „Brave“, kad galėtų pritaikyti šį naujinį</translation>
-<translation id="2580411288591421699">Negalima įdiegti tos pačios „Brave“ versijos, kuri dabar paleista. Uždarykite „Brave“ ir bandykite dar kartą.</translation>
-<translation id="2586406160782125153">Atlikus šį veiksmą bus ištrinti naršymo duomenys iš šio įrenginio. Jei vėliau norėsite atgauti duomenis, prisijunkite prie „Brave“ kaip <ph name="USER_EMAIL" />.</translation>
-<translation id="4847979153841887006">„Brave“ logotipas</translation>
-<translation id="2644798301485385923">„Brave“ OS sistema</translation>
-<translation id="2652691236519827073">Atidaryti nuorodą naujame „Brave“ &amp;skirtuke</translation>
-<translation id="7348158796480960456">Padėkite tobulinti „Brave“ siųsdami „Google“ strigčių ataskaitas ir <ph name="UMA_LINK" /></translation>
-<translation id="3813272600615358652">Šis plėtinys pakeitė, kuris puslapis rodomas paleidus „Brave“.</translation>
-<translation id="2765403129283291972">„Brave“ reikia leidimo, kad galėtų naudoti mikrofoną šioje svetainėje</translation>
+<translation id="8943391224520748272">Šis failas gali būti pavojingas, todėl „Dissenter“ jį užblokavo. Jus saugo Papildomos apsaugos programa.</translation>
+<translation id="2534507159460261402">„Google Pay“ (nukopijuota į „Dissenter“)</translation>
+<translation id="2535429035253759792">Administratorius prašo paleisti iš naujo „Dissenter“, kad galėtų pritaikyti šį naujinį</translation>
+<translation id="2580411288591421699">Negalima įdiegti tos pačios „Dissenter“ versijos, kuri dabar paleista. Uždarykite „Dissenter“ ir bandykite dar kartą.</translation>
+<translation id="2586406160782125153">Atlikus šį veiksmą bus ištrinti naršymo duomenys iš šio įrenginio. Jei vėliau norėsite atgauti duomenis, prisijunkite prie „Dissenter“ kaip <ph name="USER_EMAIL" />.</translation>
+<translation id="4847979153841887006">„Dissenter“ logotipas</translation>
+<translation id="2644798301485385923">„Dissenter“ OS sistema</translation>
+<translation id="2652691236519827073">Atidaryti nuorodą naujame „Dissenter“ &amp;skirtuke</translation>
+<translation id="7348158796480960456">Padėkite tobulinti „Dissenter“ siųsdami „Google“ strigčių ataskaitas ir <ph name="UMA_LINK" /></translation>
+<translation id="3813272600615358652">Šis plėtinys pakeitė, kuris puslapis rodomas paleidus „Dissenter“.</translation>
+<translation id="2765403129283291972">„Dissenter“ reikia leidimo, kad galėtų naudoti mikrofoną šioje svetainėje</translation>
 <translation id="2770231113462710648">Pakeisti numatytąją naršyklę į:</translation>
 <translation id="2799223571221894425">Paleisti iš naujo</translation>
-<translation id="2847461019998147611">Pateikti „Brave“ šia kalba</translation>
-<translation id="2857540653560290388">Pristatoma „Brave“...</translation>
-<translation id="2871893339301912279">Esate prisijungę prie „Brave“.</translation>
-<translation id="8541922081612557424">Apie „Brave“</translation>
-<translation id="3037838751736561277">„Brave“ veikia fono režimu.</translation>
-<translation id="4806360651959814118">Atjungus <ph name="USERNAME" />, bus išvalyta jūsų istorija, žymės, nustatymai ir kiti „Brave“ duomenys, saugomi šiame įrenginyje. „Google“ paskyroje saugomi duomenys nebus išvalyti. Juos galite tvarkyti <ph name="GOOGLE_DASHBOARD_LINK" />„Google“ informacijos suvestinėje<ph name="END_GOOGLE_DASHBOARD_LINK" />.</translation>
-<translation id="6791166902140255175">„Brave“ skirtukas</translation>
-<translation id="3080151273017101988">Uždarius „Brave“ toliau leisti fono programas</translation>
-<translation id="3089968997497233615">Galima nauja, saugesnė „Brave“ versija.</translation>
-<translation id="300669147395456190">„Brave“ programos</translation>
+<translation id="2847461019998147611">Pateikti „Dissenter“ šia kalba</translation>
+<translation id="2857540653560290388">Pristatoma „Dissenter“...</translation>
+<translation id="2871893339301912279">Esate prisijungę prie „Dissenter“.</translation>
+<translation id="8541922081612557424">Apie „Dissenter“</translation>
+<translation id="3037838751736561277">„Dissenter“ veikia fono režimu.</translation>
+<translation id="4806360651959814118">Atjungus <ph name="USERNAME" />, bus išvalyta jūsų istorija, žymės, nustatymai ir kiti „Dissenter“ duomenys, saugomi šiame įrenginyje. „Google“ paskyroje saugomi duomenys nebus išvalyti. Juos galite tvarkyti <ph name="GOOGLE_DASHBOARD_LINK" />„Google“ informacijos suvestinėje<ph name="END_GOOGLE_DASHBOARD_LINK" />.</translation>
+<translation id="6791166902140255175">„Dissenter“ skirtukas</translation>
+<translation id="3080151273017101988">Uždarius „Dissenter“ toliau leisti fono programas</translation>
+<translation id="3089968997497233615">Galima nauja, saugesnė „Dissenter“ versija.</translation>
+<translation id="300669147395456190">„Dissenter“ programos</translation>
 <translation id="3251381707915721925">Jei norite nustatyti, kokias svetaines <ph name="NEW_PROFILE_NAME" /> gali peržiūrėti, konfigūruokite apribojimus ir nustatymus apsilankę adresu <ph name="BEGIN_LINK_1" /><ph name="DISPLAY_LINK" /><ph name="END_LINK_1" />. Jei nepakeisite numatytųjų nustatymų, <ph name="NEW_PROFILE_NAME" /> galės naršyti visą žiniatinklį.
 
-Kad <ph name="NEW_PROFILE_NAME" /> negalėtų pasiekti jūsų paskyros, būtinai užrakinkite profilį, kai nenaudojate „Brave“. Norėdami tai atlikti, spustelėkite profilio pavadinimą viršutiniame dešiniajame naršyklės kampe ir pasirinkite „Išeiti ir užrakinti nuo vaikų“.
+Kad <ph name="NEW_PROFILE_NAME" /> negalėtų pasiekti jūsų paskyros, būtinai užrakinkite profilį, kai nenaudojate „Dissenter“. Norėdami tai atlikti, spustelėkite profilio pavadinimą viršutiniame dešiniajame naršyklės kampe ir pasirinkite „Išeiti ir užrakinti nuo vaikų“.
 <ph name="BEGIN_LINK_2" />Sužinokite daugiau<ph name="END_LINK_2" />
 
 Patikrinkite el. pašto adresu <ph name="ACCOUNT_EMAIL" /> išsiųstą laišką, kuriame rasite daugiau instrukcijų.</translation>
-<translation id="82609232232243542">Prisijungti prie „Brave“</translation>
-<translation id="3360895254066713204">„Brave“ pagalbos priemonė</translation>
-<translation id="3395323229510056640">Gaukite pagalbos dėl „Brave“ OS</translation>
-<translation id="3396977131400919238">Diegimo metu įvyko operacinės sistemos klaida. Atsisiųskite „Brave“ dar kartą.</translation>
-<translation id="3398288718845740432">Paslėpti „Brave“ meniu elementą</translation>
-<translation id="8880183781256147665">Pridedama prie „Brave“...</translation>
-<translation id="345171907106878721">Pridėkite save prie „Brave“</translation>
+<translation id="82609232232243542">Prisijungti prie „Dissenter“</translation>
+<translation id="3360895254066713204">„Dissenter“ pagalbos priemonė</translation>
+<translation id="3395323229510056640">Gaukite pagalbos dėl „Dissenter“ OS</translation>
+<translation id="3396977131400919238">Diegimo metu įvyko operacinės sistemos klaida. Atsisiųskite „Dissenter“ dar kartą.</translation>
+<translation id="3398288718845740432">Paslėpti „Dissenter“ meniu elementą</translation>
+<translation id="8880183781256147665">Pridedama prie „Dissenter“...</translation>
+<translation id="345171907106878721">Pridėkite save prie „Dissenter“</translation>
 <translation id="3479552764303398839">Ne dabar</translation>
-<translation id="6205431412329939367">Failas „<ph name="FILE_NAME" />“ gali būti pavojingas, todėl „Brave“ jį užblokavo. Jus saugo Papildomos apsaugos programa.</translation>
-<translation id="34857402635545079">Taip pat išvalyti duomenis iš „Brave“ (<ph name="URL" />)</translation>
-<translation id="3503306920980160878">„Brave“ reikia leidimo, kad galėtų naudoti vietovės informaciją ir bendrinti ją su šia svetaine</translation>
-<translation id="3576528680708590453">Sistemos administratorius sukonfigūravo „Brave“ atidaryti alternatyvią naršyklę, norint pasiekti <ph name="TARGET_URL_HOSTNAME" />.</translation>
-<translation id="5477319665405831211">Sinchronizuokite ir suasmeninkite „Brave“ skirtinguose įrenginiuose</translation>
-<translation id="3622797965165704966">Dabar galite lengviau naudoti „Brave“ naudodami „Google“ paskyrą ir bendrinamus kompiuterius.</translation>
-<translation id="3637702109597584617">„Brave“ OS <ph name="TERMS_OF_SERVICE_LINK" />paslaugų teikimo sąlygos<ph name="END_TERMS_OF_SERVICE_LINK" /></translation>
-<translation id="5805364706385912897">Šis puslapis naudoja per daug atminties, todėl „Brave“ jį pristabdė.</translation>
-<translation id="3718181793972440140">Atlikus šį veiksmą iš šio įrenginio bus ištrintas 1 elementas. Jei vėliau norėsite atgauti duomenis, prisijunkite prie „Brave“ kaip <ph name="USER_EMAIL" />.</translation>
-<translation id="2576129394594491151">Plėtinys „<ph name="EXTENSION_NAME" />“ pakeitė, kuris puslapis rodomas paleidus „Brave“.</translation>
-<translation id="3780814664026482060">„Brave“ – „<ph name="PAGE_TITLE" />“</translation>
-<translation id="3784527566857328444">Pašalinti iš „Brave“...</translation>
-<translation id="386202838227397562">Uždarykite visus „Brave“ langus ir bandykite dar kartą.</translation>
-<translation id="3873044882194371212">Atidaryti nuorodą „Brave“ inko&amp;gnito lange</translation>
-<translation id="3889417619312448367">Išdiegti „Brave“</translation>
+<translation id="6205431412329939367">Failas „<ph name="FILE_NAME" />“ gali būti pavojingas, todėl „Dissenter“ jį užblokavo. Jus saugo Papildomos apsaugos programa.</translation>
+<translation id="34857402635545079">Taip pat išvalyti duomenis iš „Dissenter“ (<ph name="URL" />)</translation>
+<translation id="3503306920980160878">„Dissenter“ reikia leidimo, kad galėtų naudoti vietovės informaciją ir bendrinti ją su šia svetaine</translation>
+<translation id="3576528680708590453">Sistemos administratorius sukonfigūravo „Dissenter“ atidaryti alternatyvią naršyklę, norint pasiekti <ph name="TARGET_URL_HOSTNAME" />.</translation>
+<translation id="5477319665405831211">Sinchronizuokite ir suasmeninkite „Dissenter“ skirtinguose įrenginiuose</translation>
+<translation id="3622797965165704966">Dabar galite lengviau naudoti „Dissenter“ naudodami „Google“ paskyrą ir bendrinamus kompiuterius.</translation>
+<translation id="3637702109597584617">„Dissenter“ OS <ph name="TERMS_OF_SERVICE_LINK" />paslaugų teikimo sąlygos<ph name="END_TERMS_OF_SERVICE_LINK" /></translation>
+<translation id="5805364706385912897">Šis puslapis naudoja per daug atminties, todėl „Dissenter“ jį pristabdė.</translation>
+<translation id="3718181793972440140">Atlikus šį veiksmą iš šio įrenginio bus ištrintas 1 elementas. Jei vėliau norėsite atgauti duomenis, prisijunkite prie „Dissenter“ kaip <ph name="USER_EMAIL" />.</translation>
+<translation id="2576129394594491151">Plėtinys „<ph name="EXTENSION_NAME" />“ pakeitė, kuris puslapis rodomas paleidus „Dissenter“.</translation>
+<translation id="3780814664026482060">„Dissenter“ – „<ph name="PAGE_TITLE" />“</translation>
+<translation id="3784527566857328444">Pašalinti iš „Dissenter“...</translation>
+<translation id="386202838227397562">Uždarykite visus „Dissenter“ langus ir bandykite dar kartą.</translation>
+<translation id="3873044882194371212">Atidaryti nuorodą „Dissenter“ inko&amp;gnito lange</translation>
+<translation id="3889417619312448367">Išdiegti „Dissenter“</translation>
 <translation id="3898493977366060150">Žiniatinklio naršymas naudojant „Google“ išmaniąsias funkcijas</translation>
-<translation id="4028693306634653894">Greičiau pasiekite „Brave“</translation>
+<translation id="4028693306634653894">Greičiau pasiekite „Dissenter“</translation>
 <translation id="4050175100176540509">Naujausios versijos programoje įdiegti svarbūs saugos patobulinimai ir pasiekiamos naujos funkcijos.</translation>
-<translation id="8148611988012584308">Tinkinkite ir valdykite „Brave“</translation>
-<translation id="4143243756087420366">„Brave“ pavadinimas ir paveikslėlis</translation>
-<translation id="4147555960264124640">Prisijungiate su valdoma paskyra ir leidžiate jos administratoriui valdyti jūsų „Brave“ profilį. „Brave“ duomenys, pvz., programos, žymės, istorija, slaptažodžiai ir kiti nustatymai, bus visam laikui susieti su <ph name="USER_NAME" />. Galėsite ištrinti šiuos duomenis naudodami „Google“ paskyrų informacijos suvestinę, bet negalėsite susieti šių duomenų su kita paskyra. <ph name="LEARN_MORE" /></translation>
-<translation id="4149882025268051530">Diegimo programai nepavyko išpakuoti archyvo. Atsisiųskite „Brave“ dar kartą.</translation>
-<translation id="7445061995866044926">Atsijungti nuo „Brave“?</translation>
-<translation id="4251615635259297716">Susisieti „Brave“ duomenis su šia paskyra?</translation>
-<translation id="8358191771897395012">gauti „Brave“ „iPhone“ įrenginyje</translation>
-<translation id="3360368475735266712">Prisijunkite, kad galėtumėte sinchronizuoti ir suasmeninti „Brave“ skirtinguose įrenginiuose</translation>
-<translation id="4328355335528187361">„Brave Dev“ („mDNS-In“)</translation>
+<translation id="8148611988012584308">Tinkinkite ir valdykite „Dissenter“</translation>
+<translation id="4143243756087420366">„Dissenter“ pavadinimas ir paveikslėlis</translation>
+<translation id="4147555960264124640">Prisijungiate su valdoma paskyra ir leidžiate jos administratoriui valdyti jūsų „Dissenter“ profilį. „Dissenter“ duomenys, pvz., programos, žymės, istorija, slaptažodžiai ir kiti nustatymai, bus visam laikui susieti su <ph name="USER_NAME" />. Galėsite ištrinti šiuos duomenis naudodami „Google“ paskyrų informacijos suvestinę, bet negalėsite susieti šių duomenų su kita paskyra. <ph name="LEARN_MORE" /></translation>
+<translation id="4149882025268051530">Diegimo programai nepavyko išpakuoti archyvo. Atsisiųskite „Dissenter“ dar kartą.</translation>
+<translation id="7445061995866044926">Atsijungti nuo „Dissenter“?</translation>
+<translation id="4251615635259297716">Susisieti „Dissenter“ duomenis su šia paskyra?</translation>
+<translation id="8358191771897395012">gauti „Dissenter“ „iPhone“ įrenginyje</translation>
+<translation id="3360368475735266712">Prisijunkite, kad galėtumėte sinchronizuoti ir suasmeninti „Dissenter“ skirtinguose įrenginiuose</translation>
+<translation id="4328355335528187361">„Dissenter Dev“ („mDNS-In“)</translation>
 <translation id="4331809312908958774">Chrome OS
 </translation>
-<translation id="4343195214584226067">Plėtinys „<ph name="EXTENSION_NAME" />“ pridėtas prie „Brave“</translation>
+<translation id="4343195214584226067">Plėtinys „<ph name="EXTENSION_NAME" />“ pridėtas prie „Dissenter“</translation>
 <translation id="4407807842708586359">„Google Chrome OS“</translation>
-<translation id="4458462641685292929">Vykdoma kita „Brave“ operacija. Vėliau bandykite dar kartą.</translation>
-<translation id="4480040274068703980">„Brave“ OS negali sinchronizuoti duomenų, nes prisijungiant įvyko klaida.</translation>
-<translation id="4561051373932531560">Naudodami „Brave“ galite spustelėti telefono numerį žiniatinklyje ir skambinti juo naudodami „Skype“!</translation>
+<translation id="4458462641685292929">Vykdoma kita „Dissenter“ operacija. Vėliau bandykite dar kartą.</translation>
+<translation id="4480040274068703980">„Dissenter“ OS negali sinchronizuoti duomenų, nes prisijungiant įvyko klaida.</translation>
+<translation id="4561051373932531560">Naudodami „Dissenter“ galite spustelėti telefono numerį žiniatinklyje ir skambinti juo naudodami „Skype“!</translation>
 <translation id="4567424176335768812">Esate prisijungę kaip <ph name="USER_EMAIL_ADDRESS" />. Dabar galite pasiekti savo žymes, istoriją ir kitus nustatymus visuose įrenginiuose, kuriuose esate prisijungę.</translation>
-<translation id="4571503333518166079">Eiti į „Brave“ pranešimų nustatymus</translation>
-<translation id="459622048091363950">Kai „Brave“ galės pasiekti duomenis, svetainės taip pat galės prašyti suteikti leidimą juos pasiekti.</translation>
-<translation id="7963515534397191222">Nepavyko atnaujinti „Brave“ į naujausią versiją, todėl nebus pasiekiamos naujos funkcijos ir saugos pataisos.</translation>
-<translation id="4631713731678262610">Paslėpti „Brave“ meniu elementą</translation>
-<translation id="4633000520311261472">Kad „Brave“ padarytume saugesnę, išjungėme kai kuriuos plėtinius, kurių nėra „<ph name="IDS_EXTENSION_WEB_STORE_TITLE" />“ sąraše ir kurie galėjo būti pridėti be jūsų žinios.</translation>
-<translation id="4728575227883772061">Diegimas nepavyko dėl nežinomos klaidos. Jei šiuo metu veikia „Brave“, uždarykite ir pabandykite iš naujo.</translation>
-<translation id="4750550185319565338">Iš naujo paleiskite „Brave“, kad įgalintumėte „<ph name="PLUGIN_NAME" />“</translation>
-<translation id="4754614261631455953">„Canary“ versijos „Brave“ (mDNS-In)</translation>
-<translation id="89367911614620585">Šis failas gali būti pavojingas, todėl „Brave“ jį užblokavo.</translation>
-<translation id="2887570477425111999">Išsaugoti išsamią informaciją „Brave“</translation>
-<translation id="4891791193823137474">Paleisti „Brave“ fone</translation>
-<translation id="4895437082222824641">Atidaryti nuorodą naujame „Brave“ &amp;skirtuke</translation>
-<translation id="8296145982386097283">Bendrinate kompiuterį? Dabar galite nustatyti „Brave“ kaip tik norite.</translation>
-<translation id="4945319281866068441">{0,plural, =1{„Brave“ OS paleidimas iš naujo po dienos}one{„Brave“ OS paleidimas iš naujo po # dienos}few{„Brave“ OS paleidimas iš naujo po # dienų}many{„Brave“ OS paleidimas iš naujo po # dienos}other{„Brave“ OS paleidimas iš naujo po # dienų}}</translation>
-<translation id="4953650215774548573">Nustatyti „Brave“ kaip numatytąją naršyklę</translation>
-<translation id="6078442581074612226">Naudojant „Brave“</translation>
-<translation id="4990567037958725628">Brave Canary</translation>
-<translation id="5028489144783860647">„Brave“ negali sinchronizuoti duomenų. Atnaujinkite sinchronizavimo slaptafrazę.</translation>
-<translation id="5062123544085870375">„Brave“ OS paleidimas iš naujo</translation>
-<translation id="5090044601776247154">Prižiūrimų naudotojų profiliai nebebus pasiekiami nuo 70 vers. „Brave“.</translation>
-<translation id="2871190378186459992">Suraskite puikių „Brave“ programų, žaidimų, plėtinių ir temų.</translation>
-<translation id="5170938038195470297">Jūsų profilio negalima naudoti, nes jis iš naujesnės „Brave“ versijos.
+<translation id="4571503333518166079">Eiti į „Dissenter“ pranešimų nustatymus</translation>
+<translation id="459622048091363950">Kai „Dissenter“ galės pasiekti duomenis, svetainės taip pat galės prašyti suteikti leidimą juos pasiekti.</translation>
+<translation id="7963515534397191222">Nepavyko atnaujinti „Dissenter“ į naujausią versiją, todėl nebus pasiekiamos naujos funkcijos ir saugos pataisos.</translation>
+<translation id="4631713731678262610">Paslėpti „Dissenter“ meniu elementą</translation>
+<translation id="4633000520311261472">Kad „Dissenter“ padarytume saugesnę, išjungėme kai kuriuos plėtinius, kurių nėra „<ph name="IDS_EXTENSION_WEB_STORE_TITLE" />“ sąraše ir kurie galėjo būti pridėti be jūsų žinios.</translation>
+<translation id="4728575227883772061">Diegimas nepavyko dėl nežinomos klaidos. Jei šiuo metu veikia „Dissenter“, uždarykite ir pabandykite iš naujo.</translation>
+<translation id="4750550185319565338">Iš naujo paleiskite „Dissenter“, kad įgalintumėte „<ph name="PLUGIN_NAME" />“</translation>
+<translation id="4754614261631455953">„Canary“ versijos „Dissenter“ (mDNS-In)</translation>
+<translation id="89367911614620585">Šis failas gali būti pavojingas, todėl „Dissenter“ jį užblokavo.</translation>
+<translation id="2887570477425111999">Išsaugoti išsamią informaciją „Dissenter“</translation>
+<translation id="4891791193823137474">Paleisti „Dissenter“ fone</translation>
+<translation id="4895437082222824641">Atidaryti nuorodą naujame „Dissenter“ &amp;skirtuke</translation>
+<translation id="8296145982386097283">Bendrinate kompiuterį? Dabar galite nustatyti „Dissenter“ kaip tik norite.</translation>
+<translation id="4945319281866068441">{0,plural, =1{„Dissenter“ OS paleidimas iš naujo po dienos}one{„Dissenter“ OS paleidimas iš naujo po # dienos}few{„Dissenter“ OS paleidimas iš naujo po # dienų}many{„Dissenter“ OS paleidimas iš naujo po # dienos}other{„Dissenter“ OS paleidimas iš naujo po # dienų}}</translation>
+<translation id="4953650215774548573">Nustatyti „Dissenter“ kaip numatytąją naršyklę</translation>
+<translation id="6078442581074612226">Naudojant „Dissenter“</translation>
+<translation id="4990567037958725628">Dissenter Canary</translation>
+<translation id="5028489144783860647">„Dissenter“ negali sinchronizuoti duomenų. Atnaujinkite sinchronizavimo slaptafrazę.</translation>
+<translation id="5062123544085870375">„Dissenter“ OS paleidimas iš naujo</translation>
+<translation id="5090044601776247154">Prižiūrimų naudotojų profiliai nebebus pasiekiami nuo 70 vers. „Dissenter“.</translation>
+<translation id="2871190378186459992">Suraskite puikių „Dissenter“ programų, žaidimų, plėtinių ir temų.</translation>
+<translation id="5170938038195470297">Jūsų profilio negalima naudoti, nes jis iš naujesnės „Dissenter“ versijos.
 
-Kai kurios funkcijos gali būti nepasiekiamos. Nurodykite kitą profilio katalogą arba naudokite naujesnės versijos „Brave“.</translation>
-<translation id="5193136243808726294">„Brave“ OS negali atidaryti šio puslapio.</translation>
-<translation id="5204098752394657250">„Brave“ <ph name="TERMS_OF_SERVICE_LINK" />paslaugų teikimo sąlygos<ph name="END_TERMS_OF_SERVICE_LINK" /></translation>
-<translation id="5251420635869119124">Svečiai gali naudoti „Brave“ nepalikdami jokių duomenų.</translation>
-<translation id="5436841087823876677">Įspėjimas: „Brave“ negali neleisti plėtiniams įrašyti naršymo istorijos. Jei norite neleisti šio plėtinio inkognito režimu, panaikinkite šios parinkties žymėjimą.</translation>
-<translation id="5386244825306882791">Ji taip pat kontroliuoja, koks puslapis rodomas, kai paleidžiate „Brave“ ar ieškote „omnibox“.</translation>
+Kai kurios funkcijos gali būti nepasiekiamos. Nurodykite kitą profilio katalogą arba naudokite naujesnės versijos „Dissenter“.</translation>
+<translation id="5193136243808726294">„Dissenter“ OS negali atidaryti šio puslapio.</translation>
+<translation id="5204098752394657250">„Dissenter“ <ph name="TERMS_OF_SERVICE_LINK" />paslaugų teikimo sąlygos<ph name="END_TERMS_OF_SERVICE_LINK" /></translation>
+<translation id="5251420635869119124">Svečiai gali naudoti „Dissenter“ nepalikdami jokių duomenų.</translation>
+<translation id="5436841087823876677">Įspėjimas: „Dissenter“ negali neleisti plėtiniams įrašyti naršymo istorijos. Jei norite neleisti šio plėtinio inkognito režimu, panaikinkite šios parinkties žymėjimą.</translation>
+<translation id="5386244825306882791">Ji taip pat kontroliuoja, koks puslapis rodomas, kai paleidžiate „Dissenter“ ar ieškote „omnibox“.</translation>
 <translation id="3403365884036456766">Nuostatų failas sugadintas ar netinkamas.
 
-„Brave“ negali atkurti nustatymų.</translation>
-<translation id="5483595757826856374">{0,plural, =0{„Brave“ bus paleista iš naujo dabar}=1{„Brave“ bus paleista iš naujo po 1 sekundės}one{„Brave“ bus paleista iš naujo po # sekundės}few{„Brave“ bus paleista iš naujo po # sekundžių}many{„Brave“ bus paleista iš naujo po # sekundės}other{„Brave“ bus paleista iš naujo po # sekundžių}}</translation>
-<translation id="1801551749768408825">Veikia kitos „Brave“ kopijos. Norėdami atnaujinti, jas uždarykite.</translation>
-<translation id="556024056938947818">„Brave“ bando rodyti slaptažodžius.</translation>
-<translation id="5566025111015594046">„Brave“ (mDNS-In)</translation>
-<translation id="3561569806301739367">Failas „<ph name="FILE_NAME" />“ gali būti pavojingas, todėl „Brave“ jį užblokavo.</translation>
-<translation id="6315734375101223238">Tinkinkite ir valdykite „Brave“. Reikia atkreipti dėmesį – spustelėkite ir peržiūrėkite išsamią informaciją.</translation>
-<translation id="5690427481109656848">Brave Software Inc</translation>
-<translation id="2513524988380267210">{SECONDS,plural, =1{„Brave“ bus paleista iš naujo po 1 sekundės}one{„Brave“ bus paleista iš naujo po # sekundės}few{„Brave“ bus paleista iš naujo po # sekundžių}many{„Brave“ bus paleista iš naujo po # sekundės}other{„Brave“ bus paleista iš naujo po # sekundžių}}</translation>
-<translation id="573759479754913123">Apie „Brave“ OS</translation>
-<translation id="6236814935154483927">„<ph name="PAGE_TITLE" />“ – „Brave Canary“</translation>
-<translation id="5804318322022881572">Nepavyko paleisti „Brave“. Bandykite dar kartą.</translation>
+„Dissenter“ negali atkurti nustatymų.</translation>
+<translation id="5483595757826856374">{0,plural, =0{„Dissenter“ bus paleista iš naujo dabar}=1{„Dissenter“ bus paleista iš naujo po 1 sekundės}one{„Dissenter“ bus paleista iš naujo po # sekundės}few{„Dissenter“ bus paleista iš naujo po # sekundžių}many{„Dissenter“ bus paleista iš naujo po # sekundės}other{„Dissenter“ bus paleista iš naujo po # sekundžių}}</translation>
+<translation id="1801551749768408825">Veikia kitos „Dissenter“ kopijos. Norėdami atnaujinti, jas uždarykite.</translation>
+<translation id="556024056938947818">„Dissenter“ bando rodyti slaptažodžius.</translation>
+<translation id="5566025111015594046">„Dissenter“ (mDNS-In)</translation>
+<translation id="3561569806301739367">Failas „<ph name="FILE_NAME" />“ gali būti pavojingas, todėl „Dissenter“ jį užblokavo.</translation>
+<translation id="6315734375101223238">Tinkinkite ir valdykite „Dissenter“. Reikia atkreipti dėmesį – spustelėkite ir peržiūrėkite išsamią informaciją.</translation>
+<translation id="5690427481109656848">Gab AI Inc</translation>
+<translation id="2513524988380267210">{SECONDS,plural, =1{„Dissenter“ bus paleista iš naujo po 1 sekundės}one{„Dissenter“ bus paleista iš naujo po # sekundės}few{„Dissenter“ bus paleista iš naujo po # sekundžių}many{„Dissenter“ bus paleista iš naujo po # sekundės}other{„Dissenter“ bus paleista iš naujo po # sekundžių}}</translation>
+<translation id="573759479754913123">Apie „Dissenter“ OS</translation>
+<translation id="6236814935154483927">„<ph name="PAGE_TITLE" />“ – „Dissenter Canary“</translation>
+<translation id="5804318322022881572">Nepavyko paleisti „Dissenter“. Bandykite dar kartą.</translation>
 <translation id="5877064549588274448">Kanalas pakeistas. Kad pritaikytumėte pakeitimus, iš naujo paleiskite įrenginį.</translation>
 <translation id="5895138241574237353">Paleisti iš naujo</translation>
 <translation id="5906655207909574370">Beveik įdiegta naujausia versija! Paleiskite įrenginį iš naujo, kad būtų užbaigtas naujinimas.</translation>
-<translation id="5940385492829620908">Čia saugoma žiniatinklio informacija, žymės ir kiti „Brave“ duomenys.</translation>
-<translation id="5019879183386042809">Padarykite „Brave“ numatytąja naršykle</translation>
-<translation id="6014844626092547096">Dabar esate prisijungę prie „Brave“. Administratorius neleidžia sinchronizuoti.</translation>
+<translation id="5940385492829620908">Čia saugoma žiniatinklio informacija, žymės ir kiti „Dissenter“ duomenys.</translation>
+<translation id="5019879183386042809">Padarykite „Dissenter“ numatytąja naršykle</translation>
+<translation id="6014844626092547096">Dabar esate prisijungę prie „Dissenter“. Administratorius neleidžia sinchronizuoti.</translation>
 <translation id="6040143037577758943">Uždaryti</translation>
-<translation id="6070348360322141662">Kad būtų papildomai užtikrintas saugumas, „Brave“ užšifruos duomenis</translation>
-<translation id="6113794647360055231">„Brave“ dabar dar tobulesnė</translation>
-<translation id="5381622442243174305"><ph name="PAGE_TITLE" />– „Brave“</translation>
-<translation id="1403270718080126244">„<ph name="PAGE_TITLE" />“ – „Brave Beta“</translation>
-<translation id="61852838583753520">Atnaujinti „&amp;Brave“ OS</translation>
-<translation id="6235018212288296708">„Brave“ skirta taisyklė, pagal kurią leidžiamas mDNS srautas.</translation>
-<translation id="6291089322031436445">„Brave Dev“ programos</translation>
-<translation id="6291549208091401781">„Brave“ jau įdiegta visiems kompiuterio naudotojams.</translation>
-<translation id="6338556085225130112">Atnaujinama „Brave“</translation>
-<translation id="6368958679917195344">„Brave“ OS galima naudojant papildomą <ph name="BEGIN_LINK_CROS_OSS" />atvirojo šaltinio programinę įrangą<ph name="END_LINK_CROS_OSS" />.</translation>
-<translation id="6468844726266617801">{0,plural, =1{„Brave“ paleidimas iš naujo po dienos}one{„Brave“ paleidimas iš naujo po # dienos}few{„Brave“ paleidimas iš naujo po # dienų}many{„Brave“ paleidimas iš naujo po # dienos}other{„Brave“ paleidimas iš naujo po # dienų}}</translation>
-<translation id="3943696263619956191">„<ph name="PAGE_TITLE" />“ – „Brave Dev“</translation>
-<translation id="6566149418543181476">Atnaujinama „Brave“ (<ph name="PROGRESS_PERCENT" />)</translation>
-<translation id="2472951610753402739">Sinchronizuoti „Brave“ duomenims naudojate <ph name="PROFILE_EMAIL" />. Jei norite atnaujinti sinchronizavimo nuostatą arba naudoti „Brave“ be „Google“ paskyros, apsilankykite <ph name="SETTINGS_LINK" /> skiltyje.</translation>
-<translation id="663059986967017181">Nukopijuota į „Brave“</translation>
-<translation id="6634887557811630702">„Brave“ naujausios versijos.</translation>
+<translation id="6070348360322141662">Kad būtų papildomai užtikrintas saugumas, „Dissenter“ užšifruos duomenis</translation>
+<translation id="6113794647360055231">„Dissenter“ dabar dar tobulesnė</translation>
+<translation id="5381622442243174305"><ph name="PAGE_TITLE" />– „Dissenter“</translation>
+<translation id="1403270718080126244">„<ph name="PAGE_TITLE" />“ – „Dissenter Beta“</translation>
+<translation id="61852838583753520">Atnaujinti „&amp;Dissenter“ OS</translation>
+<translation id="6235018212288296708">„Dissenter“ skirta taisyklė, pagal kurią leidžiamas mDNS srautas.</translation>
+<translation id="6291089322031436445">„Dissenter Dev“ programos</translation>
+<translation id="6291549208091401781">„Dissenter“ jau įdiegta visiems kompiuterio naudotojams.</translation>
+<translation id="6338556085225130112">Atnaujinama „Dissenter“</translation>
+<translation id="6368958679917195344">„Dissenter“ OS galima naudojant papildomą <ph name="BEGIN_LINK_CROS_OSS" />atvirojo šaltinio programinę įrangą<ph name="END_LINK_CROS_OSS" />.</translation>
+<translation id="6468844726266617801">{0,plural, =1{„Dissenter“ paleidimas iš naujo po dienos}one{„Dissenter“ paleidimas iš naujo po # dienos}few{„Dissenter“ paleidimas iš naujo po # dienų}many{„Dissenter“ paleidimas iš naujo po # dienos}other{„Dissenter“ paleidimas iš naujo po # dienų}}</translation>
+<translation id="3943696263619956191">„<ph name="PAGE_TITLE" />“ – „Dissenter Dev“</translation>
+<translation id="6566149418543181476">Atnaujinama „Dissenter“ (<ph name="PROGRESS_PERCENT" />)</translation>
+<translation id="2472951610753402739">Sinchronizuoti „Dissenter“ duomenims naudojate <ph name="PROFILE_EMAIL" />. Jei norite atnaujinti sinchronizavimo nuostatą arba naudoti „Dissenter“ be „Google“ paskyros, apsilankykite <ph name="SETTINGS_LINK" /> skiltyje.</translation>
+<translation id="663059986967017181">Nukopijuota į „Dissenter“</translation>
+<translation id="6634887557811630702">„Dissenter“ naujausios versijos.</translation>
 <translation id="6676384891291319759">Interneto prieiga</translation>
-<translation id="6679975945624592337">„Brave“ leidimas fone</translation>
-<translation id="677276454032249905">Vis tiek išeiti iš „Brave“?</translation>
-<translation id="683440813066116847">„Canary“ versijos „Brave“ skirta taisyklė, pagal kurią leidžiamas gaunamas mDNS srautas.</translation>
-<translation id="686561893457936865">Pasiimkite „Brave“ bet kur</translation>
-<translation id="6885412569789873916">„Brave“ beta versijos programos</translation>
-<translation id="6943584222992551122">Šio asmens naršymo duomenys bus ištrinti iš šio įrenginio. Jei norite atkurti duomenis, prisijunkite prie „Brave“ kaip <ph name="USER_EMAIL" />.</translation>
-<translation id="6964107240822114422">{0,plural, =0{Pasiekiamas „Brave“ naujinys}=1{Pasiekiamas „Brave“ naujinys}one{„Brave“ naujinys pasiekiamas # dieną}few{„Brave“ naujinys pasiekiamas # dienas}many{„Brave“ naujinys pasiekiamas # dienos}other{„Brave“ naujinys pasiekiamas # dienų}}</translation>
-<translation id="6967962315388095737">Beta versijos „Brave“ skirta taisyklė, pagal kurią leidžiamas gaunamas mDNS srautas.</translation>
+<translation id="6679975945624592337">„Dissenter“ leidimas fone</translation>
+<translation id="677276454032249905">Vis tiek išeiti iš „Dissenter“?</translation>
+<translation id="683440813066116847">„Canary“ versijos „Dissenter“ skirta taisyklė, pagal kurią leidžiamas gaunamas mDNS srautas.</translation>
+<translation id="686561893457936865">Pasiimkite „Dissenter“ bet kur</translation>
+<translation id="6885412569789873916">„Dissenter“ beta versijos programos</translation>
+<translation id="6943584222992551122">Šio asmens naršymo duomenys bus ištrinti iš šio įrenginio. Jei norite atkurti duomenis, prisijunkite prie „Dissenter“ kaip <ph name="USER_EMAIL" />.</translation>
+<translation id="6964107240822114422">{0,plural, =0{Pasiekiamas „Dissenter“ naujinys}=1{Pasiekiamas „Dissenter“ naujinys}one{„Dissenter“ naujinys pasiekiamas # dieną}few{„Dissenter“ naujinys pasiekiamas # dienas}many{„Dissenter“ naujinys pasiekiamas # dienos}other{„Dissenter“ naujinys pasiekiamas # dienų}}</translation>
+<translation id="6967962315388095737">Beta versijos „Dissenter“ skirta taisyklė, pagal kurią leidžiamas gaunamas mDNS srautas.</translation>
 <translation id="6970811910055250180">Įrenginys atnaujinamas...</translation>
-<translation id="6982337800632491844"><ph name="DOMAIN" /> reikia, kad prieš naudodami šį įrenginį perskaitytumėte toliau pateiktas paslaugų teikimo sąlygas. Šios sąlygos neišplečia, nepakeičia ir neapriboja „Brave“ OS sąlygų.</translation>
-<translation id="6989339256997917931">„Brave“ atnaujinta, tačiau jos nenaudojote mažiausiai 30 dienų.</translation>
-<translation id="7023651421574588884">Administratorius reikalauja paleisti „Brave“ OS iš naujo, kad galėtų pritaikyti naujinį</translation>
-<translation id="8919461291440820124">„Brave“ naudoja jūsų mikrofoną.</translation>
-<translation id="5516268345616100622">Užduočių tvarkytuvė – „Brave“</translation>
-<translation id="474353600079041991">Galite padėti sustiprinti „Brave“ saugą ir palengvinti jos naudojimą automatiškai „Google“ pateikdami išsamią informaciją apie galimas saugos problemas.</translation>
-<translation id="7242029209006116544">Prisijungiate su valdoma paskyra ir leidžiate jos administratoriui valdyti jūsų „Brave“ profilį. „Brave“ duomenys, pvz., programos, žymės, istorija, slaptažodžiai ir kiti nustatymai, bus visam laikui susieti su <ph name="USER_NAME" />. Galėsite ištrinti šiuos duomenis naudodami „Google“ paskyrų informacijos suvestinę, bet negalėsite susieti šių duomenų su kita paskyra. Galite pasirinktinai sukurti naują profilį, kad esami „Brave“ duomenys būtų saugomi atskirai. <ph name="LEARN_MORE" /></translation>
-<translation id="7295052994004373688">Ši kalba vartojama „Brave“ NS pateikti</translation>
+<translation id="6982337800632491844"><ph name="DOMAIN" /> reikia, kad prieš naudodami šį įrenginį perskaitytumėte toliau pateiktas paslaugų teikimo sąlygas. Šios sąlygos neišplečia, nepakeičia ir neapriboja „Dissenter“ OS sąlygų.</translation>
+<translation id="6989339256997917931">„Dissenter“ atnaujinta, tačiau jos nenaudojote mažiausiai 30 dienų.</translation>
+<translation id="7023651421574588884">Administratorius reikalauja paleisti „Dissenter“ OS iš naujo, kad galėtų pritaikyti naujinį</translation>
+<translation id="8919461291440820124">„Dissenter“ naudoja jūsų mikrofoną.</translation>
+<translation id="5516268345616100622">Užduočių tvarkytuvė – „Dissenter“</translation>
+<translation id="474353600079041991">Galite padėti sustiprinti „Dissenter“ saugą ir palengvinti jos naudojimą automatiškai „Google“ pateikdami išsamią informaciją apie galimas saugos problemas.</translation>
+<translation id="7242029209006116544">Prisijungiate su valdoma paskyra ir leidžiate jos administratoriui valdyti jūsų „Dissenter“ profilį. „Dissenter“ duomenys, pvz., programos, žymės, istorija, slaptažodžiai ir kiti nustatymai, bus visam laikui susieti su <ph name="USER_NAME" />. Galėsite ištrinti šiuos duomenis naudodami „Google“ paskyrų informacijos suvestinę, bet negalėsite susieti šių duomenų su kita paskyra. Galite pasirinktinai sukurti naują profilį, kad esami „Dissenter“ duomenys būtų saugomi atskirai. <ph name="LEARN_MORE" /></translation>
+<translation id="7295052994004373688">Ši kalba vartojama „Dissenter“ NS pateikti</translation>
 <translation id="7296210096911315575">Svarbi naudojimo ir saugos informacija</translation>
-<translation id="7308322188646931570">„Brave“ reikia prieigos prie saugyklos, kad būtų galima atsisiųsti failus</translation>
+<translation id="7308322188646931570">„Dissenter“ reikia prieigos prie saugyklos, kad būtų galima atsisiųsti failus</translation>
 <translation id="7339898014177206373">Naujas langas</translation>
-<translation id="7398801000654795464">Buvote prisijungę prie „Brave“ kaip <ph name="USER_EMAIL_ADDRESS" />. Prisijungdami vėl naudokite tą pačią paskyrą.</translation>
-<translation id="7408085963519505752">„Brave“ OS sąlygos</translation>
-<translation id="7419046106786626209">„Brave“ OS negali sinchronizuoti duomenų, nes jūsų domene sinchronizavimas nepasiekiamas.</translation>
-<translation id="7459554271817304652">Nustatykite sinchronizavimą, kad žiniatinklyje išsaugotumėte suasmenintas naršyklės funkcijas ir pasiektumėte jas iš „Brave“ bet kuriuo kompiuteriu.</translation>
-<translation id="7473136999113284234">„Brave“ atnaujinama automatiškai, todėl visada naudojatės naujausia versija.</translation>
-<translation id="7486227612705979895">„Brave“ turės prieigą prie Disko, kad galėtų teikti pasiūlymus adreso juostoje</translation>
-<translation id="2938460345748897177">Šis failas pavojingas, todėl „Brave“ jį užblokavo. Jus saugo Papildomos apsaugos programa.</translation>
-<translation id="8887390605192156061">Uždarykite visas „Brave“ kopijas.</translation>
-<translation id="7535429826459677826">Brave Dev</translation>
-<translation id="7552219221109926349">Pateikti „Brave“ OS šia kalba</translation>
-<translation id="7561940363513215021">{0,plural, =1{„Brave“ bus paleista iš naujo po 1 minutės}one{„Brave“ bus paleista iš naujo po # minutės}few{„Brave“ bus paleista iš naujo po # minučių}many{„Brave“ bus paleista iš naujo po # minutės}other{„Brave“ bus paleista iš naujo po # minučių}}</translation>
-<translation id="7589360514048265910">Šiame kompiuteryje nebebus gaunami „Brave“ naujiniai, nes 10.9 versijos „Mac OS X“ nebepalaikoma.</translation>
-<translation id="7592736734348559088">„Brave“ negali sinchronizuoti duomenų, nes paskyros išsami prisijungimo informacija yra pasenusi.</translation>
-<translation id="7207456302801184289">Sveiki, tai „Brave“</translation>
-<translation id="7636297873481318396">Šis failas pavojingas, todėl „Brave“ jį užblokavo. Jus saugo Papildomos apsaugos programa.</translation>
-<translation id="7641148173327520642">Sistemos administratorius sukonfigūravo „Brave“ atidaryti alternatyvią naršyklę <ph name="ALTERNATIVE_BROWSER_NAME" />, norint pasiekti <ph name="TARGET_URL_HOSTNAME" />.</translation>
-<translation id="7651907282515937834">„Brave Enterprise“ logotipas</translation>
+<translation id="7398801000654795464">Buvote prisijungę prie „Dissenter“ kaip <ph name="USER_EMAIL_ADDRESS" />. Prisijungdami vėl naudokite tą pačią paskyrą.</translation>
+<translation id="7408085963519505752">„Dissenter“ OS sąlygos</translation>
+<translation id="7419046106786626209">„Dissenter“ OS negali sinchronizuoti duomenų, nes jūsų domene sinchronizavimas nepasiekiamas.</translation>
+<translation id="7459554271817304652">Nustatykite sinchronizavimą, kad žiniatinklyje išsaugotumėte suasmenintas naršyklės funkcijas ir pasiektumėte jas iš „Dissenter“ bet kuriuo kompiuteriu.</translation>
+<translation id="7473136999113284234">„Dissenter“ atnaujinama automatiškai, todėl visada naudojatės naujausia versija.</translation>
+<translation id="7486227612705979895">„Dissenter“ turės prieigą prie Disko, kad galėtų teikti pasiūlymus adreso juostoje</translation>
+<translation id="2938460345748897177">Šis failas pavojingas, todėl „Dissenter“ jį užblokavo. Jus saugo Papildomos apsaugos programa.</translation>
+<translation id="8887390605192156061">Uždarykite visas „Dissenter“ kopijas.</translation>
+<translation id="7535429826459677826">Dissenter Dev</translation>
+<translation id="7552219221109926349">Pateikti „Dissenter“ OS šia kalba</translation>
+<translation id="7561940363513215021">{0,plural, =1{„Dissenter“ bus paleista iš naujo po 1 minutės}one{„Dissenter“ bus paleista iš naujo po # minutės}few{„Dissenter“ bus paleista iš naujo po # minučių}many{„Dissenter“ bus paleista iš naujo po # minutės}other{„Dissenter“ bus paleista iš naujo po # minučių}}</translation>
+<translation id="7589360514048265910">Šiame kompiuteryje nebebus gaunami „Dissenter“ naujiniai, nes 10.9 versijos „Mac OS X“ nebepalaikoma.</translation>
+<translation id="7592736734348559088">„Dissenter“ negali sinchronizuoti duomenų, nes paskyros išsami prisijungimo informacija yra pasenusi.</translation>
+<translation id="7207456302801184289">Sveiki, tai „Dissenter“</translation>
+<translation id="7636297873481318396">Šis failas pavojingas, todėl „Dissenter“ jį užblokavo. Jus saugo Papildomos apsaugos programa.</translation>
+<translation id="7641148173327520642">Sistemos administratorius sukonfigūravo „Dissenter“ atidaryti alternatyvią naršyklę <ph name="ALTERNATIVE_BROWSER_NAME" />, norint pasiekti <ph name="TARGET_URL_HOSTNAME" />.</translation>
+<translation id="7651907282515937834">„Dissenter Enterprise“ logotipas</translation>
 <translation id="7747138024166251722">Diegimo programai nepavyko sukurti laikino katalogo. Patikrinkite, ar yra laisvos vietos diske ir, ar leidžiama įdiegti programinę įrangą.</translation>
-<translation id="7761834446675418963">Spustelėkite savo vardą, kad atidarytumėte „Brave“ ir pradėtumėte naršyti.</translation>
-<translation id="7777080907402804672">Jei nebus naudingo vaizdo aprašo, „Brave“ bandys jums jį pateikti. Kad būtų galima kurti aprašus, vaizdai siunčiami į sistemą „Google“. Šią parinktį galite bet kada išjungti skiltyje „Nustatymai“.</translation>
-<translation id="7781002470561365167">Galima nauja „Brave“ versija.</translation>
-<translation id="7787950393032327779">Atrodo, kad profilį naudoja kitas „Brave“ procesas (<ph name="PROCESS_ID" />) kitame kompiuteryje (<ph name="HOST_NAME" />). „Brave“ užrakino profilį, kad jis nebūtų sugadintas. Jei esate tikri, kad jokie kiti procesai nenaudoja šio profilio, galite atrakinti profilį ir iš naujo paleisti „Brave“.</translation>
-<translation id="777113543093865885">Pašalinti iš „Brave“...</translation>
-<translation id="7825851276765848807">Nepavyko įdiegti dėl nenustatytos klaidos. Atsisiųskite „Brave“ dar kartą.</translation>
-<translation id="7855730255114109580">„Brave“ yra naujausios versijos</translation>
-<translation id="7888186132678118370">„Brave“ prisegimas prie užduočių juostos</translation>
-<translation id="7890208801193284374">Jei bendrinate kompiuterį, šeimos nariai ir draugai gali naršyti atskirai ir nustatyti „Brave“ pagal savo poreikius.</translation>
-<translation id="7896673875602241923">Kažkas anksčiau prisijungė prie „Brave“ šiame kompiuteryje kaip <ph name="ACCOUNT_EMAIL_LAST" />. Sukurkite naują „Brave“ naudotoją, kad apsaugotumėte savo informaciją.</translation>
-<translation id="7908168227788431038">Beveik atnaujinta! Paleiskite „Brave“ iš naujo, kad būtų užbaigtas naujinimas.</translation>
-<translation id="7962410387636238736">Šiame kompiuteryje nebebus gaunami „Brave“ naujiniai, nes „Windows XP“ ir „Windows Vista“ nebepalaikomos.</translation>
-<translation id="8005540215158006229">„Brave“ beveik paruošta.</translation>
-<translation id="5875673934455379806">Iš naujo įdiegti „Brave“</translation>
-<translation id="8013993649590906847">Jei nebus naudingo vaizdo aprašo, „Brave“ bandys jums jį pateikti. Kad būtų galima kurti aprašus, vaizdai siunčiami į sistemą „Google“.</translation>
+<translation id="7761834446675418963">Spustelėkite savo vardą, kad atidarytumėte „Dissenter“ ir pradėtumėte naršyti.</translation>
+<translation id="7777080907402804672">Jei nebus naudingo vaizdo aprašo, „Dissenter“ bandys jums jį pateikti. Kad būtų galima kurti aprašus, vaizdai siunčiami į sistemą „Google“. Šią parinktį galite bet kada išjungti skiltyje „Nustatymai“.</translation>
+<translation id="7781002470561365167">Galima nauja „Dissenter“ versija.</translation>
+<translation id="7787950393032327779">Atrodo, kad profilį naudoja kitas „Dissenter“ procesas (<ph name="PROCESS_ID" />) kitame kompiuteryje (<ph name="HOST_NAME" />). „Dissenter“ užrakino profilį, kad jis nebūtų sugadintas. Jei esate tikri, kad jokie kiti procesai nenaudoja šio profilio, galite atrakinti profilį ir iš naujo paleisti „Dissenter“.</translation>
+<translation id="777113543093865885">Pašalinti iš „Dissenter“...</translation>
+<translation id="7825851276765848807">Nepavyko įdiegti dėl nenustatytos klaidos. Atsisiųskite „Dissenter“ dar kartą.</translation>
+<translation id="7855730255114109580">„Dissenter“ yra naujausios versijos</translation>
+<translation id="7888186132678118370">„Dissenter“ prisegimas prie užduočių juostos</translation>
+<translation id="7890208801193284374">Jei bendrinate kompiuterį, šeimos nariai ir draugai gali naršyti atskirai ir nustatyti „Dissenter“ pagal savo poreikius.</translation>
+<translation id="7896673875602241923">Kažkas anksčiau prisijungė prie „Dissenter“ šiame kompiuteryje kaip <ph name="ACCOUNT_EMAIL_LAST" />. Sukurkite naują „Dissenter“ naudotoją, kad apsaugotumėte savo informaciją.</translation>
+<translation id="7908168227788431038">Beveik atnaujinta! Paleiskite „Dissenter“ iš naujo, kad būtų užbaigtas naujinimas.</translation>
+<translation id="7962410387636238736">Šiame kompiuteryje nebebus gaunami „Dissenter“ naujiniai, nes „Windows XP“ ir „Windows Vista“ nebepalaikomos.</translation>
+<translation id="8005540215158006229">„Dissenter“ beveik paruošta.</translation>
+<translation id="5875673934455379806">Iš naujo įdiegti „Dissenter“</translation>
+<translation id="8013993649590906847">Jei nebus naudingo vaizdo aprašo, „Dissenter“ bandys jums jį pateikti. Kad būtų galima kurti aprašus, vaizdai siunčiami į sistemą „Google“.</translation>
 <translation id="8030318113982266900">Atnaujinamas įrenginys į „<ph name="CHANNEL_NAME" />“ kanalą...</translation>
-<translation id="1672124279374861424">Pašalinus paskyrą iš „Brave“, galbūt reikės iš naujo įkelti skirtukus, kad pakeitimai įsigaliotų.</translation>
-<translation id="8077352834923175128">Administratorius prašo paleisti „Brave“ OS iš naujo, kad galėtų pritaikyti šį naujinį</translation>
-<translation id="8129812357326543296">Apie „&amp;Brave“</translation>
-<translation id="8899693649891674038">Įdiekite „Brave“ telefone. Išsiųsime SMS pranešimą jūsų telefonu.</translation>
-<translation id="8183957050892517584">„Brave“ patikimai saugos jūsų išsamią informaciją, kad nebereikėtų jos vėl įvesti.</translation>
-<translation id="8226081633851087288">{0,plural, =0{„Brave“ OS bus paleista iš naujo dabar}=1{„Brave“ OS bus paleista iš naujo po 1 sekundės}one{„Brave“ OS bus paleista iš naujo po # sekundės}few{„Brave“ OS bus paleista iš naujo po # sekundžių}many{„Brave“ OS bus paleista iš naujo po # sekundės}other{„Brave“ OS bus paleista iš naujo po # sekundžių}}</translation>
-<translation id="5138664332909611586">Šis puslapis naudoja per daug atminties, todėl „Brave“ pašalino šiek tiek turinio.</translation>
-<translation id="3293668930608086049">„Brave“ naudoja jūsų fotoaparatą ir mikrofoną.</translation>
-<translation id="8286862437124483331">„Brave“ bando rodyti slaptažodžius. Įveskite „Windows“ slaptažodį, kad tai leistumėte.</translation>
-<translation id="8290100596633877290">Oi! „Brave“ užstrigo. Paleisti iš naujo dabar?</translation>
-<translation id="9067428552314418522">Šis failas pavojingas, todėl „Brave“ jį užblokavo.</translation>
-<translation id="8370517070665726704">Autorių teisės „Brave Software Inc.“, <ph name="YEAR" /> m. Visos teisės saugomos.</translation>
-<translation id="8380166467911888159">Kad ištaisytų rašybos klaidas, „Brave“ siunčia „Google“ tekstą, kurį įvedate teksto laukuose</translation>
-<translation id="840084489713044809">„Brave“ nori eksportuoti jūsų slaptažodžius.</translation>
-<translation id="763369711159699222">Padėkite tobulinti „Brave“</translation>
-<translation id="5509303873219371662">Dabar turėtumėte paleisti „Brave“ iš naujo</translation>
-<translation id="8455999171311319804">Pasirenkama: padėkite patobulinti „Brave“ OS automatiškai siųsdami diagnostikos ir naudojimo duomenis į sistemą „Google“.</translation>
-<translation id="2965084188004448871">Įdiekite „Brave“ telefone. Išsiųsime SMS pranešimą paskyros atkūrimo telefono numeriu: <ph name="PHONE_NUMBER" /></translation>
-<translation id="8668413672647811944">Ką tik pritaikytas specialus „Brave“ skirtas saugos naujinys. Dabar paleiskite naršyklę iš naujo ir atkursime visus skirtukus.</translation>
-<translation id="8521348052903287641">„Dev“ versijos „Brave“ skirta taisyklė, pagal kurią leidžiamas gaunamas mDNS srautas.</translation>
-<translation id="8547799825197623713">„Brave“ programų paleidimo priemonė („Canary“)</translation>
-<translation id="8556340503434111824">Galima nauja „Brave“ versija, kuri greitesnė nei bet kada.</translation>
-<translation id="8568392309447938879">Jei norite naudoti programas, turite būti prisijungę prie „Brave“. Tada „Brave“ galės sinchronizuoti jūsų programas, žymes, istoriją, slaptažodžius ir kitus nustatymus įrenginiuose.</translation>
-<translation id="8606668294522778825">„Brave“ gali naudoti žiniatinklio paslaugas naršymo patirčiai pagerinti. Galite pasirinktinai išjungti šias paslaugas. <ph name="BEGIN_LINK" />Sužinokite daugiau<ph name="END_LINK" /></translation>
-<translation id="8614913330719544658">„Brave“ neatsako. Paleisti iš naujo dabar?</translation>
+<translation id="1672124279374861424">Pašalinus paskyrą iš „Dissenter“, galbūt reikės iš naujo įkelti skirtukus, kad pakeitimai įsigaliotų.</translation>
+<translation id="8077352834923175128">Administratorius prašo paleisti „Dissenter“ OS iš naujo, kad galėtų pritaikyti šį naujinį</translation>
+<translation id="8129812357326543296">Apie „&amp;Dissenter“</translation>
+<translation id="8899693649891674038">Įdiekite „Dissenter“ telefone. Išsiųsime SMS pranešimą jūsų telefonu.</translation>
+<translation id="8183957050892517584">„Dissenter“ patikimai saugos jūsų išsamią informaciją, kad nebereikėtų jos vėl įvesti.</translation>
+<translation id="8226081633851087288">{0,plural, =0{„Dissenter“ OS bus paleista iš naujo dabar}=1{„Dissenter“ OS bus paleista iš naujo po 1 sekundės}one{„Dissenter“ OS bus paleista iš naujo po # sekundės}few{„Dissenter“ OS bus paleista iš naujo po # sekundžių}many{„Dissenter“ OS bus paleista iš naujo po # sekundės}other{„Dissenter“ OS bus paleista iš naujo po # sekundžių}}</translation>
+<translation id="5138664332909611586">Šis puslapis naudoja per daug atminties, todėl „Dissenter“ pašalino šiek tiek turinio.</translation>
+<translation id="3293668930608086049">„Dissenter“ naudoja jūsų fotoaparatą ir mikrofoną.</translation>
+<translation id="8286862437124483331">„Dissenter“ bando rodyti slaptažodžius. Įveskite „Windows“ slaptažodį, kad tai leistumėte.</translation>
+<translation id="8290100596633877290">Oi! „Dissenter“ užstrigo. Paleisti iš naujo dabar?</translation>
+<translation id="9067428552314418522">Šis failas pavojingas, todėl „Dissenter“ jį užblokavo.</translation>
+<translation id="8370517070665726704">Autorių teisės „Gab AI Inc.“, <ph name="YEAR" /> m. Visos teisės saugomos.</translation>
+<translation id="8380166467911888159">Kad ištaisytų rašybos klaidas, „Dissenter“ siunčia „Google“ tekstą, kurį įvedate teksto laukuose</translation>
+<translation id="840084489713044809">„Dissenter“ nori eksportuoti jūsų slaptažodžius.</translation>
+<translation id="763369711159699222">Padėkite tobulinti „Dissenter“</translation>
+<translation id="5509303873219371662">Dabar turėtumėte paleisti „Dissenter“ iš naujo</translation>
+<translation id="8455999171311319804">Pasirenkama: padėkite patobulinti „Dissenter“ OS automatiškai siųsdami diagnostikos ir naudojimo duomenis į sistemą „Google“.</translation>
+<translation id="2965084188004448871">Įdiekite „Dissenter“ telefone. Išsiųsime SMS pranešimą paskyros atkūrimo telefono numeriu: <ph name="PHONE_NUMBER" /></translation>
+<translation id="8668413672647811944">Ką tik pritaikytas specialus „Dissenter“ skirtas saugos naujinys. Dabar paleiskite naršyklę iš naujo ir atkursime visus skirtukus.</translation>
+<translation id="8521348052903287641">„Dev“ versijos „Dissenter“ skirta taisyklė, pagal kurią leidžiamas gaunamas mDNS srautas.</translation>
+<translation id="8547799825197623713">„Dissenter“ programų paleidimo priemonė („Canary“)</translation>
+<translation id="8556340503434111824">Galima nauja „Dissenter“ versija, kuri greitesnė nei bet kada.</translation>
+<translation id="8568392309447938879">Jei norite naudoti programas, turite būti prisijungę prie „Dissenter“. Tada „Dissenter“ galės sinchronizuoti jūsų programas, žymes, istoriją, slaptažodžius ir kitus nustatymus įrenginiuose.</translation>
+<translation id="8606668294522778825">„Dissenter“ gali naudoti žiniatinklio paslaugas naršymo patirčiai pagerinti. Galite pasirinktinai išjungti šias paslaugas. <ph name="BEGIN_LINK" />Sužinokite daugiau<ph name="END_LINK" /></translation>
+<translation id="8614913330719544658">„Dissenter“ neatsako. Paleisti iš naujo dabar?</translation>
 <translation id="8667808506758191620">Jūsų „<ph name="DEVICE_TYPE" />“ atnaujintas.</translation>
-<translation id="8669527147644353129">„Brave“ pagalbos priemonė</translation>
-<translation id="8679801911857917785">Ji taip pat kontroliuoja, koks puslapis rodomas, kai paleidžiate „Brave“.</translation>
-<translation id="870251953148363156">Atnaujinti „&amp;Brave“</translation>
+<translation id="8669527147644353129">„Dissenter“ pagalbos priemonė</translation>
+<translation id="8679801911857917785">Ji taip pat kontroliuoja, koks puslapis rodomas, kai paleidžiate „Dissenter“.</translation>
+<translation id="870251953148363156">Atnaujinti „&amp;Dissenter“</translation>
 <translation id="8704255848199359374">Naudojamas tas pats rašybos tikrinimas kaip ir „Google“ paieškoje. Tekstas, kurį įvedate naršyklėje, nusiunčiamas „Google“. Šį veikimą visada galite pakeisti nustatymuose.</translation>
-<translation id="873133009373065397">„Brave“ nepavyko aptikti arba nustatyti numatytosios naršyklės</translation>
-<translation id="8736674169840206667">Administratorius reikalauja paleisti iš naujo „Brave“, kad galėtų pritaikyti naujinį</translation>
-<translation id="8788264404293392165">Ši kalba vartojama „Brave“ OS NS pateikti</translation>
-<translation id="8791470158600044404">{0,plural, =1{„Brave“ OS bus paleista iš naujo po 1 minutės}one{„Brave“ OS bus paleista iš naujo po # minutės}few{„Brave“ OS bus paleista iš naujo po # minučių}many{„Brave“ OS bus paleista iš naujo po # minutės}other{„Brave“ OS bus paleista iš naujo po # minučių}}</translation>
-<translation id="8823341990149967727">„Brave“ versija yra pasenusi</translation>
-<translation id="884296878221830158">Ji taip pat kontroliuoja, koks puslapis rodomas, kai paleidžiate „Brave“ ar spustelėjate pagrindinio puslapio mygtuką.</translation>
+<translation id="873133009373065397">„Dissenter“ nepavyko aptikti arba nustatyti numatytosios naršyklės</translation>
+<translation id="8736674169840206667">Administratorius reikalauja paleisti iš naujo „Dissenter“, kad galėtų pritaikyti naujinį</translation>
+<translation id="8788264404293392165">Ši kalba vartojama „Dissenter“ OS NS pateikti</translation>
+<translation id="8791470158600044404">{0,plural, =1{„Dissenter“ OS bus paleista iš naujo po 1 minutės}one{„Dissenter“ OS bus paleista iš naujo po # minutės}few{„Dissenter“ OS bus paleista iš naujo po # minučių}many{„Dissenter“ OS bus paleista iš naujo po # minutės}other{„Dissenter“ OS bus paleista iš naujo po # minučių}}</translation>
+<translation id="8823341990149967727">„Dissenter“ versija yra pasenusi</translation>
+<translation id="884296878221830158">Ji taip pat kontroliuoja, koks puslapis rodomas, kai paleidžiate „Dissenter“ ar spustelėjate pagrindinio puslapio mygtuką.</translation>
 <translation id="8862326446509486874">Neturite reikiamų teisių sistemai įdiegti. Pamėginkite įdiegimo priemonę dar kartą paleisti kaip administratorius.</translation>
-<translation id="8914504000324227558">Iš naujo paleisti „Brave“</translation>
-<translation id="9026991721384951619">„Brave“ OS negali sinchronizuoti duomenų, nes paskyros išsami prisijungimo informacija yra pasenusi.</translation>
-<translation id="9067395829937117663">Kad būtų galima naudoti „Brave“, reikalinga 7 ar naujesnės versijos „Windows“.</translation>
-<translation id="909149346112452267">{0,plural, =1{„Brave“ OS bus paleista iš naujo po valandos}one{„Brave“ OS bus paleista iš naujo po # valandos}few{„Brave“ OS bus paleista iš naujo po # valandų}many{„Brave“ OS bus paleista iš naujo po # valandos}other{„Brave“ OS bus paleista iš naujo po # valandų}}</translation>
+<translation id="8914504000324227558">Iš naujo paleisti „Dissenter“</translation>
+<translation id="9026991721384951619">„Dissenter“ OS negali sinchronizuoti duomenų, nes paskyros išsami prisijungimo informacija yra pasenusi.</translation>
+<translation id="9067395829937117663">Kad būtų galima naudoti „Dissenter“, reikalinga 7 ar naujesnės versijos „Windows“.</translation>
+<translation id="909149346112452267">{0,plural, =1{„Dissenter“ OS bus paleista iš naujo po valandos}one{„Dissenter“ OS bus paleista iš naujo po # valandos}few{„Dissenter“ OS bus paleista iš naujo po # valandų}many{„Dissenter“ OS bus paleista iš naujo po # valandos}other{„Dissenter“ OS bus paleista iš naujo po # valandų}}</translation>
 <translation id="911206726377975832">Ar ištrinti naršymo duomenis?</translation>
-<translation id="9138603949443464873">Norėdami pritaikyti pakeitimus, paleiskite „Brave“ iš naujo</translation>
-<translation id="919706545465235479">Atnaujinkite „Brave“, kad galėtumėte pradėti sinchronizuoti</translation>
-<translation id="924447568950697217">Nustatymas „Brave“ numatytąja naršykle</translation>
-<translation id="989369509083708165">„Brave“ yra numatytoji naršyklė</translation>
+<translation id="9138603949443464873">Norėdami pritaikyti pakeitimus, paleiskite „Dissenter“ iš naujo</translation>
+<translation id="919706545465235479">Atnaujinkite „Dissenter“, kad galėtumėte pradėti sinchronizuoti</translation>
+<translation id="924447568950697217">Nustatymas „Dissenter“ numatytąja naršykle</translation>
+<translation id="989369509083708165">„Dissenter“ yra numatytoji naršyklė</translation>
 </translationbundle>

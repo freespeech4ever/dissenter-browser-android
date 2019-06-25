@@ -7,7 +7,7 @@
     <string name="brave_shields_scripts_blocked">blokiranih skriptov</string>
     <string name="brave_shields_ads_tracking_switch">Blokirajte oglase in sledenje</string>
     <string name="brave_shields_blocks_scripts_switch">Blokiraj skripte</string>
-    <string name="accessibility_toolbar_btn_brave_shields">Omogoči/onemogoči ščite Brave</string>
+    <string name="accessibility_toolbar_btn_brave_shields">Omogoči/onemogoči ščite Dissenter</string>
     <string name="brave_shields_block_3rd_party_cookies_switch">Blokiraj piškotke tretjih strani</string>
 
     <string name="tracking_protection_title">Način zaščite pred sledenjem</string>
@@ -50,7 +50,7 @@ prihranek časa</string>
     <string name="settings_require_relaunch_now">PONOVNO ZAŽENI ZDAJ</string>
     <string name="settings_require_relaunch_later">KASNEJE</string>
 
-    <string name="play_yt_video_in_browser_title">Predvajanje videa v Brave</string>
+    <string name="play_yt_video_in_browser_title">Predvajanje videa v Dissenter</string>
     <string name="website_settings_category_play_yt_video_in_browser_enabled_summary">Omogočeno</string>
     <string name="website_settings_category_play_yt_video_in_browser_disabled_summary">Onemogočeno</string>
     <string name="close_tabs_on_exit_title">Zapri zavihke ob izhodu</string>
@@ -64,7 +64,7 @@ prihranek časa</string>
     <string name="brave_close_all_private_tabs">Zapri zasebne zavihke</string>
     <string name="brave_new_private_tab">Nov zasebni zavihek</string>
     <string name="brave_new_tab_private_header">To je zasebni zavihek</string>
-    <string name="update_notification_title">Posodobitev Brave</string>
-    <string name="update_notification_text">Novi brskalnik Brave je 22 % hitrejši</string>
+    <string name="update_notification_title">Posodobitev Dissenter</string>
+    <string name="update_notification_text">Novi brskalnik Dissenter je 22 % hitrejši</string>
 
     </resources>

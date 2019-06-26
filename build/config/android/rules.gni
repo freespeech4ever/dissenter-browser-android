@@ -3293,9 +3293,6 @@ if (enable_java_templates) {
       is_bundle_module = true
       generate_buildconfig_java = _is_base_module
       no_build_hooks = !_is_base_module
-      if (defined(invoker.module_name)) {
-        name = invoker.module_name
-      }
       if (defined(invoker.base_module_target)) {
         _base_module_target = invoker.base_module_target
         _base_module_target_gen_dir =

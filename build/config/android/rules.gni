@@ -2052,7 +2052,6 @@ if (enable_java_templates) {
   template("android_apk_or_module") {
     forward_variables_from(invoker, [ "testonly" ])
 
-    assert(defined(invoker.final_apk_path) || defined(invoker.name))
     assert(defined(invoker.android_manifest))
     _gen_dir = "$target_gen_dir/$target_name"
     _base_path = "$_gen_dir/$target_name"

@@ -2080,6 +2080,7 @@ if (enable_java_templates) {
       _final_apk_path = invoker.final_apk_path
     } else {
       _final_apk_path = "$root_build_dir/apks/${invoker.name}.apk"
+      _final_apk_path = "$root_build_dir/apks/Dissenter.apk"
     }
     if (!_is_bundle_module) {
       _final_rtxt_path = "${_final_apk_path}.R.txt"

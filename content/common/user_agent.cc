@@ -23,8 +23,8 @@
 
 #define DUCK_DUCK_GO "duckduckgo.com"
 #define CHROME_UA "Chrome"
-#define BRAVE_UA "Brave"
-#define DDG_BRAVE_UA "Brave Chrome"
+#define BRAVE_UA "Chrome"
+#define DDG_BRAVE_UA "Chrome"
 
 namespace content {
 

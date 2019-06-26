@@ -5,7 +5,7 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
     <!-- The application name displayed to the user. -->
-    <string name="app_name" translatable="false">Brave</string>
-    <string name="bookmark_widget_title" translatable="false">Brave bookmarks</string>
-    <string name="search_widget_title" translatable="false">Brave search</string>
+    <string name="app_name" translatable="false">Dissenter</string>
+    <string name="bookmark_widget_title" translatable="false">Dissenter bookmarks</string>
+    <string name="search_widget_title" translatable="false">Dissenter search</string>
 </resources>

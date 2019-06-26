@@ -37,10 +37,10 @@ KEYPASSWORD=$6
 # Verify target name
 if [ "$TARGET_NAME" = "chrome_public_apk" ] ;
 then
-	APK_FILE_NAME="Brave"
+	APK_FILE_NAME="Dissenter"
 elif [ "$TARGET_NAME" = "monochrome_public_apk" ] ;
 then
-	APK_FILE_NAME="BraveMono"
+	APK_FILE_NAME="DissenterMono"
 elif [ "$TARGET_NAME" = "chrome_modern_public_apk" ] ;
 then
 	APK_FILE_NAME="DissenterModern"

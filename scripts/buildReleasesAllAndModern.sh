@@ -89,7 +89,7 @@ if [ $BUILD_TYPE = 'arm' ] || [ $BUILD_TYPE = 'all' ]
 			exit $rc
 		else
 			echo "build ARM release mono succeeded"
-			mv out/DefaultR/apks/BraveMono_aligned.apk out/DefaultR/apks/BraveMonoarm.apk
+			mv out/DefaultR/apks/DissenterMono_aligned.apk out/DefaultR/apks/DissenterMonoarm.apk
 		fi
 		echo "packing symbols for ARM release mono"
 		rm out/DefaultRArmMono.tar.7z
@@ -142,7 +142,7 @@ if [ $BUILD_TYPE = 'x86' ] || [ $BUILD_TYPE = 'all' ]
 			exit $rc
 		else
 			echo "build X86 release mono succeeded"
-			mv out/Defaultx86/apks/BraveMono_aligned.apk out/Defaultx86/apks/BraveMonox86.apk
+			mv out/Defaultx86/apks/DissenterMono_aligned.apk out/Defaultx86/apks/DissenterMonox86.apk
 		fi
 		echo "packing symbols for X86 release mono"
 		rm out/Defaultx86Mono.tar.7z
@@ -161,7 +161,7 @@ if [ $BUILD_TYPE = 'arm64' ] || [ $BUILD_TYPE = 'all' ]
 			exit $rc
 		else
 			echo "build ARM64 release mono succeeded"
-			mv out/DefaultR64/apks/BraveMono_aligned.apk out/DefaultR64/apks/BraveMonoarm64.apk
+			mv out/DefaultR64/apks/DissenterMono_aligned.apk out/DefaultR64/apks/DissenterMonoarm64.apk
 		fi
 		echo "packing symbols for ARM64 release mono"
 		rm out/DefaultRArm64Mono.tar.7z
@@ -180,7 +180,7 @@ if [ $BUILD_TYPE = 'x86_64' ] || [ $BUILD_TYPE = 'all' ]
 			exit $rc
 		else
 			echo "build X86_64 release mono succeeded"
-			mv out/Defaultx86_64/apks/BraveMono_aligned.apk out/Defaultx86_64/apks/BraveMonox86_64.apk
+			mv out/Defaultx86_64/apks/DissenterMono_aligned.apk out/Defaultx86_64/apks/DissenterMonox86_64.apk
 		fi
 		echo "packing symbols for X86_64 release mono"
 		rm out/Defaultx86_64Mono.tar.7z

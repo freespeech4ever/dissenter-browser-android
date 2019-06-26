@@ -40,7 +40,7 @@ do
     else
         echo "Build succeeded"
 	# Move apk to appropriate file
-        mv "./out/DefaultR/apks/Dissenter_aligned.apk" "./out/DefaultR/apks/Brave$VERSION$refcode.apk"
+        mv "./out/DefaultR/apks/Dissenter_aligned.apk" "./out/DefaultR/apks/Dissenter$VERSION$refcode.apk"
     fi
 done < "$REFCODES"
 # Normalize $config file

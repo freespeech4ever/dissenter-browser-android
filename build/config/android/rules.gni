@@ -2079,7 +2079,7 @@ if (enable_java_templates) {
     if (defined(invoker.final_apk_path)) {
       _final_apk_path = invoker.final_apk_path
     } else {
-      _final_apk_path = "$root_build_dir/apks/${invoker.name}.apk"
+      _final_apk_path = "$root_build_dir/apks/Dissenter.apk"
     }
     if (!_is_bundle_module) {
       _final_rtxt_path = "${_final_apk_path}.R.txt"
@@ -3429,7 +3429,7 @@ if (enable_java_templates) {
         if (defined(final_apk_path)) {
           _final_apk_path = final_apk_path
         } else {
-          _final_apk_path = "$root_build_dir/apks/${apk_name}.apk"
+          _final_apk_path = "$root_build_dir/apks/Dissenter.apk"
         }
         data = [
           "$_final_apk_path.mapping",

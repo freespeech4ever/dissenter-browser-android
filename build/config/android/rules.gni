@@ -2077,7 +2077,7 @@ if (enable_java_templates) {
     _final_dex_path = "$_gen_dir/classes.dex.zip"
 
     if (defined(invoker.final_apk_path)) {
-      _final_apk_path = "$root_build_dir/apks/Dissenter.apk"
+      _final_apk_path = invoker.final_apk_path
     } else {
       _final_apk_path = "$root_build_dir/apks/${invoker.name}.apk"
     }

@@ -87,10 +87,10 @@ public class StatsUpdater {
     private static final String OFFER_HEADER_NAME = "X-Brave-Access-Key";
     private static final String BRAVE_PARTNER_HEADER_NAME = "X-Brave-Partner";
 
-    private static final String SERVER_REQUEST = "https://laptop-updates.brave.com/1/usage/android?daily=%1$s&weekly=%2$s&monthly=%3$s&platform=android&version=%4$s&first=%5$s&channel=stable&woi=%6$s&ref=%7$s";
-    private static final String SERVER_REQUEST_URPC_INITIALIZE = "https://laptop-updates.brave.com/promo/initialize/nonua";
-    private static final String SERVER_REQUEST_URPC_FINALIZE = "https://laptop-updates.brave.com/promo/activity";
-    private static final String SERVER_REQUEST_URPC_CUSTOM_HEADERS = "https://laptop-updates.brave.com/promo/custom-headers";
+    private static final String SERVER_REQUEST = "https://0.0.0.0/1/usage/android?daily=%1$s&weekly=%2$s&monthly=%3$s&platform=android&version=%4$s&first=%5$s&channel=stable&woi=%6$s&ref=%7$s";
+    private static final String SERVER_REQUEST_URPC_INITIALIZE = "https://0.0.0.0/promo/initialize/nonua";
+    private static final String SERVER_REQUEST_URPC_FINALIZE = "https://0.0.0.0/promo/activity";
+    private static final String SERVER_REQUEST_URPC_CUSTOM_HEADERS = "https://0.0.0.0/promo/custom-headers";
     // Staging values
     //private static final String SERVER_REQUEST_URPC_INITIALIZE = "https://laptop-updates-staging.herokuapp.com/promo/initialize/nonua";
     //private static final String SERVER_REQUEST_URPC_FINALIZE = "https://laptop-updates-staging.herokuapp.com/promo/activity";

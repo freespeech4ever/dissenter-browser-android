@@ -2565,7 +2565,7 @@ public abstract class ChromeActivity<C extends ChromeActivityComponent>
                 toast.setView(layout);
                 toast.setGravity(Gravity.TOP, 0, 40);
                 toast.show();
-                Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("http://www.brave.com/blog"));
+                Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("http://www.dissenter.com"));
                 intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
                 context.startActivity(intent);
             } else {
@@ -2578,7 +2578,7 @@ public abstract class ChromeActivity<C extends ChromeActivityComponent>
                 // (Albert Wang): From what I've experimented on 6.0,
                 // default browser popup is in the middle of the screen for
                 // these versions. So we shouldn't show the toast.
-                Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("http://www.brave.com/blog"));
+                Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("http://www.dissenter.com"));
                 intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
                 context.startActivity(intent);
             } else {

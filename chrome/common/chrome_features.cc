@@ -778,7 +778,7 @@ const base::Feature kBraveRewards{
     "BraveRewards", base::FEATURE_DISABLED_BY_DEFAULT};
 #else
 const base::Feature kBraveRewards{
-    "BraveRewards", base::FEATURE_ENABLED_BY_DEFAULT};
+    "BraveRewards", base::FEATURE_DISABLED_BY_DEFAULT}; // Dissenter
 #endif
 #endif // defined(OS_ANDROID)
 }  // namespace features

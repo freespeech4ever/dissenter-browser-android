@@ -4025,7 +4025,9 @@ const FeatureEntry kFeatureEntries[] = {
      flag_descriptions::kAllowPopupsDuringPageUnloadDescription, kOsAll,
      SINGLE_VALUE_TYPE(switches::kAllowPopupsDuringPageUnload)},
 
-#if defined(OS_ANDROID)
+//Dissenter: Disable.
+//#if defined(OS_ANDROID)
+#if 0
      {"enable-brave-rewards",
           flag_descriptions::kBraveRewardsName,
           flag_descriptions::kBraveRewardsDescription, kOsAndroid,

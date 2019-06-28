@@ -39,7 +39,7 @@
     "@types/react-dom": "^16.0.9",
     "@types/react-redux": "6.0.4",
     "awesome-typescript-loader": "^5.2.0",
-    "brave-ui": "gab-ai-inc/defiant-ui",
+    "brave-ui": "gab-ai-inc/defiant-ui#droid",
     "css-loader": "^0.28.9",
     "csstype": "^2.5.5",
     "emptykit.css": "^1.0.1",

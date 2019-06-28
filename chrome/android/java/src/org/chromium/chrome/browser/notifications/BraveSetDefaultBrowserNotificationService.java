@@ -248,7 +248,7 @@ public class BraveSetDefaultBrowserNotificationService extends BroadcastReceiver
 
     public static void NotifyRewardsLive(){
         // Dissenter:
-        return;
+        if (true) return;
         SharedPreferences sharedPreferences = ContextUtils.getAppSharedPreferences();
         boolean rewardsIsOn = sharedPreferences.getBoolean(
             BraveRewardsPanelPopup.PREF_WAS_BRAVE_REWARDS_TURNED_ON, false);

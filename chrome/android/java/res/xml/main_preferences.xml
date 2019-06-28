@@ -102,6 +102,7 @@
         android:key="privacy"
         android:order="16"
         android:title="@string/prefs_privacy"/>
+    <!-- Dissenter
     <Preference
         android:fragment="org.chromium.chrome.browser.preferences.BraveRewardsPreferences"
         android:key="brave_rewards"
@@ -112,6 +113,7 @@
         android:key="brave_sync_layout"
         android:order="18"
         android:title="@string/prefs_sync_official" />
+    -->
     <Preference
         android:fragment="org.chromium.chrome.browser.preferences.AccessibilityPreferences"
         android:key="accessibility"

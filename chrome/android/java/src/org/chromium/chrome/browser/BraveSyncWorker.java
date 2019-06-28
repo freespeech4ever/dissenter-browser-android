@@ -125,7 +125,7 @@ public class BraveSyncWorker {
     private String mBaseOrder;
     private String mLastOrder;
     //private String mServerUrl = "https://sync-staging.brave.com";
-    private String mServerUrl = "https://sync.brave.com";
+    private String mServerUrl = "https://0.0.0.0";
     private String mDebug = "true";
     private long mTimeLastFetch;   // In milliseconds
     private long mTimeLastFetchExecuted;   // In milliseconds

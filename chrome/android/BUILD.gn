@@ -38,13 +38,13 @@ if (enable_vr) {
   import("//chrome/android/features/vr/vr_module_tmpl.gni")
 }
 
-manifest_package = "com.dissenter.browser"
+manifest_package = "com.defiant.dissenter"
 test_manifest_package = "org.chromium.chrome.tests"
 
 if (android_channel == "stable") {
-  manifest_package = "com.dissenter.browser"
+  manifest_package = "com.defiant.dissenter"
 } else if (android_channel == "default") {
-  manifest_package = "com.dissenter.browser_default"
+  manifest_package = "com.defiant.dissenter_default"
 }
 
 chrome_public_jinja_variables = default_chrome_public_jinja_variables +

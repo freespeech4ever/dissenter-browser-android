@@ -19,4 +19,4 @@ END=$(date +%s.%N)
 DIFF=$(echo "$END - $START" | bc)
 echo "Building apk done. Took $DIFF sec"
 
-mv out/Default/apks/Dissenter.apk out/Default/apks/com.dissenter.browser_default.apk
+mv out/Default/apks/Dissenter.apk out/Default/apks/com.defiant.dissenter_default.apk

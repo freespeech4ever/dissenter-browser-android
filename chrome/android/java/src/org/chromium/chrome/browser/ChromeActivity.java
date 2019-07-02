@@ -276,9 +276,9 @@ public abstract class ChromeActivity<C extends ChromeActivityComponent>
     /**
      * Settings for sending local notification reminders.
      */
-    public static final String BRAVE_PRODUCTION_PACKAGE_NAME = "com.dissenter.browser";
-    public static final String BRAVE_DEVELOPMENT_PACKAGE_NAME = "com.dissenter.browser_default";
-    public static final String CHANNEL_ID = "com.dissenter.browser";
+    public static final String BRAVE_PRODUCTION_PACKAGE_NAME = "com.defiant.dissenter";
+    public static final String BRAVE_DEVELOPMENT_PACKAGE_NAME = "com.defiant.dissenter_default";
+    public static final String CHANNEL_ID = "com.defiant.dissenter";
 
     private static AppMenuHandlerFactory sAppMenuHandlerFactory =
             (activity, delegate, menuResourceId) -> new AppMenuHandler(activity, delegate,

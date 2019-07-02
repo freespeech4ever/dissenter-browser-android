@@ -90,7 +90,7 @@ const BrowserDescriptor kBrowserDescriptors[] = {
     "Chromium"
   },
   {
-    "com.defiant.dissenter",
+    "com.dissenter.browser",
     kChromeDefaultSocket,
     "Dissenter"
   },
